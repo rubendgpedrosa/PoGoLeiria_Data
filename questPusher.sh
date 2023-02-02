@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# delete file raw_quests
-rm raw_quests
-
 # add all files to git
 git add .
 
