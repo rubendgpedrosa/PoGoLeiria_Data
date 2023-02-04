@@ -1,5 +1,71 @@
 [
     {
+        "quest_description": "Win 5 raids",
+        "pokestops": [
+            {
+                "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
+                "name": "Centro Shotokan Leiria",
+                "url": "https://lh3.googleusercontent.com/fD_fjTBKc3ueTPH8wqPpAYXj52kekyrZH5aIR2hzbM12rjgIQwa8E9zxrubwbY4Xn-vcGKOI69iv1LokXSgrpEdM8CsHxTROSkIULLfc",
+                "latitude": 39.747428,
+                "longitude": -8.807456,
+                "timestamp": 1675469817,
+                "item_id": 0,
+                "item_amount": 1,
+                "item_type": "Pokemon",
+                "pokemon_id": 142,
+                "pokemon_name": "Aerodactyl",
+                "pokemon_form": 0,
+                "pokemon_asset_bundle_id": 0,
+                "pokemon_costume": 0,
+                "quest_type": "Battle in 5 Raids",
+                "quest_type_raw": 8,
+                "quest_reward_type": "Pokemon",
+                "quest_reward_type_raw": 7,
+                "quest_reward_raw": "[{\"type\": 7, \"exp\": 0, \"item\": {\"item\": 0, \"amount\": 0}, \"stardust\": 0, \"candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"avatar_template_id\": \"\", \"quest_template_id\": \"\", \"pokemon_encounter\": {\"pokemon_id\": 142, \"use_quest_pokemon_encounter_distribution\": false, \"pokemon_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 0, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}, \"is_hidden_ditto\": false, \"ditto_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 0, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}}, \"xl_candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"level_cap\": 0, \"pokecoin\": 0, \"sticker\": {\"sticker_id\": \"\", \"amount\": 0}, \"mega_resource\": {\"pokemon_id\": 0, \"amount\": 0}}]",
+                "quest_task": "Win 5 raids",
+                "quest_target": 5,
+                "quest_condition": "[{\"type\": 6, \"with_win_raid_status\": {}}, {\"type\": 6, \"with_win_raid_status\": {}}]",
+                "quest_template": "CHALLENGE_MELTAN_RAIDS_VERYHARD_PKMN",
+                "is_ar_scan_eligible": false,
+                "quest_title": "quest_win_raid_plural",
+                "quest_layer": 1
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a three-star raid or higher",
+        "pokestops": [
+            {
+                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
+                "name": "Caixa Postal CTT - Ordem",
+                "url": "http://lh3.googleusercontent.com/d9OD7-jbuX6Levw13GbhkM2Pta9NeZKlDbejf_dLcId1qDZa6OrWyNP1KpO0HVIfU7mizbgZvsjUQ1BC0XfRzIMyYtBNkOYp0Q5TuC18",
+                "latitude": 39.741068,
+                "longitude": -8.936685,
+                "timestamp": 1675469750,
+                "item_id": 0,
+                "item_amount": 1,
+                "item_type": "Pokemon",
+                "pokemon_id": 140,
+                "pokemon_name": "Kabuto",
+                "pokemon_form": 0,
+                "pokemon_asset_bundle_id": 0,
+                "pokemon_costume": 0,
+                "quest_type": "Battle in 1 Raids",
+                "quest_type_raw": 8,
+                "quest_reward_type": "Pokemon",
+                "quest_reward_type_raw": 7,
+                "quest_reward_raw": "[{\"type\": 7, \"exp\": 0, \"item\": {\"item\": 0, \"amount\": 0}, \"stardust\": 0, \"candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"avatar_template_id\": \"\", \"quest_template_id\": \"\", \"pokemon_encounter\": {\"pokemon_id\": 140, \"use_quest_pokemon_encounter_distribution\": false, \"pokemon_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 0, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}, \"is_hidden_ditto\": false, \"ditto_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 0, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}}, \"xl_candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"level_cap\": 0, \"pokecoin\": 0, \"sticker\": {\"sticker_id\": \"\", \"amount\": 0}, \"mega_resource\": {\"pokemon_id\": 0, \"amount\": 0}}]",
+                "quest_task": "Win a three-star raid or higher",
+                "quest_target": 1,
+                "quest_condition": "[{\"type\": 7, \"with_raid_level\": {\"raid_level\": [3, 4, 5, 8, 6, 7, 9]}}, {\"type\": 6, \"with_win_raid_status\": {}}]",
+                "quest_template": "CHALLENGE_MELTAN_RAID_WIN_TIER3_HARD_PKMN",
+                "is_ar_scan_eligible": false,
+                "quest_title": "quest_win_raid_3_singular",
+                "quest_layer": 1
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "pokestops": [
             {
