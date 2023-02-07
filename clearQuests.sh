@@ -1,6 +1,6 @@
 #!/bin/bash
 
-files=(battling.json others.json catching.json battling.json throwing.json)
+files=(/root/PoGoLeiria/battling.json /root/PoGoLeiria/others.json /root/PoGoLeiria/catching.json /root/PoGoLeiria/battling.json /root/PoGoLeiria/throwing.json)
 
 for file in "${files[@]}"; do
   echo "[]" > "$file"
