@@ -2,7 +2,7 @@
 
 Repository used to handle all the static content related to [Pokémon Scanner](https://pogoleiria.pt) made available by [PoGoLeiria](https://discord.gg/pASCYbp).
 
-Poliswag is a Python Discord Bot that integrates with those services.
+[Poliswag](https://github.com/rubendgpedrosa/Poliswag) is a Python Discord Bot that integrates with those services.
 
 This repository is just a cheap (free) static files server for the PoGoLeiria Mobile App.
 
