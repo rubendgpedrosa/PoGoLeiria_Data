@@ -1,10 +1,10 @@
 # PoGoLeiria Mobile App Json Dump
 
-Repository used to handle all the static content resulting from the [Pokémon Scanner](https://pogoleiria.pt) made available by [PoGoLeiria](https://discord.gg/pASCYbp).
+Repository used to handle all the static content resulting from the Python Wep Application that is a [Pokémon Scanner](https://pogoleiria.pt) made available by [PoGoLeiria](https://discord.gg/pASCYbp).
 
 [Poliswag](https://github.com/rubendgpedrosa/Poliswag) is a Python Discord Bot that integrates with those services.
 
-This repository is just a cheap (free) static files server for the [PoGoLeiria](https://github.com/rubendgpedrosa/PoGoLeiria) Mobile App.
+This repository is just a cheap (free) static files server for the [PoGoLeiria](https://github.com/rubendgpedrosa/PoGoLeiria) React Native Mobile App.
 
 ## Usage
 
