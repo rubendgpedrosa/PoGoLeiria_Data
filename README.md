@@ -12,7 +12,7 @@ This repository is just a cheap (free) static files server for the [PoGoLeiria](
 Python bot (Poliswag) handles all the data fetching and dumping that is retrieved from the scanner's Database.
 
 1. Poliswag reads data from database and dumps categorized JSONs.
-2. Crontab runs every file change to keep the data on the repository data most up to date.
+2. Crontab runs every file change to keep the data on the repository data as much up to date as possible.
 3. Files are wiped clean at midnight to reflect day changes.
 
 ```bash
