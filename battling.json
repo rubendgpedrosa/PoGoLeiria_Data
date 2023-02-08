@@ -34,6 +34,34 @@
                 "is_ar_scan_eligible": false,
                 "quest_title": "quest_win_raid_singular",
                 "quest_layer": 1
+            },
+            {
+                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
+                "name": "Jardim da Marinha Grande",
+                "url": "http://lh3.googleusercontent.com/gEYuR7m0C8UhcPraCmJ1fjdtX43YORfzw3zPPrGwwyYu_s8VewoiJCCzFxXrxSJ0piqYIICy8WroIwEUbdl63MwSZYE",
+                "latitude": 39.750988,
+                "longitude": -8.929103,
+                "timestamp": 1675866328,
+                "item_id": 0,
+                "item_amount": 1,
+                "item_type": "Pokemon",
+                "pokemon_id": 207,
+                "pokemon_name": "Gligar",
+                "pokemon_form": 803,
+                "pokemon_asset_bundle_id": 0,
+                "pokemon_costume": 0,
+                "quest_type": "Battle in 1 Raids",
+                "quest_type_raw": 8,
+                "quest_reward_type": "Pokemon",
+                "quest_reward_type_raw": 7,
+                "quest_reward_raw": "[{\"type\": 7, \"exp\": 0, \"item\": {\"item\": 0, \"amount\": 0}, \"stardust\": 0, \"candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"avatar_template_id\": \"\", \"quest_template_id\": \"\", \"pokemon_encounter\": {\"pokemon_id\": 207, \"use_quest_pokemon_encounter_distribution\": false, \"pokemon_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 803, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}, \"is_hidden_ditto\": false, \"ditto_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 0, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}}, \"xl_candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"level_cap\": 0, \"pokecoin\": 0, \"sticker\": {\"sticker_id\": \"\", \"amount\": 0}, \"mega_resource\": {\"pokemon_id\": 0, \"amount\": 0}}]",
+                "quest_task": "Win a raid",
+                "quest_target": 1,
+                "quest_condition": "[{\"type\": 6, \"with_win_raid_status\": {}}]",
+                "quest_template": "FEB_2023_WIN_RAID",
+                "is_ar_scan_eligible": false,
+                "quest_title": "quest_win_raid_singular",
+                "quest_layer": 1
             }
         ]
     }
