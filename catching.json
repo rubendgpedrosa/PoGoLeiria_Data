@@ -800,6 +800,44 @@
         ]
     },
     {
+        "quest_description": "Catch a Ditto",
+        "quest_reward": "10 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "pokestops": [
+            {
+                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
+                "name": "Playcities Santo Agostinho",
+                "url": "http://lh3.googleusercontent.com/rupDa24uUHNIjPZjJRbZtmY7B8rP6qAJiVQAY3_dvZXN939vY1mdUT9sOQdJLM_fTQTh1Ea-Bxv0ikyw_2fcvrw6wELt",
+                "latitude": 39.741341,
+                "longitude": -8.801969,
+                "timestamp": 1675988595,
+                "item_id": 3,
+                "item_amount": 10,
+                "item_type": "Ultra Ball",
+                "pokemon_id": "000",
+                "pokemon_name": "",
+                "pokemon_form": "00",
+                "pokemon_asset_bundle_id": "00",
+                "pokemon_costume": "00",
+                "quest_type": "Catch 1 pok\u00e9mon",
+                "quest_type_raw": 4,
+                "quest_reward_type": "Item",
+                "quest_reward_type_raw": 2,
+                "quest_reward_raw": "[{\"type\": 2, \"exp\": 0, \"item\": {\"item\": 3, \"amount\": 10}, \"stardust\": 0, \"candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"avatar_template_id\": \"\", \"quest_template_id\": \"\", \"pokemon_encounter\": {\"pokemon_id\": 0, \"use_quest_pokemon_encounter_distribution\": false, \"pokemon_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 0, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}, \"is_hidden_ditto\": false, \"ditto_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 0, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}}, \"xl_candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"level_cap\": 0, \"pokecoin\": 0, \"sticker\": {\"sticker_id\": \"\", \"amount\": 0}, \"mega_resource\": {\"pokemon_id\": 0, \"amount\": 0}}]",
+                "quest_task": "Catch a Ditto",
+                "quest_target": 1,
+                "quest_condition": "[{\"type\": 2, \"with_pokemon_category\": {\"category_name\": \"\", \"pokemon_ids\": [132]}}]",
+                "quest_template": "CHALLENGE_CATCH_DITTO_VERYHARD",
+                "is_ar_scan_eligible": false,
+                "quest_title": "quest_catch_special0_singular",
+                "quest_layer": 1
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
@@ -1201,6 +1239,44 @@
                 "quest_template": "CHALLENGE_BERRY_MODERATE",
                 "is_ar_scan_eligible": false,
                 "quest_title": "quest_catch_feed_plural",
+                "quest_layer": 1
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "pokestops": [
+            {
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "url": "http://lh3.googleusercontent.com/lNeJslCfwsWxsFZ-8nqieiOtSunsjYlHHxSMev3Jlw4q6p3zyM4FtY7nKWUr7TzQm0zjOb1F4NwEusqTZ2qN8LZqfQ",
+                "latitude": 39.739681,
+                "longitude": -8.805175,
+                "timestamp": 1675988602,
+                "item_id": 1,
+                "item_amount": 5,
+                "item_type": "Pok\u00e9 Ball",
+                "pokemon_id": "000",
+                "pokemon_name": "",
+                "pokemon_form": "00",
+                "pokemon_asset_bundle_id": "00",
+                "pokemon_costume": "00",
+                "quest_type": "Catch 5 pok\u00e9mon",
+                "quest_type_raw": 4,
+                "quest_reward_type": "Item",
+                "quest_reward_type_raw": 2,
+                "quest_reward_raw": "[{\"type\": 2, \"exp\": 0, \"item\": {\"item\": 1, \"amount\": 5}, \"stardust\": 0, \"candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"avatar_template_id\": \"\", \"quest_template_id\": \"\", \"pokemon_encounter\": {\"pokemon_id\": 0, \"use_quest_pokemon_encounter_distribution\": false, \"pokemon_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 0, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}, \"is_hidden_ditto\": false, \"ditto_display\": {\"costume_value\": 0, \"gender_value\": 0, \"is_shiny\": false, \"form_value\": 0, \"weather_boosted_value\": 0, \"alignment\": 0, \"pokemon_badge\": 0, \"current_temp_evolution\": 0, \"temporary_evolution_finish_ms\": 0, \"temp_evolution_is_locked\": false, \"original_costume\": 0, \"display_id\": 0}}, \"xl_candy\": {\"pokemon_id\": 0, \"amount\": 0}, \"level_cap\": 0, \"pokecoin\": 0, \"sticker\": {\"sticker_id\": \"\", \"amount\": 0}, \"mega_resource\": {\"pokemon_id\": 0, \"amount\": 0}}]",
+                "quest_task": "Catch 5 Pok\u00e9mon with Weather Boost",
+                "quest_target": 5,
+                "quest_condition": "[{\"type\": 3, \"with_weather_boost\": {}}]",
+                "quest_template": "CHALLENGE_CATCH_WEATHER_EASY",
+                "is_ar_scan_eligible": false,
+                "quest_title": "quest_catch_weather_boost_plural",
                 "quest_layer": 1
             }
         ]
