@@ -18,7 +18,7 @@ for file in *.json; do
   # Check if the difference is less than 300 seconds (5 minutes)
   if [ $time_diff -lt 300 ]; then
     # Read the contents of the file
-    file_contents=$(cat "$file")
+    file_contents=$(cat $file)
     # Send the contents of the file to Firebase
     curl -X PUT -d "$file_contents" "https://pogoleiria-default-rtdb.europe-west1.firebasedatabase.app/${file%.*}.json?auth=$firebase_secret"
   fi
