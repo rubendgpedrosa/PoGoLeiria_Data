@@ -21,7 +21,7 @@ for file in *.json; do
     file_contents=$(cat $file)
 
     # Send the contents of the file to Firebase
-    curl -X PUT -d "$file_contents" "https://pogoleiria-default-rtdb.europe-west1.firebasedatabase.app/${file%.*}?auth=$firebase_secret"
+    curl -X PUT -d "$file_contents" "https://pogoleiria-default-rtdb.europe-west1.firebasedatabase.app/${file%.*}.json?auth=$firebase_secret"
   fi
 done
 
