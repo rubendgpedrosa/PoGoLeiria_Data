@@ -2,8 +2,10 @@
 
 source .env
 
+cd /root/PoGoLeiria/
+
 # Check if there are any changes to be committed
-if git diff-index --quiet HEAD; then
+if /usr/bin/git diff-index --quiet HEAD; then
   # There are no changes, do nothing
   echo "No changes to commit"
 else
@@ -15,9 +17,6 @@ else
     # Send the contents of the file to Firebase
     curl -X PUT -d "$file_contents" "https://pogoleiria-default-rtdb.europe-west1.firebasedatabase.app/${file%.*}.json?auth=$firebase_secret"
   done
-
-  # Add all changes to Git
-  cd /root/PoGoLeiria
 
   # add all files to git
   /usr/bin/git add /root/PoGoLeiria/.
