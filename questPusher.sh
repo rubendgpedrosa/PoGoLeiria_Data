@@ -2,7 +2,7 @@
 
 cd /root/PoGoLeiria/
 
-source .env
+source /root/PoGoLeiria/.env
 
 # Check if there are any changes to be committed
 if /usr/bin/git diff-index --quiet HEAD; then
