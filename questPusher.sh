@@ -3,10 +3,10 @@
 source .env
 
 # Check if there are any changes to be committed
-#if git diff-index --quiet HEAD; then
+if git diff-index --quiet HEAD; then
   # There are no changes, do nothing
-  #echo "No changes to commit"
-  #else
+  echo "No changes to commit"
+else
   # There are changes, perform the curl command
   for file in *.json; do
     # Read the contents of the file
@@ -28,4 +28,4 @@ source .env
 
   # push changes to repository
   /usr/bin/git push origin main
-#i
+fi
