@@ -1,8 +1,8 @@
 #!/bin/bash
 
-source .env
-
 cd /root/PoGoLeiria/
+
+source .env
 
 # Check if there are any changes to be committed
 if /usr/bin/git diff-index --quiet HEAD; then
