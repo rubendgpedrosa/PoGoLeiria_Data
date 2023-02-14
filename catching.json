@@ -78,6 +78,58 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "401aa5fe5e2a4ac2b7ed091070a5dc86.16",
+                "name": "Skate Parque Do Parque da Cerca",
+                "latitude": 39.74986,
+                "longitude": -8.935551,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "89dbb0af65bb450bb804eee0d872e639.16",
+                "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
+                "latitude": 39.740265,
+                "longitude": -8.929824,
+                "pokemon_id": "000"
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "444dbacd73144e6985f077d48c38acde.16",
+                "name": "Clube M.M.G",
+                "latitude": 39.749647,
+                "longitude": -8.932786,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
+                "name": "Fontario Com Escultura",
+                "latitude": 39.739551,
+                "longitude": -8.809911,
+                "pokemon_id": "000"
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -140,6 +192,13 @@
                 "pokemon_id": 69
             },
             {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954,
+                "pokemon_id": 69
+            },
+            {
                 "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
                 "name": "Jardim de Leiria",
                 "latitude": 39.744338,
@@ -163,6 +222,27 @@
                 "name": "F\u00e9nix Muralhartes",
                 "latitude": 39.747251,
                 "longitude": -8.808742,
+                "pokemon_id": 124
+            },
+            {
+                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
+                "name": "Patria No Ultramar",
+                "latitude": 39.74471,
+                "longitude": -8.805589,
+                "pokemon_id": 124
+            },
+            {
+                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
+                "name": "Clube de campismo da Marinha Grande",
+                "latitude": 39.747495,
+                "longitude": -8.935422,
+                "pokemon_id": 124
+            },
+            {
+                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
+                "name": "CAL",
+                "latitude": 39.741024,
+                "longitude": -8.806283,
                 "pokemon_id": 124
             },
             {
@@ -216,25 +296,6 @@
                 "latitude": 39.739852,
                 "longitude": -8.808011,
                 "pokemon_id": 3
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "89dbb0af65bb450bb804eee0d872e639.16",
-                "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
-                "latitude": 39.740265,
-                "longitude": -8.929824,
-                "pokemon_id": "000"
             }
         ]
     },
@@ -296,21 +357,21 @@
         ]
     },
     {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Vulpix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Vulpix",
+        "quest_reward_pokemon_id": 37,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
-                "name": "Fontario Com Escultura",
-                "latitude": 39.739551,
-                "longitude": -8.809911,
-                "pokemon_id": "000"
+                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
+                "name": "Zona Desportiva",
+                "latitude": 39.747903,
+                "longitude": -8.936311,
+                "pokemon_id": 37
             }
         ]
     },
@@ -348,6 +409,25 @@
                 "name": "Gin\u00e1sio Fit On Move",
                 "latitude": 39.745658,
                 "longitude": -8.803177,
+                "pokemon_id": "000"
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "dc7256a2cf083ed281f4b0938df2df2a.16",
+                "name": "Associa\u00e7\u00e3o de Kickboxing e Muay Thai Hugo Matos",
+                "latitude": 39.747777,
+                "longitude": -8.93253,
                 "pokemon_id": "000"
             }
         ]
