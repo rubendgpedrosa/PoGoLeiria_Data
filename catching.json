@@ -1,19 +1,26 @@
 [
     {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
-                "name": "Fonte Quinta da Matinha",
-                "latitude": 39.755402,
-                "longitude": -8.807929,
+                "pokestop_id": "09e9559bb8af3eb3b70f0e933f650c5e.16",
+                "name": "Largo C\u00e2ndido dos Reis - Terreiro",
+                "latitude": 39.743611,
+                "longitude": -8.810345,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "3d6959cc1325477b88ffe44689e49093.16",
+                "name": "Ponte Pedonal Suspensa",
+                "latitude": 39.750997,
+                "longitude": -8.809201,
                 "pokemon_id": "000"
             }
         ]
@@ -29,29 +36,43 @@
         "quest_reward_item_id": 705,
         "pokestops": [
             {
+                "pokestop_id": "1755754dac5042c0b8f67ad2154f84b8.16",
+                "name": "Chafariz",
+                "latitude": 39.74968,
+                "longitude": -8.933593,
+                "pokemon_id": "000"
+            },
+            {
                 "pokestop_id": "346692f7731647539c32a978b011270d.16",
                 "name": "Zona de Merendas",
                 "latitude": 39.747887,
                 "longitude": -8.810421,
                 "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
+                "name": "Tribunal do Trabalho de Leiria",
+                "latitude": 39.739929,
+                "longitude": -8.808784,
+                "pokemon_id": "000"
             }
         ]
     },
     {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
+        "quest_reward_item_id": 705,
         "pokestops": [
             {
-                "pokestop_id": "3d6959cc1325477b88ffe44689e49093.16",
-                "name": "Ponte Pedonal Suspensa",
-                "latitude": 39.750997,
-                "longitude": -8.809201,
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929,
                 "pokemon_id": "000"
             }
         ]
@@ -143,6 +164,20 @@
                 "latitude": 39.747251,
                 "longitude": -8.808742,
                 "pokemon_id": 124
+            },
+            {
+                "pokestop_id": "9b830e47d8cc3ccc90f39664428f7a91.16",
+                "name": "O Vidraceiro",
+                "latitude": 39.750005,
+                "longitude": -8.931744,
+                "pokemon_id": 124
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671,
+                "pokemon_id": 124
             }
         ]
     },
@@ -162,6 +197,25 @@
                 "latitude": 39.75001,
                 "longitude": -8.933133,
                 "pokemon_id": "000"
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "10 Venusaur Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Venusaur",
+        "quest_reward_pokemon_id": 3,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
+                "name": "Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739852,
+                "longitude": -8.808011,
+                "pokemon_id": 3
             }
         ]
     },
@@ -204,6 +258,25 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
+                "name": "Rainha Santa Isabel",
+                "latitude": 39.745508,
+                "longitude": -8.811107,
+                "pokemon_id": "000"
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -218,6 +291,25 @@
                 "name": "Mural Bombeiro",
                 "latitude": 39.740828,
                 "longitude": -8.800367,
+                "pokemon_id": "000"
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
+                "name": "Fontario Com Escultura",
+                "latitude": 39.739551,
+                "longitude": -8.809911,
                 "pokemon_id": "000"
             }
         ]
