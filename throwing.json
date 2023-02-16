@@ -179,6 +179,13 @@
                 "pokemon_id": 206
             },
             {
+                "pokestop_id": "e45e96f79eee4dd5b32db03fd04c4191.16",
+                "name": "Centro Comercial D.Dinis",
+                "latitude": 39.742971,
+                "longitude": -8.809768,
+                "pokemon_id": 206
+            },
+            {
                 "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
                 "name": "Confer\u00eancia de S. Vicente Paulo",
                 "latitude": 39.750114,
@@ -513,6 +520,39 @@
         ]
     },
     {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "2 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "3c3affed92033d50b8f0202713d8a53e.16",
+                "name": "Villa Portela - Casa D'Artes",
+                "latitude": 39.741224,
+                "longitude": -8.809235,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
+                "name": "Torre Agua Leiria",
+                "latitude": 39.743319,
+                "longitude": -8.799232,
+                "pokemon_id": "000"
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "1000 Stardust",
         "quest_reward_type": "Stardust",
@@ -572,6 +612,25 @@
         ]
     },
     {
+        "quest_description": "Make 3 Excellent Throws in a row",
+        "quest_reward": "Gible",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Gible",
+        "quest_reward_pokemon_id": 443,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
+                "name": "Mural Brave",
+                "latitude": 39.743151,
+                "longitude": -8.812097,
+                "pokemon_id": 443
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -619,6 +678,13 @@
                 "name": "Centro de Linguas Chinesas",
                 "latitude": 39.740291,
                 "longitude": -8.811645,
+                "pokemon_id": 143
+            },
+            {
+                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
+                "name": "Igreja Batista da Lagoinha",
+                "latitude": 39.740459,
+                "longitude": -8.80699,
                 "pokemon_id": 143
             },
             {
@@ -940,32 +1006,6 @@
                 "name": "Bras\u00e3o da Cidade",
                 "latitude": 39.743168,
                 "longitude": -8.805737,
-                "pokemon_id": "000"
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "2 Ultra Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Ultra Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
-        "pokestops": [
-            {
-                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
-                "name": "Centro De Encontro Do Parque Da Cerca",
-                "latitude": 39.748632,
-                "longitude": -8.935621,
-                "pokemon_id": "000"
-            },
-            {
-                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
-                "name": "Torre Agua Leiria",
-                "latitude": 39.743319,
-                "longitude": -8.799232,
                 "pokemon_id": "000"
             }
         ]
