@@ -213,6 +213,13 @@
                 "latitude": 39.75227,
                 "longitude": -8.813364,
                 "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
+                "name": "Campus 1 - ESECS",
+                "latitude": 39.739983,
+                "longitude": -8.812123,
+                "pokemon_id": "000"
             }
         ]
     },
@@ -265,6 +272,13 @@
                 "latitude": 39.750058,
                 "longitude": -8.804897,
                 "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251,
+                "pokemon_id": "000"
             }
         ]
     },
@@ -290,6 +304,13 @@
                 "name": "Galerias Horizonte",
                 "latitude": 39.745662,
                 "longitude": -8.930959,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.740095,
+                "longitude": -8.811435,
                 "pokemon_id": "000"
             },
             {
@@ -401,6 +422,13 @@
                 "pokemon_id": 124
             },
             {
+                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
+                "name": "Marco de Correio CTT",
+                "latitude": 39.746326,
+                "longitude": -8.804666,
+                "pokemon_id": 124
+            },
+            {
                 "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
                 "name": "Mural Bombeiro",
                 "latitude": 39.740828,
@@ -441,6 +469,60 @@
                 "latitude": 39.749013,
                 "longitude": -8.801741,
                 "pokemon_id": 124
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
+                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
+                "latitude": 39.745489,
+                "longitude": -8.933253,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
+                "name": "Azinheira",
+                "latitude": 39.747237,
+                "longitude": -8.80158,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.740902,
+                "longitude": -8.933727,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455,
+                "pokemon_id": "000"
             }
         ]
     },
@@ -831,6 +913,39 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "3c3affed92033d50b8f0202713d8a53e.16",
+                "name": "Villa Portela - Casa D'Artes",
+                "latitude": 39.741224,
+                "longitude": -8.809235,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
+                "name": "Malta do Aerosol",
+                "latitude": 39.750045,
+                "longitude": -8.935074,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
+                "name": "Barcos da Costa",
+                "latitude": 39.73964,
+                "longitude": -8.805776,
+                "pokemon_id": "000"
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "10 Pidgeot Mega Energy",
         "quest_reward_type": "Energy",
@@ -887,6 +1002,20 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 2,
         "pokestops": [
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "46466edffad93e0d99f46c379661c144.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.739412,
+                "longitude": -8.81129,
+                "pokemon_id": "000"
+            },
             {
                 "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
                 "name": "Mural pintura no vidro",
@@ -966,6 +1095,32 @@
                 "latitude": 39.741841,
                 "longitude": -8.933249,
                 "pokemon_id": 43
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362,
+                "pokemon_id": "000"
+            },
+            {
+                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
+                "name": "Shopping 2000",
+                "latitude": 39.749243,
+                "longitude": -8.803685,
+                "pokemon_id": "000"
             }
         ]
     },
@@ -1093,53 +1248,6 @@
         ]
     },
     {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
-                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
-                "latitude": 39.745489,
-                "longitude": -8.933253,
-                "pokemon_id": "000"
-            },
-            {
-                "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
-                "name": "Azinheira",
-                "latitude": 39.747237,
-                "longitude": -8.80158,
-                "pokemon_id": "000"
-            },
-            {
-                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
-                "name": "Ponte Verde da Encosta do Castelo",
-                "latitude": 39.748256,
-                "longitude": -8.809223,
-                "pokemon_id": "000"
-            },
-            {
-                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
-                "name": "Campo De T\u00e9nis",
-                "latitude": 39.740902,
-                "longitude": -8.933727,
-                "pokemon_id": "000"
-            },
-            {
-                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
-                "name": "Assembleia de Deus",
-                "latitude": 39.745074,
-                "longitude": -8.936455,
-                "pokemon_id": "000"
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -1206,51 +1314,6 @@
                 "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
                 "latitude": 39.746897,
                 "longitude": -8.804124,
-                "pokemon_id": "000"
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
-                "name": "Malta do Aerosol",
-                "latitude": 39.750045,
-                "longitude": -8.935074,
-                "pokemon_id": "000"
-            },
-            {
-                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
-                "name": "Barcos da Costa",
-                "latitude": 39.73964,
-                "longitude": -8.805776,
-                "pokemon_id": "000"
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
-                "name": "Shopping 2000",
-                "latitude": 39.749243,
-                "longitude": -8.803685,
                 "pokemon_id": "000"
             }
         ]
