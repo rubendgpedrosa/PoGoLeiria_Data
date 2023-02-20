@@ -1,5 +1,47 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0df8fea10368498f97ff03c53648024c.16",
+                "name": "Museu S C P",
+                "latitude": 39.746818,
+                "longitude": -8.812759
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a raid",
+        "quest_reward": "Gligar",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Gligar",
+        "quest_reward_pokemon_id": 207,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "143767309db947358b481a9f9c40ae56.16",
+                "name": "Parque Infantil Almuinha Grande",
+                "latitude": 39.751567,
+                "longitude": -8.81027
+            },
+            {
+                "pokestop_id": "946db6c31be84d5f852138b80b630b0b.11",
+                "name": "Pedras de Armas",
+                "latitude": 39.741978,
+                "longitude": -8.810843
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Lickitung",
         "quest_reward_type": "Pokemon",
@@ -20,6 +62,24 @@
                 "name": "The Faces",
                 "latitude": 39.748058,
                 "longitude": -8.804519
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Aerodactyl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
+                "name": "Janelas do Jardim da Almuinha",
+                "latitude": 39.751734,
+                "longitude": -8.80984
             }
         ]
     }
