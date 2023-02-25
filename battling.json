@@ -18,6 +18,42 @@
         ]
     },
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Lickitung",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lickitung",
+        "quest_reward_pokemon_id": 108,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "399426cd8ff340e6b273e3bede1d39bd.16",
+                "name": "Congrega\u00e7\u00e3o Crist\u00e3 em Portugal.",
+                "latitude": 39.746828,
+                "longitude": -8.814662
+            },
+            {
+                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
+                "name": "Ponte Pedonal Jardim da Almuinha",
+                "latitude": 39.751736,
+                "longitude": -8.810436
+            },
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
+            },
+            {
+                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
+                "name": "S.L.Anti",
+                "latitude": 39.743737,
+                "longitude": -8.805579
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Gligar",
         "quest_reward_type": "Pokemon",
@@ -27,6 +63,12 @@
         "quest_reward_pokemon_id": 207,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
+                "name": "Bairro dos Anjos",
+                "latitude": 39.744958,
+                "longitude": -8.804361
+            },
             {
                 "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
                 "name": "CEMFIR - Culturismo",
@@ -38,6 +80,30 @@
                 "name": "EL REI D. AFONSO I",
                 "latitude": 39.748442,
                 "longitude": -8.810054
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Omanyte",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Omanyte",
+        "quest_reward_pokemon_id": 138,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "63f82eedfebe4f3ba61cad72f2d0644f.16",
+                "name": "Junta De Freguesia Leiria",
+                "latitude": 39.743562,
+                "longitude": -8.804606
             }
         ]
     },
