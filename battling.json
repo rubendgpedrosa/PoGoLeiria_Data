@@ -18,24 +18,6 @@
         ]
     },
     {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Lickitung",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Lickitung",
-        "quest_reward_pokemon_id": 108,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
-                "name": "Centro De Encontro Do Parque Da Cerca",
-                "latitude": 39.748632,
-                "longitude": -8.935621
-            }
-        ]
-    },
-    {
         "quest_description": "Win a raid",
         "quest_reward": "Gligar",
         "quest_reward_type": "Pokemon",
@@ -50,6 +32,54 @@
                 "name": "CEMFIR - Culturismo",
                 "latitude": 39.752054,
                 "longitude": -8.92786
+            },
+            {
+                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
+                "name": "EL REI D. AFONSO I",
+                "latitude": 39.748442,
+                "longitude": -8.810054
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Lickitung",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lickitung",
+        "quest_reward_pokemon_id": 108,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.740095,
+                "longitude": -8.811435
+            },
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
+                "name": "Campus 1 - ESECS",
+                "latitude": 39.739983,
+                "longitude": -8.812123
             }
         ]
     }
