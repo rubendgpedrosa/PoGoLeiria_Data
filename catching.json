@@ -1,23 +1,5 @@
 [
     {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
-                "name": "Art",
-                "latitude": 39.750309,
-                "longitude": -8.932088
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -64,16 +46,16 @@
                 "longitude": -8.931698
             },
             {
-                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
-                "name": "LM Fitness",
-                "latitude": 39.747089,
-                "longitude": -8.935386
-            },
-            {
                 "pokestop_id": "89dbb0af65bb450bb804eee0d872e639.16",
                 "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
                 "latitude": 39.740265,
                 "longitude": -8.929824
+            },
+            {
+                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
+                "name": "LM Fitness",
+                "latitude": 39.747089,
+                "longitude": -8.935386
             }
         ]
     },
@@ -200,6 +182,12 @@
                 "name": "Homenagem ao Movimento Oper\u00e1rio",
                 "latitude": 39.746489,
                 "longitude": -8.933631
+            },
+            {
+                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
+                "name": "Clube de campismo da Marinha Grande",
+                "latitude": 39.747495,
+                "longitude": -8.935422
             }
         ]
     },
@@ -382,12 +370,6 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "0abc9313eb444d44a9bb0199c6c53839.16",
-                "name": "Arquivo Municipal",
-                "latitude": 39.749229,
-                "longitude": -8.93423
-            },
-            {
                 "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
                 "name": "Ponte Pedonal Sul",
                 "latitude": 39.748399,
@@ -398,24 +380,18 @@
                 "name": "Parque da Cerca",
                 "latitude": 39.748598,
                 "longitude": -8.934927
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
+            },
             {
-                "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
-                "name": "Plataforma de \u00e1gua",
-                "latitude": 39.748981,
-                "longitude": -8.934711
+                "pokestop_id": "3a831ae2cff24109950a47a9e67ea30a.16",
+                "name": "AMM - Associa\u00e7\u00e3o Marinha em Movimento",
+                "latitude": 39.750545,
+                "longitude": -8.925972
+            },
+            {
+                "pokestop_id": "0abc9313eb444d44a9bb0199c6c53839.16",
+                "name": "Arquivo Municipal",
+                "latitude": 39.749229,
+                "longitude": -8.93423
             }
         ]
     },
@@ -506,6 +482,150 @@
                 "name": "Posto de Correios CTT",
                 "latitude": 39.748012,
                 "longitude": -8.927626
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Hippopotas",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Hippopotas",
+        "quest_reward_pokemon_id": 449,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "51a5cfd3c47c404080bf2813b792897b.16",
+                "name": "ADESER II",
+                "latitude": 39.75137,
+                "longitude": -8.931029
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Oddish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Oddish",
+        "quest_reward_pokemon_id": 43,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
+                "name": "Sede N\u00facleo Sporting",
+                "latitude": 39.750953,
+                "longitude": -8.932885
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
+                "name": "Art",
+                "latitude": 39.750309,
+                "longitude": -8.932088
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "9b830e47d8cc3ccc90f39664428f7a91.16",
+                "name": "O Vidraceiro",
+                "latitude": 39.750005,
+                "longitude": -8.931744
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
+        "quest_reward": "Dratini",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dratini",
+        "quest_reward_pokemon_id": 147,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
+                "name": "Biblioteca Municipal",
+                "latitude": 39.749895,
+                "longitude": -8.934498
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
+                "name": "Malta do Aerosol",
+                "latitude": 39.750045,
+                "longitude": -8.935074
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
+                "name": "Anfiteatro Do Parque Da Cerca",
+                "latitude": 39.749604,
+                "longitude": -8.934917
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
+                "name": "Plataforma de \u00e1gua",
+                "latitude": 39.748981,
+                "longitude": -8.934711
             }
         ]
     }
