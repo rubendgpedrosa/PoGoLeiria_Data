@@ -46,6 +46,12 @@
                 "longitude": -8.81389
             },
             {
+                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
+                "name": "O Pastor Peregrino",
+                "latitude": 39.744326,
+                "longitude": -8.807043
+            },
+            {
                 "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
                 "name": "Caixa Postal CTT - Ordem",
                 "latitude": 39.741068,
@@ -56,6 +62,42 @@
                 "name": "Camara Municipal de Leiria",
                 "latitude": 39.741093,
                 "longitude": -8.810354
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Bellsprout",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bellsprout",
+        "quest_reward_pokemon_id": 69,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
+                "name": "Skate Park",
+                "latitude": 39.735189,
+                "longitude": -8.797673
+            },
+            {
+                "pokestop_id": "9baafb93f8093e628262f96c06541c99.16",
+                "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
+                "latitude": 39.743218,
+                "longitude": -8.812164
+            },
+            {
+                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
+                "name": "Barragem do Rio Lis",
+                "latitude": 39.751189,
+                "longitude": -8.812916
+            },
+            {
+                "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
+                "name": "Sede de Imprensa Marinha Grande",
+                "latitude": 39.753915,
+                "longitude": -8.932095
             }
         ]
     },
@@ -112,10 +154,22 @@
                 "longitude": -8.809737
             },
             {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
+            },
+            {
                 "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
                 "name": "Sede PSD Leiria",
                 "latitude": 39.742459,
                 "longitude": -8.808694
+            },
+            {
+                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
+                "name": "Rodilha",
+                "latitude": 39.742979,
+                "longitude": -8.806888
             }
         ]
     },
@@ -232,16 +286,82 @@
                 "longitude": -8.935659
             },
             {
+                "pokestop_id": "1d22b403b3e849439d80774f339186b4.16",
+                "name": "Azulejos Leiria S\u00e9culo XIX",
+                "latitude": 39.742721,
+                "longitude": -8.81045
+            },
+            {
+                "pokestop_id": "25a0330c10104e74a733559e8c6d11a2.16",
+                "name": "Centro Desportivo Juve Lis",
+                "latitude": 39.731097,
+                "longitude": -8.794939
+            },
+            {
                 "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
                 "name": "Ponte Pedonal Sul",
                 "latitude": 39.748399,
                 "longitude": -8.93453
             },
             {
+                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
+                "name": "Correios Post Office",
+                "latitude": 39.747622,
+                "longitude": -8.930452
+            },
+            {
                 "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
                 "name": "Campo de Treino de Arremesso",
                 "latitude": 39.736335,
                 "longitude": -8.929017
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
+                "name": "Arco 42",
+                "latitude": 39.744873,
+                "longitude": -8.807102
+            },
+            {
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067
+            },
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            },
+            {
+                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
+                "name": "Edif\u00edcio Ferro de Engomar",
+                "latitude": 39.740629,
+                "longitude": -8.802995
+            },
+            {
+                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
+                "name": "\u00c1rea De Recreio",
+                "latitude": 39.745761,
+                "longitude": -8.934351
+            },
+            {
+                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
+                "name": "Ponte Azul",
+                "latitude": 39.749013,
+                "longitude": -8.801741
             }
         ]
     },
@@ -298,6 +418,12 @@
                 "longitude": -8.806617
             },
             {
+                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
+                "name": "Audit\u00f3rio",
+                "latitude": 39.749766,
+                "longitude": -8.926395
+            },
+            {
                 "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
                 "name": "F\u00e9nix Muralhartes",
                 "latitude": 39.747251,
@@ -324,38 +450,20 @@
         ]
     },
     {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
+        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
+        "quest_reward": "Dratini",
+        "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dratini",
+        "quest_reward_pokemon_id": 147,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
-                "name": "Campo de Futebol",
-                "latitude": 39.736816,
-                "longitude": -8.804067
-            },
-            {
-                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
-                "name": "Catalpa",
-                "latitude": 39.745748,
-                "longitude": -8.804397
-            },
-            {
-                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
-                "name": "Edif\u00edcio Ferro de Engomar",
-                "latitude": 39.740629,
-                "longitude": -8.802995
-            },
-            {
-                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
-                "name": "\u00c1rea De Recreio",
-                "latitude": 39.745761,
-                "longitude": -8.934351
+                "pokestop_id": "1f0a9819d0db41ae902717902a8452a2.16",
+                "name": "Centro De Interpreta\u00e7\u00e3o Ambiental De Leiria",
+                "latitude": 39.740739,
+                "longitude": -8.80134
             }
         ]
     },
@@ -618,6 +726,42 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "3014a8690b2b49ba8918cad211918966.16",
+                "name": "Mural De Namorados",
+                "latitude": 39.743299,
+                "longitude": -8.803428
+            },
+            {
+                "pokestop_id": "401aa5fe5e2a4ac2b7ed091070a5dc86.16",
+                "name": "Skate Parque Do Parque da Cerca",
+                "latitude": 39.74986,
+                "longitude": -8.935551
+            },
+            {
+                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
+                "name": "Painel Moinho de Papel",
+                "latitude": 39.740201,
+                "longitude": -8.800153
+            },
+            {
+                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
+                "name": "Faces Cubistas",
+                "latitude": 39.750855,
+                "longitude": -8.806714
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -638,36 +782,36 @@
                 "name": "Franguinho no churrasco",
                 "latitude": 39.755374,
                 "longitude": -8.932558
+            },
+            {
+                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
+                "name": "Est\u00e1tua Vacas",
+                "latitude": 39.745118,
+                "longitude": -8.804209
             }
         ]
     },
     {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "401aa5fe5e2a4ac2b7ed091070a5dc86.16",
-                "name": "Skate Parque Do Parque da Cerca",
-                "latitude": 39.74986,
-                "longitude": -8.935551
+                "pokestop_id": "42070d6980c64ecf88a0dd6a9043ea5e.11",
+                "name": "Est\u00e1tua Burro",
+                "latitude": 39.745224,
+                "longitude": -8.804058
             },
             {
-                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
-                "name": "Painel Moinho de Papel",
-                "latitude": 39.740201,
-                "longitude": -8.800153
-            },
-            {
-                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
-                "name": "Faces Cubistas",
-                "latitude": 39.750855,
-                "longitude": -8.806714
+                "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
+                "name": "Pra\u00e7a Nova",
+                "latitude": 39.752742,
+                "longitude": -8.811752
             }
         ]
     },
@@ -740,6 +884,12 @@
                 "name": "Fonte Freire",
                 "latitude": 39.743645,
                 "longitude": -8.810948
+            },
+            {
+                "pokestop_id": "bec2eb07d3e344378617c29ab4eff35a.16",
+                "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
+                "latitude": 39.74317,
+                "longitude": -8.804189
             },
             {
                 "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
@@ -954,36 +1104,6 @@
         ]
     },
     {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Bellsprout",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bellsprout",
-        "quest_reward_pokemon_id": 69,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "9baafb93f8093e628262f96c06541c99.16",
-                "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
-                "latitude": 39.743218,
-                "longitude": -8.812164
-            },
-            {
-                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
-                "name": "Barragem do Rio Lis",
-                "latitude": 39.751189,
-                "longitude": -8.812916
-            },
-            {
-                "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
-                "name": "Sede de Imprensa Marinha Grande",
-                "latitude": 39.753915,
-                "longitude": -8.932095
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -998,6 +1118,12 @@
                 "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
                 "latitude": 39.739299,
                 "longitude": -8.801276
+            },
+            {
+                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
+                "name": "Parque da Encarna\u00e7\u00e3o",
+                "latitude": 39.738905,
+                "longitude": -8.798901
             }
         ]
     },
@@ -1016,6 +1142,24 @@
                 "name": "Mural Bombeiro",
                 "latitude": 39.740828,
                 "longitude": -8.800367
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
+        "quest_reward": "3 Rare Candy",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Rare Candy",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1301,
+        "pokestops": [
+            {
+                "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
+                "name": "Engenho Na Escola",
+                "latitude": 39.74247,
+                "longitude": -8.933721
             }
         ]
     },
@@ -1052,24 +1196,6 @@
                 "name": "Pa\u00e7o D.Jo\u00e3o I",
                 "latitude": 39.746508,
                 "longitude": -8.809111
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
-                "name": "Pra\u00e7a Nova",
-                "latitude": 39.752742,
-                "longitude": -8.811752
             }
         ]
     }
