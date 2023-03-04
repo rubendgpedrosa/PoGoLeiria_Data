@@ -385,13 +385,13 @@
     },
     {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
+        "quest_reward_item_id": 2,
         "pokestops": [
             {
                 "pokestop_id": "22af41a0de094b3b9a328d93dc104eff.16",
@@ -400,10 +400,16 @@
                 "longitude": -8.817837
             },
             {
-                "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
-                "name": "Ponte da Fonte Quente",
-                "latitude": 39.747216,
-                "longitude": -8.802534
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
+            },
+            {
+                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
+                "name": "EL REI D. AFONSO I",
+                "latitude": 39.748442,
+                "longitude": -8.810054
             }
         ]
     },
@@ -518,6 +524,24 @@
                 "name": "Ponte Pedonal Suspensa",
                 "latitude": 39.750997,
                 "longitude": -8.809201
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
+                "name": "Ponte da Fonte Quente",
+                "latitude": 39.747216,
+                "longitude": -8.802534
             }
         ]
     },
@@ -662,30 +686,6 @@
                 "name": "F\u00e9nix Muralhartes",
                 "latitude": 39.747251,
                 "longitude": -8.808742
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
-                "name": "Jardins do Lis Galerias",
-                "latitude": 39.750761,
-                "longitude": -8.805877
-            },
-            {
-                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
-                "name": "EL REI D. AFONSO I",
-                "latitude": 39.748442,
-                "longitude": -8.810054
             }
         ]
     },
