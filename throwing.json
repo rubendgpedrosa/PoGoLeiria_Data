@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Dunsparce",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dunsparce",
+        "quest_reward_pokemon_id": 206,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "097b8d30832a4101bafeea7d922a379e.16",
+                "name": "M\u00e3os vidreiras que s\u00f3 fazem obras de arte.",
+                "latitude": 39.741278,
+                "longitude": -8.929531
+            },
+            {
+                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
+                "name": "Confer\u00eancia de S. Vicente Paulo",
+                "latitude": 39.750114,
+                "longitude": -8.92967
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
@@ -18,6 +42,72 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "1000 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1000,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "15d0bdf2c3a64195981d4eab2368a386.16",
+                "name": "Painel de Azulejos D. Nuno \u00c1lvares Pereira",
+                "latitude": 39.750326,
+                "longitude": -8.930843
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            },
+            {
+                "pokestop_id": "d38f41a6dd1245bba807050ac15d128e.16",
+                "name": "Museu do Vidro da Marinha Grande",
+                "latitude": 39.749484,
+                "longitude": -8.93346
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "Meowth",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Meowth",
+        "quest_reward_pokemon_id": 52,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
+                "name": "Gin\u00e1sio ao Ar Livre",
+                "latitude": 39.750817,
+                "longitude": -8.929649
+            },
+            {
+                "pokestop_id": "8b154fbb9a5c43b08a495a8d85dfdb93.16",
+                "name": "O sol da Cerca",
+                "latitude": 39.748941,
+                "longitude": -8.934582
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -32,6 +122,12 @@
                 "name": "Fonte",
                 "latitude": 39.752573,
                 "longitude": -8.933414
+            },
+            {
+                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.740902,
+                "longitude": -8.933727
             }
         ]
     },
@@ -56,24 +152,6 @@
                 "name": "Sede Bloco de Esquerda",
                 "latitude": 39.750634,
                 "longitude": -8.932602
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Curveball Throws in a row",
-        "quest_reward": "Meowth",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Meowth",
-        "quest_reward_pokemon_id": 52,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8b154fbb9a5c43b08a495a8d85dfdb93.16",
-                "name": "O sol da Cerca",
-                "latitude": 39.748941,
-                "longitude": -8.934582
             }
         ]
     },
@@ -128,24 +206,6 @@
                 "name": "Museu BVMG",
                 "latitude": 39.748136,
                 "longitude": -8.933859
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "d38f41a6dd1245bba807050ac15d128e.16",
-                "name": "Museu do Vidro da Marinha Grande",
-                "latitude": 39.749484,
-                "longitude": -8.93346
             }
         ]
     }
