@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Earn 5 Candies walking with your buddy",
+        "quest_reward": "Wailmer",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wailmer",
+        "quest_reward_pokemon_id": 320,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "14a69ce370fb46f88261e19bbc2101cb.16",
+                "name": "Biblioteca Municipal Afonso Lopes Vieira",
+                "latitude": 39.743917,
+                "longitude": -8.810087
+            }
+        ]
+    },
+    {
         "quest_description": "Send 3 Gifts and add a sticker to each",
         "quest_reward": "Psyduck",
         "quest_reward_type": "Pokemon",
@@ -32,6 +50,12 @@
                 "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
                 "latitude": 39.739412,
                 "longitude": -8.81129
+            },
+            {
+                "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
+                "name": "Mural Brisa do Lis",
+                "latitude": 39.743468,
+                "longitude": -8.812448
             }
         ]
     }
