@@ -58,6 +58,12 @@
                 "longitude": -8.933733
             },
             {
+                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
+                "name": "Zona Desportiva",
+                "latitude": 39.747903,
+                "longitude": -8.936311
+            },
+            {
                 "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
                 "name": "Engenho Na Escola",
                 "latitude": 39.74247,
@@ -74,6 +80,12 @@
                 "name": "Sociedade Columb\u00f3fila Marinhense",
                 "latitude": 39.748494,
                 "longitude": -8.932563
+            },
+            {
+                "pokestop_id": "eb09f8325d3b4095b70b9b37cd92fb6e.16",
+                "name": "Cabana do Parque da Cerca",
+                "latitude": 39.74824,
+                "longitude": -8.935596
             },
             {
                 "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
@@ -406,16 +418,34 @@
                 "longitude": -8.937626
             },
             {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
+            },
+            {
                 "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
                 "name": "Wellness life",
                 "latitude": 39.751779,
                 "longitude": -8.929718
             },
             {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
+            },
+            {
                 "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
                 "name": "Anfiteatro Do Parque Da Cerca",
                 "latitude": 39.749604,
                 "longitude": -8.934917
+            },
+            {
+                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
+                "name": "LM Fitness",
+                "latitude": 39.747089,
+                "longitude": -8.935386
             }
         ]
     },
@@ -484,6 +514,12 @@
                 "longitude": -8.93453
             },
             {
+                "pokestop_id": "49c04382873542c79044fd2f8014bd55.16",
+                "name": "Atl\u00e9tico Clube Marinhense",
+                "latitude": 39.748748,
+                "longitude": -8.936854
+            },
+            {
                 "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
                 "name": "Audit\u00f3rio",
                 "latitude": 39.749766,
@@ -518,6 +554,12 @@
                 "name": "Ponte pedonal sul do Parque das Bernardas",
                 "latitude": 39.737116,
                 "longitude": -8.928597
+            },
+            {
+                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
+                "name": "Caixa Postal CTT - Ordem",
+                "latitude": 39.741068,
+                "longitude": -8.936685
             },
             {
                 "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
@@ -800,6 +842,12 @@
                 "name": "Cemit\u00e9rio Da Marinha",
                 "latitude": 39.746706,
                 "longitude": -8.932228
+            },
+            {
+                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
+                "name": "Posto de turismo da Marinha Grande",
+                "latitude": 39.743295,
+                "longitude": -8.935619
             }
         ]
     },
@@ -1128,6 +1176,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "68078d1b4a164f9c850ee98c757acdfb.16",
+                "name": "Centro Comercial Lumar",
+                "latitude": 39.746744,
+                "longitude": -8.935747
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -1214,6 +1280,24 @@
                 "name": "Pedras de Armas",
                 "latitude": 39.741978,
                 "longitude": -8.810843
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
+                "name": "Clube de campismo da Marinha Grande",
+                "latitude": 39.747495,
+                "longitude": -8.935422
             }
         ]
     },
