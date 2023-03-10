@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
+            },
+            {
+                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
+                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
+                "latitude": 39.744778,
+                "longitude": -8.80632
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Torchic",
         "quest_reward_type": "Pokemon",
@@ -50,6 +74,30 @@
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
                 "longitude": -8.811107
+            },
+            {
+                "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
+                "name": "Gin\u00e1sio Fit On Move",
+                "latitude": 39.745658,
+                "longitude": -8.803177
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 15 times",
+        "quest_reward": "25 Gyarados Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Gyarados",
+        "quest_reward_pokemon_id": 130,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
+                "name": "Ponte da Fonte Quente",
+                "latitude": 39.747216,
+                "longitude": -8.802534
             }
         ]
     },
@@ -168,6 +216,24 @@
         ]
     },
     {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Hoppip",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Hoppip",
+        "quest_reward_pokemon_id": 187,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
+                "name": "Ponte Pedonal Rio Liz",
+                "latitude": 39.750058,
+                "longitude": -8.804897
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 3 times",
         "quest_reward": "Bulbasaur",
         "quest_reward_type": "Pokemon",
@@ -182,24 +248,6 @@
                 "name": "Live gym Almuinha Grande",
                 "latitude": 39.75227,
                 "longitude": -8.813364
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
-                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
-                "latitude": 39.744778,
-                "longitude": -8.80632
             }
         ]
     },
