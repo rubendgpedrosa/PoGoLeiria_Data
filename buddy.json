@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Earn 5 Candies walking with your buddy",
+        "quest_reward": "Wailmer",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wailmer",
+        "quest_reward_pokemon_id": 320,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
@@ -9,6 +27,12 @@
         "quest_reward_pokemon_id": 659,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
+            },
             {
                 "pokestop_id": "5b30d5cc95af495c8066d9675b25ae77.16",
                 "name": "Lonac 2017",
