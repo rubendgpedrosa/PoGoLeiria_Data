@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Send 3 Gifts and add a sticker to each",
+        "quest_reward": "Ducklett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Ducklett",
+        "quest_reward_pokemon_id": 580,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 5 Candies walking with your buddy",
         "quest_reward": "Wailmer",
         "quest_reward_type": "Pokemon",
@@ -40,10 +64,46 @@
                 "longitude": -8.812656
             },
             {
+                "pokestop_id": "61f76786db87485e8eef8f2e1d2968f1.16",
+                "name": "A Juventude a Ci\u00eancia e o Mar",
+                "latitude": 39.743887,
+                "longitude": -8.805803
+            },
+            {
                 "pokestop_id": "bddaa61df7864fd898a226e033864d45.16",
                 "name": "Ponte Parque Infantil",
                 "latitude": 39.750377,
                 "longitude": -8.806284
+            },
+            {
+                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
+                "name": "Xilofone M\u00e1rmore",
+                "latitude": 39.741581,
+                "longitude": -8.802014
+            }
+        ]
+    },
+    {
+        "quest_description": "Send 3 Gifts and add a sticker to each",
+        "quest_reward": "Psyduck",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Psyduck",
+        "quest_reward_pokemon_id": 54,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            },
+            {
+                "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
+                "name": "Campus 1 - ESECS",
+                "latitude": 39.739983,
+                "longitude": -8.812123
             }
         ]
     },
@@ -64,28 +124,16 @@
                 "longitude": -8.809349
             },
             {
+                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
+                "name": "Cal\u00e7ada Portuguesa",
+                "latitude": 39.744753,
+                "longitude": -8.804849
+            },
+            {
                 "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
                 "name": "S.L.Anti",
                 "latitude": 39.743737,
                 "longitude": -8.805579
-            }
-        ]
-    },
-    {
-        "quest_description": "Send 3 Gifts and add a sticker to each",
-        "quest_reward": "Psyduck",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Psyduck",
-        "quest_reward_pokemon_id": 54,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
-                "name": "Campus 1 - ESECS",
-                "latitude": 39.739983,
-                "longitude": -8.812123
             }
         ]
     }
