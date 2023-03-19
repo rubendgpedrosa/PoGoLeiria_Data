@@ -76,6 +76,12 @@
                 "longitude": -8.805844
             },
             {
+                "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
+                "name": "CEMFIR - Culturismo",
+                "latitude": 39.752054,
+                "longitude": -8.92786
+            },
+            {
                 "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
                 "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
                 "latitude": 39.745038,
@@ -206,6 +212,12 @@
                 "name": "Rotary Club De Leiria",
                 "latitude": 39.735202,
                 "longitude": -8.798938
+            },
+            {
+                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
+                "name": "Antigo Bebedouro",
+                "latitude": 39.750713,
+                "longitude": -8.926943
             }
         ]
     },
@@ -434,6 +446,54 @@
                 "name": "Placa Informativa - Antes do Castelo",
                 "latitude": 39.747749,
                 "longitude": -8.808107
+            }
+        ]
+    },
+    {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "2220c88e700f4716a79a5a0fcd4b9e48.16",
+                "name": "Piscina Municipal Da Marinha Grande",
+                "latitude": 39.749552,
+                "longitude": -8.924803
+            },
+            {
+                "pokestop_id": "3745160e3b4b4b71b2f2de8617750ace.16",
+                "name": "Antigo Moinho De Papel",
+                "latitude": 39.740444,
+                "longitude": -8.800663
+            },
+            {
+                "pokestop_id": "3dde03090bbf41dd8051072fd518992c.16",
+                "name": "I P Leiria",
+                "latitude": 39.744915,
+                "longitude": -8.811439
+            },
+            {
+                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
+                "name": "Campo Basketball",
+                "latitude": 39.746655,
+                "longitude": -8.802376
+            },
+            {
+                "pokestop_id": "a12d18e62f3c4c86981d2a6a4316c9a5.16",
+                "name": "Homegame aos Her\u00f3icos Soldados",
+                "latitude": 39.746449,
+                "longitude": -8.808147
+            },
+            {
+                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
+                "name": "Rodilha",
+                "latitude": 39.742979,
+                "longitude": -8.806888
             }
         ]
     },
@@ -756,48 +816,6 @@
         ]
     },
     {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "3745160e3b4b4b71b2f2de8617750ace.16",
-                "name": "Antigo Moinho De Papel",
-                "latitude": 39.740444,
-                "longitude": -8.800663
-            },
-            {
-                "pokestop_id": "3dde03090bbf41dd8051072fd518992c.16",
-                "name": "I P Leiria",
-                "latitude": 39.744915,
-                "longitude": -8.811439
-            },
-            {
-                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
-                "name": "Campo Basketball",
-                "latitude": 39.746655,
-                "longitude": -8.802376
-            },
-            {
-                "pokestop_id": "a12d18e62f3c4c86981d2a6a4316c9a5.16",
-                "name": "Homegame aos Her\u00f3icos Soldados",
-                "latitude": 39.746449,
-                "longitude": -8.808147
-            },
-            {
-                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
-                "name": "Rodilha",
-                "latitude": 39.742979,
-                "longitude": -8.806888
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -836,6 +854,24 @@
                 "name": "Xilofone M\u00e1rmore",
                 "latitude": 39.741581,
                 "longitude": -8.802014
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "1000 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1000,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
+                "name": "Gin\u00e1sio ao Ar Livre",
+                "latitude": 39.750817,
+                "longitude": -8.929649
             }
         ]
     },
@@ -1016,6 +1052,12 @@
                 "name": "Parque Verde de Leiria",
                 "latitude": 39.741617,
                 "longitude": -8.819755
+            },
+            {
+                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
+                "name": "Jardim da Marinha Grande",
+                "latitude": 39.750988,
+                "longitude": -8.929103
             },
             {
                 "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
