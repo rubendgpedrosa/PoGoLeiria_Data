@@ -156,6 +156,36 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "0a24790da0af39809c89230721e5ace9.16",
+                "name": "Terra\u00e7o do Ateneu",
+                "latitude": 39.739192,
+                "longitude": -8.818713
+            },
+            {
+                "pokestop_id": "0b47f45c695c45d18f4fd061a8ab3144.16",
+                "name": "Edif\u00edcio Z\u00faquete",
+                "latitude": 39.744416,
+                "longitude": -8.807663
+            },
+            {
+                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
+                "name": "Marco de Correio CTT",
+                "latitude": 39.746326,
+                "longitude": -8.804666
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Vulpix",
         "quest_reward_type": "Pokemon",
@@ -200,30 +230,12 @@
                 "name": "VDesign",
                 "latitude": 39.745756,
                 "longitude": -8.807801
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "0b47f45c695c45d18f4fd061a8ab3144.16",
-                "name": "Edif\u00edcio Z\u00faquete",
-                "latitude": 39.744416,
-                "longitude": -8.807663
             },
             {
-                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
-                "name": "Marco de Correio CTT",
-                "latitude": 39.746326,
-                "longitude": -8.804666
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
             }
         ]
     },
@@ -740,6 +752,12 @@
                 "name": "Choupo Negro",
                 "latitude": 39.750236,
                 "longitude": -8.804137
+            },
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
             }
         ]
     },
@@ -1066,6 +1084,12 @@
                 "longitude": -8.803393
             },
             {
+                "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
+                "name": "Campus 2 - ESTG",
+                "latitude": 39.734095,
+                "longitude": -8.823089
+            },
+            {
                 "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
                 "name": "Lady in Red",
                 "latitude": 39.741869,
@@ -1088,6 +1112,12 @@
                 "name": "Edif\u00edcio Ferro de Engomar",
                 "latitude": 39.740629,
                 "longitude": -8.802995
+            },
+            {
+                "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
+                "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
+                "latitude": 39.741652,
+                "longitude": -8.929112
             }
         ]
     },
