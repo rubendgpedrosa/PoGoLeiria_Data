@@ -1,23 +1,5 @@
 [
     {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Aerodactyl",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Aerodactyl",
-        "quest_reward_pokemon_id": 142,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2eef5abe51ad487f95a1ebd034c9bdef.16",
-                "name": "Choupo Negro",
-                "latitude": 39.750236,
-                "longitude": -8.804137
-            }
-        ]
-    },
-    {
         "quest_description": "Win a raid",
         "quest_reward": "Skarmory",
         "quest_reward_type": "Pokemon",
@@ -27,6 +9,12 @@
         "quest_reward_pokemon_id": 227,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            },
             {
                 "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
                 "name": "Ponte Hintze Ribeiro",
@@ -42,6 +30,36 @@
         ]
     },
     {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Aerodactyl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
+            {
+                "pokestop_id": "2eef5abe51ad487f95a1ebd034c9bdef.16",
+                "name": "Choupo Negro",
+                "latitude": 39.750236,
+                "longitude": -8.804137
+            },
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            }
+        ]
+    },
+    {
         "quest_description": "Battle in GO Battle League",
         "quest_reward": "Onix",
         "quest_reward_type": "Pokemon",
@@ -51,6 +69,12 @@
         "quest_reward_pokemon_id": 95,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
+                "name": "Bairro dos Anjos",
+                "latitude": 39.744958,
+                "longitude": -8.804361
+            },
             {
                 "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
                 "name": "Antigo Marco de Correios",
@@ -62,6 +86,12 @@
                 "name": "Mural Brisa do Lis",
                 "latitude": 39.743468,
                 "longitude": -8.812448
+            },
+            {
+                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
+                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
+                "latitude": 39.745253,
+                "longitude": -8.80654
             }
         ]
     }
