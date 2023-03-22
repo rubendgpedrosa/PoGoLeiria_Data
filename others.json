@@ -16,6 +16,12 @@
                 "longitude": -8.93155
             },
             {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
                 "pokestop_id": "14a69ce370fb46f88261e19bbc2101cb.16",
                 "name": "Biblioteca Municipal Afonso Lopes Vieira",
                 "latitude": 39.743917,
@@ -38,6 +44,18 @@
                 "name": "Piscina Municipal Da Marinha Grande",
                 "latitude": 39.749552,
                 "longitude": -8.924803
+            },
+            {
+                "pokestop_id": "23076c7b2d5e3d209916143b5207e5b3.16",
+                "name": "Soneto da Casa",
+                "latitude": 39.733913,
+                "longitude": -8.80966
+            },
+            {
+                "pokestop_id": "266b43dbec17425a81f8256b14f1c2cd.16",
+                "name": "Rodovi\u00e1ria Do Lis",
+                "latitude": 39.745095,
+                "longitude": -8.805202
             },
             {
                 "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
@@ -94,10 +112,40 @@
                 "longitude": -8.810054
             },
             {
+                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
+                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
+                "latitude": 39.745038,
+                "longitude": -8.804716
+            },
+            {
+                "pokestop_id": "7f9a5234b0c5345c9940d8c491e044ee.16",
+                "name": "Choupo",
+                "latitude": 39.750912,
+                "longitude": -8.807484
+            },
+            {
+                "pokestop_id": "8cbd770c2c204e229947f1fad6509bd4.16",
+                "name": "O intelectual.",
+                "latitude": 39.747676,
+                "longitude": -8.813754
+            },
+            {
+                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
+                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
+                "latitude": 39.750529,
+                "longitude": -8.803749
+            },
+            {
                 "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
                 "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
                 "latitude": 39.740095,
                 "longitude": -8.811435
+            },
+            {
+                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
+                "name": "Marco de Correio CTT",
+                "latitude": 39.746326,
+                "longitude": -8.804666
             },
             {
                 "pokestop_id": "b1c086d41082469e87705d1cedb0fac3.16",
@@ -182,6 +230,18 @@
                 "name": "O Prisioneiro",
                 "latitude": 39.744766,
                 "longitude": -8.81039
+            },
+            {
+                "pokestop_id": "90dbc24bfa2f4f7697ce38f13bde3fb9.11",
+                "name": "Monumento aos Combatentes do U",
+                "latitude": 39.747479,
+                "longitude": -8.812497
+            },
+            {
+                "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
+                "name": "Gin\u00e1sio Fit On Move",
+                "latitude": 39.745658,
+                "longitude": -8.803177
             }
         ]
     },
@@ -204,6 +264,30 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
+                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
+                "latitude": 39.73966,
+                "longitude": -8.808042
+            },
+            {
+                "pokestop_id": "e8ec622a2f3239eaa38356a5d19046ce.16",
+                "name": "Franguinho no churrasco",
+                "latitude": 39.755374,
+                "longitude": -8.932558
+            }
+        ]
+    },
+    {
         "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
         "quest_reward": "Murkrow",
         "quest_reward_type": "Pokemon",
@@ -218,6 +302,24 @@
                 "name": "Campo Basketball",
                 "latitude": 39.746655,
                 "longitude": -8.802376
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Alomomola",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Alomomola",
+        "quest_reward_pokemon_id": 594,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
+                "name": "Janelas Santo Agostinho",
+                "latitude": 39.740857,
+                "longitude": -8.801746
             }
         ]
     },
@@ -296,24 +398,6 @@
                 "name": "Placa de Homenagem Wenceslau de Morais",
                 "latitude": 39.747264,
                 "longitude": -8.803776
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "e8ec622a2f3239eaa38356a5d19046ce.16",
-                "name": "Franguinho no churrasco",
-                "latitude": 39.755374,
-                "longitude": -8.932558
             }
         ]
     }
