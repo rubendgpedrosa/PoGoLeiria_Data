@@ -76,6 +76,12 @@
                 "longitude": -8.93346
             },
             {
+                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
+                "name": "ESSLEI",
+                "latitude": 39.732661,
+                "longitude": -8.820675
+            },
+            {
                 "pokestop_id": "fbe6e381a35b44268d1c15f5bac2925c.11",
                 "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
                 "latitude": 39.746897,
@@ -158,6 +164,12 @@
                 "name": "Playcity 003",
                 "latitude": 39.740875,
                 "longitude": -8.801093
+            },
+            {
+                "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
+                "name": "The Faces",
+                "latitude": 39.748058,
+                "longitude": -8.804519
             }
         ]
     },
@@ -462,6 +474,48 @@
         ]
     },
     {
+        "quest_description": "Make 5 Great Curveball Throws in a row",
+        "quest_reward": "Spinda",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spinda",
+        "quest_reward_pokemon_id": 327,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "6641122bc0ea406f917adfe1cfbd22e6.11",
+                "name": "Mercado Municipal",
+                "latitude": 39.749213,
+                "longitude": -8.8064
+            },
+            {
+                "pokestop_id": "8cbd770c2c204e229947f1fad6509bd4.16",
+                "name": "O intelectual.",
+                "latitude": 39.747676,
+                "longitude": -8.813754
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -530,24 +584,6 @@
                 "name": "Centro Comercial D.Dinis",
                 "latitude": 39.742971,
                 "longitude": -8.809768
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "8cbd770c2c204e229947f1fad6509bd4.16",
-                "name": "O intelectual.",
-                "latitude": 39.747676,
-                "longitude": -8.813754
             }
         ]
     },
