@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Send 3 Gifts and add a sticker to each",
+        "quest_reward": "Psyduck",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Psyduck",
+        "quest_reward_pokemon_id": 54,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0727712d36f33ead9a626d22bb911953.16",
+                "name": "Baloico Santa Clara",
+                "latitude": 39.73971,
+                "longitude": -8.821638
+            },
+            {
+                "pokestop_id": "8b154fbb9a5c43b08a495a8d85dfdb93.16",
+                "name": "O sol da Cerca",
+                "latitude": 39.748941,
+                "longitude": -8.934582
+            },
+            {
+                "pokestop_id": "fafc1dc9332130dd9955fd98eeae7954.16",
+                "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
+                "latitude": 39.749364,
+                "longitude": -8.930986
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 5 Candies walking with your buddy",
         "quest_reward": "Wailmer",
         "quest_reward_type": "Pokemon",
@@ -9,6 +39,18 @@
         "quest_reward_pokemon_id": 320,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "0b47f45c695c45d18f4fd061a8ab3144.16",
+                "name": "Edif\u00edcio Z\u00faquete",
+                "latitude": 39.744416,
+                "longitude": -8.807663
+            },
+            {
+                "pokestop_id": "397894b8406948d39293b559e2a32455.16",
+                "name": "Instituto Portugu\u00eas da Juventude",
+                "latitude": 39.747497,
+                "longitude": -8.81418
+            },
             {
                 "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
                 "name": "Plataforma de \u00e1gua",
@@ -30,24 +72,6 @@
         ]
     },
     {
-        "quest_description": "Send 3 Gifts and add a sticker to each",
-        "quest_reward": "Psyduck",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Psyduck",
-        "quest_reward_pokemon_id": 54,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8b154fbb9a5c43b08a495a8d85dfdb93.16",
-                "name": "O sol da Cerca",
-                "latitude": 39.748941,
-                "longitude": -8.934582
-            }
-        ]
-    },
-    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
@@ -57,6 +81,12 @@
         "quest_reward_pokemon_id": 659,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
             {
                 "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
                 "name": "Estravag\u00e1rio Graffiti",
@@ -82,10 +112,28 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            },
+            {
+                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
+                "name": "Torre Agua Leiria",
+                "latitude": 39.743319,
+                "longitude": -8.799232
+            },
+            {
                 "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
                 "name": "Junta de Freguesia",
                 "latitude": 39.751118,
                 "longitude": -8.928216
+            },
+            {
+                "pokestop_id": "e4897ddbe10d40768c3eb0293e36e6a5.11",
+                "name": "Americo Cortez Pinto",
+                "latitude": 39.746966,
+                "longitude": -8.803221
             }
         ]
     }
