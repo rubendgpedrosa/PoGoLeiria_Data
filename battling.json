@@ -48,6 +48,24 @@
         ]
     },
     {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Aerodactyl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Skarmory",
         "quest_reward_type": "Pokemon",
@@ -57,6 +75,12 @@
         "quest_reward_pokemon_id": 227,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
+                "name": "S. Francisco",
+                "latitude": 39.74836,
+                "longitude": -8.803617
+            },
             {
                 "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
                 "name": "Placa de Homenagem Wenceslau de Morais",
