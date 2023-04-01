@@ -54,6 +54,30 @@
         ]
     },
     {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Mantine",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mantine",
+        "quest_reward_pokemon_id": 226,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "097b8d30832a4101bafeea7d922a379e.16",
+                "name": "M\u00e3os vidreiras que s\u00f3 fazem obras de arte.",
+                "latitude": 39.741278,
+                "longitude": -8.929531
+            },
+            {
+                "pokestop_id": "346692f7731647539c32a978b011270d.16",
+                "name": "Zona de Merendas",
+                "latitude": 39.747887,
+                "longitude": -8.810421
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Venusaur Mega Energy",
         "quest_reward_type": "Energy",
@@ -354,24 +378,6 @@
         ]
     },
     {
-        "quest_description": "Hatch an Egg",
-        "quest_reward": "Mantine",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Mantine",
-        "quest_reward_pokemon_id": 226,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "346692f7731647539c32a978b011270d.16",
-                "name": "Zona de Merendas",
-                "latitude": 39.747887,
-                "longitude": -8.810421
-            }
-        ]
-    },
-    {
         "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
         "quest_reward": "Hoppip",
         "quest_reward_type": "Pokemon",
@@ -582,6 +588,48 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
+                "name": "Posto de turismo da Marinha Grande",
+                "latitude": 39.743295,
+                "longitude": -8.935619
+            },
+            {
+                "pokestop_id": "832a7aa8d7b5306595ed9b512f663c44.16",
+                "name": "\u00c1rvore do Ambar",
+                "latitude": 39.732049,
+                "longitude": -8.796385
+            },
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
+            },
+            {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
+            },
+            {
+                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
+                "name": "Faces Cubistas",
+                "latitude": 39.750855,
+                "longitude": -8.806714
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch 2 Eggs",
         "quest_reward": "Beldum",
         "quest_reward_type": "Pokemon",
@@ -626,36 +674,6 @@
                 "name": "Tribunal Da Marinha Grande",
                 "latitude": 39.753741,
                 "longitude": -8.932369
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "832a7aa8d7b5306595ed9b512f663c44.16",
-                "name": "\u00c1rvore do Ambar",
-                "latitude": 39.732049,
-                "longitude": -8.796385
-            },
-            {
-                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
-                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
-                "latitude": 39.745123,
-                "longitude": -8.797432
-            },
-            {
-                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
-                "name": "Faces Cubistas",
-                "latitude": 39.750855,
-                "longitude": -8.806714
             }
         ]
     },
