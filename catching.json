@@ -72,6 +72,48 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Vulpix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Vulpix",
+        "quest_reward_pokemon_id": 37,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "05e2a30a3d5e4fc1824752abcc7a4f69.16",
+                "name": "Graffiti Matilha",
+                "latitude": 39.742945,
+                "longitude": -8.803099
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Magikarp",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Magikarp",
+        "quest_reward_pokemon_id": 129,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "083e0b72da963baab293d8a954696f7d.16",
+                "name": "Futuro",
+                "latitude": 39.752573,
+                "longitude": -8.81389
+            },
+            {
+                "pokestop_id": "484d1bcbc0a443cb933cf338d4aa6e43.16",
+                "name": "Engenharia Autom\u00f3vel",
+                "latitude": 39.733074,
+                "longitude": -8.821522
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -158,6 +200,12 @@
                 "name": "Parque Dos Cani\u00e7os",
                 "latitude": 39.740299,
                 "longitude": -8.799535
+            },
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
             }
         ]
     },
@@ -286,10 +334,22 @@
                 "longitude": -8.813754
             },
             {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
+            },
+            {
                 "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
                 "name": "Sede de Imprensa Marinha Grande",
                 "latitude": 39.753915,
                 "longitude": -8.932095
+            },
+            {
+                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
+                "name": "S.L.Anti",
+                "latitude": 39.743737,
+                "longitude": -8.805579
             }
         ]
     },
@@ -314,6 +374,30 @@
                 "name": "Campo Basketball",
                 "latitude": 39.746655,
                 "longitude": -8.802376
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
+            {
+                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
+                "name": "Fontario Com Escultura",
+                "latitude": 39.739551,
+                "longitude": -8.809911
             }
         ]
     },
@@ -376,6 +460,18 @@
                 "longitude": -8.802441
             },
             {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
+            },
+            {
                 "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
                 "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
                 "latitude": 39.744778,
@@ -384,20 +480,44 @@
         ]
     },
     {
-        "quest_description": "Catch 7 Pok\u00e9mon",
-        "quest_reward": "Magikarp",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Magikarp",
-        "quest_reward_pokemon_id": 129,
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "10 Blastoise Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "484d1bcbc0a443cb933cf338d4aa6e43.16",
-                "name": "Engenharia Autom\u00f3vel",
-                "latitude": 39.733074,
-                "longitude": -8.821522
+                "pokestop_id": "49c04382873542c79044fd2f8014bd55.16",
+                "name": "Atl\u00e9tico Clube Marinhense",
+                "latitude": 39.748748,
+                "longitude": -8.936854
+            },
+            {
+                "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
+                "name": "Gin\u00e1sio Fit On Move",
+                "latitude": 39.745658,
+                "longitude": -8.803177
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
             }
         ]
     },
@@ -630,6 +750,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -686,24 +824,6 @@
                 "name": "Mural Bombeiro",
                 "latitude": 39.740828,
                 "longitude": -8.800367
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
-                "name": "Fontario Com Escultura",
-                "latitude": 39.739551,
-                "longitude": -8.809911
             }
         ]
     },
@@ -770,24 +890,6 @@
                 "name": "Tribunal Administrativo e Fiscal De Leiria",
                 "latitude": 39.738257,
                 "longitude": -8.802019
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "10 Blastoise Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Blastoise",
-        "quest_reward_pokemon_id": 9,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
-                "name": "Gin\u00e1sio Fit On Move",
-                "latitude": 39.745658,
-                "longitude": -8.803177
             }
         ]
     },
