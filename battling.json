@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "097b8d30832a4101bafeea7d922a379e.16",
+                "name": "M\u00e3os vidreiras que s\u00f3 fazem obras de arte.",
+                "latitude": 39.741278,
+                "longitude": -8.929531
+            },
+            {
+                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
+                "name": "Jogo Da Malha",
+                "latitude": 39.745722,
+                "longitude": -8.80351
+            },
+            {
+                "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
+                "name": "Carvalho Cerquinho",
+                "latitude": 39.731849,
+                "longitude": -8.795909
+            }
+        ]
+    },
+    {
         "quest_description": "Battle in GO Battle League",
         "quest_reward": "Fomantis",
         "quest_reward_type": "Pokemon",
@@ -14,6 +44,24 @@
                 "name": "Marco de Correio",
                 "latitude": 39.734008,
                 "longitude": -8.808168
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Aerodactyl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
+                "name": "Arquivo Distrital",
+                "latitude": 39.744298,
+                "longitude": -8.811006
             }
         ]
     }
