@@ -42,6 +42,78 @@
         ]
     },
     {
+        "quest_description": "Earn 5 Candies walking with your buddy",
+        "quest_reward": "Donphan",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Donphan",
+        "quest_reward_pokemon_id": 232,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
+                "name": "Playcities Santo Agostinho",
+                "latitude": 39.741341,
+                "longitude": -8.801969
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
+            },
+            {
+                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
+                "name": "\u00c1rea De Recreio",
+                "latitude": 39.745761,
+                "longitude": -8.934351
+            }
+        ]
+    },
+    {
+        "quest_description": "Send 4 Gifts and add a sticker to each",
+        "quest_reward": "Krabby",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Krabby",
+        "quest_reward_pokemon_id": 98,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "490174996655472e998bccb559694a1b.16",
+                "name": "Bordalo II",
+                "latitude": 39.742515,
+                "longitude": -8.80218
+            },
+            {
+                "pokestop_id": "64028475605436c098d172cef7a27671.16",
+                "name": "Arquivo Municipal de Leiria",
+                "latitude": 39.731487,
+                "longitude": -8.794807
+            },
+            {
+                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
+                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
+                "latitude": 39.745038,
+                "longitude": -8.804716
+            },
+            {
+                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
+                "name": "Arcos - Leiria",
+                "latitude": 39.746016,
+                "longitude": -8.80598
+            },
+            {
+                "pokestop_id": "a1d7da08d79c492098f4f57a27931039.16",
+                "name": "Marco CTT - Rua Professor N. Costa",
+                "latitude": 39.742221,
+                "longitude": -8.813073
+            }
+        ]
+    },
+    {
         "quest_description": "Play with your buddy",
         "quest_reward": "Weedle",
         "quest_reward_type": "Pokemon",
@@ -56,6 +128,24 @@
                 "name": "O Prisioneiro",
                 "latitude": 39.744766,
                 "longitude": -8.81039
+            },
+            {
+                "pokestop_id": "90dbc24bfa2f4f7697ce38f13bde3fb9.11",
+                "name": "Monumento aos Combatentes do U",
+                "latitude": 39.747479,
+                "longitude": -8.812497
+            },
+            {
+                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.740095,
+                "longitude": -8.811435
+            },
+            {
+                "pokestop_id": "b6ad46808bf64f2d9d44ae8950e6c7b4.16",
+                "name": "Marco Hist\u00f3rico da Encarna\u00e7\u00e3o",
+                "latitude": 39.739074,
+                "longitude": -8.800652
             },
             {
                 "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
@@ -128,54 +218,6 @@
                 "name": "Artes Manuais",
                 "latitude": 39.742853,
                 "longitude": -8.933931
-            }
-        ]
-    },
-    {
-        "quest_description": "Send 4 Gifts and add a sticker to each",
-        "quest_reward": "Krabby",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Krabby",
-        "quest_reward_pokemon_id": 98,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "64028475605436c098d172cef7a27671.16",
-                "name": "Arquivo Municipal de Leiria",
-                "latitude": 39.731487,
-                "longitude": -8.794807
-            },
-            {
-                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
-                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
-                "latitude": 39.745038,
-                "longitude": -8.804716
-            },
-            {
-                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
-                "name": "Arcos - Leiria",
-                "latitude": 39.746016,
-                "longitude": -8.80598
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 5 Candies walking with your buddy",
-        "quest_reward": "Donphan",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Donphan",
-        "quest_reward_pokemon_id": 232,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
-                "name": "\u00c1rea De Recreio",
-                "latitude": 39.745761,
-                "longitude": -8.934351
             }
         ]
     }
