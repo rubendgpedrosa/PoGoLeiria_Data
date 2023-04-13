@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Battle in GO Battle League",
+        "quest_reward": "Fomantis",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Fomantis",
+        "quest_reward_pokemon_id": 753,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "245e040840254bcebe902eeba5f251b5.16",
+                "name": "Pr\u00e9dio Marqu\u00eas da Cruz",
+                "latitude": 39.748039,
+                "longitude": -8.805136
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -14,6 +32,30 @@
                 "name": "Galerias Beira Rio",
                 "latitude": 39.750341,
                 "longitude": -8.802272
+            },
+            {
+                "pokestop_id": "29067fa585d24b8480240cbc1f6e8484.16",
+                "name": "Galerias Beira Rio",
+                "latitude": 39.750341,
+                "longitude": -8.802272
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a raid",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4dd2441d1fe54087a6b85d3e1035fe3c.16",
+                "name": "Sede Santa Casa Da Miseric\u00f3rdia",
+                "latitude": 39.744101,
+                "longitude": -8.804625
             }
         ]
     },
