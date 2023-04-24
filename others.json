@@ -100,6 +100,12 @@
                 "longitude": -8.803723
             },
             {
+                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
+                "name": "Campo Polidesportivo",
+                "latitude": 39.732954,
+                "longitude": -8.809802
+            },
+            {
                 "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
                 "name": "Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739852,
@@ -264,6 +270,24 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Venusaur Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Venusaur",
+        "quest_reward_pokemon_id": 3,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -404,6 +428,24 @@
                 "name": "Sociedade Columb\u00f3fila Marinhense",
                 "latitude": 39.748494,
                 "longitude": -8.932563
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Hoppip",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Hoppip",
+        "quest_reward_pokemon_id": 187,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "e4897ddbe10d40768c3eb0293e36e6a5.11",
+                "name": "Americo Cortez Pinto",
+                "latitude": 39.746966,
+                "longitude": -8.803221
             }
         ]
     },
