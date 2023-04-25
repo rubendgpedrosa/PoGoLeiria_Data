@@ -1,5 +1,47 @@
 [
     {
+        "quest_description": "Send 4 Gifts and add a sticker to each",
+        "quest_reward": "Krabby",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Krabby",
+        "quest_reward_pokemon_id": 98,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0bc494effd014e5dbc2284958658b195.11",
+                "name": "Praca Rodrigues Lobo",
+                "latitude": 39.744413,
+                "longitude": -8.808075
+            },
+            {
+                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
+                "name": "Black Cat",
+                "latitude": 39.745372,
+                "longitude": -8.807148
+            },
+            {
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929
+            },
+            {
+                "pokestop_id": "46cb0801d3613d68bfe9c1e5c4273b52.16",
+                "name": "Parque de Merendas",
+                "latitude": 39.733817,
+                "longitude": -8.809361
+            },
+            {
+                "pokestop_id": "b45d709e2d704d54aa402db61ddd284c.16",
+                "name": "Live gym Almuinha Grande",
+                "latitude": 39.75227,
+                "longitude": -8.813364
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 3 Candies walking with your buddy",
         "quest_reward": "Stunfisk",
         "quest_reward_type": "Pokemon",
@@ -88,6 +130,12 @@
                 "longitude": -8.803248
             },
             {
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
+            },
+            {
                 "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
                 "name": "The Faces",
                 "latitude": 39.748058,
@@ -164,36 +212,6 @@
                 "name": "\u00c1rea De Recreio",
                 "latitude": 39.745761,
                 "longitude": -8.934351
-            }
-        ]
-    },
-    {
-        "quest_description": "Send 4 Gifts and add a sticker to each",
-        "quest_reward": "Krabby",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Krabby",
-        "quest_reward_pokemon_id": 98,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
-                "name": "Black Cat",
-                "latitude": 39.745372,
-                "longitude": -8.807148
-            },
-            {
-                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
-                "name": "Fonte Quinta da Matinha",
-                "latitude": 39.755402,
-                "longitude": -8.807929
-            },
-            {
-                "pokestop_id": "46cb0801d3613d68bfe9c1e5c4273b52.16",
-                "name": "Parque de Merendas",
-                "latitude": 39.733817,
-                "longitude": -8.809361
             }
         ]
     },
@@ -326,6 +344,12 @@
                 "name": "Cabine de Leitura - Trokakioske",
                 "latitude": 39.744527,
                 "longitude": -8.807312
+            },
+            {
+                "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
+                "name": "Bullied Graffiti",
+                "latitude": 39.742343,
+                "longitude": -8.801731
             }
         ]
     },

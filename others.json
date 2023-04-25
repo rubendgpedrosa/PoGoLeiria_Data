@@ -120,6 +120,42 @@
         ]
     },
     {
+        "quest_description": "Take 6 snapshots of wild Pok\u00e9mon",
+        "quest_reward": "Mankey",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mankey",
+        "quest_reward_pokemon_id": 56,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067
+            },
+            {
+                "pokestop_id": "3745160e3b4b4b71b2f2de8617750ace.16",
+                "name": "Antigo Moinho De Papel",
+                "latitude": 39.740444,
+                "longitude": -8.800663
+            },
+            {
+                "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
+                "name": "Praceta Abraao Zacuto",
+                "latitude": 39.74904,
+                "longitude": -8.802788
+            },
+            {
+                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
+                "name": "Faces Cubistas",
+                "latitude": 39.750855,
+                "longitude": -8.806714
+            }
+        ]
+    },
+    {
         "quest_description": "Evolve a Pok\u00e9mon",
         "quest_reward": "Eevee",
         "quest_reward_type": "Pokemon",
@@ -292,6 +328,12 @@
                 "longitude": -8.933414
             },
             {
+                "pokestop_id": "a1d7da08d79c492098f4f57a27931039.16",
+                "name": "Marco CTT - Rua Professor N. Costa",
+                "latitude": 39.742221,
+                "longitude": -8.813073
+            },
+            {
                 "pokestop_id": "ab805be772cb4ad7918ff8ffd6287881.16",
                 "name": "EPAMG",
                 "latitude": 39.749907,
@@ -336,6 +378,24 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Venusaur Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Venusaur",
+        "quest_reward_pokemon_id": 3,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "Buneary",
         "quest_reward_type": "Pokemon",
@@ -372,30 +432,6 @@
         ]
     },
     {
-        "quest_description": "Take 6 snapshots of wild Pok\u00e9mon",
-        "quest_reward": "Mankey",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Mankey",
-        "quest_reward_pokemon_id": 56,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
-                "name": "Praceta Abraao Zacuto",
-                "latitude": 39.74904,
-                "longitude": -8.802788
-            },
-            {
-                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
-                "name": "Faces Cubistas",
-                "latitude": 39.750855,
-                "longitude": -8.806714
-            }
-        ]
-    },
-    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
@@ -410,6 +446,24 @@
                 "name": "Est\u00e1tua \"A Caminho da Feira\"",
                 "latitude": 39.744847,
                 "longitude": -8.804645
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Murkrow",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Murkrow",
+        "quest_reward_pokemon_id": 198,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ce998aebdaae3750bedfc6e568df7f5e.16",
+                "name": "Projeto U-Bike: ESTG - Bloco D",
+                "latitude": 39.734271,
+                "longitude": -8.821229
             }
         ]
     },
