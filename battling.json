@@ -1,5 +1,47 @@
 [
     {
+        "quest_description": "Battle in GO Battle League",
+        "quest_reward": "Fomantis",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Fomantis",
+        "quest_reward_pokemon_id": 753,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
+                "name": "Ponte pedonal do parque das Almoinhas",
+                "latitude": 39.751479,
+                "longitude": -8.813373
+            },
+            {
+                "pokestop_id": "8d0d519111594c7d9d556e143b4c9f08.16",
+                "name": "Rotary Club",
+                "latitude": 39.750458,
+                "longitude": -8.925748
+            },
+            {
+                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
+                "name": "D. Dinis",
+                "latitude": 39.745862,
+                "longitude": -8.809441
+            },
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -24,38 +66,32 @@
         ]
     },
     {
-        "quest_description": "Battle in GO Battle League",
-        "quest_reward": "Fomantis",
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Kabuto",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Fomantis",
-        "quest_reward_pokemon_id": 753,
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
-                "name": "Ponte pedonal do parque das Almoinhas",
-                "latitude": 39.751479,
-                "longitude": -8.813373
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067
             },
             {
-                "pokestop_id": "8d0d519111594c7d9d556e143b4c9f08.16",
-                "name": "Rotary Club",
-                "latitude": 39.750458,
-                "longitude": -8.925748
+                "pokestop_id": "3745160e3b4b4b71b2f2de8617750ace.16",
+                "name": "Antigo Moinho De Papel",
+                "latitude": 39.740444,
+                "longitude": -8.800663
             },
             {
-                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
-                "name": "D. Dinis",
-                "latitude": 39.745862,
-                "longitude": -8.809441
-            },
-            {
-                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
-                "name": "CrossFit Leiria",
-                "latitude": 39.729649,
-                "longitude": -8.804977
+                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
+                "name": "Faces Cubistas",
+                "latitude": 39.750855,
+                "longitude": -8.806714
             }
         ]
     },
@@ -110,24 +146,6 @@
                 "name": "Parque da Cerca",
                 "latitude": 39.748598,
                 "longitude": -8.934927
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Kabuto",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Kabuto",
-        "quest_reward_pokemon_id": 140,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
-                "name": "Faces Cubistas",
-                "latitude": 39.750855,
-                "longitude": -8.806714
             }
         ]
     }
