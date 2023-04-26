@@ -1,5 +1,47 @@
 [
     {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Aerodactyl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0727712d36f33ead9a626d22bb911953.16",
+                "name": "Baloico Santa Clara",
+                "latitude": 39.73971,
+                "longitude": -8.821638
+            },
+            {
+                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
+                "name": "Kid's Web",
+                "latitude": 39.732741,
+                "longitude": -8.79703
+            },
+            {
+                "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
+                "name": "Junta de Freguesia",
+                "latitude": 39.751118,
+                "longitude": -8.928216
+            },
+            {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
+            },
+            {
+                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
+                "name": "Est\u00e1tua Vacas",
+                "latitude": 39.745118,
+                "longitude": -8.804209
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Dedenne",
         "quest_reward_type": "Pokemon",
@@ -86,36 +128,6 @@
                 "name": "Anfiteatro",
                 "latitude": 39.751453,
                 "longitude": -8.809059
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Aerodactyl",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Aerodactyl",
-        "quest_reward_pokemon_id": 142,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
-                "name": "Kid's Web",
-                "latitude": 39.732741,
-                "longitude": -8.79703
-            },
-            {
-                "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
-                "name": "Junta de Freguesia",
-                "latitude": 39.751118,
-                "longitude": -8.928216
-            },
-            {
-                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
-                "name": "Est\u00e1tua Vacas",
-                "latitude": 39.745118,
-                "longitude": -8.804209
             }
         ]
     }
