@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "06030e41449c4302874baae88549b655.16",
+                "name": "Correios Her\u00f3is De Angola",
+                "latitude": 39.747609,
+                "longitude": -8.804195
+            },
+            {
+                "pokestop_id": "490174996655472e998bccb559694a1b.16",
+                "name": "Bordalo II",
+                "latitude": 39.742515,
+                "longitude": -8.80218
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -20,24 +44,6 @@
                 "name": "Jardim da Marinha Grande",
                 "latitude": 39.750988,
                 "longitude": -8.929103
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "Dedenne",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Dedenne",
-        "quest_reward_pokemon_id": 702,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "490174996655472e998bccb559694a1b.16",
-                "name": "Bordalo II",
-                "latitude": 39.742515,
-                "longitude": -8.80218
             }
         ]
     },
