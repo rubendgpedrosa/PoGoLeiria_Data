@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "098af78ab679495aadb944e4da01fd49.11",
+                "name": "Ultramar",
+                "latitude": 39.745448,
+                "longitude": -8.805844
+            },
+            {
+                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
+                "name": "P\u00e9rgula Marinhense",
+                "latitude": 39.751051,
+                "longitude": -8.928765
+            },
+            {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -14,6 +44,12 @@
                 "name": "Biblioteca Municipal Afonso Lopes Vieira",
                 "latitude": 39.743917,
                 "longitude": -8.810087
+            },
+            {
+                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
+                "name": "Clube de campismo da Marinha Grande",
+                "latitude": 39.747495,
+                "longitude": -8.935422
             },
             {
                 "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
@@ -33,6 +69,12 @@
         "quest_reward_pokemon_id": 753,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            },
             {
                 "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
                 "name": "Gin\u00e1sio ao Ar Livre",
@@ -54,26 +96,26 @@
         ]
     },
     {
-        "quest_description": "Win a raid",
-        "quest_reward": "Dedenne",
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Omanyte",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Dedenne",
-        "quest_reward_pokemon_id": 702,
+        "quest_reward_pokemon_name": "Omanyte",
+        "quest_reward_pokemon_id": 138,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
-                "name": "P\u00e9rgula Marinhense",
-                "latitude": 39.751051,
-                "longitude": -8.928765
+                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
+                "name": "Centro de Linguas Chinesas",
+                "latitude": 39.740291,
+                "longitude": -8.811645
             },
             {
-                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
-                "name": "Igreja Paroquial da Marinha Grande",
-                "latitude": 39.750842,
-                "longitude": -8.931292
+                "pokestop_id": "6641122bc0ea406f917adfe1cfbd22e6.11",
+                "name": "Mercado Municipal",
+                "latitude": 39.749213,
+                "longitude": -8.8064
             }
         ]
     },
