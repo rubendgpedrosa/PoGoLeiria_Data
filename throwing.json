@@ -220,6 +220,18 @@
                 "longitude": -8.804067
             },
             {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
+                "name": "Pal\u00e1cio dos Ata\u00eddes",
+                "latitude": 39.744296,
+                "longitude": -8.810014
+            },
+            {
                 "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
                 "name": "Escuteiros",
                 "latitude": 39.741841,
@@ -260,6 +272,12 @@
                 "name": "Associa\u00e7\u00e3o Portuguesa de Deficientes - Sede Desportiva",
                 "latitude": 39.753845,
                 "longitude": -8.931698
+            },
+            {
+                "pokestop_id": "3fb0e2f8f4a7358192dd283577972942.16",
+                "name": "Medalh\u00e3o - Primeiro Mealheiro P\u00fablico",
+                "latitude": 39.744064,
+                "longitude": -8.807857
             },
             {
                 "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
@@ -322,6 +340,12 @@
                 "longitude": -8.930959
             },
             {
+                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
+                "name": "Zona De Merendas",
+                "latitude": 39.7347,
+                "longitude": -8.796927
+            },
+            {
                 "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
                 "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
                 "latitude": 39.741652,
@@ -350,6 +374,12 @@
                 "name": "Antigo Moinho De Papel",
                 "latitude": 39.740444,
                 "longitude": -8.800663
+            },
+            {
+                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
+                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
+                "latitude": 39.742059,
+                "longitude": -8.808031
             },
             {
                 "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
@@ -655,6 +685,24 @@
     },
     {
         "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
+                "name": "B Your Own Hero",
+                "latitude": 39.750139,
+                "longitude": -8.803923
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
         "quest_reward_amount": 500,
@@ -704,6 +752,24 @@
                 "name": "Gin\u00e1sio Blue Fitness Club",
                 "latitude": 39.730321,
                 "longitude": -8.810623
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Lileep",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lileep",
+        "quest_reward_pokemon_id": 345,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
+                "name": "Marco CTT",
+                "latitude": 39.747797,
+                "longitude": -8.803171
             }
         ]
     },
@@ -840,6 +906,48 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
+                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
+                "latitude": 39.750529,
+                "longitude": -8.803749
+            },
+            {
+                "pokestop_id": "9c3dbe6fc8ce440bad72fd7a64b4e153.11",
+                "name": "Afonso Lopes Vieira",
+                "latitude": 39.743902,
+                "longitude": -8.808525
+            },
+            {
+                "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
+                "name": "Malta do Aerosol",
+                "latitude": 39.750045,
+                "longitude": -8.935074
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251
+            },
+            {
+                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
+                "name": "\u00c1rea De Recreio",
+                "latitude": 39.745761,
+                "longitude": -8.934351
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws in a row",
         "quest_reward": "2 Golden Razz Berry",
         "quest_reward_type": "Item",
@@ -858,26 +966,44 @@
         ]
     },
     {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "9940cb7614d0496c8ccb12329656ceff.16",
+                "name": "O Principezinho",
+                "latitude": 39.745269,
+                "longitude": -8.808602
+            },
+            {
+                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
+                "name": "S.L.Anti",
+                "latitude": 39.743737,
+                "longitude": -8.805579
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Curveball Throws in a row",
+        "quest_reward": "Slakoth",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Slakoth",
+        "quest_reward_pokemon_id": 287,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
-                "name": "Malta do Aerosol",
-                "latitude": 39.750045,
-                "longitude": -8.935074
-            },
-            {
-                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
-                "name": "\u00c1rea De Recreio",
-                "latitude": 39.745761,
-                "longitude": -8.934351
+                "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
+                "name": "Praceta Abraao Zacuto",
+                "latitude": 39.74904,
+                "longitude": -8.802788
             }
         ]
     },
@@ -896,24 +1022,6 @@
                 "name": "Marco Hist\u00f3rico da Encarna\u00e7\u00e3o",
                 "latitude": 39.739074,
                 "longitude": -8.800652
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
-                "name": "S.L.Anti",
-                "latitude": 39.743737,
-                "longitude": -8.805579
             }
         ]
     }
