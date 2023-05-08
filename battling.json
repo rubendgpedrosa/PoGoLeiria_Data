@@ -42,6 +42,30 @@
         ]
     },
     {
+        "quest_description": "Battle in GO Battle League",
+        "quest_reward": "Machoke",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Machoke",
+        "quest_reward_pokemon_id": 67,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
+                "name": "Moagem Leiriense",
+                "latitude": 39.74865,
+                "longitude": -8.803723
+            },
+            {
+                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
+                "name": "Cal\u00e7ada Portuguesa",
+                "latitude": 39.744753,
+                "longitude": -8.804849
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -74,6 +98,12 @@
                 "name": "Slither Monsters",
                 "latitude": 39.746086,
                 "longitude": -8.934856
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
             }
         ]
     },
@@ -98,24 +128,6 @@
                 "name": "Painel Moinho de Papel",
                 "latitude": 39.740201,
                 "longitude": -8.800153
-            }
-        ]
-    },
-    {
-        "quest_description": "Battle in GO Battle League",
-        "quest_reward": "Machoke",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Machoke",
-        "quest_reward_pokemon_id": 67,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
-                "name": "Cal\u00e7ada Portuguesa",
-                "latitude": 39.744753,
-                "longitude": -8.804849
             }
         ]
     }
