@@ -1,47 +1,5 @@
 [
     {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Kabuto",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Kabuto",
-        "quest_reward_pokemon_id": 140,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "0f4d2ba2234b41a78dcfa1eabbecc1be.16",
-                "name": "Acad\u00e9mico de Leiria",
-                "latitude": 39.74249,
-                "longitude": -8.809242
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Aerodactyl",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Aerodactyl",
-        "quest_reward_pokemon_id": 142,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
-                "name": "Shaman Urbano",
-                "latitude": 39.744681,
-                "longitude": -8.809882
-            },
-            {
-                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
-                "name": "Campo De T\u00e9nis",
-                "latitude": 39.740902,
-                "longitude": -8.933727
-            }
-        ]
-    },
-    {
         "quest_description": "Battle in GO Battle League",
         "quest_reward": "Machoke",
         "quest_reward_type": "Pokemon",
@@ -51,6 +9,12 @@
         "quest_reward_pokemon_id": 67,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "0727712d36f33ead9a626d22bb911953.16",
+                "name": "Baloico Santa Clara",
+                "latitude": 39.73971,
+                "longitude": -8.821638
+            },
             {
                 "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
                 "name": "Catalpa",
@@ -72,6 +36,24 @@
         ]
     },
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0f4d2ba2234b41a78dcfa1eabbecc1be.16",
+                "name": "Acad\u00e9mico de Leiria",
+                "latitude": 39.74249,
+                "longitude": -8.809242
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Farfetch'd",
         "quest_reward_type": "Pokemon",
@@ -81,6 +63,12 @@
         "quest_reward_pokemon_id": 83,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "129668a582fd47fd8cc44e2489befedb.16",
+                "name": "Parede De Escalada Do Parque Da Cerca",
+                "latitude": 39.750316,
+                "longitude": -8.935659
+            },
             {
                 "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
                 "name": "Escultura Edifoz",
@@ -106,10 +94,40 @@
                 "longitude": -8.932709
             },
             {
+                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
+                "name": "Anfiteatro Do Parque Da Cerca",
+                "latitude": 39.749604,
+                "longitude": -8.934917
+            },
+            {
                 "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
                 "name": "A\u00e7ude Da Fonte Quente",
                 "latitude": 39.747803,
                 "longitude": -8.802251
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Aerodactyl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
+            },
+            {
+                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.740902,
+                "longitude": -8.933727
             }
         ]
     }
