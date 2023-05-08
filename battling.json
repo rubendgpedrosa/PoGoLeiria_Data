@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0f4d2ba2234b41a78dcfa1eabbecc1be.16",
+                "name": "Acad\u00e9mico de Leiria",
+                "latitude": 39.74249,
+                "longitude": -8.809242
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -74,6 +92,12 @@
                 "name": "Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739852,
                 "longitude": -8.808011
+            },
+            {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
             }
         ]
     }
