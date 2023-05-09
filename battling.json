@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Battle in GO Battle League",
+        "quest_reward": "Machoke",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Machoke",
+        "quest_reward_pokemon_id": 67,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2c3e851cc9694b21b30f43ccd0eb8b62.16",
+                "name": "Campo De Treino",
+                "latitude": 39.73825,
+                "longitude": -8.929618
+            },
+            {
+                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
+                "name": "Patria No Ultramar",
+                "latitude": 39.74471,
+                "longitude": -8.805589
+            },
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -20,30 +50,42 @@
                 "name": "Plataforma de \u00e1gua",
                 "latitude": 39.748981,
                 "longitude": -8.934711
+            },
+            {
+                "pokestop_id": "9ca6a62285044856b76ecea9607f63bb.16",
+                "name": "Campo De Futebol A.C. Marinhense",
+                "latitude": 39.749818,
+                "longitude": -8.936966
+            },
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
             }
         ]
     },
     {
-        "quest_description": "Battle in GO Battle League",
-        "quest_reward": "Machoke",
+        "quest_description": "Win a raid",
+        "quest_reward": "Farfetch'd",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Machoke",
-        "quest_reward_pokemon_id": 67,
+        "quest_reward_pokemon_name": "Farfetch'd",
+        "quest_reward_pokemon_id": 83,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
-                "name": "Patria No Ultramar",
-                "latitude": 39.74471,
-                "longitude": -8.805589
+                "pokestop_id": "6911dd91c1994c11a3ce259f0947fec5.16",
+                "name": "Ponte pedestre do parque da Bernardas",
+                "latitude": 39.737402,
+                "longitude": -8.928949
             },
             {
-                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
-                "name": "Gin\u00e1sio Blue Fitness Club",
-                "latitude": 39.730321,
-                "longitude": -8.810623
+                "pokestop_id": "ef40698afdf14bf2807803376584a143.16",
+                "name": "Pa\u00e7o D.Jo\u00e3o I",
+                "latitude": 39.746508,
+                "longitude": -8.809111
             }
         ]
     },
