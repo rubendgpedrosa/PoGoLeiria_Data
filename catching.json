@@ -186,6 +186,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Geodude",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Geodude",
+        "quest_reward_pokemon_id": 74,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0bc2c65541d54e619cd907342180b784.16",
+                "name": "Igreja Universal Do Reino De Deus",
+                "latitude": 39.747902,
+                "longitude": -8.805366
+            },
+            {
+                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
+                "name": "S. Francisco",
+                "latitude": 39.74836,
+                "longitude": -8.803617
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -612,6 +636,54 @@
         ]
     },
     {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Magikarp",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Magikarp",
+        "quest_reward_pokemon_id": 129,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
+            },
+            {
+                "pokestop_id": "342b74fd64304cd7bf71bc31fb16d27d.16",
+                "name": "N\u00facleo Sportinguista",
+                "latitude": 39.753852,
+                "longitude": -8.932817
+            },
+            {
+                "pokestop_id": "364a7a745fb547b5914ce2b76a8e8ddc.16",
+                "name": "Parque De Merendas - Campus 2",
+                "latitude": 39.735284,
+                "longitude": -8.821824
+            },
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "92d679c065cf4936a127b1133d3e57b6.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.754255,
+                "longitude": -8.808874
+            },
+            {
+                "pokestop_id": "dce7b40c4a4838b9b3fbf663537f23b3.16",
+                "name": "Posto de Correios CTT",
+                "latitude": 39.748012,
+                "longitude": -8.927626
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -690,48 +762,6 @@
         ]
     },
     {
-        "quest_description": "Catch 7 Pok\u00e9mon",
-        "quest_reward": "Magikarp",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Magikarp",
-        "quest_reward_pokemon_id": 129,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "342b74fd64304cd7bf71bc31fb16d27d.16",
-                "name": "N\u00facleo Sportinguista",
-                "latitude": 39.753852,
-                "longitude": -8.932817
-            },
-            {
-                "pokestop_id": "364a7a745fb547b5914ce2b76a8e8ddc.16",
-                "name": "Parque De Merendas - Campus 2",
-                "latitude": 39.735284,
-                "longitude": -8.821824
-            },
-            {
-                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
-                "name": "ISLA - Escola Profissional de Leiria",
-                "latitude": 39.73238,
-                "longitude": -8.795362
-            },
-            {
-                "pokestop_id": "92d679c065cf4936a127b1133d3e57b6.16",
-                "name": "Campo de Futebol",
-                "latitude": 39.754255,
-                "longitude": -8.808874
-            },
-            {
-                "pokestop_id": "dce7b40c4a4838b9b3fbf663537f23b3.16",
-                "name": "Posto de Correios CTT",
-                "latitude": 39.748012,
-                "longitude": -8.927626
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -746,24 +776,6 @@
                 "name": "Playcities Santo Agostinho",
                 "latitude": 39.741341,
                 "longitude": -8.801969
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Geodude",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Geodude",
-        "quest_reward_pokemon_id": 74,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
-                "name": "S. Francisco",
-                "latitude": 39.74836,
-                "longitude": -8.803617
             }
         ]
     },
@@ -956,6 +968,12 @@
                 "name": "Monumento Afonso Lopes Vieira",
                 "latitude": 39.740187,
                 "longitude": -8.812398
+            },
+            {
+                "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
+                "name": "Calv\u00e1rio",
+                "latitude": 39.746362,
+                "longitude": -8.807238
             }
         ]
     },
@@ -1070,6 +1088,24 @@
                 "name": "Anfiteatro",
                 "latitude": 39.751453,
                 "longitude": -8.809059
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
             }
         ]
     },
