@@ -1,47 +1,5 @@
 [
     {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Aerodactyl",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Aerodactyl",
-        "quest_reward_pokemon_id": 142,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
-                "name": "Campo de Futebol - IPL",
-                "latitude": 39.736738,
-                "longitude": -8.811698
-            },
-            {
-                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
-                "name": "Audit\u00f3rio",
-                "latitude": 39.749766,
-                "longitude": -8.926395
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Omanyte",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Omanyte",
-        "quest_reward_pokemon_id": 138,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "14a69ce370fb46f88261e19bbc2101cb.16",
-                "name": "Biblioteca Municipal Afonso Lopes Vieira",
-                "latitude": 39.743917,
-                "longitude": -8.810087
-            }
-        ]
-    },
-    {
         "quest_description": "Battle in GO Battle League",
         "quest_reward": "Machoke",
         "quest_reward_type": "Pokemon",
@@ -51,6 +9,12 @@
         "quest_reward_pokemon_id": 67,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "0bc2c65541d54e619cd907342180b784.16",
+                "name": "Igreja Universal Do Reino De Deus",
+                "latitude": 39.747902,
+                "longitude": -8.805366
+            },
             {
                 "pokestop_id": "23531773d4443b98b0a92a776ac62f48.16",
                 "name": "Caixa Postal CTT - Marinha Grande",
@@ -98,6 +62,48 @@
                 "name": "Campo De Futebol",
                 "latitude": 39.744672,
                 "longitude": -8.795859
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Aerodactyl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
+                "name": "Audit\u00f3rio",
+                "latitude": 39.749766,
+                "longitude": -8.926395
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Omanyte",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Omanyte",
+        "quest_reward_pokemon_id": 138,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "14a69ce370fb46f88261e19bbc2101cb.16",
+                "name": "Biblioteca Municipal Afonso Lopes Vieira",
+                "latitude": 39.743917,
+                "longitude": -8.810087
             }
         ]
     },
