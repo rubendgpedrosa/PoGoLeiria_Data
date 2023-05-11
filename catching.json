@@ -132,6 +132,42 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "Stufful",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stufful",
+        "quest_reward_pokemon_id": 759,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
+            },
+            {
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
+            },
+            {
+                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
+                "name": "Painel Moinho de Papel",
+                "latitude": 39.740201,
+                "longitude": -8.800153
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
+            }
+        ]
+    },
+    {
         "quest_description": "Catch a Ditto",
         "quest_reward": "1500 Stardust",
         "quest_reward_type": "Stardust",
@@ -282,36 +318,6 @@
         ]
     },
     {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "Stufful",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stufful",
-        "quest_reward_pokemon_id": 759,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
-                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
-                "latitude": 39.736015,
-                "longitude": -8.822146
-            },
-            {
-                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
-                "name": "Painel Moinho de Papel",
-                "latitude": 39.740201,
-                "longitude": -8.800153
-            },
-            {
-                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
-                "name": "Estradas Portugal",
-                "latitude": 39.751555,
-                "longitude": -8.808172
-            }
-        ]
-    },
-    {
         "quest_description": "Catch a Dragon-type Pok\u00e9mon",
         "quest_reward": "1500 Stardust",
         "quest_reward_type": "Stardust",
@@ -368,6 +374,12 @@
                 "name": "Janelas Santo Agostinho",
                 "latitude": 39.740857,
                 "longitude": -8.801746
+            },
+            {
+                "pokestop_id": "9c3dbe6fc8ce440bad72fd7a64b4e153.11",
+                "name": "Afonso Lopes Vieira",
+                "latitude": 39.743902,
+                "longitude": -8.808525
             },
             {
                 "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
