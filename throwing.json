@@ -150,6 +150,36 @@
         ]
     },
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "23076c7b2d5e3d209916143b5207e5b3.16",
+                "name": "Soneto da Casa",
+                "latitude": 39.733913,
+                "longitude": -8.80966
+            },
+            {
+                "pokestop_id": "692fb081edc349979975cb8a4a8d5af5.16",
+                "name": "Parque Do Museu Do Vidro",
+                "latitude": 39.74908,
+                "longitude": -8.933678
+            },
+            {
+                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
+                "name": "Anfiteatro",
+                "latitude": 39.751453,
+                "longitude": -8.809059
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -312,30 +342,6 @@
         ]
     },
     {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "692fb081edc349979975cb8a4a8d5af5.16",
-                "name": "Parque Do Museu Do Vidro",
-                "latitude": 39.74908,
-                "longitude": -8.933678
-            },
-            {
-                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
-                "name": "Anfiteatro",
-                "latitude": 39.751453,
-                "longitude": -8.809059
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "3 Pinap Berry",
         "quest_reward_type": "Item",
@@ -470,6 +476,24 @@
                 "name": "Sede de Imprensa Marinha Grande",
                 "latitude": 39.753915,
                 "longitude": -8.932095
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "Onix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Onix",
+        "quest_reward_pokemon_id": 95,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
+                "name": "Liz ao Quadro - Art Galery",
+                "latitude": 39.748424,
+                "longitude": -8.802439
             }
         ]
     },
