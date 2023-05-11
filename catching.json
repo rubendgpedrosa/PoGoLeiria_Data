@@ -84,6 +84,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
+            },
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -176,6 +200,12 @@
                 "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
                 "latitude": 39.747526,
                 "longitude": -8.93077
+            },
+            {
+                "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
+                "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
+                "latitude": 39.747526,
+                "longitude": -8.93077
             }
         ]
     },
@@ -218,24 +248,6 @@
                 "name": "Pedras de Armas",
                 "latitude": 39.741978,
                 "longitude": -8.810843
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
-                "name": "McDonald\u2019s-Leiria",
-                "latitude": 39.73516,
-                "longitude": -8.799637
             }
         ]
     },
