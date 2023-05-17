@@ -1,19 +1,31 @@
 [
     {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Kabuto",
+        "quest_description": "Battle in GO Battle League",
+        "quest_reward": "Machoke",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Kabuto",
-        "quest_reward_pokemon_id": 140,
+        "quest_reward_pokemon_name": "Machoke",
+        "quest_reward_pokemon_id": 67,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
-                "name": "Live Gym Marinha Grande",
-                "latitude": 39.74109,
-                "longitude": -8.929395
+                "pokestop_id": "47f7787d4c494d34803f1c290f5688b0.16",
+                "name": "Fonte",
+                "latitude": 39.752573,
+                "longitude": -8.933414
+            },
+            {
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
+            },
+            {
+                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
+                "name": "Xilofone M\u00e1rmore",
+                "latitude": 39.741581,
+                "longitude": -8.802014
             }
         ]
     },
@@ -28,10 +40,46 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
+                "name": "Painel Moinho de Papel",
+                "latitude": 39.740201,
+                "longitude": -8.800153
+            },
+            {
                 "pokestop_id": "be27a58579f64cae8b898b838163757b.16",
                 "name": "VDesign",
                 "latitude": 39.745756,
                 "longitude": -8.807801
+            },
+            {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
+            },
+            {
+                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
+                "name": "Ringue de futebol da Marinha Grande",
+                "latitude": 39.740808,
+                "longitude": -8.929041
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
+                "name": "Live Gym Marinha Grande",
+                "latitude": 39.74109,
+                "longitude": -8.929395
             }
         ]
     }
