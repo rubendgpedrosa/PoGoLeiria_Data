@@ -211,6 +211,72 @@
     },
     {
         "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Snubbull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snubbull",
+        "quest_reward_pokemon_id": 209,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d8a08d8b1373ea6aa0dda39ef0333c1.16",
+                "name": "m|i|mo - Museu da Imagem em Movimento",
+                "latitude": 39.747339,
+                "longitude": -8.807318
+            },
+            {
+                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
+                "name": "Black Cat",
+                "latitude": 39.745372,
+                "longitude": -8.807148
+            },
+            {
+                "pokestop_id": "1cae0c5655654f4ab9271c1b3328d4bc.16",
+                "name": "Painel Informativo C\u00e2mara Municipal de Leiria",
+                "latitude": 39.749357,
+                "longitude": -8.805745
+            },
+            {
+                "pokestop_id": "444dbacd73144e6985f077d48c38acde.16",
+                "name": "Clube M.M.G",
+                "latitude": 39.749647,
+                "longitude": -8.932786
+            },
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
+            },
+            {
+                "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
+                "name": "Malta do Aerosol",
+                "latitude": 39.750045,
+                "longitude": -8.935074
+            },
+            {
+                "pokestop_id": "ce998aebdaae3750bedfc6e568df7f5e.16",
+                "name": "Projeto U-Bike: ESTG - Bloco D",
+                "latitude": 39.734271,
+                "longitude": -8.821229
+            },
+            {
+                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
+                "name": "Liz ao Quadro - Art Galery",
+                "latitude": 39.748424,
+                "longitude": -8.802439
+            },
+            {
+                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
+                "name": "Arquivo Distrital",
+                "latitude": 39.744298,
+                "longitude": -8.811006
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 1,
@@ -304,6 +370,12 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
+            {
                 "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
                 "name": "Arco 42",
                 "latitude": 39.744873,
@@ -314,66 +386,6 @@
                 "name": "Playcity 006",
                 "latitude": 39.746676,
                 "longitude": -8.802645
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "Snubbull",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snubbull",
-        "quest_reward_pokemon_id": 209,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
-                "name": "Black Cat",
-                "latitude": 39.745372,
-                "longitude": -8.807148
-            },
-            {
-                "pokestop_id": "1cae0c5655654f4ab9271c1b3328d4bc.16",
-                "name": "Painel Informativo C\u00e2mara Municipal de Leiria",
-                "latitude": 39.749357,
-                "longitude": -8.805745
-            },
-            {
-                "pokestop_id": "444dbacd73144e6985f077d48c38acde.16",
-                "name": "Clube M.M.G",
-                "latitude": 39.749647,
-                "longitude": -8.932786
-            },
-            {
-                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
-                "name": "Ponte Verde da Encosta do Castelo",
-                "latitude": 39.748256,
-                "longitude": -8.809223
-            },
-            {
-                "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
-                "name": "Malta do Aerosol",
-                "latitude": 39.750045,
-                "longitude": -8.935074
-            },
-            {
-                "pokestop_id": "ce998aebdaae3750bedfc6e568df7f5e.16",
-                "name": "Projeto U-Bike: ESTG - Bloco D",
-                "latitude": 39.734271,
-                "longitude": -8.821229
-            },
-            {
-                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
-                "name": "Liz ao Quadro - Art Galery",
-                "latitude": 39.748424,
-                "longitude": -8.802439
-            },
-            {
-                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
-                "name": "Arquivo Distrital",
-                "latitude": 39.744298,
-                "longitude": -8.811006
             }
         ]
     },
@@ -736,6 +748,12 @@
                 "longitude": -8.809361
             },
             {
+                "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
+                "name": "Igreja de S\u00e3o Pedro",
+                "latitude": 39.74725,
+                "longitude": -8.807508
+            },
+            {
                 "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
                 "name": "Ponte pedonal norte do Parque das Bernardas",
                 "latitude": 39.738465,
@@ -852,6 +870,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "3 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "4dbc1059dc043532829dda66e5d5ab5b.16",
+                "name": "Caixa Postal CTT",
+                "latitude": 39.742178,
+                "longitude": -8.798332
+            },
+            {
+                "pokestop_id": "7f9a5234b0c5345c9940d8c491e044ee.16",
+                "name": "Choupo",
+                "latitude": 39.750912,
+                "longitude": -8.807484
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "5 Ultra Ball",
         "quest_reward_type": "Item",
@@ -956,24 +998,6 @@
                 "name": "Artes Manuais",
                 "latitude": 39.742853,
                 "longitude": -8.933931
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Curveball Throws",
-        "quest_reward": "3 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "7f9a5234b0c5345c9940d8c491e044ee.16",
-                "name": "Choupo",
-                "latitude": 39.750912,
-                "longitude": -8.807484
             }
         ]
     },
