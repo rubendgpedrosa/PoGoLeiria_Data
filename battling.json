@@ -108,6 +108,30 @@
         ]
     },
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
+                "name": "Zona De Merendas",
+                "latitude": 39.7347,
+                "longitude": -8.796927
+            },
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -122,24 +146,6 @@
                 "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
                 "latitude": 39.740095,
                 "longitude": -8.811435
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Kabuto",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Kabuto",
-        "quest_reward_pokemon_id": 140,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731552,
-                "longitude": -8.809623
             }
         ]
     }
