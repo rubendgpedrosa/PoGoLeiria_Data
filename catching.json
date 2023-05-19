@@ -222,6 +222,36 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "0a29459869b0327cba66cebbd13ecbae.16",
+                "name": "Escola de Dan\u00e7a Clara Le\u00e3o",
+                "latitude": 39.747173,
+                "longitude": -8.812967
+            },
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
+            },
+            {
+                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
+                "name": "Museu BVMG",
+                "latitude": 39.748136,
+                "longitude": -8.933859
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -518,6 +548,12 @@
                 "name": "Correios Marrazes",
                 "latitude": 39.753807,
                 "longitude": -8.81209
+            },
+            {
+                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
+                "name": "Ponte Pedonal Jardim da Almuinha",
+                "latitude": 39.751736,
+                "longitude": -8.810436
             },
             {
                 "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
@@ -984,30 +1020,6 @@
         ]
     },
     {
-        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
-                "name": "Jornal de Leiria",
-                "latitude": 39.743267,
-                "longitude": -8.809349
-            },
-            {
-                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
-                "name": "Museu BVMG",
-                "latitude": 39.748136,
-                "longitude": -8.933859
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1040,6 +1052,12 @@
                 "name": "Old Rope Spider",
                 "latitude": 39.739577,
                 "longitude": -8.929351
+            },
+            {
+                "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
+                "name": "Janelas do Jardim da Almuinha",
+                "latitude": 39.751734,
+                "longitude": -8.80984
             },
             {
                 "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
