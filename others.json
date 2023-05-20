@@ -294,6 +294,54 @@
         ]
     },
     {
+        "quest_description": "Walk 3 km",
+        "quest_reward": "Sableye",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sableye",
+        "quest_reward_pokemon_id": 302,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
+            },
+            {
+                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
+                "name": "Jogo Da Malha",
+                "latitude": 39.745722,
+                "longitude": -8.80351
+            },
+            {
+                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
+                "name": "O Nosso Claustro \u00c9 O Mundo",
+                "latitude": 39.742156,
+                "longitude": -8.811256
+            },
+            {
+                "pokestop_id": "b6ad46808bf64f2d9d44ae8950e6c7b4.16",
+                "name": "Marco Hist\u00f3rico da Encarna\u00e7\u00e3o",
+                "latitude": 39.739074,
+                "longitude": -8.800652
+            },
+            {
+                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
+                "name": "Sport Oper\u00e1rio Marinhense",
+                "latitude": 39.749997,
+                "longitude": -8.926437
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "Totodile",
         "quest_reward_type": "Pokemon",
@@ -618,48 +666,6 @@
         ]
     },
     {
-        "quest_description": "Walk 3 km",
-        "quest_reward": "Sableye",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Sableye",
-        "quest_reward_pokemon_id": 302,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
-                "name": "Fonte do Alambique",
-                "latitude": 39.751211,
-                "longitude": -8.803585
-            },
-            {
-                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
-                "name": "Jogo Da Malha",
-                "latitude": 39.745722,
-                "longitude": -8.80351
-            },
-            {
-                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
-                "name": "O Nosso Claustro \u00c9 O Mundo",
-                "latitude": 39.742156,
-                "longitude": -8.811256
-            },
-            {
-                "pokestop_id": "b6ad46808bf64f2d9d44ae8950e6c7b4.16",
-                "name": "Marco Hist\u00f3rico da Encarna\u00e7\u00e3o",
-                "latitude": 39.739074,
-                "longitude": -8.800652
-            },
-            {
-                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
-                "name": "Sport Oper\u00e1rio Marinhense",
-                "latitude": 39.749997,
-                "longitude": -8.926437
-            }
-        ]
-    },
-    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Beedrill Mega Energy",
         "quest_reward_type": "Energy",
@@ -674,6 +680,12 @@
                 "name": "Campo Basketball",
                 "latitude": 39.746655,
                 "longitude": -8.802376
+            },
+            {
+                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
+                "name": "Fontario Com Escultura",
+                "latitude": 39.739551,
+                "longitude": -8.809911
             }
         ]
     },
@@ -746,6 +758,12 @@
                 "name": "Ringue De Futebol",
                 "latitude": 39.745324,
                 "longitude": -8.933841
+            },
+            {
+                "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
+                "name": "Jogo da Macaca",
+                "latitude": 39.738327,
+                "longitude": -8.81087
             }
         ]
     },
