@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Farfetch'd",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Farfetch'd",
+        "quest_reward_pokemon_id": 83,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0727712d36f33ead9a626d22bb911953.16",
+                "name": "Baloico Santa Clara",
+                "latitude": 39.73971,
+                "longitude": -8.821638
+            },
+            {
+                "pokestop_id": "22af41a0de094b3b9a328d93dc104eff.16",
+                "name": "Lis Shopping",
+                "latitude": 39.739681,
+                "longitude": -8.817837
+            },
+            {
+                "pokestop_id": "8968f9c2f8284e1da37b0124e9ba65ea.16",
+                "name": "Campo Desportivo Da Seixa",
+                "latitude": 39.7328,
+                "longitude": -8.800894
+            }
+        ]
+    },
+    {
         "quest_description": "Battle in GO Battle League",
         "quest_reward": "Machoke",
         "quest_reward_type": "Pokemon",
@@ -38,30 +68,6 @@
                 "name": "Cabana do Parque da Cerca",
                 "latitude": 39.74824,
                 "longitude": -8.935596
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "Farfetch'd",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Farfetch'd",
-        "quest_reward_pokemon_id": 83,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "22af41a0de094b3b9a328d93dc104eff.16",
-                "name": "Lis Shopping",
-                "latitude": 39.739681,
-                "longitude": -8.817837
-            },
-            {
-                "pokestop_id": "8968f9c2f8284e1da37b0124e9ba65ea.16",
-                "name": "Campo Desportivo Da Seixa",
-                "latitude": 39.7328,
-                "longitude": -8.800894
             }
         ]
     },
