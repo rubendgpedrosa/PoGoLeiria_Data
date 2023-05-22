@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Dunsparce",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dunsparce",
+        "quest_reward_pokemon_id": 206,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "05e2a30a3d5e4fc1824752abcc7a4f69.16",
+                "name": "Graffiti Matilha",
+                "latitude": 39.742945,
+                "longitude": -8.803099
+            },
+            {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            },
+            {
+                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
+                "name": "ASURPI",
+                "latitude": 39.75141,
+                "longitude": -8.933588
+            },
+            {
+                "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
+                "name": "Campo De Apoio",
+                "latitude": 39.738138,
+                "longitude": -8.933062
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -288,32 +324,20 @@
         ]
     },
     {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "Dunsparce",
-        "quest_reward_type": "Pokemon",
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "1 Rare Candy",
+        "quest_reward_type": "Item",
         "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Dunsparce",
-        "quest_reward_pokemon_id": 206,
-        "quest_reward_item_id": 0,
+        "quest_reward_item_name": "Rare Candy",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1301,
         "pokestops": [
             {
-                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
-                "name": "Casa Mortu\u00e1ria",
-                "latitude": 39.744917,
-                "longitude": -8.798869
-            },
-            {
-                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
-                "name": "ASURPI",
-                "latitude": 39.75141,
-                "longitude": -8.933588
-            },
-            {
-                "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
-                "name": "Campo De Apoio",
-                "latitude": 39.738138,
-                "longitude": -8.933062
+                "pokestop_id": "3d6959cc1325477b88ffe44689e49093.16",
+                "name": "Ponte Pedonal Suspensa",
+                "latitude": 39.750997,
+                "longitude": -8.809201
             }
         ]
     },
@@ -356,6 +380,12 @@
                 "name": "Audit\u00f3rio",
                 "latitude": 39.749766,
                 "longitude": -8.926395
+            },
+            {
+                "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
+                "name": "Junta de Freguesia",
+                "latitude": 39.751118,
+                "longitude": -8.928216
             }
         ]
     },
