@@ -768,6 +768,36 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Geodude",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Geodude",
+        "quest_reward_pokemon_id": 74,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            },
+            {
+                "pokestop_id": "5613eab61745402d916a04de1e0cd30f.16",
+                "name": "Antigo Forno",
+                "latitude": 39.748463,
+                "longitude": -8.92676
+            },
+            {
+                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
+                "name": "O Pastor Peregrino",
+                "latitude": 39.744326,
+                "longitude": -8.807043
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -1010,30 +1040,6 @@
                 "name": "ISLA - Escola Profissional de Leiria",
                 "latitude": 39.73238,
                 "longitude": -8.795362
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Geodude",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Geodude",
-        "quest_reward_pokemon_id": 74,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5613eab61745402d916a04de1e0cd30f.16",
-                "name": "Antigo Forno",
-                "latitude": 39.748463,
-                "longitude": -8.92676
-            },
-            {
-                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
-                "name": "O Pastor Peregrino",
-                "latitude": 39.744326,
-                "longitude": -8.807043
             }
         ]
     },
