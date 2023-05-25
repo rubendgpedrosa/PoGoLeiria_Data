@@ -88,6 +88,12 @@
                 "longitude": -8.821751
             },
             {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
+            {
                 "pokestop_id": "342b74fd64304cd7bf71bc31fb16d27d.16",
                 "name": "N\u00facleo Sportinguista",
                 "latitude": 39.753852,
@@ -116,6 +122,18 @@
                 "name": "Parque de Merendas",
                 "latitude": 39.733817,
                 "longitude": -8.809361
+            },
+            {
+                "pokestop_id": "4dbc1059dc043532829dda66e5d5ab5b.16",
+                "name": "Caixa Postal CTT",
+                "latitude": 39.742178,
+                "longitude": -8.798332
+            },
+            {
+                "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
+                "name": "B Your Own Hero",
+                "latitude": 39.750139,
+                "longitude": -8.803923
             },
             {
                 "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
@@ -250,6 +268,12 @@
                 "longitude": -8.810623
             },
             {
+                "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
+                "name": "Mural Brisa do Lis",
+                "latitude": 39.743468,
+                "longitude": -8.812448
+            },
+            {
                 "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
                 "name": "Centro De Encontro Do Parque Da Cerca",
                 "latitude": 39.748632,
@@ -346,6 +370,12 @@
                 "longitude": -8.823089
             },
             {
+                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
+                "name": "Ponte Azul",
+                "latitude": 39.749013,
+                "longitude": -8.801741
+            },
+            {
                 "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
                 "name": "Lady in Red",
                 "latitude": 39.741869,
@@ -380,6 +410,12 @@
                 "name": "Complexo Municipal De T\u00eanis",
                 "latitude": 39.735363,
                 "longitude": -8.795582
+            },
+            {
+                "pokestop_id": "14a69ce370fb46f88261e19bbc2101cb.16",
+                "name": "Biblioteca Municipal Afonso Lopes Vieira",
+                "latitude": 39.743917,
+                "longitude": -8.810087
             },
             {
                 "pokestop_id": "1d22b403b3e849439d80774f339186b4.16",
@@ -560,6 +596,12 @@
                 "name": "CAL",
                 "latitude": 39.741024,
                 "longitude": -8.806283
+            },
+            {
+                "pokestop_id": "9c3dbe6fc8ce440bad72fd7a64b4e153.11",
+                "name": "Afonso Lopes Vieira",
+                "latitude": 39.743902,
+                "longitude": -8.808525
             },
             {
                 "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
@@ -786,6 +828,24 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29067fa585d24b8480240cbc1f6e8484.16",
+                "name": "Galerias Beira Rio",
+                "latitude": 39.750341,
+                "longitude": -8.802272
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Normal-type Pok\u00e9mon",
         "quest_reward": "Minccino",
         "quest_reward_type": "Pokemon",
@@ -1008,6 +1068,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Rattata",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Rattata",
+        "quest_reward_pokemon_id": 19,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
+                "name": "Pal\u00e1cio dos Ata\u00eddes",
+                "latitude": 39.744296,
+                "longitude": -8.810014
+            },
+            {
+                "pokestop_id": "be27a58579f64cae8b898b838163757b.16",
+                "name": "VDesign",
+                "latitude": 39.745756,
+                "longitude": -8.807801
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -1094,24 +1178,6 @@
                 "name": "Teatro Miguel Franco",
                 "latitude": 39.742692,
                 "longitude": -8.80773
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Rattata",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Rattata",
-        "quest_reward_pokemon_id": 19,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "be27a58579f64cae8b898b838163757b.16",
-                "name": "VDesign",
-                "latitude": 39.745756,
-                "longitude": -8.807801
             }
         ]
     },
