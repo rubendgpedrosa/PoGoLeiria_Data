@@ -208,6 +208,12 @@
                 "longitude": -8.809802
             },
             {
+                "pokestop_id": "832a7aa8d7b5306595ed9b512f663c44.16",
+                "name": "\u00c1rvore do Ambar",
+                "latitude": 39.732049,
+                "longitude": -8.796385
+            },
+            {
                 "pokestop_id": "897ec754d2833022ae683fdeb8474d10.16",
                 "name": "Pinheiro Manso",
                 "latitude": 39.735547,
@@ -340,6 +346,18 @@
                 "longitude": -8.80966
             },
             {
+                "pokestop_id": "397894b8406948d39293b559e2a32455.16",
+                "name": "Instituto Portugu\u00eas da Juventude",
+                "latitude": 39.747497,
+                "longitude": -8.81418
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
+            },
+            {
                 "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
                 "name": "Gin\u00e1sio Fit On Move",
                 "latitude": 39.745658,
@@ -362,6 +380,12 @@
                 "name": "Igreja Universal Do Reino De Deus",
                 "latitude": 39.747902,
                 "longitude": -8.805366
+            },
+            {
+                "pokestop_id": "2eef5abe51ad487f95a1ebd034c9bdef.16",
+                "name": "Choupo Negro",
+                "latitude": 39.750236,
+                "longitude": -8.804137
             },
             {
                 "pokestop_id": "51a5cfd3c47c404080bf2813b792897b.16",
@@ -434,6 +458,12 @@
                 "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
                 "latitude": 39.745038,
                 "longitude": -8.804716
+            },
+            {
+                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.740095,
+                "longitude": -8.811435
             }
         ]
     },
@@ -464,6 +494,12 @@
                 "name": "Slither Monsters",
                 "latitude": 39.746086,
                 "longitude": -8.934856
+            },
+            {
+                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
+                "name": "Igreja Man\u00e1",
+                "latitude": 39.741498,
+                "longitude": -8.799315
             },
             {
                 "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
@@ -703,6 +739,30 @@
     },
     {
         "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Beedrill Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Beedrill",
+        "quest_reward_pokemon_id": 15,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8cbd770c2c204e229947f1fad6509bd4.16",
+                "name": "O intelectual.",
+                "latitude": 39.747676,
+                "longitude": -8.813754
+            },
+            {
+                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
+                "name": "Shopping 2000",
+                "latitude": 39.749243,
+                "longitude": -8.803685
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Blastoise Mega Energy",
         "quest_reward_type": "Energy",
         "quest_reward_amount": 10,
@@ -740,24 +800,6 @@
                 "name": "CTT Leiria Plaza",
                 "latitude": 39.742146,
                 "longitude": -8.810426
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Beedrill Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Beedrill",
-        "quest_reward_pokemon_id": 15,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
-                "name": "Shopping 2000",
-                "latitude": 39.749243,
-                "longitude": -8.803685
             }
         ]
     },
