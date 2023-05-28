@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Farfetch'd",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Farfetch'd",
+        "quest_reward_pokemon_id": 83,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0a24790da0af39809c89230721e5ace9.16",
+                "name": "Terra\u00e7o do Ateneu",
+                "latitude": 39.739192,
+                "longitude": -8.818713
+            },
+            {
+                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
+                "name": "Igreja Batista da Lagoinha",
+                "latitude": 39.740459,
+                "longitude": -8.80699
+            }
+        ]
+    },
+    {
         "quest_description": "Battle in GO Battle League",
         "quest_reward": "Machoke",
         "quest_reward_type": "Pokemon",
@@ -38,24 +62,6 @@
                 "name": "Polit\u00e9cnico de Leiria - ESECS",
                 "latitude": 39.739751,
                 "longitude": -8.811364
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "Farfetch'd",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Farfetch'd",
-        "quest_reward_pokemon_id": 83,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
-                "name": "Igreja Batista da Lagoinha",
-                "latitude": 39.740459,
-                "longitude": -8.80699
             }
         ]
     },
