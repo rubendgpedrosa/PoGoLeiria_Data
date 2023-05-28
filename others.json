@@ -318,6 +318,54 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Sudowoodo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sudowoodo",
+        "quest_reward_pokemon_id": 185,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "10ff966179c0441eb6f3adab100f3704.16",
+                "name": "Shopping Center Cristal Atrium",
+                "latitude": 39.747276,
+                "longitude": -8.93684
+            },
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            },
+            {
+                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
+                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
+                "latitude": 39.745038,
+                "longitude": -8.804716
+            },
+            {
+                "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
+                "name": "The Faces",
+                "latitude": 39.748058,
+                "longitude": -8.804519
+            },
+            {
+                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.740095,
+                "longitude": -8.811435
+            },
+            {
+                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
+                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
+                "latitude": 39.744778,
+                "longitude": -8.80632
+            }
+        ]
+    },
+    {
         "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
         "quest_reward": "Hoppip",
         "quest_reward_type": "Pokemon",
@@ -434,48 +482,6 @@
                 "name": "Afonso Lopes Vieira",
                 "latitude": 39.743902,
                 "longitude": -8.808525
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Sudowoodo",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Sudowoodo",
-        "quest_reward_pokemon_id": 185,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
-                "name": "Catalpa",
-                "latitude": 39.745748,
-                "longitude": -8.804397
-            },
-            {
-                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
-                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
-                "latitude": 39.745038,
-                "longitude": -8.804716
-            },
-            {
-                "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
-                "name": "The Faces",
-                "latitude": 39.748058,
-                "longitude": -8.804519
-            },
-            {
-                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
-                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
-                "latitude": 39.740095,
-                "longitude": -8.811435
-            },
-            {
-                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
-                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
-                "latitude": 39.744778,
-                "longitude": -8.80632
             }
         ]
     },
