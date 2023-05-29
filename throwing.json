@@ -114,6 +114,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "10 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
+                "name": "Monumento Afonso Lopes Vieira",
+                "latitude": 39.740187,
+                "longitude": -8.812398
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -346,6 +370,12 @@
                 "longitude": -8.80351
             },
             {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
+            },
+            {
                 "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
                 "name": "Rotary Club De Leiria",
                 "latitude": 39.735202,
@@ -430,6 +460,12 @@
                 "longitude": -8.813784
             },
             {
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
+            },
+            {
                 "pokestop_id": "bddaa61df7864fd898a226e033864d45.16",
                 "name": "Ponte Parque Infantil",
                 "latitude": 39.750377,
@@ -440,6 +476,42 @@
                 "name": "Antigo Bebedouro",
                 "latitude": 39.750713,
                 "longitude": -8.926943
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Curveball Throws in a row",
+        "quest_reward": "Slakoth",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Slakoth",
+        "quest_reward_pokemon_id": 287,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
+            {
+                "pokestop_id": "2ee5e9aa78c2326ca47a6d1fcb42d8dc.16",
+                "name": "O pastor",
+                "latitude": 39.748327,
+                "longitude": -8.807442
+            },
+            {
+                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
+                "name": "Jogo De Som",
+                "latitude": 39.734864,
+                "longitude": -8.797733
+            },
+            {
+                "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
+                "name": "Mural Brisa do Lis",
+                "latitude": 39.743468,
+                "longitude": -8.812448
             }
         ]
     },
@@ -470,36 +542,6 @@
                 "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
                 "latitude": 39.745123,
                 "longitude": -8.797432
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Curveball Throws in a row",
-        "quest_reward": "Slakoth",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Slakoth",
-        "quest_reward_pokemon_id": 287,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2ee5e9aa78c2326ca47a6d1fcb42d8dc.16",
-                "name": "O pastor",
-                "latitude": 39.748327,
-                "longitude": -8.807442
-            },
-            {
-                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
-                "name": "Jogo De Som",
-                "latitude": 39.734864,
-                "longitude": -8.797733
-            },
-            {
-                "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
-                "name": "Mural Brisa do Lis",
-                "latitude": 39.743468,
-                "longitude": -8.812448
             }
         ]
     },
@@ -962,24 +1004,6 @@
                 "name": "Jogo da Macaca",
                 "latitude": 39.738327,
                 "longitude": -8.81087
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Curveball Throws",
-        "quest_reward": "10 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
-                "name": "Monumento Afonso Lopes Vieira",
-                "latitude": 39.740187,
-                "longitude": -8.812398
             }
         ]
     },
