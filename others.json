@@ -1,5 +1,59 @@
 [
     {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Hoppip",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Hoppip",
+        "quest_reward_pokemon_id": 187,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "097466c5212c4a0a81c4123a78445154.16",
+                "name": "Mural \"Liberdade\"",
+                "latitude": 39.745754,
+                "longitude": -8.805297
+            },
+            {
+                "pokestop_id": "1f8df9d7634c44a2b38af780e0f882bc.11",
+                "name": "Edif\u00edcio do Dr. Jo\u00e3o Carlos Verde de Oliveira",
+                "latitude": 39.742779,
+                "longitude": -8.804791
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Squirtle",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Squirtle",
+        "quest_reward_pokemon_id": 7,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "098af78ab679495aadb944e4da01fd49.11",
+                "name": "Ultramar",
+                "latitude": 39.745448,
+                "longitude": -8.805844
+            },
+            {
+                "pokestop_id": "0bc494effd014e5dbc2284958658b195.11",
+                "name": "Praca Rodrigues Lobo",
+                "latitude": 39.744413,
+                "longitude": -8.808075
+            },
+            {
+                "pokestop_id": "3745160e3b4b4b71b2f2de8617750ace.16",
+                "name": "Antigo Moinho De Papel",
+                "latitude": 39.740444,
+                "longitude": -8.800663
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "Sudowoodo",
         "quest_reward_type": "Pokemon",
@@ -22,10 +76,46 @@
                 "longitude": -8.82037
             },
             {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
+            },
+            {
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
+            },
+            {
                 "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
                 "name": "ESSLEI",
                 "latitude": 39.732661,
                 "longitude": -8.820675
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Mantine",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mantine",
+        "quest_reward_pokemon_id": 226,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b47f45c695c45d18f4fd061a8ab3144.16",
+                "name": "Edif\u00edcio Z\u00faquete",
+                "latitude": 39.744416,
+                "longitude": -8.807663
+            },
+            {
+                "pokestop_id": "490174996655472e998bccb559694a1b.16",
+                "name": "Bordalo II",
+                "latitude": 39.742515,
+                "longitude": -8.80218
             }
         ]
     },
@@ -62,6 +152,78 @@
                 "name": "Museu BVMG",
                 "latitude": 39.748136,
                 "longitude": -8.933859
+            }
+        ]
+    },
+    {
+        "quest_description": "Purify 3 Pokemon",
+        "quest_reward": "Nidorina",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Nidorina",
+        "quest_reward_pokemon_id": 30,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 10 supereffective Charged Attacks",
+        "quest_reward": "25 Lopunny Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Lopunny",
+        "quest_reward_pokemon_id": 428,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
+                "name": "Arco 42",
+                "latitude": 39.744873,
+                "longitude": -8.807102
+            },
+            {
+                "pokestop_id": "300f8d0be9d2491ab4c578c377120e03.16",
+                "name": "Marco de Correio",
+                "latitude": 39.734008,
+                "longitude": -8.808168
+            },
+            {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
+            },
+            {
+                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
+                "name": "Torre Agua Leiria",
+                "latitude": 39.743319,
+                "longitude": -8.799232
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Beedrill Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Beedrill",
+        "quest_reward_pokemon_id": 15,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
+                "name": "Black Cat",
+                "latitude": 39.745372,
+                "longitude": -8.807148
             }
         ]
     },
@@ -108,24 +270,6 @@
         ]
     },
     {
-        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
-        "quest_reward": "Hoppip",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Hoppip",
-        "quest_reward_pokemon_id": 187,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "1f8df9d7634c44a2b38af780e0f882bc.11",
-                "name": "Edif\u00edcio do Dr. Jo\u00e3o Carlos Verde de Oliveira",
-                "latitude": 39.742779,
-                "longitude": -8.804791
-            }
-        ]
-    },
-    {
         "quest_description": "Take 2 snapshots of wild Fairy-type Pok\u00e9mon",
         "quest_reward": "Snubbull",
         "quest_reward_type": "Pokemon",
@@ -140,6 +284,18 @@
                 "name": "Correios Leiria (Post Office)",
                 "latitude": 39.743073,
                 "longitude": -8.808473
+            },
+            {
+                "pokestop_id": "364a7a745fb547b5914ce2b76a8e8ddc.16",
+                "name": "Parque De Merendas - Campus 2",
+                "latitude": 39.735284,
+                "longitude": -8.821824
+            },
+            {
+                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
+                "name": "ASURPI",
+                "latitude": 39.75141,
+                "longitude": -8.933588
             },
             {
                 "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
@@ -158,24 +314,18 @@
                 "name": "Parque da Cerca",
                 "latitude": 39.748598,
                 "longitude": -8.934927
-            }
-        ]
-    },
-    {
-        "quest_description": "Hatch an Egg",
-        "quest_reward": "Mantine",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Mantine",
-        "quest_reward_pokemon_id": 226,
-        "quest_reward_item_id": 0,
-        "pokestops": [
+            },
             {
-                "pokestop_id": "490174996655472e998bccb559694a1b.16",
-                "name": "Bordalo II",
-                "latitude": 39.742515,
-                "longitude": -8.80218
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
+            },
+            {
+                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
+                "name": "Ponte Pique-nique",
+                "latitude": 39.739692,
+                "longitude": -8.798933
             }
         ]
     },
@@ -222,6 +372,42 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Pidgeot Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Pidgeot",
+        "quest_reward_pokemon_id": 18,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
+                "name": "The Faces",
+                "latitude": 39.748058,
+                "longitude": -8.804519
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Venusaur Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Venusaur",
+        "quest_reward_pokemon_id": 3,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "88cdcb6d570d4c1bbad94a55d966d4c5.16",
+                "name": "Anfiteatro Praceta Abra\u00e3o Zacuto",
+                "latitude": 39.749235,
+                "longitude": -8.802702
+            }
+        ]
+    },
+    {
         "quest_description": "Trade a Pok\u00e9mon",
         "quest_reward": "Karrablast",
         "quest_reward_type": "Pokemon",
@@ -240,6 +426,24 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
+                "name": "Sede Bloco de Esquerda",
+                "latitude": 39.750634,
+                "longitude": -8.932602
+            }
+        ]
+    },
+    {
         "quest_description": "Walk 3 km",
         "quest_reward": "Sableye",
         "quest_reward_type": "Pokemon",
@@ -250,10 +454,88 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
+            },
+            {
                 "pokestop_id": "f20cf939cb55424184465327db0ec8e8.16",
                 "name": "Playcity 006",
                 "latitude": 39.746676,
                 "longitude": -8.802645
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
+                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
+                "latitude": 39.745253,
+                "longitude": -8.80654
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Charmander",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Charmander",
+        "quest_reward_pokemon_id": 4,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b6ad46808bf64f2d9d44ae8950e6c7b4.16",
+                "name": "Marco Hist\u00f3rico da Encarna\u00e7\u00e3o",
+                "latitude": 39.739074,
+                "longitude": -8.800652
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
+                "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739793,
+                "longitude": -8.808255
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Blastoise Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "eb4ed26ece984942b87a28477de84568.16",
+                "name": "IPL - Unidade de investiga\u00e7\u00e3o",
+                "latitude": 39.74349,
+                "longitude": -8.791929
             }
         ]
     },
@@ -272,6 +554,24 @@
                 "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
                 "latitude": 39.746897,
                 "longitude": -8.804124
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Cyndaquil",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cyndaquil",
+        "quest_reward_pokemon_id": 155,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
+                "name": "Ponte Azul",
+                "latitude": 39.749013,
+                "longitude": -8.801741
             }
         ]
     },
