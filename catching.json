@@ -72,6 +72,78 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "05e2a30a3d5e4fc1824752abcc7a4f69.16",
+                "name": "Graffiti Matilha",
+                "latitude": 39.742945,
+                "longitude": -8.803099
+            },
+            {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            },
+            {
+                "pokestop_id": "a175686711784037833ee274d88813d8.16",
+                "name": "Galeria Manuel Artur Santos",
+                "latitude": 39.742898,
+                "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
+                "name": "LM Fitness",
+                "latitude": 39.747089,
+                "longitude": -8.935386
+            },
+            {
+                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
+                "name": "ESSLEI",
+                "latitude": 39.732661,
+                "longitude": -8.820675
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "0727712d36f33ead9a626d22bb911953.16",
+                "name": "Baloico Santa Clara",
+                "latitude": 39.73971,
+                "longitude": -8.821638
+            },
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            },
+            {
+                "pokestop_id": "49f915dee3254434924c648a382a932d.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.750712,
+                "longitude": -8.816448
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -146,6 +218,12 @@
                 "name": "Painel de Azulejos D. Nuno \u00c1lvares Pereira",
                 "latitude": 39.750326,
                 "longitude": -8.930843
+            },
+            {
+                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
+                "name": "Faces Cubistas",
+                "latitude": 39.750855,
+                "longitude": -8.806714
             }
         ]
     },
@@ -280,6 +358,18 @@
                 "longitude": -8.804716
             },
             {
+                "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
+                "name": "Centro Shotokan Leiria",
+                "latitude": 39.747428,
+                "longitude": -8.807456
+            },
+            {
+                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
+                "name": "CAL",
+                "latitude": 39.741024,
+                "longitude": -8.806283
+            },
+            {
                 "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
                 "name": "Slither Monsters",
                 "latitude": 39.746086,
@@ -310,34 +400,16 @@
                 "longitude": -8.793462
             },
             {
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
+            },
+            {
                 "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
                 "name": "Biblioteca Municipal",
                 "latitude": 39.749895,
                 "longitude": -8.934498
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
-                "name": "Bairro do Povo",
-                "latitude": 39.741382,
-                "longitude": -8.931793
-            },
-            {
-                "pokestop_id": "49f915dee3254434924c648a382a932d.16",
-                "name": "Campo De T\u00e9nis",
-                "latitude": 39.750712,
-                "longitude": -8.816448
             }
         ]
     },
@@ -358,10 +430,34 @@
                 "longitude": -8.804572
             },
             {
+                "pokestop_id": "29067fa585d24b8480240cbc1f6e8484.16",
+                "name": "Galerias Beira Rio",
+                "latitude": 39.750341,
+                "longitude": -8.802272
+            },
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
+            },
+            {
+                "pokestop_id": "b45d709e2d704d54aa402db61ddd284c.16",
+                "name": "Live gym Almuinha Grande",
+                "latitude": 39.75227,
+                "longitude": -8.813364
+            },
+            {
                 "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
                 "name": "Assembleia de Deus",
                 "latitude": 39.745074,
                 "longitude": -8.936455
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
             }
         ]
     },
@@ -416,6 +512,12 @@
                 "name": "Placa Informativa - Antes do Castelo",
                 "latitude": 39.747749,
                 "longitude": -8.808107
+            },
+            {
+                "pokestop_id": "db4297efc87f426fb048a83fbd6ddfc6.16",
+                "name": "Capela Sao Francisco",
+                "latitude": 39.748187,
+                "longitude": -8.803393
             }
         ]
     },
@@ -472,6 +574,12 @@
                 "longitude": -8.809201
             },
             {
+                "pokestop_id": "57da555c66ca4169b393e3b97389a780.16",
+                "name": "Parque Infantil Jardim do Liz",
+                "latitude": 39.750826,
+                "longitude": -8.806392
+            },
+            {
                 "pokestop_id": "9ca6a62285044856b76ecea9607f63bb.16",
                 "name": "Campo De Futebol A.C. Marinhense",
                 "latitude": 39.749818,
@@ -512,6 +620,12 @@
                 "name": "O Diab\u00f3lico",
                 "latitude": 39.729536,
                 "longitude": -8.812971
+            },
+            {
+                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
+                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
+                "latitude": 39.750529,
+                "longitude": -8.803749
             }
         ]
     },
@@ -595,42 +709,6 @@
     },
     {
         "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
-                "name": "Casa Mortu\u00e1ria",
-                "latitude": 39.744917,
-                "longitude": -8.798869
-            },
-            {
-                "pokestop_id": "a175686711784037833ee274d88813d8.16",
-                "name": "Galeria Manuel Artur Santos",
-                "latitude": 39.742898,
-                "longitude": -8.807245
-            },
-            {
-                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
-                "name": "LM Fitness",
-                "latitude": 39.747089,
-                "longitude": -8.935386
-            },
-            {
-                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
-                "name": "ESSLEI",
-                "latitude": 39.732661,
-                "longitude": -8.820675
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 3,
@@ -650,6 +728,12 @@
                 "name": "Fonte",
                 "latitude": 39.752573,
                 "longitude": -8.933414
+            },
+            {
+                "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
+                "name": "Ponte Hintze Ribeiro",
+                "latitude": 39.742734,
+                "longitude": -8.803525
             },
             {
                 "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
@@ -726,6 +810,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "49c04382873542c79044fd2f8014bd55.16",
+                "name": "Atl\u00e9tico Clube Marinhense",
+                "latitude": 39.748748,
+                "longitude": -8.936854
+            },
+            {
+                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
+                "name": "Wellness life",
+                "latitude": 39.751779,
+                "longitude": -8.929718
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -740,6 +848,12 @@
                 "name": "Mural Brave",
                 "latitude": 39.743151,
                 "longitude": -8.812097
+            },
+            {
+                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
+                "name": "Shopping 2000",
+                "latitude": 39.749243,
+                "longitude": -8.803685
             }
         ]
     },
@@ -794,6 +908,12 @@
                 "name": "Jardins do Lis Galerias",
                 "latitude": 39.750761,
                 "longitude": -8.805877
+            },
+            {
+                "pokestop_id": "bddaa61df7864fd898a226e033864d45.16",
+                "name": "Ponte Parque Infantil",
+                "latitude": 39.750377,
+                "longitude": -8.806284
             },
             {
                 "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
@@ -872,6 +992,12 @@
                 "name": "Mural ESTG",
                 "latitude": 39.734569,
                 "longitude": -8.821932
+            },
+            {
+                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
+                "name": "Ponte Azul",
+                "latitude": 39.749013,
+                "longitude": -8.801741
             }
         ]
     },
@@ -998,24 +1124,6 @@
                 "name": "Sede do Partido Social Democrata da Marinha Grande",
                 "latitude": 39.746712,
                 "longitude": -8.928824
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
-                "name": "Wellness life",
-                "latitude": 39.751779,
-                "longitude": -8.929718
             }
         ]
     },
