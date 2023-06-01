@@ -60,6 +60,30 @@
         ]
     },
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Marowak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marowak",
+        "quest_reward_pokemon_id": 105,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
+            },
+            {
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Marowak",
         "quest_reward_type": "Pokemon",
@@ -116,24 +140,6 @@
                 "name": "Jogo Da Malha",
                 "latitude": 39.745722,
                 "longitude": -8.80351
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "Marowak",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Marowak",
-        "quest_reward_pokemon_id": 105,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
-                "name": "Parque de Merendas Sta Clara",
-                "latitude": 39.738467,
-                "longitude": -8.822362
             }
         ]
     }
