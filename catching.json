@@ -19,6 +19,48 @@
     },
     {
         "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "Shuppet",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Shuppet",
+        "quest_reward_pokemon_id": 353,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
+                "name": "Skate Park",
+                "latitude": 39.735189,
+                "longitude": -8.797673
+            },
+            {
+                "pokestop_id": "6911dd91c1994c11a3ce259f0947fec5.16",
+                "name": "Ponte pedestre do parque da Bernardas",
+                "latitude": 39.737402,
+                "longitude": -8.928949
+            },
+            {
+                "pokestop_id": "89e6677193c942f28ff974cb475e9785.16",
+                "name": "Parque Infantil",
+                "latitude": 39.745231,
+                "longitude": -8.93432
+            },
+            {
+                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
+                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
+                "latitude": 39.75142,
+                "longitude": -8.930414
+            },
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
         "quest_reward_amount": 5,
@@ -116,6 +158,12 @@
                 "name": "Campos CCMI",
                 "latitude": 39.729594,
                 "longitude": -8.808204
+            },
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
             },
             {
                 "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
@@ -440,6 +488,12 @@
                 "name": "Antigo Forno",
                 "latitude": 39.748463,
                 "longitude": -8.92676
+            },
+            {
+                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
+                "name": "Parque da Encarna\u00e7\u00e3o",
+                "latitude": 39.738905,
+                "longitude": -8.798901
             }
         ]
     },
@@ -630,6 +684,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Swinub",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Swinub",
+        "quest_reward_pokemon_id": 220,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
+                "name": "D. Dinis",
+                "latitude": 39.745862,
+                "longitude": -8.809441
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 15 different species of Pok\u00e9mon",
         "quest_reward": "Exeggutor",
         "quest_reward_type": "Pokemon",
@@ -656,6 +734,12 @@
                 "name": "Centro Shotokan Leiria",
                 "latitude": 39.747428,
                 "longitude": -8.807456
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251
             }
         ]
     },
@@ -686,42 +770,6 @@
                 "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
                 "latitude": 39.744597,
                 "longitude": -8.935054
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "Shuppet",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Shuppet",
-        "quest_reward_pokemon_id": 353,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6911dd91c1994c11a3ce259f0947fec5.16",
-                "name": "Ponte pedestre do parque da Bernardas",
-                "latitude": 39.737402,
-                "longitude": -8.928949
-            },
-            {
-                "pokestop_id": "89e6677193c942f28ff974cb475e9785.16",
-                "name": "Parque Infantil",
-                "latitude": 39.745231,
-                "longitude": -8.93432
-            },
-            {
-                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
-                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
-                "latitude": 39.75142,
-                "longitude": -8.930414
-            },
-            {
-                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
-                "name": "Jungle Gym",
-                "latitude": 39.749395,
-                "longitude": -8.802482
             }
         ]
     },
@@ -810,6 +858,24 @@
         ]
     },
     {
+        "quest_description": "Catch a Ditto",
+        "quest_reward": "2 Golden Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Golden Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 706,
+        "pokestops": [
+            {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Hippopotas",
         "quest_reward_type": "Pokemon",
@@ -824,6 +890,24 @@
                 "name": "Oficina da M\u00fasica",
                 "latitude": 39.745717,
                 "longitude": -8.933685
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "897ec754d2833022ae683fdeb8474d10.16",
+                "name": "Pinheiro Manso",
+                "latitude": 39.735547,
+                "longitude": -8.796467
             }
         ]
     },
@@ -1002,6 +1086,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Roggenrola",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Roggenrola",
+        "quest_reward_pokemon_id": 524,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
+                "name": "Rotary Club De Leiria",
+                "latitude": 39.735202,
+                "longitude": -8.798938
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 15 Pok\u00e9mon",
         "quest_reward": "Baltoy",
         "quest_reward_type": "Pokemon",
@@ -1016,24 +1118,6 @@
                 "name": "Jardim de Leiria",
                 "latitude": 39.744338,
                 "longitude": -8.806031
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Swinub",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Swinub",
-        "quest_reward_pokemon_id": 220,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
-                "name": "D. Dinis",
-                "latitude": 39.745862,
-                "longitude": -8.809441
             }
         ]
     },
