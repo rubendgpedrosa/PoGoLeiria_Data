@@ -76,6 +76,12 @@
                 "longitude": -8.809201
             },
             {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
+            },
+            {
                 "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
                 "name": "Caritas Diocesana de Leiria",
                 "latitude": 39.73688,
@@ -278,6 +284,12 @@
                 "name": "Catalpa",
                 "latitude": 39.745748,
                 "longitude": -8.804397
+            },
+            {
+                "pokestop_id": "46466edffad93e0d99f46c379661c144.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.739412,
+                "longitude": -8.81129
             },
             {
                 "pokestop_id": "59a6eb172b334499b7489e32c8ac436c.16",
@@ -632,6 +644,12 @@
                 "name": "Ponte pedonal do parque das Almoinhas",
                 "latitude": 39.751479,
                 "longitude": -8.813373
+            },
+            {
+                "pokestop_id": "f253df31ccb53395831c337eae84c9f9.16",
+                "name": "Antiga Sede Jornal de Leiria",
+                "latitude": 39.744151,
+                "longitude": -8.811916
             }
         ]
     },
@@ -793,6 +811,24 @@
     },
     {
         "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Blastoise Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "57da555c66ca4169b393e3b97389a780.16",
+                "name": "Parque Infantil Jardim do Liz",
+                "latitude": 39.750826,
+                "longitude": -8.806392
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Manectric Mega Energy",
         "quest_reward_type": "Energy",
         "quest_reward_amount": 10,
@@ -948,6 +984,24 @@
         ]
     },
     {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Geodude",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Geodude",
+        "quest_reward_pokemon_id": 74,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
+                "name": "Jogo da Macaca",
+                "latitude": 39.738327,
+                "longitude": -8.81087
+            }
+        ]
+    },
+    {
         "quest_description": "Trade a Pok\u00e9mon",
         "quest_reward": "Roggenrola",
         "quest_reward_type": "Pokemon",
@@ -962,6 +1016,12 @@
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
                 "longitude": -8.811107
+            },
+            {
+                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
+                "name": "Caixa Postal CTT - Guimarota",
+                "latitude": 39.732839,
+                "longitude": -8.795816
             }
         ]
     },
