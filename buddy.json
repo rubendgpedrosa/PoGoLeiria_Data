@@ -194,6 +194,12 @@
                 "name": "Pr\u00e9fecture De Police De Paris",
                 "latitude": 48.854147,
                 "longitude": 2.347317
+            },
+            {
+                "pokestop_id": "5ecda6ed21f94e13b6cae04fb2a49244.16",
+                "name": "Cit\u00e9 Marignac",
+                "latitude": 48.857367,
+                "longitude": 2.318181
             }
         ]
     },
@@ -242,6 +248,12 @@
                 "name": "The Stamp",
                 "latitude": 48.855118,
                 "longitude": 2.360421
+            },
+            {
+                "pokestop_id": "18dfe0d42c3440b1aa231846d8878df7.16",
+                "name": "Galerie \u00c9ph\u00e9m\u00e8re",
+                "latitude": 48.858084,
+                "longitude": 2.317735
             },
             {
                 "pokestop_id": "1cae0c5655654f4ab9271c1b3328d4bc.16",
@@ -361,6 +373,42 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Litleo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "431bca84372141cf98ecd5babc8c9fa0.16",
+                "name": "Jacques De Wuss Amy, Monumental",
+                "latitude": 48.854367,
+                "longitude": 2.316373
+            },
+            {
+                "pokestop_id": "9bd41ac292f74dd0a8964976f35d7210.12",
+                "name": "Nov 2006 - Paris, France. St-C",
+                "latitude": 48.855478,
+                "longitude": 2.344765
+            },
+            {
+                "pokestop_id": "ba18c60831b34866aae0f95469701e49.16",
+                "name": "Les Fr\u00e8res Jumeaux",
+                "latitude": 48.861354,
+                "longitude": 2.306759
+            },
+            {
+                "pokestop_id": "e2dc6631cc244fd0a073294535e61f56.16",
+                "name": "La For\u00eat Bleue",
+                "latitude": 48.858267,
+                "longitude": 2.353402
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Dedenne",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -440,36 +488,6 @@
                 "name": "Les D\u00e9esses Encadrant La Porte",
                 "latitude": 48.858093,
                 "longitude": 2.344196
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Litleo",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Litleo",
-        "quest_reward_pokemon_id": 667,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "9bd41ac292f74dd0a8964976f35d7210.12",
-                "name": "Nov 2006 - Paris, France. St-C",
-                "latitude": 48.855478,
-                "longitude": 2.344765
-            },
-            {
-                "pokestop_id": "ba18c60831b34866aae0f95469701e49.16",
-                "name": "Les Fr\u00e8res Jumeaux",
-                "latitude": 48.861354,
-                "longitude": 2.306759
-            },
-            {
-                "pokestop_id": "e2dc6631cc244fd0a073294535e61f56.16",
-                "name": "La For\u00eat Bleue",
-                "latitude": 48.858267,
-                "longitude": 2.353402
             }
         ]
     },
