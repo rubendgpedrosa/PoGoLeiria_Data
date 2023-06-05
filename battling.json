@@ -85,6 +85,30 @@
     },
     {
         "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Drilbur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Drilbur",
+        "quest_reward_pokemon_id": 529,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "137b91d17ad14c1a97235d68f6406169.16",
+                "name": "Jardin Du Bataillon De L'onu",
+                "latitude": 48.853615,
+                "longitude": 2.357501
+            },
+            {
+                "pokestop_id": "c85c115dd1e34e70b8a79fb90af2c8d3.12",
+                "name": "The Louvre and Pont Royal",
+                "latitude": 48.860943,
+                "longitude": 2.330264
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
         "quest_reward": "Meditite",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -188,24 +212,6 @@
                 "name": "Igreja de S\u00e3o Pedro",
                 "latitude": 39.74725,
                 "longitude": -8.807508
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Drilbur",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Drilbur",
-        "quest_reward_pokemon_id": 529,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "c85c115dd1e34e70b8a79fb90af2c8d3.12",
-                "name": "The Louvre and Pont Royal",
-                "latitude": 48.860943,
-                "longitude": 2.330264
             }
         ]
     },
