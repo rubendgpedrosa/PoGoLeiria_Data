@@ -151,6 +151,42 @@
     },
     {
         "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Meditite",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Meditite",
+        "quest_reward_pokemon_id": 307,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0bd970e1e27e47ea9673e9b14829e0f7.16",
+                "name": "mosa\u00efque la grande baudroie",
+                "latitude": 48.841902,
+                "longitude": 2.329022
+            },
+            {
+                "pokestop_id": "2107095cb8e3478f87d27b78e0fe2db1.16",
+                "name": "La Rue Tiquetonne",
+                "latitude": 48.864558,
+                "longitude": 2.348871
+            },
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455
+            },
+            {
+                "pokestop_id": "d68bec430fb9409f9d9f3a35736bf019.11",
+                "name": "CDC, Rue de Lille",
+                "latitude": 48.859073,
+                "longitude": 2.328103
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
         "quest_reward": "Nidoran\u2640",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -234,36 +270,6 @@
         ]
     },
     {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Meditite",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Meditite",
-        "quest_reward_pokemon_id": 307,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2107095cb8e3478f87d27b78e0fe2db1.16",
-                "name": "La Rue Tiquetonne",
-                "latitude": 48.864558,
-                "longitude": 2.348871
-            },
-            {
-                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
-                "name": "Assembleia de Deus",
-                "latitude": 39.745074,
-                "longitude": -8.936455
-            },
-            {
-                "pokestop_id": "d68bec430fb9409f9d9f3a35736bf019.11",
-                "name": "CDC, Rue de Lille",
-                "latitude": 48.859073,
-                "longitude": 2.328103
-            }
-        ]
-    },
-    {
         "quest_description": "Win 3 raids",
         "quest_reward": "Klink",
         "quest_reward_type": "Pokemon",
@@ -332,6 +338,12 @@
                 "name": "Medalh\u00e3o - Primeiro Mealheiro P\u00fablico",
                 "latitude": 39.744064,
                 "longitude": -8.807857
+            },
+            {
+                "pokestop_id": "ade31702beb14985a6fd7b4908623418.16",
+                "name": "Blason Fleuri",
+                "latitude": 48.852819,
+                "longitude": 2.296903
             },
             {
                 "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
