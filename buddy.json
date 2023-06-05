@@ -70,6 +70,12 @@
                 "longitude": 2.343307
             },
             {
+                "pokestop_id": "431762620f9748ff9c12c46399024d75.16",
+                "name": "Stanislas Bust",
+                "latitude": 48.843372,
+                "longitude": 2.327323
+            },
+            {
                 "pokestop_id": "43bfacc8c58442caa66a7e8569e6a9be.16",
                 "name": "Jocodelle",
                 "latitude": 48.853016,
@@ -148,6 +154,12 @@
                 "longitude": 2.303922
             },
             {
+                "pokestop_id": "a89cadd5c0b2475fb5d1a81140b6f487.16",
+                "name": "T\u00eate Femme",
+                "latitude": 48.855098,
+                "longitude": 2.303922
+            },
+            {
                 "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
                 "name": "Pra\u00e7a Nova",
                 "latitude": 39.752742,
@@ -200,6 +212,18 @@
                 "name": "Biblioteka Polska",
                 "latitude": 48.851263,
                 "longitude": 2.355701
+            },
+            {
+                "pokestop_id": "9b5ee8e699103aa3bfd3b2653f7a93f7.16",
+                "name": "Champs de Mars - Terrain de Basket",
+                "latitude": 48.853312,
+                "longitude": 2.300828
+            },
+            {
+                "pokestop_id": "e22fad3c6f81467d8d11db18c92f5d66.16",
+                "name": "Hotel De Montmorency",
+                "latitude": 48.847342,
+                "longitude": 2.322481
             }
         ]
     },
@@ -370,6 +394,12 @@
                 "longitude": -8.801663
             },
             {
+                "pokestop_id": "a898006ddba647148a6303fd63c66265.16",
+                "name": "Paris 6, Le Coq En Porte",
+                "latitude": 48.846761,
+                "longitude": 2.326069
+            },
+            {
                 "pokestop_id": "ff0d972a097940fba3465d375567f175.16",
                 "name": "Richesse du patrimoine v\u00e9g\u00e9tal du Jardin du Luxembourg",
                 "latitude": 48.844554,
@@ -451,6 +481,54 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Litleo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2af462ef2e234ff2bc2c2222fefa9b01.16",
+                "name": "Frise Et T\u00eate Sculpt\u00e9e",
+                "latitude": 48.852607,
+                "longitude": 2.300158
+            },
+            {
+                "pokestop_id": "431bca84372141cf98ecd5babc8c9fa0.16",
+                "name": "Jacques De Wuss Amy, Monumental",
+                "latitude": 48.854367,
+                "longitude": 2.316373
+            },
+            {
+                "pokestop_id": "9bd41ac292f74dd0a8964976f35d7210.12",
+                "name": "Nov 2006 - Paris, France. St-C",
+                "latitude": 48.855478,
+                "longitude": 2.344765
+            },
+            {
+                "pokestop_id": "a3546dc6da59497aba9ce9c95ed18e2a.12",
+                "name": "Cariatides",
+                "latitude": 48.841936,
+                "longitude": 2.332135
+            },
+            {
+                "pokestop_id": "ba18c60831b34866aae0f95469701e49.16",
+                "name": "Les Fr\u00e8res Jumeaux",
+                "latitude": 48.861354,
+                "longitude": 2.306759
+            },
+            {
+                "pokestop_id": "e2dc6631cc244fd0a073294535e61f56.16",
+                "name": "La For\u00eat Bleue",
+                "latitude": 48.858267,
+                "longitude": 2.353402
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Jigglypuff",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -506,48 +584,6 @@
                 "name": "McDONALD'S PARIS RUE DE PASSY",
                 "latitude": 48.857672,
                 "longitude": 2.277662
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Litleo",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Litleo",
-        "quest_reward_pokemon_id": 667,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "431bca84372141cf98ecd5babc8c9fa0.16",
-                "name": "Jacques De Wuss Amy, Monumental",
-                "latitude": 48.854367,
-                "longitude": 2.316373
-            },
-            {
-                "pokestop_id": "9bd41ac292f74dd0a8964976f35d7210.12",
-                "name": "Nov 2006 - Paris, France. St-C",
-                "latitude": 48.855478,
-                "longitude": 2.344765
-            },
-            {
-                "pokestop_id": "a3546dc6da59497aba9ce9c95ed18e2a.12",
-                "name": "Cariatides",
-                "latitude": 48.841936,
-                "longitude": 2.332135
-            },
-            {
-                "pokestop_id": "ba18c60831b34866aae0f95469701e49.16",
-                "name": "Les Fr\u00e8res Jumeaux",
-                "latitude": 48.861354,
-                "longitude": 2.306759
-            },
-            {
-                "pokestop_id": "e2dc6631cc244fd0a073294535e61f56.16",
-                "name": "La For\u00eat Bleue",
-                "latitude": 48.858267,
-                "longitude": 2.353402
             }
         ]
     },
