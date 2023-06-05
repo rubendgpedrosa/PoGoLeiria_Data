@@ -48,6 +48,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "10 Swampert Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Swampert",
+        "quest_reward_pokemon_id": 260,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "14c9b09e24b84cfc830ceab8ded3ffd7.16",
+                "name": "Plaque Du Pont Louis Philippe",
+                "latitude": 48.854118,
+                "longitude": 2.354907
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -90,6 +108,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Wingull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wingull",
+        "quest_reward_pokemon_id": 278,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "38abd24ba97f4c7cafe0724af085583d.16",
+                "name": "Compagnons Du Devoir",
+                "latitude": 48.855123,
+                "longitude": 2.354106
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -122,6 +158,30 @@
                 "name": "La Poste De La Place De Clichy",
                 "latitude": 48.883633,
                 "longitude": 2.32912
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "6d0c22ecdc314c75b42d289d33fc9ec0.16",
+                "name": "Aux R\u00e9publicains espagnols",
+                "latitude": 48.855135,
+                "longitude": 2.353393
+            },
+            {
+                "pokestop_id": "a7908007121e40809590eeb75093f76d.16",
+                "name": "Tete De Femme-Labussiere et reby Architectes",
+                "latitude": 48.880681,
+                "longitude": 2.326509
             }
         ]
     },
@@ -176,24 +236,6 @@
                 "name": "Le Bataillon Fran\u00e7ais de Cor\u00e9e",
                 "latitude": 48.853971,
                 "longitude": 2.356583
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "a7908007121e40809590eeb75093f76d.16",
-                "name": "Tete De Femme-Labussiere et reby Architectes",
-                "latitude": 48.880681,
-                "longitude": 2.326509
             }
         ]
     },

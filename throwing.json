@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "Onix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Onix",
+        "quest_reward_pokemon_id": 95,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "017e87084fb24fc1916e141dea4a4b2d.16",
+                "name": "Ivan Bounine",
+                "latitude": 48.856345,
+                "longitude": 2.272754
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Mankey",
         "quest_reward_type": "Pokemon",
@@ -192,6 +210,24 @@
         ]
     },
     {
+        "quest_description": "Make 10 Nice Throws",
+        "quest_reward": "Woobat",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Woobat",
+        "quest_reward_pokemon_id": 527,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b6b6d8e5ecf747ec9881263af1566305.16",
+                "name": "Les Compagnons Du Devoir",
+                "latitude": 48.85505,
+                "longitude": 2.354232
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "Diglett",
         "quest_reward_type": "Pokemon",
@@ -224,6 +260,42 @@
                 "name": "Espace de tennis de table",
                 "latitude": 48.857717,
                 "longitude": 2.269336
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "3 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "eb40b5aadc004cdf9d176546375e2cf9.16",
+                "name": "Femme Sans T\u00eate",
+                "latitude": 48.852985,
+                "longitude": 2.35532
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "faf8017944d0414c9258744bbe1be2e1.16",
+                "name": "Aux Anysetiers Du Roi",
+                "latitude": 48.852407,
+                "longitude": 2.354874
             }
         ]
     }
