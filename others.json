@@ -19,6 +19,36 @@
     },
     {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Lotad",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lotad",
+        "quest_reward_pokemon_id": 270,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0ee127944b894da289798d6d2747a917.16",
+                "name": "Panth\u00e8re Murale",
+                "latitude": 48.853327,
+                "longitude": 2.360979
+            },
+            {
+                "pokestop_id": "b8b6cc4c4a50495d84d680ccae97a913.16",
+                "name": "Enceinte De Philippe Auguste",
+                "latitude": 48.854079,
+                "longitude": 2.360748
+            },
+            {
+                "pokestop_id": "c5f353c477494578a60c5fdbfb5530ef.16",
+                "name": "Trois Femmes Fontaines",
+                "latitude": 48.883322,
+                "longitude": 2.326118
+            }
+        ]
+    },
+    {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Tympole",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -60,24 +90,6 @@
         ]
     },
     {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Remoraid",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Remoraid",
-        "quest_reward_pokemon_id": 223,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "23ae968a5e154ef39a366af6ed5fa838.16",
-                "name": "Stone Monument",
-                "latitude": 48.858491,
-                "longitude": 2.355397
-            }
-        ]
-    },
-    {
         "quest_description": "Purify 3 Pokemon",
         "quest_reward": "Haunter",
         "quest_reward_type": "Pokemon",
@@ -87,6 +99,12 @@
         "quest_reward_pokemon_id": 93,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "21e13c7d088f4737b3b7e62c3ff12a06.12",
+                "name": "Cour H\u00f4tel de Sully",
+                "latitude": 48.854446,
+                "longitude": 2.36371
+            },
             {
                 "pokestop_id": "4bd3044d6ee94c468df80a653e0d4eae.16",
                 "name": "Albert Lebrun",
@@ -106,10 +124,88 @@
                 "longitude": 2.357221
             },
             {
+                "pokestop_id": "c01ad58a70aa47d68ba2d76d7c736709.16",
+                "name": "Vieille Horloge En Bronze",
+                "latitude": 48.852494,
+                "longitude": 2.363194
+            },
+            {
                 "pokestop_id": "df5de09ce11747698215328878aac1a3.16",
                 "name": "A Camille Claudel",
                 "latitude": 48.852853,
                 "longitude": 2.355772
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Remoraid",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Remoraid",
+        "quest_reward_pokemon_id": 223,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "23ae968a5e154ef39a366af6ed5fa838.16",
+                "name": "Stone Monument",
+                "latitude": 48.858491,
+                "longitude": 2.355397
+            }
+        ]
+    },
+    {
+        "quest_description": "Walk 1 km",
+        "quest_reward": "Snubbull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snubbull",
+        "quest_reward_pokemon_id": 209,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "43bfacc8c58442caa66a7e8569e6a9be.16",
+                "name": "Jocodelle",
+                "latitude": 48.853016,
+                "longitude": 2.362688
+            },
+            {
+                "pokestop_id": "997eb892f9c646f2a019408379908e38.16",
+                "name": "Metro Sully-Morland",
+                "latitude": 48.85134,
+                "longitude": 2.362497
+            },
+            {
+                "pokestop_id": "da6c4671f3c74056b9f947f65b1632db.16",
+                "name": "Synagogue Be\u00efth Yossef",
+                "latitude": 48.856882,
+                "longitude": 2.358676
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Pikachu",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Pikachu",
+        "quest_reward_pokemon_id": 25,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "53d6b6808028483cb7a3a449dbe837d3.16",
+                "name": "Deux Lions Pour Une Entr\u00e9e",
+                "latitude": 48.851528,
+                "longitude": 2.363283
+            },
+            {
+                "pokestop_id": "a71bf58d1eda414699167d3859f336dc.16",
+                "name": "Ce Batiment A \u00c9t\u00e9 Inaugur\u00e9",
+                "latitude": 48.859767,
+                "longitude": 2.358228
             }
         ]
     },
@@ -204,24 +300,6 @@
         ]
     },
     {
-        "quest_description": "Hatch 2 Eggs",
-        "quest_reward": "Pikachu",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Pikachu",
-        "quest_reward_pokemon_id": 25,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "a71bf58d1eda414699167d3859f336dc.16",
-                "name": "Ce Batiment A \u00c9t\u00e9 Inaugur\u00e9",
-                "latitude": 48.859767,
-                "longitude": 2.358228
-            }
-        ]
-    },
-    {
         "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
         "quest_reward": "Trapinch",
         "quest_reward_type": "Pokemon",
@@ -236,6 +314,24 @@
                 "name": "Prisons De La Force",
                 "latitude": 48.856791,
                 "longitude": 2.361495
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 10 times",
+        "quest_reward": "25 Aerodactyl Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b0eb8cbae84640608dcf79a1c0a1164c.16",
+                "name": "Les Nautes",
+                "latitude": 48.852247,
+                "longitude": 2.360325
             }
         ]
     },
@@ -272,30 +368,6 @@
                 "name": "UFO Pajou",
                 "latitude": 48.856756,
                 "longitude": 2.272959
-            }
-        ]
-    },
-    {
-        "quest_description": "Defeat 3 Team GO Rocket Grunts",
-        "quest_reward": "Lotad",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Lotad",
-        "quest_reward_pokemon_id": 270,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b8b6cc4c4a50495d84d680ccae97a913.16",
-                "name": "Enceinte De Philippe Auguste",
-                "latitude": 48.854079,
-                "longitude": 2.360748
-            },
-            {
-                "pokestop_id": "c5f353c477494578a60c5fdbfb5530ef.16",
-                "name": "Trois Femmes Fontaines",
-                "latitude": 48.883322,
-                "longitude": 2.326118
             }
         ]
     },
@@ -354,20 +426,38 @@
         ]
     },
     {
-        "quest_description": "Walk 1 km",
-        "quest_reward": "Snubbull",
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snubbull",
-        "quest_reward_pokemon_id": 209,
+        "quest_reward_pokemon_name": "Bunnelby",
+        "quest_reward_pokemon_id": 659,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "da6c4671f3c74056b9f947f65b1632db.16",
-                "name": "Synagogue Be\u00efth Yossef",
-                "latitude": 48.856882,
-                "longitude": 2.358676
+                "pokestop_id": "d141726955104e3196e0d30808eaa32e.16",
+                "name": "Alignement Color\u00e9 Du Marais",
+                "latitude": 48.853086,
+                "longitude": 2.360313
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Charmander",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Charmander",
+        "quest_reward_pokemon_id": 4,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "da8bf3ea7ab64c56834513af0fa5574d.16",
+                "name": "Les Portes De Jupiter",
+                "latitude": 48.853169,
+                "longitude": 2.362357
             }
         ]
     }

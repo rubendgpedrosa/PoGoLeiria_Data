@@ -30,6 +30,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1200a26a302e46a0822ac622d9a9754a.16",
+                "name": "Hotel Fieubet",
+                "latitude": 48.851839,
+                "longitude": 2.361716
+            },
+            {
+                "pokestop_id": "777b2c4691dc44efaf00a4f300bca357.16",
+                "name": "Animal Garden",
+                "latitude": 48.857375,
+                "longitude": 2.359868
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Mankey",
         "quest_reward_type": "Pokemon",
@@ -210,24 +234,6 @@
         ]
     },
     {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "Kabuto",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Kabuto",
-        "quest_reward_pokemon_id": 140,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "777b2c4691dc44efaf00a4f300bca357.16",
-                "name": "Animal Garden",
-                "latitude": 48.857375,
-                "longitude": 2.359868
-            }
-        ]
-    },
-    {
         "quest_description": "Make 2 Excellent Throws",
         "quest_reward": "Beldum",
         "quest_reward_type": "Pokemon",
@@ -252,6 +258,24 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "792fa80ed90449498ca9f94026ab64c1.16",
+                "name": "T\u00eate De La Femme D'Henri IV",
+                "latitude": 48.851937,
+                "longitude": 2.364648
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "1 Rare Candy",
         "quest_reward_type": "Item",
@@ -272,6 +296,24 @@
                 "name": "La Petite Fille Aux Perles",
                 "latitude": 48.859942,
                 "longitude": 2.356569
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "5 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "88e24cac2d2d4f4a9b2ac948a78c028a.16",
+                "name": "Huge Cross",
+                "latitude": 48.852998,
+                "longitude": 2.364777
             }
         ]
     },
@@ -342,6 +384,42 @@
         ]
     },
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "beb5d704aba442ba8cbb3466c278f0a8.16",
+                "name": "Village Saint Paul",
+                "latitude": 48.852984,
+                "longitude": 2.361074
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "bf19953f88674cb9acbaf1c89511d6bb.16",
+                "name": "Trompe L'oeil",
+                "latitude": 48.853605,
+                "longitude": 2.360802
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -362,6 +440,12 @@
                 "name": "\u00c9cusson",
                 "latitude": 48.859677,
                 "longitude": 2.356667
+            },
+            {
+                "pokestop_id": "fb0c8978fcbf448388df70015a181503.16",
+                "name": "La Sculpture Du Lyon",
+                "latitude": 48.852382,
+                "longitude": 2.362302
             }
         ]
     },
