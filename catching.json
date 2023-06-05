@@ -96,6 +96,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "095a7556ac974cc68406eceb28ff648f.16",
+                "name": "Fontaine De L'impasse de La Poissonnerie",
+                "latitude": 48.855718,
+                "longitude": 2.363444
+            },
+            {
+                "pokestop_id": "51cc3f29db824429a5df9681847b1862.16",
+                "name": "La Corne Des Batignolles",
+                "latitude": 48.882514,
+                "longitude": 2.324277
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 Pok\u00e9mon",
         "quest_reward": "Wimpod",
         "quest_reward_type": "Pokemon",
@@ -110,6 +134,12 @@
                 "name": "La Tour Barbeau",
                 "latitude": 48.852767,
                 "longitude": 2.359635
+            },
+            {
+                "pokestop_id": "0e94bfbc398d4b16b78fd3b9f65fbe3c.16",
+                "name": "Statue Des Galeries",
+                "latitude": 48.855329,
+                "longitude": 2.364108
             }
         ]
     },
@@ -272,24 +302,6 @@
                 "name": "Poign\u00e9e Du Pozzetto",
                 "latitude": 48.856714,
                 "longitude": 2.35613
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "51cc3f29db824429a5df9681847b1862.16",
-                "name": "La Corne Des Batignolles",
-                "latitude": 48.882514,
-                "longitude": 2.324277
             }
         ]
     },
@@ -480,6 +492,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "85dfe12b803649f99082464c61992e7c.16",
+                "name": "Mur De M\u00e9tal",
+                "latitude": 48.854676,
+                "longitude": 2.362943
+            },
+            {
+                "pokestop_id": "e129cf2d32cd4584a08f90404558a7c6.16",
+                "name": "Fa\u00e7ade Rouge",
+                "latitude": 48.853493,
+                "longitude": 2.364032
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "Duskull",
         "quest_reward_type": "Pokemon",
@@ -572,24 +608,6 @@
                 "name": "D\u00e9esse de Porte",
                 "latitude": 48.853029,
                 "longitude": 2.363664
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "e129cf2d32cd4584a08f90404558a7c6.16",
-                "name": "Fa\u00e7ade Rouge",
-                "latitude": 48.853493,
-                "longitude": 2.364032
             }
         ]
     },
