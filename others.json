@@ -268,6 +268,12 @@
                 "longitude": 2.33692
             },
             {
+                "pokestop_id": "e22c356e974a40b4bfe1bb9de32909c4.16",
+                "name": "Paris Mur D'escalade",
+                "latitude": 48.866266,
+                "longitude": 2.299896
+            },
+            {
                 "pokestop_id": "e9ab4f6973d444cfbe5c49d8688357fa.16",
                 "name": "Monument aux morts de Port Vendres",
                 "latitude": 48.861853,
@@ -1012,6 +1018,12 @@
                 "longitude": -8.812656
             },
             {
+                "pokestop_id": "60c5e2851c1f4ca58b76726f38830659.11",
+                "name": "Banque de France",
+                "latitude": 48.864135,
+                "longitude": 2.339851
+            },
+            {
                 "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
                 "name": "Ponte Ondulada",
                 "latitude": 39.746196,
@@ -1040,6 +1052,12 @@
                 "name": "Pavillon Antonin Gosset",
                 "latitude": 48.836496,
                 "longitude": 2.364835
+            },
+            {
+                "pokestop_id": "c16038f76d1b4dbc936a5eb42ffa55e1.16",
+                "name": "Maison Des Ing\u00e9nieurs Arts Et M\u00e9tiers",
+                "latitude": 48.865629,
+                "longitude": 2.294186
             },
             {
                 "pokestop_id": "e45e509430c049cab8113ce5b4a2dba2.16",
@@ -1196,6 +1214,18 @@
                 "name": "En Souvenir de la Reine Astrid",
                 "latitude": 48.855192,
                 "longitude": 2.349687
+            },
+            {
+                "pokestop_id": "5541055992cb4b67a8c1b82fb2555b10.12",
+                "name": "Palais de Tokyo Paris",
+                "latitude": 48.863843,
+                "longitude": 2.297545
+            },
+            {
+                "pokestop_id": "63e20815d18a42b08c692ee54f02e65b.16",
+                "name": "Les Marches",
+                "latitude": 48.863948,
+                "longitude": 2.296327
             },
             {
                 "pokestop_id": "88201671521f45388828ef0e2d2d3f8a.16",
@@ -1620,6 +1650,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Manectric Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Manectric",
+        "quest_reward_pokemon_id": 310,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "26cc06087b624ce591667931269e11c7.16",
+                "name": "Statue De Femme",
+                "latitude": 48.863952,
+                "longitude": 2.29702
+            },
+            {
+                "pokestop_id": "62f01583748a4101a5d656967a1bf4a5.16",
+                "name": "Fontaine de la Croix Du Trahoir",
+                "latitude": 48.86137,
+                "longitude": 2.342418
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "Doduo",
         "quest_reward_type": "Pokemon",
@@ -1778,6 +1832,12 @@
                 "name": "Teatro Miguel Franco",
                 "latitude": 39.742692,
                 "longitude": -8.80773
+            },
+            {
+                "pokestop_id": "e1ec566140ff40a0a3a8643f74364eb8.12",
+                "name": "lion statue",
+                "latitude": 48.863155,
+                "longitude": 2.296374
             }
         ]
     },
@@ -2066,24 +2126,6 @@
                 "name": "Escuteiros",
                 "latitude": 39.741841,
                 "longitude": -8.933249
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Manectric Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Manectric",
-        "quest_reward_pokemon_id": 310,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "62f01583748a4101a5d656967a1bf4a5.16",
-                "name": "Fontaine de la Croix Du Trahoir",
-                "latitude": 48.86137,
-                "longitude": 2.342418
             }
         ]
     },

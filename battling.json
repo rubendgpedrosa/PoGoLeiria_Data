@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Drilbur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Drilbur",
+        "quest_reward_pokemon_id": 529,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "056484aa76c4421faea524cf977b6e0c.16",
+                "name": "Du Vert Dans Mon Jardin",
+                "latitude": 48.862966,
+                "longitude": 2.295821
+            },
+            {
+                "pokestop_id": "137b91d17ad14c1a97235d68f6406169.16",
+                "name": "Jardin Du Bataillon De L'onu",
+                "latitude": 48.853615,
+                "longitude": 2.357501
+            },
+            {
+                "pokestop_id": "467d049f94664a1aa90a0df11a539bba.16",
+                "name": "Profil Josue",
+                "latitude": 48.836135,
+                "longitude": 2.363696
+            },
+            {
+                "pokestop_id": "c85c115dd1e34e70b8a79fb90af2c8d3.12",
+                "name": "The Louvre and Pont Royal",
+                "latitude": 48.860943,
+                "longitude": 2.330264
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Marowak",
         "quest_reward_type": "Pokemon",
@@ -116,36 +152,6 @@
                 "name": "Red boy",
                 "latitude": 48.852917,
                 "longitude": 2.357632
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Drilbur",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Drilbur",
-        "quest_reward_pokemon_id": 529,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "137b91d17ad14c1a97235d68f6406169.16",
-                "name": "Jardin Du Bataillon De L'onu",
-                "latitude": 48.853615,
-                "longitude": 2.357501
-            },
-            {
-                "pokestop_id": "467d049f94664a1aa90a0df11a539bba.16",
-                "name": "Profil Josue",
-                "latitude": 48.836135,
-                "longitude": 2.363696
-            },
-            {
-                "pokestop_id": "c85c115dd1e34e70b8a79fb90af2c8d3.12",
-                "name": "The Louvre and Pont Royal",
-                "latitude": 48.860943,
-                "longitude": 2.330264
             }
         ]
     },
