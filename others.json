@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Evolve a Pok\u00e9mon",
+        "quest_reward": "Eevee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Eevee",
+        "quest_reward_pokemon_id": 133,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "01d65b23f00b47ffa9d15637605eda85.12",
+                "name": "Sculpture on the gate of natio",
+                "latitude": 48.859922,
+                "longitude": 2.357119
+            }
+        ]
+    },
+    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Tympole",
         "quest_reward_type": "Pokemon",
@@ -14,6 +32,30 @@
                 "name": "Ici Est Ne F\u00e9lix Arvers",
                 "latitude": 48.851476,
                 "longitude": 2.35528
+            },
+            {
+                "pokestop_id": "cf494781d8ea40f5b1f6b93d88c2cc79.16",
+                "name": "Pierre-Augustin Caron de Beaumarchais",
+                "latitude": 48.856442,
+                "longitude": 2.356794
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Remoraid",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Remoraid",
+        "quest_reward_pokemon_id": 223,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "23ae968a5e154ef39a366af6ed5fa838.16",
+                "name": "Stone Monument",
+                "latitude": 48.858491,
+                "longitude": 2.355397
             }
         ]
     },
@@ -38,6 +80,12 @@
                 "name": "Croix Terre Cuite",
                 "latitude": 48.854695,
                 "longitude": 2.355947
+            },
+            {
+                "pokestop_id": "b97103a340e245b689005455e12d5318.16",
+                "name": "Monte En L'air En Mosa\u00efque",
+                "latitude": 48.860428,
+                "longitude": 2.357221
             },
             {
                 "pokestop_id": "df5de09ce11747698215328878aac1a3.16",
@@ -188,6 +236,24 @@
                 "name": "Marelle Florale",
                 "latitude": 48.858428,
                 "longitude": 2.268859
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "c00d4fba7eb546c9bc90ff77fbb79fd6.12",
+                "name": "Eglise Saint-Gervais Saint-Protais",
+                "latitude": 48.855701,
+                "longitude": 2.354207
             }
         ]
     },
