@@ -70,6 +70,12 @@
                 "longitude": 2.324872
             },
             {
+                "pokestop_id": "3ab72e4a536348be91376ac722aa4f26.16",
+                "name": "Jardin Du Luxembourg Statue De Ossip Zadkine",
+                "latitude": 48.845631,
+                "longitude": 2.334179
+            },
+            {
                 "pokestop_id": "4204fffb5845455ab03478afeebf487e.16",
                 "name": "Maison de Charles Baudelaire",
                 "latitude": 48.851378,
@@ -284,6 +290,12 @@
                 "name": "Associa\u00e7\u00e3o de Kickboxing e Muay Thai Hugo Matos",
                 "latitude": 39.747777,
                 "longitude": -8.93253
+            },
+            {
+                "pokestop_id": "e2a4b835bea74032949cb4d1061791eb.16",
+                "name": "Blason \u00c0 Saint Germain",
+                "latitude": 48.85413,
+                "longitude": 2.334967
             },
             {
                 "pokestop_id": "ed0d8868690146209e83fefa88761421.16",
@@ -784,6 +796,12 @@
                 "longitude": 2.310458
             },
             {
+                "pokestop_id": "55e1dd0deddc49b2a8d31aac68e67159.16",
+                "name": "Green Invader Street Art",
+                "latitude": 48.852596,
+                "longitude": 2.334403
+            },
+            {
                 "pokestop_id": "59945f620b024d6fb305d8c0ff9a609c.16",
                 "name": "Gravure du cin\u00e9ma",
                 "latitude": 48.85161,
@@ -1090,6 +1108,12 @@
                 "longitude": 2.340384
             },
             {
+                "pokestop_id": "1141f8411387481ca37bed8b8f6172c5.16",
+                "name": "Statue Diderot",
+                "latitude": 48.853427,
+                "longitude": 2.334361
+            },
+            {
                 "pokestop_id": "2651794bda0d456189d1ffe10c5b2517.12",
                 "name": "Entr\u00e9e du Petit Palais",
                 "latitude": 48.866125,
@@ -1270,6 +1294,12 @@
                 "longitude": 2.33351
             },
             {
+                "pokestop_id": "a5c13d50c1b7475585ec7da3038a19b5.16",
+                "name": "Au Mouton",
+                "latitude": 48.852716,
+                "longitude": 2.33351
+            },
+            {
                 "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
                 "name": "Jogo Da Malha",
                 "latitude": 39.745722,
@@ -1382,6 +1412,12 @@
                 "name": "Caritas Diocesana de Leiria",
                 "latitude": 39.73688,
                 "longitude": -8.806748
+            },
+            {
+                "pokestop_id": "6b136b6c024447758c3ee726efaf75ef.16",
+                "name": "Marguerite de Provence",
+                "latitude": 48.84747,
+                "longitude": 2.33623
             },
             {
                 "pokestop_id": "7a33106414e131529df146b8e25ea413.16",
@@ -1556,6 +1592,12 @@
                 "name": "H\u00f4tel de Galliffet",
                 "latitude": 48.854394,
                 "longitude": 2.322353
+            },
+            {
+                "pokestop_id": "de0aa2cf4e8d48feb21ec16723cc94e2.16",
+                "name": "Penseur",
+                "latitude": 48.843953,
+                "longitude": 2.336988
             },
             {
                 "pokestop_id": "f56bab8d7d424c9db582a34b9a4ec1e0.16",
@@ -2604,6 +2646,36 @@
         ]
     },
     {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "2 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "26870cbd467746d1983b76fdcff77666.16",
+                "name": "Homme De Bronze",
+                "latitude": 48.853004,
+                "longitude": 2.334845
+            },
+            {
+                "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
+                "name": "F\u00e9nix Muralhartes",
+                "latitude": 39.747251,
+                "longitude": -8.808742
+            },
+            {
+                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
+                "name": "As Cisternas do Castelo",
+                "latitude": 39.747505,
+                "longitude": -8.809466
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "Omanyte",
         "quest_reward_type": "Pokemon",
@@ -2776,6 +2848,12 @@
                 "longitude": -8.802822
             },
             {
+                "pokestop_id": "df0967545218410a804e6a1535b0bb8c.16",
+                "name": "Marguerite D Anjou, Reine D'angleterre",
+                "latitude": 48.845881,
+                "longitude": 2.337839
+            },
+            {
                 "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
                 "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
                 "latitude": 39.741652,
@@ -2900,30 +2978,6 @@
                 "name": "Statue Grand Palais",
                 "latitude": 48.866339,
                 "longitude": 2.313362
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "2 Ultra Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Ultra Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
-        "pokestops": [
-            {
-                "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
-                "name": "F\u00e9nix Muralhartes",
-                "latitude": 39.747251,
-                "longitude": -8.808742
-            },
-            {
-                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
-                "name": "As Cisternas do Castelo",
-                "latitude": 39.747505,
-                "longitude": -8.809466
             }
         ]
     },
@@ -3182,6 +3236,12 @@
                 "name": "Bateau Du Boulevard De L'h\u00f4pital",
                 "latitude": 48.839896,
                 "longitude": 2.36198
+            },
+            {
+                "pokestop_id": "c7ce34d514d74d8a94daacea67496f9a.16",
+                "name": "Mosa\u00efque Mauresque",
+                "latitude": 48.84423,
+                "longitude": 2.336367
             },
             {
                 "pokestop_id": "f5b85d4306724f60a2a41dd666dda3f1.12",
