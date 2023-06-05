@@ -18,6 +18,24 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Bulbasaur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bulbasaur",
+        "quest_reward_pokemon_id": 1,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "83bfa2a14b0540619bbc3474ee72cb44.16",
+                "name": "Statue Inconnue",
+                "latitude": 48.857878,
+                "longitude": 2.268189
+            }
+        ]
+    },
+    {
         "quest_description": "Purify 3 Pokemon",
         "quest_reward": "Haunter",
         "quest_reward_type": "Pokemon",
@@ -50,6 +68,42 @@
                 "name": "Statue of a woman in Musee du",
                 "latitude": 48.861807,
                 "longitude": 2.334852
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 10 times",
+        "quest_reward": "25 Ampharos Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Ampharos",
+        "quest_reward_pokemon_id": 181,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "bceffa0d35f54e4796f397a3e1152d56.16",
+                "name": "Marelle Florale",
+                "latitude": 48.858428,
+                "longitude": 2.268859
+            }
+        ]
+    },
+    {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Lotad",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lotad",
+        "quest_reward_pokemon_id": 270,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "c5f353c477494578a60c5fdbfb5530ef.16",
+                "name": "Trois Femmes Fontaines",
+                "latitude": 48.883322,
+                "longitude": 2.326118
             }
         ]
     }
