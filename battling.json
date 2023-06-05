@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Nidoran\u2640",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Nidoran\u2640",
+        "quest_reward_pokemon_id": 29,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
+            },
+            {
+                "pokestop_id": "9c3dbe6fc8ce440bad72fd7a64b4e153.11",
+                "name": "Afonso Lopes Vieira",
+                "latitude": 39.743902,
+                "longitude": -8.808525
+            }
+        ]
+    },
+    {
         "quest_description": "Win 3 raids",
         "quest_reward": "Klink",
         "quest_reward_type": "Pokemon",
@@ -9,6 +33,12 @@
         "quest_reward_pokemon_id": 599,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
+            },
             {
                 "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
                 "name": "Freixo de Folhas Estreitas",
