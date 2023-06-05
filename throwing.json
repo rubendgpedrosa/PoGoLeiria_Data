@@ -60,6 +60,48 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "0617725dbefd4c44b139c1a8aa6be5a8.12",
+                "name": "Statue equestre de Charlemagne",
+                "latitude": 48.85309,
+                "longitude": 2.348248
+            },
+            {
+                "pokestop_id": "10ff966179c0441eb6f3adab100f3704.16",
+                "name": "Shopping Center Cristal Atrium",
+                "latitude": 39.747276,
+                "longitude": -8.93684
+            },
+            {
+                "pokestop_id": "5c89fb2de8c14eb5beae4e70bba0272e.16",
+                "name": "Fa\u00e7ade Sculpt\u00e9e",
+                "latitude": 48.872067,
+                "longitude": 2.318178
+            },
+            {
+                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
+                "name": "O pensativo.",
+                "latitude": 39.747078,
+                "longitude": -8.8151
+            },
+            {
+                "pokestop_id": "a9aecff3187e48e6bc006f1a2fd4ee5a.16",
+                "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
+                "latitude": 39.739299,
+                "longitude": -8.801276
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Mankey",
         "quest_reward_type": "Pokemon",
@@ -98,6 +140,12 @@
                 "name": "C\u00e2mara Municipal da Marinha Grande",
                 "latitude": 39.75001,
                 "longitude": -8.933133
+            },
+            {
+                "pokestop_id": "6867fc7fb62c4ae598c7d5d2c46d40ab.16",
+                "name": "Plaque Comm\u00e9morative 28 Juillet 1919",
+                "latitude": 48.856463,
+                "longitude": 2.351428
             },
             {
                 "pokestop_id": "8cbd770c2c204e229947f1fad6509bd4.16",
@@ -340,6 +388,12 @@
                 "longitude": -8.92763
             },
             {
+                "pokestop_id": "2d927875a99047508938124373d05097.16",
+                "name": "Lion Et Villemain, Statues",
+                "latitude": 48.856549,
+                "longitude": 2.353309
+            },
+            {
                 "pokestop_id": "300f8d0be9d2491ab4c578c377120e03.16",
                 "name": "Marco de Correio",
                 "latitude": 39.734008,
@@ -428,42 +482,6 @@
                 "name": "S.L.Anti",
                 "latitude": 39.743737,
                 "longitude": -8.805579
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "10ff966179c0441eb6f3adab100f3704.16",
-                "name": "Shopping Center Cristal Atrium",
-                "latitude": 39.747276,
-                "longitude": -8.93684
-            },
-            {
-                "pokestop_id": "5c89fb2de8c14eb5beae4e70bba0272e.16",
-                "name": "Fa\u00e7ade Sculpt\u00e9e",
-                "latitude": 48.872067,
-                "longitude": 2.318178
-            },
-            {
-                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
-                "name": "O pensativo.",
-                "latitude": 39.747078,
-                "longitude": -8.8151
-            },
-            {
-                "pokestop_id": "a9aecff3187e48e6bc006f1a2fd4ee5a.16",
-                "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
-                "latitude": 39.739299,
-                "longitude": -8.801276
             }
         ]
     },
@@ -1238,6 +1256,24 @@
                 "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
                 "latitude": 39.741652,
                 "longitude": -8.929112
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "1000 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1000,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "70c4e323d2c248878d4a386a2a7aec70.16",
+                "name": "F Didot",
+                "latitude": 48.856955,
+                "longitude": 2.353404
             }
         ]
     },
