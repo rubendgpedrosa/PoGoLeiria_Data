@@ -132,6 +132,48 @@
         ]
     },
     {
+        "quest_description": "Win 3 raids",
+        "quest_reward": "Klink",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Klink",
+        "quest_reward_pokemon_id": 599,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "32348ca2b82b4701b01770621cf0cff0.16",
+                "name": "Porte Aux Escargots",
+                "latitude": 48.855578,
+                "longitude": 2.357578
+            },
+            {
+                "pokestop_id": "53c706e726354ac3b09b61d730a8d81c.16",
+                "name": "Hommage \u00c0 Marcel Renet",
+                "latitude": 48.873492,
+                "longitude": 2.315993
+            },
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
+            },
+            {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
+            },
+            {
+                "pokestop_id": "eb40b5aadc004cdf9d176546375e2cf9.16",
+                "name": "Femme Sans T\u00eate",
+                "latitude": 48.852985,
+                "longitude": 2.35532
+            }
+        ]
+    },
+    {
         "quest_description": "Win a three-star raid or higher",
         "quest_reward": "Archen",
         "quest_reward_type": "Pokemon",
@@ -158,42 +200,6 @@
                 "name": "A\u00e7ude Da Fonte Quente",
                 "latitude": 39.747803,
                 "longitude": -8.802251
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 3 raids",
-        "quest_reward": "Klink",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Klink",
-        "quest_reward_pokemon_id": 599,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "53c706e726354ac3b09b61d730a8d81c.16",
-                "name": "Hommage \u00c0 Marcel Renet",
-                "latitude": 48.873492,
-                "longitude": 2.315993
-            },
-            {
-                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
-                "name": "Ponte Verde da Encosta do Castelo",
-                "latitude": 39.748256,
-                "longitude": -8.809223
-            },
-            {
-                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
-                "name": "Freixo de Folhas Estreitas",
-                "latitude": 39.750386,
-                "longitude": -8.804894
-            },
-            {
-                "pokestop_id": "eb40b5aadc004cdf9d176546375e2cf9.16",
-                "name": "Femme Sans T\u00eate",
-                "latitude": 48.852985,
-                "longitude": 2.35532
             }
         ]
     },
