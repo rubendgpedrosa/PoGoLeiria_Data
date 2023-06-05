@@ -58,6 +58,12 @@
                 "longitude": 2.338629
             },
             {
+                "pokestop_id": "266e23b356db4fa792d3479d6c5f6ff3.16",
+                "name": "Rachilde",
+                "latitude": 48.850166,
+                "longitude": 2.338629
+            },
+            {
                 "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
                 "name": "O Diab\u00f3lico",
                 "latitude": 39.729536,
@@ -218,6 +224,12 @@
                 "name": "Paris Charlemagne",
                 "latitude": 48.85416,
                 "longitude": 2.360305
+            },
+            {
+                "pokestop_id": "17ae0590ce5a4971a5e286c3858aff16.16",
+                "name": "le nez de l'universit\u00e9",
+                "latitude": 48.856424,
+                "longitude": 2.331167
             },
             {
                 "pokestop_id": "3419526c123b42d68eb648224da59bb0.16",
@@ -788,6 +800,12 @@
                 "name": "Plaque Paul D\u00e9roul\u00e8de",
                 "latitude": 48.859375,
                 "longitude": 2.340507
+            },
+            {
+                "pokestop_id": "62f01583748a4101a5d656967a1bf4a5.16",
+                "name": "Fontaine de la Croix Du Trahoir",
+                "latitude": 48.86137,
+                "longitude": 2.342418
             },
             {
                 "pokestop_id": "62f01583748a4101a5d656967a1bf4a5.16",
@@ -1508,6 +1526,12 @@
                 "name": "Ancienne Ecole Mixte De Paris",
                 "latitude": 48.868635,
                 "longitude": 2.305134
+            },
+            {
+                "pokestop_id": "68a890a5c241495d8f73ead9d8f155b0.16",
+                "name": "Mauvaise Langue",
+                "latitude": 48.860718,
+                "longitude": 2.342414
             },
             {
                 "pokestop_id": "68a890a5c241495d8f73ead9d8f155b0.16",
@@ -2260,6 +2284,12 @@
                 "longitude": 2.310203
             },
             {
+                "pokestop_id": "27b8ed6e640a40a1aa1ebb96d3f4816e.16",
+                "name": "Visage saint germain",
+                "latitude": 48.854299,
+                "longitude": 2.331642
+            },
+            {
                 "pokestop_id": "28be765c74f447abb0ff58f1dc37d800.12",
                 "name": "Les Fils de Ca\u00efn",
                 "latitude": 48.861461,
@@ -2336,6 +2366,12 @@
                 "name": "Marianne et la Reine Astrid",
                 "latitude": 48.86486,
                 "longitude": 2.302913
+            },
+            {
+                "pokestop_id": "feb85e185c1a42099c3b5dc00aedb79e.16",
+                "name": "Decor",
+                "latitude": 48.856204,
+                "longitude": 2.330183
             }
         ]
     },
@@ -2666,6 +2702,54 @@
                 "name": "La Femme Fontaine De Notre-Dame",
                 "latitude": 48.853624,
                 "longitude": 2.349053
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "1c4749c415b44846a218a34fe03e0f44.16",
+                "name": "Les Duels Du Pr\u00e9 Aux Clercs",
+                "latitude": 48.855486,
+                "longitude": 2.329915
+            },
+            {
+                "pokestop_id": "3014a8690b2b49ba8918cad211918966.16",
+                "name": "Mural De Namorados",
+                "latitude": 39.743299,
+                "longitude": -8.803428
+            },
+            {
+                "pokestop_id": "4b75b71f9211423abdecdb7febf086ff.12",
+                "name": "Le Lion de Nubie et sa proie",
+                "latitude": 48.844874,
+                "longitude": 2.336364
+            },
+            {
+                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
+                "name": "Parque de merendas 2",
+                "latitude": 39.733159,
+                "longitude": -8.82037
+            },
+            {
+                "pokestop_id": "c6e88fd609de475683b82146681e78dd.16",
+                "name": "Jose Maria De Heredia",
+                "latitude": 48.845285,
+                "longitude": 2.33346
+            },
+            {
+                "pokestop_id": "d53bde0f1b0247af9744282d6dbd7764.16",
+                "name": "Th\u00e9\u00e2tre De La Ville",
+                "latitude": 48.85736,
+                "longitude": 2.347755
             }
         ]
     },
@@ -3048,44 +3132,32 @@
         ]
     },
     {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "2 Pinap Berry",
+        "quest_description": "Scan 1",
+        "quest_reward": "1 Poffin",
         "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Poffin",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
+        "quest_reward_item_id": 709,
         "pokestops": [
             {
-                "pokestop_id": "3014a8690b2b49ba8918cad211918966.16",
-                "name": "Mural De Namorados",
-                "latitude": 39.743299,
-                "longitude": -8.803428
+                "pokestop_id": "315a137b4add4ed2aef81480784a048f.16",
+                "name": "Two Girls - Two Fish - One Snake",
+                "latitude": 48.853304,
+                "longitude": 2.332027
             },
             {
-                "pokestop_id": "4b75b71f9211423abdecdb7febf086ff.12",
-                "name": "Le Lion de Nubie et sa proie",
-                "latitude": 48.844874,
-                "longitude": 2.336364
+                "pokestop_id": "3bbc897a1d6a4a6194f3326b30204c44.16",
+                "name": "O Gladiador",
+                "latitude": 39.746592,
+                "longitude": -8.803601
             },
             {
-                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
-                "name": "Parque de merendas 2",
-                "latitude": 39.733159,
-                "longitude": -8.82037
-            },
-            {
-                "pokestop_id": "c6e88fd609de475683b82146681e78dd.16",
-                "name": "Jose Maria De Heredia",
-                "latitude": 48.845285,
-                "longitude": 2.33346
-            },
-            {
-                "pokestop_id": "d53bde0f1b0247af9744282d6dbd7764.16",
-                "name": "Th\u00e9\u00e2tre De La Ville",
-                "latitude": 48.85736,
-                "longitude": 2.347755
+                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
+                "name": "Cal\u00e7ada Portuguesa",
+                "latitude": 39.744753,
+                "longitude": -8.804849
             }
         ]
     },
@@ -3170,30 +3242,6 @@
                 "name": "Lion De Fran\u00e7ois 1er",
                 "latitude": 48.867825,
                 "longitude": 2.305168
-            }
-        ]
-    },
-    {
-        "quest_description": "Scan 1",
-        "quest_reward": "1 Poffin",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Poffin",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 709,
-        "pokestops": [
-            {
-                "pokestop_id": "3bbc897a1d6a4a6194f3326b30204c44.16",
-                "name": "O Gladiador",
-                "latitude": 39.746592,
-                "longitude": -8.803601
-            },
-            {
-                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
-                "name": "Cal\u00e7ada Portuguesa",
-                "latitude": 39.744753,
-                "longitude": -8.804849
             }
         ]
     },
@@ -3374,6 +3422,12 @@
                 "name": "Paris, Pont Alexandre III",
                 "latitude": 48.864244,
                 "longitude": 2.313424
+            },
+            {
+                "pokestop_id": "e784632c8e124d03823e9bac30995682.16",
+                "name": "visage et ancre",
+                "latitude": 48.856944,
+                "longitude": 2.329796
             }
         ]
     },
