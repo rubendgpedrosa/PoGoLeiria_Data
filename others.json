@@ -1,5 +1,71 @@
 [
     {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Tympole",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tympole",
+        "quest_reward_pokemon_id": 535,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "15b7ea479dcc475d90c03b7d07bd55bc.16",
+                "name": "Ici Est Ne F\u00e9lix Arvers",
+                "latitude": 48.851476,
+                "longitude": 2.35528
+            }
+        ]
+    },
+    {
+        "quest_description": "Purify 3 Pokemon",
+        "quest_reward": "Haunter",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Haunter",
+        "quest_reward_pokemon_id": 93,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4bd3044d6ee94c468df80a653e0d4eae.16",
+                "name": "Albert Lebrun",
+                "latitude": 48.85761,
+                "longitude": 2.270906
+            },
+            {
+                "pokestop_id": "9f45a3dddb2343b3b717da52af34c5c3.16",
+                "name": "Croix Terre Cuite",
+                "latitude": 48.854695,
+                "longitude": 2.355947
+            },
+            {
+                "pokestop_id": "df5de09ce11747698215328878aac1a3.16",
+                "name": "A Camille Claudel",
+                "latitude": 48.852853,
+                "longitude": 2.355772
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 10 times",
+        "quest_reward": "25 Houndoom Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Houndoom",
+        "quest_reward_pokemon_id": 229,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "59c11bcc0aa7410fbdcb3a1bfa8e6431.16",
+                "name": "Les Marionnettes Du Ranelagh",
+                "latitude": 48.857921,
+                "longitude": 2.269656
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -14,6 +80,24 @@
                 "name": "Porte des lions",
                 "latitude": 48.861099,
                 "longitude": 2.331211
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Croagunk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Croagunk",
+        "quest_reward_pokemon_id": 453,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8260779ba1574572bf73792f43911135.16",
+                "name": "La glace divine",
+                "latitude": 48.85229,
+                "longitude": 2.355925
             }
         ]
     },
@@ -36,24 +120,6 @@
         ]
     },
     {
-        "quest_description": "Purify 3 Pokemon",
-        "quest_reward": "Haunter",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Haunter",
-        "quest_reward_pokemon_id": 93,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "9f45a3dddb2343b3b717da52af34c5c3.16",
-                "name": "Croix Terre Cuite",
-                "latitude": 48.854695,
-                "longitude": 2.355947
-            }
-        ]
-    },
-    {
         "quest_description": "Hatch 2 Eggs",
         "quest_reward": "Togedemaru",
         "quest_reward_type": "Pokemon",
@@ -68,6 +134,24 @@
                 "name": "Statue of a woman in Musee du",
                 "latitude": 48.861807,
                 "longitude": 2.334852
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Popplio",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Popplio",
+        "quest_reward_pokemon_id": 728,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b85d1bf6520a4ccab775d0e159381f16.16",
+                "name": "UFO Pajou",
+                "latitude": 48.856756,
+                "longitude": 2.272959
             }
         ]
     },
