@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "02e119123ba8488c88d4972132f6192c.16",
+                "name": "Passage du Caire - West Entrance",
+                "latitude": 48.867998,
+                "longitude": 2.34877
+            },
+            {
+                "pokestop_id": "1e6a54130eb948188ab08bfbc8e1ba61.12",
+                "name": "M\u00e9d\u00e9e Et Ses 2 Enfants",
+                "latitude": 48.862945,
+                "longitude": 2.328665
+            },
+            {
+                "pokestop_id": "36188cc443c9433ba2cb085403cc0417.12",
+                "name": "Statue of Merchant of Masks",
+                "latitude": 48.84627,
+                "longitude": 2.338158
+            },
+            {
+                "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
+                "name": "Igreja de S\u00e3o Pedro",
+                "latitude": 39.74725,
+                "longitude": -8.807508
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Drilbur",
         "quest_reward_type": "Pokemon",
@@ -26,6 +62,12 @@
                 "name": "Profil Josue",
                 "latitude": 48.836135,
                 "longitude": 2.363696
+            },
+            {
+                "pokestop_id": "46c9d889416843158fc5d8417133b454.16",
+                "name": "Paris Rue des Forges Street Art",
+                "latitude": 48.867684,
+                "longitude": 2.34907
             },
             {
                 "pokestop_id": "d2e8a36b349e4732af67887dbad81bc4.16",
@@ -232,6 +274,12 @@
                 "longitude": -8.799535
             },
             {
+                "pokestop_id": "26ef381afd8b4140b2ff0149b8935400.16",
+                "name": "Ici v\u00e9curent Maurice Et Marie Madeleine Durufl\u00e9",
+                "latitude": 48.846748,
+                "longitude": 2.3472
+            },
+            {
                 "pokestop_id": "49eddc41ce404af7976e39a6b40d6127.16",
                 "name": "Facciata",
                 "latitude": 48.863331,
@@ -332,36 +380,6 @@
                 "name": "Pixel art vin et raisin",
                 "latitude": 48.869876,
                 "longitude": 2.319332
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Exeggutor",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Exeggutor",
-        "quest_reward_pokemon_id": 103,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "1e6a54130eb948188ab08bfbc8e1ba61.12",
-                "name": "M\u00e9d\u00e9e Et Ses 2 Enfants",
-                "latitude": 48.862945,
-                "longitude": 2.328665
-            },
-            {
-                "pokestop_id": "36188cc443c9433ba2cb085403cc0417.12",
-                "name": "Statue of Merchant of Masks",
-                "latitude": 48.84627,
-                "longitude": 2.338158
-            },
-            {
-                "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
-                "name": "Igreja de S\u00e3o Pedro",
-                "latitude": 39.74725,
-                "longitude": -8.807508
             }
         ]
     },
