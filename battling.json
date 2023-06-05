@@ -64,6 +64,12 @@
                 "longitude": 2.335244
             },
             {
+                "pokestop_id": "3301f3798ba44e55a816ccd6010f2daa.16",
+                "name": "Les Filles Au Balcon",
+                "latitude": 48.85782,
+                "longitude": 2.278871
+            },
+            {
                 "pokestop_id": "57d10aae03334c7d8435f4e783b04380.16",
                 "name": "De Mayo",
                 "latitude": 48.869778,
@@ -128,6 +134,12 @@
                 "name": "Les Bouquinistes de la Seine",
                 "latitude": 48.85329,
                 "longitude": 2.357546
+            },
+            {
+                "pokestop_id": "fc47016935f1470bb622c4190d29af5d.16",
+                "name": "Bustes Femmes P.Ecuries",
+                "latitude": 48.873951,
+                "longitude": 2.349357
             }
         ]
     },
@@ -354,6 +366,30 @@
         ]
     },
     {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Marowak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marowak",
+        "quest_reward_pokemon_id": 105,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "968c5aa1c6ca42c9a43b228a455913a5.16",
+                "name": "Fa\u00e7ade Sculpt\u00e9e",
+                "latitude": 48.877542,
+                "longitude": 2.348707
+            },
+            {
+                "pokestop_id": "d61eacd3f399432080abb0d94a03bdd9.16",
+                "name": "Pixel art vin et raisin",
+                "latitude": 48.869876,
+                "longitude": 2.319332
+            }
+        ]
+    },
+    {
         "quest_description": "Win a three-star raid or higher",
         "quest_reward": "Tirtouga",
         "quest_reward_type": "Pokemon",
@@ -380,24 +416,6 @@
                 "name": "Camara Municipal de Leiria",
                 "latitude": 39.741093,
                 "longitude": -8.810354
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Marowak",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Marowak",
-        "quest_reward_pokemon_id": 105,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d61eacd3f399432080abb0d94a03bdd9.16",
-                "name": "Pixel art vin et raisin",
-                "latitude": 48.869876,
-                "longitude": 2.319332
             }
         ]
     },
