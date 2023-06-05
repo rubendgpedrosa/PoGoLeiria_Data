@@ -136,6 +136,12 @@
                 "longitude": -8.81389
             },
             {
+                "pokestop_id": "35940b8634ee453ca3450a9fe9b655a8.16",
+                "name": "La Poste Paris Madeleine",
+                "latitude": 48.872473,
+                "longitude": 2.326663
+            },
+            {
                 "pokestop_id": "a175686711784037833ee274d88813d8.16",
                 "name": "Galeria Manuel Artur Santos",
                 "latitude": 39.742898,
@@ -224,6 +230,12 @@
                 "name": "P\u00e9rgula Marinhense",
                 "latitude": 39.751051,
                 "longitude": -8.928765
+            },
+            {
+                "pokestop_id": "80cf1eb836bf4659a318a3cc5db3194a.11",
+                "name": "Ancienne Fontaine Basfroi",
+                "latitude": 48.865204,
+                "longitude": 2.350463
             },
             {
                 "pokestop_id": "86613024fa4445639b844088a8f26d2a.12",
@@ -524,6 +536,12 @@
                 "name": "Bairro do Povo",
                 "latitude": 39.741382,
                 "longitude": -8.931793
+            },
+            {
+                "pokestop_id": "14d9216d75854fb5a3d0a618c17f5f5f.16",
+                "name": "Le Roi Ch\u00eane",
+                "latitude": 48.871763,
+                "longitude": 2.321789
             },
             {
                 "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
@@ -954,6 +972,42 @@
         ]
     },
     {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Cottonee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cottonee",
+        "quest_reward_pokemon_id": 546,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "33252482fcb54353b1644b83d4e293a4.16",
+                "name": "T\u00eate De Monsieur",
+                "latitude": 48.871737,
+                "longitude": 2.322499
+            },
+            {
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
+            },
+            {
+                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
+                "name": "Monumento aos Combatentes da Grande Guerra",
+                "latitude": 39.740806,
+                "longitude": -8.802768
+            },
+            {
+                "pokestop_id": "97b086aa4de14ec89fdbe8e8a146fe80.16",
+                "name": "Porte Majestueuse Bois Rare Et Sculptures Sur Fa\u00e7ade",
+                "latitude": 48.870966,
+                "longitude": 2.32142
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "Oshawott",
         "quest_reward_type": "Pokemon",
@@ -1242,24 +1296,6 @@
         ]
     },
     {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Clefairy",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Clefairy",
-        "quest_reward_pokemon_id": 35,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
-                "name": "Pai Natal Lar\u00e1pio",
-                "latitude": 39.73156,
-                "longitude": -8.823204
-            }
-        ]
-    },
-    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Lotad",
         "quest_reward_type": "Pokemon",
@@ -1269,6 +1305,12 @@
         "quest_reward_pokemon_id": 270,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "5d57b6a1185b4b91a3024b49ac0998d9.16",
+                "name": "Immeuble Romantique Sculpt\u00e9",
+                "latitude": 48.872885,
+                "longitude": 2.323439
+            },
             {
                 "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
                 "name": "Ponte Hintze Ribeiro",
@@ -1326,6 +1368,24 @@
         ]
     },
     {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Clefairy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Clefairy",
+        "quest_reward_pokemon_id": 35,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch an Egg",
         "quest_reward": "Scyther",
         "quest_reward_type": "Pokemon",
@@ -1350,32 +1410,20 @@
         ]
     },
     {
-        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
-        "quest_reward": "Cottonee",
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Litten",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Cottonee",
-        "quest_reward_pokemon_id": 546,
+        "quest_reward_pokemon_name": "Litten",
+        "quest_reward_pokemon_id": 725,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
-                "name": "Escultura Edifoz",
-                "latitude": 39.746497,
-                "longitude": -8.815913
-            },
-            {
-                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
-                "name": "Monumento aos Combatentes da Grande Guerra",
-                "latitude": 39.740806,
-                "longitude": -8.802768
-            },
-            {
-                "pokestop_id": "97b086aa4de14ec89fdbe8e8a146fe80.16",
-                "name": "Porte Majestueuse Bois Rare Et Sculptures Sur Fa\u00e7ade",
-                "latitude": 48.870966,
-                "longitude": 2.32142
+                "pokestop_id": "72b92094a7f4499da8209b196dd90c75.16",
+                "name": "Green Diamond",
+                "latitude": 48.873971,
+                "longitude": 2.324763
             }
         ]
     },
