@@ -62,6 +62,12 @@
                 "name": "Sede de Imprensa Marinha Grande",
                 "latitude": 39.753915,
                 "longitude": -8.932095
+            },
+            {
+                "pokestop_id": "f8947c95978846ef956ec8f3b2ed7978.16",
+                "name": "Les Bouquinistes de la Seine",
+                "latitude": 48.85329,
+                "longitude": 2.357546
             }
         ]
     },
@@ -82,6 +88,12 @@
                 "longitude": -8.799535
             },
             {
+                "pokestop_id": "49eddc41ce404af7976e39a6b40d6127.16",
+                "name": "Facciata",
+                "latitude": 48.863331,
+                "longitude": 2.293925
+            },
+            {
                 "pokestop_id": "660dcab6793646c98390c2b9f590ee35.16",
                 "name": "Belle Porte Arcade",
                 "latitude": 48.870796,
@@ -92,6 +104,18 @@
                 "name": "Afonso Lopes Vieira",
                 "latitude": 39.743902,
                 "longitude": -8.808525
+            },
+            {
+                "pokestop_id": "da8bf3ea7ab64c56834513af0fa5574d.16",
+                "name": "Les Portes De Jupiter",
+                "latitude": 48.853169,
+                "longitude": 2.362357
+            },
+            {
+                "pokestop_id": "f046533ca8b83f28bc0ee749f21250c4.16",
+                "name": "Red boy",
+                "latitude": 48.852917,
+                "longitude": 2.357632
             }
         ]
     },
@@ -240,6 +264,30 @@
         ]
     },
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Tirtouga",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tirtouga",
+        "quest_reward_pokemon_id": 564,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "c01ad58a70aa47d68ba2d76d7c736709.16",
+                "name": "Vieille Horloge En Bronze",
+                "latitude": 48.852494,
+                "longitude": 2.363194
+            },
+            {
+                "pokestop_id": "f1edf2dd4b33434186ddc331a2fb2ce3.11",
+                "name": "Camara Municipal de Leiria",
+                "latitude": 39.741093,
+                "longitude": -8.810354
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Marowak",
         "quest_reward_type": "Pokemon",
@@ -272,24 +320,6 @@
                 "name": "Shakespeare and Company",
                 "latitude": 48.852631,
                 "longitude": 2.34714
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Tirtouga",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Tirtouga",
-        "quest_reward_pokemon_id": 564,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f1edf2dd4b33434186ddc331a2fb2ce3.11",
-                "name": "Camara Municipal de Leiria",
-                "latitude": 39.741093,
-                "longitude": -8.810354
             }
         ]
     }
