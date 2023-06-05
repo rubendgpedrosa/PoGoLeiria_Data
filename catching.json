@@ -94,6 +94,12 @@
                 "longitude": -8.935367
             },
             {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
+            },
+            {
                 "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
                 "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
                 "latitude": 39.747526,
@@ -128,6 +134,12 @@
                 "name": "Correios Leiria (Post Office)",
                 "latitude": 39.743073,
                 "longitude": -8.808473
+            },
+            {
+                "pokestop_id": "3a831ae2cff24109950a47a9e67ea30a.16",
+                "name": "AMM - Associa\u00e7\u00e3o Marinha em Movimento",
+                "latitude": 39.750545,
+                "longitude": -8.925972
             },
             {
                 "pokestop_id": "401aa5fe5e2a4ac2b7ed091070a5dc86.16",
@@ -1184,6 +1196,12 @@
                 "name": "Junta De Freguesia Leiria",
                 "latitude": 39.743562,
                 "longitude": -8.804606
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             }
         ]
     },
@@ -1260,6 +1278,24 @@
         ]
     },
     {
+        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
+        "quest_reward": "10 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
+                "name": "Patria No Ultramar",
+                "latitude": 39.74471,
+                "longitude": -8.805589
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -1302,6 +1338,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "8c20f9c9b65b384ea6311422e708bcd1.16",
+                "name": "Parque Verde de Leiria",
+                "latitude": 39.741617,
+                "longitude": -8.819755
+            },
+            {
+                "pokestop_id": "c194e76186764926aed5179fbd77c49c.16",
+                "name": "Sede do Partido Social Democrata da Marinha Grande",
+                "latitude": 39.746712,
+                "longitude": -8.928824
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -1328,6 +1388,12 @@
                 "name": "Igreja Man\u00e1",
                 "latitude": 39.741498,
                 "longitude": -8.799315
+            },
+            {
+                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
+                "name": "Faces Cubistas",
+                "latitude": 39.750855,
+                "longitude": -8.806714
             },
             {
                 "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
@@ -1490,24 +1556,6 @@
                 "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739793,
                 "longitude": -8.808255
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "c194e76186764926aed5179fbd77c49c.16",
-                "name": "Sede do Partido Social Democrata da Marinha Grande",
-                "latitude": 39.746712,
-                "longitude": -8.928824
             }
         ]
     },
