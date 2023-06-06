@@ -126,6 +126,48 @@
         ]
     },
     {
+        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
+        "quest_reward": "Spinarak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spinarak",
+        "quest_reward_pokemon_id": 167,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b009f5a690144c98ae9fde56c39c18f.16",
+                "name": "La T\u00eate Du Num\u00e9ro 12",
+                "latitude": 48.859302,
+                "longitude": 2.353147
+            },
+            {
+                "pokestop_id": "68c5d3f098a14a56b8362f8e4caa8f47.16",
+                "name": "Ici V\u00e9cut Juliette Drouet",
+                "latitude": 48.859722,
+                "longitude": 2.363772
+            },
+            {
+                "pokestop_id": "ac7002fcbcd24bbd9e708e819da9f9a3.16",
+                "name": "Dancing Women",
+                "latitude": 48.860708,
+                "longitude": 2.367087
+            },
+            {
+                "pokestop_id": "cf9194f598cc4253a3d0755a4eb66e6b.16",
+                "name": "Eglise Saint Denys Du Saint Sacrement",
+                "latitude": 48.859984,
+                "longitude": 2.36472
+            },
+            {
+                "pokestop_id": "d02d9cb624de4bd78a1db1500d11f8ba.16",
+                "name": "D\u00e9esse de Porte",
+                "latitude": 48.853029,
+                "longitude": 2.363664
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 Pok\u00e9mon",
         "quest_reward": "Wimpod",
         "quest_reward_type": "Pokemon",
@@ -638,42 +680,6 @@
                 "name": "La Poste De La Place De Clichy",
                 "latitude": 48.883633,
                 "longitude": 2.32912
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
-        "quest_reward": "Spinarak",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Spinarak",
-        "quest_reward_pokemon_id": 167,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "68c5d3f098a14a56b8362f8e4caa8f47.16",
-                "name": "Ici V\u00e9cut Juliette Drouet",
-                "latitude": 48.859722,
-                "longitude": 2.363772
-            },
-            {
-                "pokestop_id": "ac7002fcbcd24bbd9e708e819da9f9a3.16",
-                "name": "Dancing Women",
-                "latitude": 48.860708,
-                "longitude": 2.367087
-            },
-            {
-                "pokestop_id": "cf9194f598cc4253a3d0755a4eb66e6b.16",
-                "name": "Eglise Saint Denys Du Saint Sacrement",
-                "latitude": 48.859984,
-                "longitude": 2.36472
-            },
-            {
-                "pokestop_id": "d02d9cb624de4bd78a1db1500d11f8ba.16",
-                "name": "D\u00e9esse de Porte",
-                "latitude": 48.853029,
-                "longitude": 2.363664
             }
         ]
     },
