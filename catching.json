@@ -342,6 +342,36 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2e07c610216841b5b245b3eec5273f5c.16",
+                "name": "Paris 03 : mascaron",
+                "latitude": 48.867564,
+                "longitude": 2.360628
+            },
+            {
+                "pokestop_id": "853f417692fa43ebae1bf415143e4dee.16",
+                "name": "Mosa\u00efque Cheval",
+                "latitude": 48.856675,
+                "longitude": 2.35677
+            },
+            {
+                "pokestop_id": "c4c3beaea5af452fbc9408dcd8227348.16",
+                "name": "Man\u00e8ge \u00c0 L'ancienne",
+                "latitude": 48.85889,
+                "longitude": 2.268148
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "10 Blaziken Mega Energy",
         "quest_reward_type": "Energy",
@@ -684,30 +714,6 @@
         ]
     },
     {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "853f417692fa43ebae1bf415143e4dee.16",
-                "name": "Mosa\u00efque Cheval",
-                "latitude": 48.856675,
-                "longitude": 2.35677
-            },
-            {
-                "pokestop_id": "c4c3beaea5af452fbc9408dcd8227348.16",
-                "name": "Man\u00e8ge \u00c0 L'ancienne",
-                "latitude": 48.85889,
-                "longitude": 2.268148
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -788,6 +794,12 @@
                 "name": "Statue Jules-Etienne Pasdeloup",
                 "latitude": 48.862958,
                 "longitude": 2.366996
+            },
+            {
+                "pokestop_id": "a2c746d1ca3243d0b7ddab45dbbb296e.16",
+                "name": "Conservatoire Hector Berlioz",
+                "latitude": 48.87166,
+                "longitude": 2.358182
             },
             {
                 "pokestop_id": "dda12d2b74104023abf15269b6bb855b.16",
@@ -974,6 +986,24 @@
                 "name": "Monument Historique",
                 "latitude": 48.856266,
                 "longitude": 2.355166
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Poliwag",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Poliwag",
+        "quest_reward_pokemon_id": 60,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "fc9afe5c874d469c82302332a2bbe1c2.16",
+                "name": "Taylor 1789-1879",
+                "latitude": 48.868413,
+                "longitude": 2.360211
             }
         ]
     }

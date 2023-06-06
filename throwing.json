@@ -22,6 +22,12 @@
                 "longitude": 2.357425
             },
             {
+                "pokestop_id": "d10138cece8848b78ec2377792096814.16",
+                "name": "Tete Fontaine Du Temple",
+                "latitude": 48.865654,
+                "longitude": 2.35896
+            },
+            {
                 "pokestop_id": "fe163407171a40419a938bfb4c8e91f4.16",
                 "name": "Impasse de l'h\u00f4tel d'Argenson",
                 "latitude": 48.856837,
@@ -44,6 +50,12 @@
                 "name": "Mural Femme",
                 "latitude": 48.865561,
                 "longitude": 2.359761
+            },
+            {
+                "pokestop_id": "79fa5eaad6704e0caeca23a836b0c677.16",
+                "name": "Plaque En M\u00e9moire De R\u00e9sistants",
+                "latitude": 48.870626,
+                "longitude": 2.359204
             },
             {
                 "pokestop_id": "86c71af45b4f4519b4a1c7c0019c208a.16",
@@ -112,6 +124,12 @@
                 "longitude": 2.359337
             },
             {
+                "pokestop_id": "4a2630d009a6495896ddb37ec00f8c9f.16",
+                "name": "Art Mural Lancry",
+                "latitude": 48.869349,
+                "longitude": 2.360264
+            },
+            {
                 "pokestop_id": "95e6d694f9fb4cc7b908ac302e8efaf5.16",
                 "name": "Mont De Pi\u00e9t\u00e9",
                 "latitude": 48.859009,
@@ -122,6 +140,48 @@
                 "name": "Mosa\u00efque du 51",
                 "latitude": 48.858203,
                 "longitude": 2.3644
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "10be020e88b34368af81a9e2eafa3873.16",
+                "name": "Boy",
+                "latitude": 48.871811,
+                "longitude": 2.356969
+            },
+            {
+                "pokestop_id": "3e0173e7ccc54ae790ba20b7008d8e00.16",
+                "name": "Thermom\u00e8tre",
+                "latitude": 48.861704,
+                "longitude": 2.362023
+            },
+            {
+                "pokestop_id": "6a93b361c4e54aeaa926f83a000900c4.16",
+                "name": "Histoire De Paris Pierre-Jean De B\u00e9ranger",
+                "latitude": 48.865189,
+                "longitude": 2.364188
+            },
+            {
+                "pokestop_id": "96513df289d24c108c1baf89a97ad25c.16",
+                "name": "Embl\u00e8me Architectural \"C\"",
+                "latitude": 48.883963,
+                "longitude": 2.325548
+            },
+            {
+                "pokestop_id": "cd3ae721b46a458093b7cc4965527464.11",
+                "name": "Carreau du temple",
+                "latitude": 48.864745,
+                "longitude": 2.362337
             }
         ]
     },
@@ -450,42 +510,6 @@
         ]
     },
     {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "3e0173e7ccc54ae790ba20b7008d8e00.16",
-                "name": "Thermom\u00e8tre",
-                "latitude": 48.861704,
-                "longitude": 2.362023
-            },
-            {
-                "pokestop_id": "6a93b361c4e54aeaa926f83a000900c4.16",
-                "name": "Histoire De Paris Pierre-Jean De B\u00e9ranger",
-                "latitude": 48.865189,
-                "longitude": 2.364188
-            },
-            {
-                "pokestop_id": "96513df289d24c108c1baf89a97ad25c.16",
-                "name": "Embl\u00e8me Architectural \"C\"",
-                "latitude": 48.883963,
-                "longitude": 2.325548
-            },
-            {
-                "pokestop_id": "cd3ae721b46a458093b7cc4965527464.11",
-                "name": "Carreau du temple",
-                "latitude": 48.864745,
-                "longitude": 2.362337
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -608,6 +632,42 @@
                 "name": "Statue Sphynx Tuileries - Pari",
                 "latitude": 48.861083,
                 "longitude": 2.329997
+            },
+            {
+                "pokestop_id": "857ab6aaea7d4f4bb369111fc197784e.11",
+                "name": "Buste de Johann Strauss",
+                "latitude": 48.868512,
+                "longitude": 2.359771
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "788fbac794144ed2858ad7049654b28d.16",
+                "name": "Synagogue de Nazareth",
+                "latitude": 48.867103,
+                "longitude": 2.360055
+            },
+            {
+                "pokestop_id": "b53e960f135b4b958fbd86567a7acb22.16",
+                "name": "Square Saint-Gilles Grand Veneur Pauline Roland",
+                "latitude": 48.859302,
+                "longitude": 2.365446
+            },
+            {
+                "pokestop_id": "bf19953f88674cb9acbaf1c89511d6bb.16",
+                "name": "Trompe L'oeil",
+                "latitude": 48.853605,
+                "longitude": 2.360802
             }
         ]
     },
@@ -744,30 +804,6 @@
         ]
     },
     {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "b53e960f135b4b958fbd86567a7acb22.16",
-                "name": "Square Saint-Gilles Grand Veneur Pauline Roland",
-                "latitude": 48.859302,
-                "longitude": 2.365446
-            },
-            {
-                "pokestop_id": "bf19953f88674cb9acbaf1c89511d6bb.16",
-                "name": "Trompe L'oeil",
-                "latitude": 48.853605,
-                "longitude": 2.360802
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "1000 Stardust",
         "quest_reward_type": "Stardust",
@@ -800,6 +836,12 @@
                 "name": "Village Saint Paul",
                 "latitude": 48.852984,
                 "longitude": 2.361074
+            },
+            {
+                "pokestop_id": "f224867b7935407e8e1c3af4ff21e699.16",
+                "name": "Monsieur Chat montre la R\u00e9publique",
+                "latitude": 48.866288,
+                "longitude": 2.360603
             }
         ]
     },
