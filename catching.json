@@ -396,6 +396,24 @@
         ]
     },
     {
+        "quest_description": "Catch 15 different species of Pok\u00e9mon",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2e2e3869136d4c86a4accf34d36bdbbf.16",
+                "name": "M. Chat Sur Les Toits",
+                "latitude": 48.86522,
+                "longitude": 2.35724
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "10 Sceptile Mega Energy",
         "quest_reward_type": "Energy",
@@ -552,24 +570,6 @@
         ]
     },
     {
-        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "582c90fe549a43088a5a76410a931409.16",
-                "name": "La Poste De La Place De Clichy",
-                "latitude": 48.883633,
-                "longitude": 2.32912
-            }
-        ]
-    },
-    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -579,6 +579,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 701,
         "pokestops": [
+            {
+                "pokestop_id": "56258c0ea3a245b0ad8becdae1ffd8f8.16",
+                "name": "Colors & Monopoly @ 56",
+                "latitude": 48.867009,
+                "longitude": 2.358337
+            },
             {
                 "pokestop_id": "676836a67f46447db192d6af953d2ab6.16",
                 "name": "Caserne Des Pompiers De La Rue Sevign\u00e9",
@@ -608,6 +614,24 @@
                 "name": "Visage D'ange",
                 "latitude": 48.858501,
                 "longitude": 2.36161
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "582c90fe549a43088a5a76410a931409.16",
+                "name": "La Poste De La Place De Clichy",
+                "latitude": 48.883633,
+                "longitude": 2.32912
             }
         ]
     },
@@ -674,6 +698,12 @@
                 "name": "Le Bataillon Fran\u00e7ais de Cor\u00e9e",
                 "latitude": 48.853971,
                 "longitude": 2.356583
+            },
+            {
+                "pokestop_id": "e00b34cf103741e1ac6a852f64df8126.16",
+                "name": "Portail Vase Sculpt\u00e9",
+                "latitude": 48.868669,
+                "longitude": 2.358278
             }
         ]
     },
@@ -692,6 +722,12 @@
                 "name": "H\u00f4tel De Brossier Art",
                 "latitude": 48.86159,
                 "longitude": 2.361145
+            },
+            {
+                "pokestop_id": "818dd34b477043ddb2215c747ff46f04.16",
+                "name": "Paris 03 : La Maison Natale De George Sand",
+                "latitude": 48.868321,
+                "longitude": 2.357351
             }
         ]
     },
