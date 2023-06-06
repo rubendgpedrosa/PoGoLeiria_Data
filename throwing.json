@@ -558,6 +558,54 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "49c4df16b7c84d2fb2108484e4aab61d.16",
+                "name": "Le Sphinx du 22",
+                "latitude": 48.863571,
+                "longitude": 2.355707
+            },
+            {
+                "pokestop_id": "ac89698dc1754307a5b89e4875100c11.16",
+                "name": "Sacr\u00e9 T\u00eate",
+                "latitude": 48.862721,
+                "longitude": 2.35624
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "5 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "4d06d767b795435aa33df09923c52636.16",
+                "name": "Histoire de Paris - H\u00f4tel Jean Bart",
+                "latitude": 48.863112,
+                "longitude": 2.357191
+            },
+            {
+                "pokestop_id": "88e24cac2d2d4f4a9b2ac948a78c028a.16",
+                "name": "Huge Cross",
+                "latitude": 48.852998,
+                "longitude": 2.364777
+            }
+        ]
+    },
+    {
         "quest_description": "Make an Excellent Throw",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -692,24 +740,6 @@
                 "name": "La Petite Fille Aux Perles",
                 "latitude": 48.859942,
                 "longitude": 2.356569
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws in a row",
-        "quest_reward": "5 Ultra Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Ultra Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
-        "pokestops": [
-            {
-                "pokestop_id": "88e24cac2d2d4f4a9b2ac948a78c028a.16",
-                "name": "Huge Cross",
-                "latitude": 48.852998,
-                "longitude": 2.364777
             }
         ]
     },
@@ -866,6 +896,12 @@
                 "name": "Jardin Des Archives",
                 "latitude": 48.859845,
                 "longitude": 2.359295
+            },
+            {
+                "pokestop_id": "e6a9f8a38b2049508d09ff143d767b3f.16",
+                "name": "Fontaine Ancienne",
+                "latitude": 48.863697,
+                "longitude": 2.358494
             },
             {
                 "pokestop_id": "e7968020b6d241858b55712696493c76.16",
