@@ -18,6 +18,30 @@
         ]
     },
     {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Trapinch",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Trapinch",
+        "quest_reward_pokemon_id": 328,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "034956cf1cb74c799b61835be3bea79d.16",
+                "name": "Square Rue Du Temple",
+                "latitude": 48.864349,
+                "longitude": 2.361623
+            },
+            {
+                "pokestop_id": "aa86decb4c134a63ac40f26b1ec5fb19.16",
+                "name": "Prisons De La Force",
+                "latitude": 48.856791,
+                "longitude": 2.361495
+            }
+        ]
+    },
+    {
         "quest_description": "Purify 3 Pokemon",
         "quest_reward": "Haunter",
         "quest_reward_type": "Pokemon",
@@ -82,6 +106,12 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "0996c4dee36b4b2caf6a8fe9ce92922c.16",
+                "name": "Egyptiens \u00c9go\u00efstes",
+                "latitude": 48.862688,
+                "longitude": 2.363085
+            },
+            {
                 "pokestop_id": "0ee127944b894da289798d6d2747a917.16",
                 "name": "Panth\u00e8re Murale",
                 "latitude": 48.853327,
@@ -140,6 +170,12 @@
                 "name": "Synagogue Rue Pav\u00e9e",
                 "latitude": 48.856031,
                 "longitude": 2.360465
+            },
+            {
+                "pokestop_id": "425af42ddc4b4ede9c1bd0cfc05ddb9b.16",
+                "name": "Singes De La Sagesse",
+                "latitude": 48.864413,
+                "longitude": 2.363479
             },
             {
                 "pokestop_id": "dd686fbe090349818cc405905be2d5c9.16",
@@ -338,24 +374,6 @@
                 "name": "Scared Sculpture",
                 "latitude": 48.854855,
                 "longitude": 2.272758
-            }
-        ]
-    },
-    {
-        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
-        "quest_reward": "Trapinch",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Trapinch",
-        "quest_reward_pokemon_id": 328,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "aa86decb4c134a63ac40f26b1ec5fb19.16",
-                "name": "Prisons De La Force",
-                "latitude": 48.856791,
-                "longitude": 2.361495
             }
         ]
     },
