@@ -150,6 +150,36 @@
         ]
     },
     {
+        "quest_description": "Catch 7 different species of Pok\u00e9mon",
+        "quest_reward": "Exeggcute",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggcute",
+        "quest_reward_pokemon_id": 102,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "10d745f146ed490eaeb355bc89310be0.16",
+                "name": "10 Rue Crussol",
+                "latitude": 48.864066,
+                "longitude": 2.367772
+            },
+            {
+                "pokestop_id": "d3ecca1d94d14f9da2e6aa22a007b7d5.16",
+                "name": "Soulier Rouge",
+                "latitude": 48.861188,
+                "longitude": 2.365318
+            },
+            {
+                "pokestop_id": "e45f2cd76f224d8aaa3b8ca0b4ee1d4e.16",
+                "name": "Jardin Du Ranelagh",
+                "latitude": 48.857952,
+                "longitude": 2.271572
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Wingull",
         "quest_reward_type": "Pokemon",
@@ -242,6 +272,12 @@
                 "name": "Incroyable Portail Quai Des C\u00e9lestins",
                 "latitude": 48.851472,
                 "longitude": 2.362387
+            },
+            {
+                "pokestop_id": "f467b1f4d9a744dbbb668cb7a3d89857.16",
+                "name": "Yellow Diamond",
+                "latitude": 48.865643,
+                "longitude": 2.369312
             }
         ]
     },
@@ -320,6 +356,12 @@
                 "name": "Maison De La Famille C\u0152UR",
                 "latitude": 48.859079,
                 "longitude": 2.356028
+            },
+            {
+                "pokestop_id": "f2fa557f30ad48729fad8d6a10143de7.11",
+                "name": "La Grisette",
+                "latitude": 48.868602,
+                "longitude": 2.367443
             }
         ]
     },
@@ -532,6 +574,12 @@
                 "longitude": 2.272383
             },
             {
+                "pokestop_id": "743492a45bb347759aaa4a4cfca671e2.16",
+                "name": "Angle Sculpt\u00e9",
+                "latitude": 48.861435,
+                "longitude": 2.366953
+            },
+            {
                 "pokestop_id": "c0661202d7fd48fba071a4e48624800b.16",
                 "name": "Atom Pixel Face",
                 "latitude": 48.853871,
@@ -658,6 +706,12 @@
                 "longitude": 2.361701
             },
             {
+                "pokestop_id": "95363a05ff75472f9f5a5e93045d3575.16",
+                "name": "Statue Jules-Etienne Pasdeloup",
+                "latitude": 48.862958,
+                "longitude": 2.366996
+            },
+            {
                 "pokestop_id": "dda12d2b74104023abf15269b6bb855b.16",
                 "name": "Maison de F.-V. RASPAIL",
                 "latitude": 48.855844,
@@ -738,6 +792,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "c97698ed50214f9b82e4695069e1bfb6.16",
+                "name": "Kiosque du Square Jules Ferry",
+                "latitude": 48.868021,
+                "longitude": 2.367952
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -770,30 +842,6 @@
                 "name": "Mairie - 3\u00e8me Arrondissement",
                 "latitude": 48.863997,
                 "longitude": 2.361519
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 7 different species of Pok\u00e9mon",
-        "quest_reward": "Exeggcute",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Exeggcute",
-        "quest_reward_pokemon_id": 102,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d3ecca1d94d14f9da2e6aa22a007b7d5.16",
-                "name": "Soulier Rouge",
-                "latitude": 48.861188,
-                "longitude": 2.365318
-            },
-            {
-                "pokestop_id": "e45f2cd76f224d8aaa3b8ca0b4ee1d4e.16",
-                "name": "Jardin Du Ranelagh",
-                "latitude": 48.857952,
-                "longitude": 2.271572
             }
         ]
     },
