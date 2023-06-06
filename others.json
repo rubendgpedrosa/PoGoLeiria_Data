@@ -42,6 +42,30 @@
         ]
     },
     {
+        "quest_description": "Scan 1",
+        "quest_reward": "1 Poffin",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Poffin",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 709,
+        "pokestops": [
+            {
+                "pokestop_id": "4783bd4633fb4ab998a5752f6b02b21a.16",
+                "name": "Lion de la Justice",
+                "latitude": 48.856174,
+                "longitude": 2.343069
+            },
+            {
+                "pokestop_id": "b8281b90306a4d1b88d6b62f83518740.16",
+                "name": "Dernier Bar avant la Fin du Monde",
+                "latitude": 48.85802,
+                "longitude": 2.346079
+            }
+        ]
+    },
+    {
         "quest_description": "Walk 1 km",
         "quest_reward": "Snubbull",
         "quest_reward_type": "Pokemon",
@@ -74,24 +98,6 @@
                 "name": "Bas-relief Nymphe",
                 "latitude": 48.858602,
                 "longitude": 2.279063
-            }
-        ]
-    },
-    {
-        "quest_description": "Scan 1",
-        "quest_reward": "1 Poffin",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Poffin",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 709,
-        "pokestops": [
-            {
-                "pokestop_id": "b8281b90306a4d1b88d6b62f83518740.16",
-                "name": "Dernier Bar avant la Fin du Monde",
-                "latitude": 48.85802,
-                "longitude": 2.346079
             }
         ]
     },
