@@ -184,6 +184,12 @@
                 "longitude": 2.362688
             },
             {
+                "pokestop_id": "76c92485a84349ea9b49f610efb87988.16",
+                "name": "Visages au Square Georges Cain",
+                "latitude": 48.857968,
+                "longitude": 2.362403
+            },
+            {
                 "pokestop_id": "997eb892f9c646f2a019408379908e38.16",
                 "name": "Metro Sully-Morland",
                 "latitude": 48.85134,
@@ -258,6 +264,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Bulbasaur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bulbasaur",
+        "quest_reward_pokemon_id": 1,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "7072eb5823bd40b69c3d503b5f0794f7.16",
+                "name": "Jardin du Mus\u00e9e Picasso",
+                "latitude": 48.860128,
+                "longitude": 2.361793
+            },
+            {
+                "pokestop_id": "83bfa2a14b0540619bbc3474ee72cb44.16",
+                "name": "Statue Inconnue",
+                "latitude": 48.857878,
+                "longitude": 2.268189
+            }
+        ]
+    },
+    {
         "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
         "quest_reward": "Croagunk",
         "quest_reward_type": "Pokemon",
@@ -272,24 +302,6 @@
                 "name": "La glace divine",
                 "latitude": 48.85229,
                 "longitude": 2.355925
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 3 times",
-        "quest_reward": "Bulbasaur",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bulbasaur",
-        "quest_reward_pokemon_id": 1,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "83bfa2a14b0540619bbc3474ee72cb44.16",
-                "name": "Statue Inconnue",
-                "latitude": 48.857878,
-                "longitude": 2.268189
             }
         ]
     },
