@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Binacle",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Binacle",
+        "quest_reward_pokemon_id": 688,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4dd7fba1b95c426c905468df2e3c2e4a.16",
+                "name": "Ambassade D'Espagne",
+                "latitude": 48.866568,
+                "longitude": 2.299797
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "c17407728f2f438bbaa9a427d3fbe46b.16",
+                "name": "Facade Sculpt\u00e9e",
+                "latitude": 48.86787,
+                "longitude": 2.293185
+            }
+        ]
+    },
+    {
         "quest_description": "Make 10 Nice Throws",
         "quest_reward": "Woobat",
         "quest_reward_type": "Pokemon",
@@ -28,10 +64,22 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "e45f2cd76f224d8aaa3b8ca0b4ee1d4e.16",
+                "name": "Jardin Du Ranelagh",
+                "latitude": 48.857952,
+                "longitude": 2.271572
+            },
+            {
                 "pokestop_id": "f2f65b9a5e3a4119bce8efc5e8a7853a.16",
                 "name": "Ambassade de Roumanie",
                 "latitude": 48.858597,
                 "longitude": 2.302998
+            },
+            {
+                "pokestop_id": "fb8d289e5d5c4d79b9eb60c410f0d6b3.16",
+                "name": "Greek Orthodox Church",
+                "latitude": 48.866727,
+                "longitude": 2.298582
             }
         ]
     }

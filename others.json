@@ -18,6 +18,42 @@
         ]
     },
     {
+        "quest_description": "Walk 1 km",
+        "quest_reward": "Snubbull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snubbull",
+        "quest_reward_pokemon_id": 209,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "9dd5d70498cf37ce96c386d053c52f6e.16",
+                "name": "Porte orn\u00e9e",
+                "latitude": 48.858851,
+                "longitude": 2.278143
+            }
+        ]
+    },
+    {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Tympole",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tympole",
+        "quest_reward_pokemon_id": 535,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ae3a08dd4ed63ec3acd93b42c8931272.16",
+                "name": "Bas-relief Nymphe",
+                "latitude": 48.858602,
+                "longitude": 2.279063
+            }
+        ]
+    },
+    {
         "quest_description": "Scan 1",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -32,6 +68,24 @@
                 "name": "Entr\u00e9e Sud Du Petit Palais",
                 "latitude": 48.866006,
                 "longitude": 2.315502
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d2d20c634caa4835976c06de7fe32de5.16",
+                "name": "D\u00e9cor De Fen\u00eatres",
+                "latitude": 48.866665,
+                "longitude": 2.2927
             }
         ]
     }
