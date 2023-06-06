@@ -116,6 +116,12 @@
                 "name": "La Corne Des Batignolles",
                 "latitude": 48.882514,
                 "longitude": 2.324277
+            },
+            {
+                "pokestop_id": "e69fd15874c547d7996ef6c0a4e08d04.16",
+                "name": "Sculpture Divine, Face Au Square Du Temple",
+                "latitude": 48.864993,
+                "longitude": 2.360782
             }
         ]
     },
@@ -224,6 +230,12 @@
                 "name": "Plaque Du Pont Louis Philippe",
                 "latitude": 48.854118,
                 "longitude": 2.354907
+            },
+            {
+                "pokestop_id": "ed4616c749af44648e0608bc429e4754.16",
+                "name": "Mosa\u00efque street-art : Space-Invader",
+                "latitude": 48.864793,
+                "longitude": 2.359561
             }
         ]
     },
@@ -248,6 +260,12 @@
                 "name": "Meorre Fountaine",
                 "latitude": 48.857048,
                 "longitude": 2.355452
+            },
+            {
+                "pokestop_id": "bae9199296ed46c7861782f1a257fe87.16",
+                "name": "Ren\u00e9 Le Pape",
+                "latitude": 48.864402,
+                "longitude": 2.359342
             }
         ]
     },
@@ -372,6 +390,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Snover",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snover",
+        "quest_reward_pokemon_id": 459,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "32683f400bb9460f97e973f798368552.16",
+                "name": "M\u00e9morial 39-45",
+                "latitude": 48.864582,
+                "longitude": 2.360613
+            },
+            {
+                "pokestop_id": "9e7298168b71450f97ee0f869f2e106b.16",
+                "name": "Gravure Moderne De Fontaine",
+                "latitude": 48.854412,
+                "longitude": 2.359709
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -404,6 +446,42 @@
                 "name": "Porche Plus Plaque 14 Bretagne",
                 "latitude": 48.862822,
                 "longitude": 2.362853
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "519c79a2c94b4e57bb282ff352db9d04.16",
+                "name": "La France Pr\u00e9voyante",
+                "latitude": 48.86561,
+                "longitude": 2.36083
+            },
+            {
+                "pokestop_id": "717a2640b36e426789f0804817aecafa.16",
+                "name": "La Gare de la Muette",
+                "latitude": 48.858156,
+                "longitude": 2.272383
+            },
+            {
+                "pokestop_id": "743492a45bb347759aaa4a4cfca671e2.16",
+                "name": "Angle Sculpt\u00e9",
+                "latitude": 48.861435,
+                "longitude": 2.366953
+            },
+            {
+                "pokestop_id": "c0661202d7fd48fba071a4e48624800b.16",
+                "name": "Atom Pixel Face",
+                "latitude": 48.853871,
+                "longitude": 2.361974
             }
         ]
     },
@@ -566,36 +644,6 @@
                 "name": "Le Bataillon Fran\u00e7ais de Cor\u00e9e",
                 "latitude": 48.853971,
                 "longitude": 2.356583
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "717a2640b36e426789f0804817aecafa.16",
-                "name": "La Gare de la Muette",
-                "latitude": 48.858156,
-                "longitude": 2.272383
-            },
-            {
-                "pokestop_id": "743492a45bb347759aaa4a4cfca671e2.16",
-                "name": "Angle Sculpt\u00e9",
-                "latitude": 48.861435,
-                "longitude": 2.366953
-            },
-            {
-                "pokestop_id": "c0661202d7fd48fba071a4e48624800b.16",
-                "name": "Atom Pixel Face",
-                "latitude": 48.853871,
-                "longitude": 2.361974
             }
         ]
     },
@@ -764,24 +812,6 @@
                 "name": "Emile Zola",
                 "latitude": 48.882861,
                 "longitude": 2.32862
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "Snover",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snover",
-        "quest_reward_pokemon_id": 459,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "9e7298168b71450f97ee0f869f2e106b.16",
-                "name": "Gravure Moderne De Fontaine",
-                "latitude": 48.854412,
-                "longitude": 2.359709
             }
         ]
     },
