@@ -166,6 +166,12 @@
                 "longitude": -8.812448
             },
             {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
+            },
+            {
                 "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
                 "name": "Fontario Com Escultura",
                 "latitude": 39.739551,
@@ -176,6 +182,12 @@
                 "name": "Abra\u00e7o ao universo",
                 "latitude": 39.751515,
                 "longitude": -8.814163
+            },
+            {
+                "pokestop_id": "cfa99aca982c4d5594e91f019f507180.16",
+                "name": "LeiriaMini - \u00c1rea Interativa",
+                "latitude": 39.732346,
+                "longitude": -8.824545
             }
         ]
     },
@@ -1002,6 +1014,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
+                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
+                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
+                "latitude": 39.745038,
+                "longitude": -8.804716
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1046,24 +1082,6 @@
                 "name": "Viseo",
                 "latitude": 48.871279,
                 "longitude": 2.307903
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
-                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
-                "latitude": 39.745038,
-                "longitude": -8.804716
             }
         ]
     },
