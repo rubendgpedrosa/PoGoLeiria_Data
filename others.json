@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Purify 3 Pokemon",
+        "quest_reward": "Haunter",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Haunter",
+        "quest_reward_pokemon_id": 93,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2e0771efb4ad4766b5dcaf1c5f3f4e4c.16",
+                "name": "Standard Kitchen",
+                "latitude": 48.863285,
+                "longitude": 2.324381
+            }
+        ]
+    },
+    {
         "quest_description": "Scan 1",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -20,6 +38,12 @@
                 "name": "Place de la Concorde - Jardin",
                 "latitude": 48.864415,
                 "longitude": 2.324412
+            },
+            {
+                "pokestop_id": "e65b5d106cdf47e9bfea798575c0b6db.12",
+                "name": "Monument \u00e0 Waldeck-Rousseau (1909), Jardin des Tuileries",
+                "latitude": 48.865442,
+                "longitude": 2.325009
             }
         ]
     },
