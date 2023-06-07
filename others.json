@@ -96,24 +96,6 @@
         ]
     },
     {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "4a61111fe3d14c859d1fcb9b2440d0af.12",
-                "name": "Monument \u00e0 C\u00e9zanne, Tuileries",
-                "latitude": 48.862769,
-                "longitude": 2.331432
-            }
-        ]
-    },
-    {
         "quest_description": "Scan 1",
         "quest_reward": "10 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -123,6 +105,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 1,
         "pokestops": [
+            {
+                "pokestop_id": "3c9c613e7eee486f8d3929254976a412.16",
+                "name": "Statue Du Comte De Rochambeau Marechal De France",
+                "latitude": 48.865797,
+                "longitude": 2.296217
+            },
             {
                 "pokestop_id": "565ee8eeb1d64ae295ce6e52d9dfcded.16",
                 "name": "Globe Hors Terre",
@@ -140,6 +128,24 @@
                 "name": "Porte des Lions-Louvre-Paris",
                 "latitude": 48.860729,
                 "longitude": 2.331752
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4a61111fe3d14c859d1fcb9b2440d0af.12",
+                "name": "Monument \u00e0 C\u00e9zanne, Tuileries",
+                "latitude": 48.862769,
+                "longitude": 2.331432
             }
         ]
     },
