@@ -1,6 +1,30 @@
 [
     {
         "quest_description": "Scan 1",
+        "quest_reward": "10 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "0b14cbdc0e38406299c2f51e60a9d20a.16",
+                "name": "Fresque Beaugrenelle",
+                "latitude": 48.848748,
+                "longitude": 2.282747
+            },
+            {
+                "pokestop_id": "4efd929e419246e6a026d3e9e8d05404.16",
+                "name": "Borne Du Quai De Grenelle",
+                "latitude": 48.849827,
+                "longitude": 2.282657
+            }
+        ]
+    },
+    {
+        "quest_description": "Scan 1",
         "quest_reward": "1 Poffin",
         "quest_reward_type": "Item",
         "quest_reward_amount": 1,
