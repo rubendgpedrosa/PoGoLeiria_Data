@@ -154,6 +154,12 @@
                 "longitude": -8.799315
             },
             {
+                "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
+                "name": "Mural Brisa do Lis",
+                "latitude": 39.743468,
+                "longitude": -8.812448
+            },
+            {
                 "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
                 "name": "Fontario Com Escultura",
                 "latitude": 39.739551,
@@ -458,6 +464,12 @@
                 "name": "Celtis Australis",
                 "latitude": 39.741299,
                 "longitude": -8.801055
+            },
+            {
+                "pokestop_id": "f253df31ccb53395831c337eae84c9f9.16",
+                "name": "Antiga Sede Jornal de Leiria",
+                "latitude": 39.744151,
+                "longitude": -8.811916
             }
         ]
     },
@@ -476,6 +488,12 @@
                 "name": "Mural \"Liberdade\"",
                 "latitude": 39.745754,
                 "longitude": -8.805297
+            },
+            {
+                "pokestop_id": "484d1bcbc0a443cb933cf338d4aa6e43.16",
+                "name": "Engenharia Autom\u00f3vel",
+                "latitude": 39.733074,
+                "longitude": -8.821522
             },
             {
                 "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
@@ -560,6 +578,12 @@
                 "name": "Parque de S\u00e3o Rom\u00e3o",
                 "latitude": 39.733442,
                 "longitude": -8.797748
+            },
+            {
+                "pokestop_id": "59e2f6466c39394db919bde10c6df0c6.16",
+                "name": "O Prisioneiro",
+                "latitude": 39.744766,
+                "longitude": -8.81039
             },
             {
                 "pokestop_id": "61b2e66ccc4549b98267492e6e5b9f68.16",
@@ -750,6 +774,36 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "14435ecfb86c49189bf50234daa3af8a.16",
+                "name": "Taverne Karlsbrau",
+                "latitude": 48.863712,
+                "longitude": 2.343018
+            },
+            {
+                "pokestop_id": "31104fbe06bf4d468f4a9b0ce4d8cf58.16",
+                "name": "Porte Vitrail",
+                "latitude": 48.867287,
+                "longitude": 2.276132
+            },
+            {
+                "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
+                "name": "Rainha Santa Isabel",
+                "latitude": 39.745508,
+                "longitude": -8.811107
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -884,30 +938,6 @@
                 "name": "Jogo da Macaca",
                 "latitude": 39.738327,
                 "longitude": -8.81087
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "31104fbe06bf4d468f4a9b0ce4d8cf58.16",
-                "name": "Porte Vitrail",
-                "latitude": 48.867287,
-                "longitude": 2.276132
-            },
-            {
-                "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
-                "name": "Rainha Santa Isabel",
-                "latitude": 39.745508,
-                "longitude": -8.811107
             }
         ]
     },
