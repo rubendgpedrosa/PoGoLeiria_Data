@@ -97,6 +97,30 @@
     },
     {
         "quest_description": "Scan 1",
+        "quest_reward": "1 Poffin",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Poffin",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 709,
+        "pokestops": [
+            {
+                "pokestop_id": "9e08b6fbaef14b519d37fc20c904f044.16",
+                "name": "Ornement de Porte WX",
+                "latitude": 48.872202,
+                "longitude": 2.30669
+            },
+            {
+                "pokestop_id": "ae5802b7ea5d480cacc6925a916e970d.12",
+                "name": "Musee d'Orsay",
+                "latitude": 48.860599,
+                "longitude": 2.326049
+            }
+        ]
+    },
+    {
+        "quest_description": "Scan 1",
         "quest_reward": "10 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
         "quest_reward_amount": 10,
@@ -110,24 +134,6 @@
                 "name": "Porte des Lions-Louvre-Paris",
                 "latitude": 48.860729,
                 "longitude": 2.331752
-            }
-        ]
-    },
-    {
-        "quest_description": "Scan 1",
-        "quest_reward": "1 Poffin",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Poffin",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 709,
-        "pokestops": [
-            {
-                "pokestop_id": "ae5802b7ea5d480cacc6925a916e970d.12",
-                "name": "Musee d'Orsay",
-                "latitude": 48.860599,
-                "longitude": 2.326049
             }
         ]
     },
