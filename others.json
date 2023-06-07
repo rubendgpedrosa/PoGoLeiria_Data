@@ -72,6 +72,30 @@
         ]
     },
     {
+        "quest_description": "Scan 1",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "bf5a2667737446c7a9077a922ca40fa7.12",
+                "name": "Place de la Concorde - Jardin",
+                "latitude": 48.864415,
+                "longitude": 2.324412
+            },
+            {
+                "pokestop_id": "fc4c1b63a13a4bbdbf9794a453be2a65.12",
+                "name": "Jardins du Palais-Royal et Gal",
+                "latitude": 48.865364,
+                "longitude": 2.337695
+            }
+        ]
+    },
+    {
         "quest_description": "Walk 1 km",
         "quest_reward": "Snubbull",
         "quest_reward_type": "Pokemon",
@@ -86,24 +110,6 @@
                 "name": "Georges Regin",
                 "latitude": 48.842788,
                 "longitude": 2.308588
-            }
-        ]
-    },
-    {
-        "quest_description": "Scan 1",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "fc4c1b63a13a4bbdbf9794a453be2a65.12",
-                "name": "Jardins du Palais-Royal et Gal",
-                "latitude": 48.865364,
-                "longitude": 2.337695
             }
         ]
     }
