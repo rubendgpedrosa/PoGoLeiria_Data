@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Make 10 Great Throws",
+        "quest_reward": "30 Swampert Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 30,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Swampert",
+        "quest_reward_pokemon_id": 260,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            },
+            {
+                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
+                "name": "Seu Nome Era Mural",
+                "latitude": 39.746244,
+                "longitude": -8.807457
+            },
+            {
+                "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
+                "name": "Centro Shotokan Leiria",
+                "latitude": 39.747428,
+                "longitude": -8.807456
+            },
+            {
+                "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
+                "name": "Liceu Rodrigues Lobo",
+                "latitude": 39.742257,
+                "longitude": -8.803918
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Binacle",
         "quest_reward_type": "Pokemon",
@@ -50,6 +86,12 @@
                 "name": "Casa Mortu\u00e1ria",
                 "latitude": 39.744917,
                 "longitude": -8.798869
+            },
+            {
+                "pokestop_id": "44c4e82a70a73e23a89ed45b8d7d1e88.16",
+                "name": "Caixa Postal dos CTT - Quinta da Matinha",
+                "latitude": 39.755207,
+                "longitude": -8.806823
             },
             {
                 "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
@@ -104,6 +146,12 @@
                 "name": "Campus 1 - ESECS",
                 "latitude": 39.739983,
                 "longitude": -8.812123
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
             },
             {
                 "pokestop_id": "ef40698afdf14bf2807803376584a143.16",
@@ -274,6 +322,12 @@
                 "longitude": -8.804477
             },
             {
+                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
+                "name": "Parque Av. Marques Pombal",
+                "latitude": 39.741132,
+                "longitude": -8.801663
+            },
+            {
                 "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
                 "name": "Gin\u00e1sio Blue Fitness Club",
                 "latitude": 39.730321,
@@ -422,36 +476,6 @@
                 "name": "La D\u00e9esse \u00c0 Couettes",
                 "latitude": 48.866972,
                 "longitude": 2.275955
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 10 Great Throws",
-        "quest_reward": "30 Swampert Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 30,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Swampert",
-        "quest_reward_pokemon_id": 260,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
-                "name": "Seu Nome Era Mural",
-                "latitude": 39.746244,
-                "longitude": -8.807457
-            },
-            {
-                "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
-                "name": "Centro Shotokan Leiria",
-                "latitude": 39.747428,
-                "longitude": -8.807456
-            },
-            {
-                "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
-                "name": "Liceu Rodrigues Lobo",
-                "latitude": 39.742257,
-                "longitude": -8.803918
             }
         ]
     },
@@ -734,6 +758,24 @@
                 "name": "Homegame aos Her\u00f3icos Soldados",
                 "latitude": 39.746449,
                 "longitude": -8.808147
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "5 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
             }
         ]
     },
