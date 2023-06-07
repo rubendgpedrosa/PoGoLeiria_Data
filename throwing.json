@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Binacle",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Binacle",
+        "quest_reward_pokemon_id": 688,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1aee2232bf984976b76740e8b4ea79ff.16",
+                "name": "L'hopital",
+                "latitude": 48.862308,
+                "longitude": 2.319123
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -74,6 +92,24 @@
                 "name": "D\u00f4me ouvrag\u00e9 avec visage Gaulois",
                 "latitude": 48.846977,
                 "longitude": 2.295704
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Diglett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Diglett",
+        "quest_reward_pokemon_id": 50,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d06e46cddd9e4ed3916f240df2c0e6c1.16",
+                "name": "Histoire Du Pont De La Concorde",
+                "latitude": 48.862625,
+                "longitude": 2.319506
             }
         ]
     }
