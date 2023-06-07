@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Earn 3 Candies walking with your buddy",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Buneary",
         "quest_reward_type": "Pokemon",
@@ -56,6 +74,30 @@
                 "name": "\u00c1rvore do Ambar",
                 "latitude": 39.732049,
                 "longitude": -8.796385
+            },
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
+            }
+        ]
+    },
+    {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Swirlix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Swirlix",
+        "quest_reward_pokemon_id": 684,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "9f3d5e1703b74483b3d6625f162b2842.16",
+                "name": "Ponte pedonal sul do Parque das Bernardas",
+                "latitude": 39.737116,
+                "longitude": -8.928597
             }
         ]
     },

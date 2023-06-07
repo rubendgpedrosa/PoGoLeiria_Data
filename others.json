@@ -1,6 +1,54 @@
 [
     {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Aron",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aron",
+        "quest_reward_pokemon_id": 304,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "091456d950da38849bd7ae900f166679.16",
+                "name": "Sonhos de Papel",
+                "latitude": 39.743096,
+                "longitude": -8.935367
+            },
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            },
+            {
+                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
+                "name": "Correios Post Office",
+                "latitude": 39.747622,
+                "longitude": -8.930452
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Charmander",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Charmander",
+        "quest_reward_pokemon_id": 4,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 2,
@@ -38,6 +86,12 @@
                 "name": "Parque Infantil Jardim do Liz",
                 "latitude": 39.750826,
                 "longitude": -8.806392
+            },
+            {
+                "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
+                "name": "Igreja de S\u00e3o Pedro",
+                "latitude": 39.74725,
+                "longitude": -8.807508
             }
         ]
     },
@@ -88,6 +142,12 @@
                 "longitude": -8.814662
             },
             {
+                "pokestop_id": "42070d6980c64ecf88a0dd6a9043ea5e.11",
+                "name": "Est\u00e1tua Burro",
+                "latitude": 39.745224,
+                "longitude": -8.804058
+            },
+            {
                 "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
                 "name": "ASURPI",
                 "latitude": 39.75141,
@@ -100,6 +160,18 @@
                 "longitude": -8.797748
             },
             {
+                "pokestop_id": "68078d1b4a164f9c850ee98c757acdfb.16",
+                "name": "Centro Comercial Lumar",
+                "latitude": 39.746744,
+                "longitude": -8.935747
+            },
+            {
+                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
+                "name": "Posto de turismo da Marinha Grande",
+                "latitude": 39.743295,
+                "longitude": -8.935619
+            },
+            {
                 "pokestop_id": "74478716c0344453a85c204337d872a3.16",
                 "name": "Ringue De Futebol",
                 "latitude": 39.745324,
@@ -110,6 +182,12 @@
                 "name": "Est\u00e1dio Municipal de Leiria",
                 "latitude": 39.749735,
                 "longitude": -8.812954
+            },
+            {
+                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
+                "name": "\u00c1rea De Recreio",
+                "latitude": 39.745761,
+                "longitude": -8.934351
             }
         ]
     },
@@ -148,6 +226,12 @@
                 "longitude": -8.808042
             },
             {
+                "pokestop_id": "49c04382873542c79044fd2f8014bd55.16",
+                "name": "Atl\u00e9tico Clube Marinhense",
+                "latitude": 39.748748,
+                "longitude": -8.936854
+            },
+            {
                 "pokestop_id": "49f915dee3254434924c648a382a932d.16",
                 "name": "Campo De T\u00e9nis",
                 "latitude": 39.750712,
@@ -170,6 +254,12 @@
                 "name": "Cal\u00e7ada Portuguesa",
                 "latitude": 39.744753,
                 "longitude": -8.804849
+            },
+            {
+                "pokestop_id": "a12d18e62f3c4c86981d2a6a4316c9a5.16",
+                "name": "Homegame aos Her\u00f3icos Soldados",
+                "latitude": 39.746449,
+                "longitude": -8.808147
             },
             {
                 "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
@@ -212,6 +302,24 @@
                 "name": "Confer\u00eancia de S. Vicente Paulo",
                 "latitude": 39.750114,
                 "longitude": -8.92967
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Tepig",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tepig",
+        "quest_reward_pokemon_id": 498,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "59e2f6466c39394db919bde10c6df0c6.16",
+                "name": "O Prisioneiro",
+                "latitude": 39.744766,
+                "longitude": -8.81039
             }
         ]
     },
@@ -308,24 +416,12 @@
                 "name": "Liceu Rodrigues Lobo",
                 "latitude": 39.742257,
                 "longitude": -8.803918
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Aron",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Aron",
-        "quest_reward_pokemon_id": 304,
-        "quest_reward_item_id": 0,
-        "pokestops": [
+            },
             {
-                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
-                "name": "Correios Post Office",
-                "latitude": 39.747622,
-                "longitude": -8.930452
+                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
+                "name": "Marinha Grande",
+                "latitude": 39.747761,
+                "longitude": -8.936047
             }
         ]
     },
@@ -380,6 +476,78 @@
                 "name": "Sede Bloco de Esquerda",
                 "latitude": 39.750634,
                 "longitude": -8.932602
+            }
+        ]
+    },
+    {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Lotad",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lotad",
+        "quest_reward_pokemon_id": 270,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Pikachu",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Pikachu",
+        "quest_reward_pokemon_id": 25,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
+                "name": "Zona Desportiva",
+                "latitude": 39.747903,
+                "longitude": -8.936311
+            }
+        ]
+    },
+    {
+        "quest_description": "Trade a Pok\u00e9mon",
+        "quest_reward": "Roggenrola",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Roggenrola",
+        "quest_reward_pokemon_id": 524,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Pidgeot Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Pidgeot",
+        "quest_reward_pokemon_id": 18,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
+                "name": "Sapo",
+                "latitude": 39.74516,
+                "longitude": -8.804145
             }
         ]
     },
