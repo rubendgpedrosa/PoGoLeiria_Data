@@ -64,6 +64,12 @@
                 "longitude": -8.803617
             },
             {
+                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
+                "name": "Centro de Linguas Chinesas",
+                "latitude": 39.740291,
+                "longitude": -8.811645
+            },
+            {
                 "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
                 "name": "F\u00e9nix Muralhartes",
                 "latitude": 39.747251,
@@ -664,6 +670,12 @@
                 "longitude": -8.932602
             },
             {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
+            },
+            {
                 "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
                 "name": "Parque de merendas 2",
                 "latitude": 39.733159,
@@ -686,6 +698,12 @@
                 "name": "Sport Oper\u00e1rio Marinhense",
                 "latitude": 39.749997,
                 "longitude": -8.926437
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
             }
         ]
     },
@@ -704,6 +722,12 @@
                 "name": "Parque Infantil Almuinha Grande",
                 "latitude": 39.751567,
                 "longitude": -8.81027
+            },
+            {
+                "pokestop_id": "176cb9f808b441daae85466c3d053623.11",
+                "name": "Fonte Luminosa",
+                "latitude": 39.743649,
+                "longitude": -8.806831
             },
             {
                 "pokestop_id": "1f8703ec0451364f90420f66f3220978.16",
@@ -860,6 +884,12 @@
                 "name": "D. Dinis",
                 "latitude": 39.745862,
                 "longitude": -8.809441
+            },
+            {
+                "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
+                "name": "Campus 2 - ESTG",
+                "latitude": 39.734095,
+                "longitude": -8.823089
             }
         ]
     },
@@ -926,6 +956,12 @@
                 "name": "Espa\u00e7o O Nariz",
                 "latitude": 39.740953,
                 "longitude": -8.803248
+            },
+            {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
             }
         ]
     },
@@ -962,6 +998,12 @@
                 "name": "Seu Nome Era Mural",
                 "latitude": 39.746244,
                 "longitude": -8.807457
+            },
+            {
+                "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
+                "name": "Ponte Hintze Ribeiro",
+                "latitude": 39.742734,
+                "longitude": -8.803525
             },
             {
                 "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
@@ -1116,6 +1158,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Vanillite",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Vanillite",
+        "quest_reward_pokemon_id": 582,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "10 Swampert Mega Energy",
         "quest_reward_type": "Energy",
@@ -1260,6 +1320,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
+                "name": "Abra\u00e7o ao universo",
+                "latitude": 39.751515,
+                "longitude": -8.814163
+            },
+            {
+                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
+                "name": "Faces Cubistas",
+                "latitude": 39.750855,
+                "longitude": -8.806714
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -1292,24 +1376,6 @@
                 "name": "Junta de Freguesia",
                 "latitude": 39.751118,
                 "longitude": -8.928216
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
-                "name": "Faces Cubistas",
-                "latitude": 39.750855,
-                "longitude": -8.806714
             }
         ]
     },
