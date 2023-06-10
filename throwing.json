@@ -148,6 +148,12 @@
                 "longitude": -8.81027
             },
             {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
+            {
                 "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
                 "name": "Fonte De \u00c1gua Quente",
                 "latitude": 39.747102,
@@ -328,6 +334,12 @@
                 "longitude": -8.805175
             },
             {
+                "pokestop_id": "6d59dc9c55f743179a8cb5f6fb59a86f.16",
+                "name": "Placa Informativa - Antes do Castelo",
+                "latitude": 39.747749,
+                "longitude": -8.808107
+            },
+            {
                 "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
                 "name": "Janelas Santo Agostinho",
                 "latitude": 39.740857,
@@ -362,6 +374,12 @@
                 "name": "Correios Post Office",
                 "latitude": 39.747622,
                 "longitude": -8.930452
+            },
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
             },
             {
                 "pokestop_id": "90dbc24bfa2f4f7697ce38f13bde3fb9.11",
@@ -416,6 +434,12 @@
                 "name": "Campus 1 - ESECS",
                 "latitude": 39.739983,
                 "longitude": -8.812123
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
             },
             {
                 "pokestop_id": "d74ad1450c324939b4b68f6a7c9cb024.16",
@@ -514,10 +538,22 @@
                 "longitude": -8.808075
             },
             {
+                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
+                "name": "Arco 42",
+                "latitude": 39.744873,
+                "longitude": -8.807102
+            },
+            {
                 "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
                 "name": "Moagem Leiriense",
                 "latitude": 39.74865,
                 "longitude": -8.803723
+            },
+            {
+                "pokestop_id": "3745160e3b4b4b71b2f2de8617750ace.16",
+                "name": "Antigo Moinho De Papel",
+                "latitude": 39.740444,
+                "longitude": -8.800663
             },
             {
                 "pokestop_id": "399426cd8ff340e6b273e3bede1d39bd.16",
@@ -1182,6 +1218,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
+                "name": "Anfiteatro",
+                "latitude": 39.751453,
+                "longitude": -8.809059
+            },
+            {
+                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
+                "name": "Barcos da Costa",
+                "latitude": 39.73964,
+                "longitude": -8.805776
+            }
+        ]
+    },
+    {
         "quest_description": "Make an Excellent Throw",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -1340,24 +1400,6 @@
                 "name": "Faces Cubistas",
                 "latitude": 39.750855,
                 "longitude": -8.806714
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
-                "name": "Barcos da Costa",
-                "latitude": 39.73964,
-                "longitude": -8.805776
             }
         ]
     },
