@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Earn 3 hearts with your Buddy",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "176cb9f808b441daae85466c3d053623.11",
+                "name": "Fonte Luminosa",
+                "latitude": 39.743649,
+                "longitude": -8.806831
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Sudowoodo",
         "quest_reward_type": "Pokemon",
@@ -50,6 +68,12 @@
                 "name": "Painel Informativo Junta de Freguesia Marinha Grande",
                 "latitude": 39.741149,
                 "longitude": -8.932965
+            },
+            {
+                "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
+                "name": "Centro Shotokan Leiria",
+                "latitude": 39.747428,
+                "longitude": -8.807456
             }
         ]
     },
