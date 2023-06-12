@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0727712d36f33ead9a626d22bb911953.16",
+                "name": "Baloico Santa Clara",
+                "latitude": 39.73971,
+                "longitude": -8.821638
+            },
+            {
+                "pokestop_id": "5613eab61745402d916a04de1e0cd30f.16",
+                "name": "Antigo Forno",
+                "latitude": 39.748463,
+                "longitude": -8.92676
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "Remoraid",
         "quest_reward_type": "Pokemon",
@@ -342,6 +366,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Bulbasaur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bulbasaur",
+        "quest_reward_pokemon_id": 1,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1846373feb73459994ce56162712ff83.16",
+                "name": "Correios Marrazes",
+                "latitude": 39.753807,
+                "longitude": -8.81209
+            },
+            {
+                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
+                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
+                "latitude": 39.745489,
+                "longitude": -8.933253
+            }
+        ]
+    },
+    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Tympole",
         "quest_reward_type": "Pokemon",
@@ -386,6 +434,102 @@
                 "name": "Posto de Correios CTT",
                 "latitude": 39.748012,
                 "longitude": -8.927626
+            }
+        ]
+    },
+    {
+        "quest_description": "Purify 3 Pokemon",
+        "quest_reward": "Haunter",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Haunter",
+        "quest_reward_pokemon_id": 93,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            },
+            {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
+            {
+                "pokestop_id": "46466edffad93e0d99f46c379661c144.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.739412,
+                "longitude": -8.81129
+            },
+            {
+                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
+                "name": "Mural pintura no vidro",
+                "latitude": 39.740536,
+                "longitude": -8.929225
+            },
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
+                "name": "Sede PSD Leiria",
+                "latitude": 39.742459,
+                "longitude": -8.808694
+            },
+            {
+                "pokestop_id": "6ca6691f59ca45f3922e750eca164a13.16",
+                "name": "COOPPOVO",
+                "latitude": 39.750118,
+                "longitude": -8.926915
+            },
+            {
+                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
+                "name": "O Pastor Peregrino",
+                "latitude": 39.744326,
+                "longitude": -8.807043
+            },
+            {
+                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
+                "name": "Sede N\u00facleo Sporting",
+                "latitude": 39.750953,
+                "longitude": -8.932885
+            },
+            {
+                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
+                "name": "Correios Post Office",
+                "latitude": 39.747622,
+                "longitude": -8.930452
+            },
+            {
+                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
+                "name": "Arcos - Leiria",
+                "latitude": 39.746016,
+                "longitude": -8.80598
+            },
+            {
+                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
+                "name": "Ponte pedonal norte do Parque das Bernardas",
+                "latitude": 39.738465,
+                "longitude": -8.929156
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
+            },
+            {
+                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731526,
+                "longitude": -8.803604
             }
         ]
     },
@@ -516,90 +660,6 @@
         ]
     },
     {
-        "quest_description": "Purify 3 Pokemon",
-        "quest_reward": "Haunter",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Haunter",
-        "quest_reward_pokemon_id": 93,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "46466edffad93e0d99f46c379661c144.16",
-                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
-                "latitude": 39.739412,
-                "longitude": -8.81129
-            },
-            {
-                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
-                "name": "Mural pintura no vidro",
-                "latitude": 39.740536,
-                "longitude": -8.929225
-            },
-            {
-                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
-                "name": "McDonald\u2019s-Leiria",
-                "latitude": 39.73516,
-                "longitude": -8.799637
-            },
-            {
-                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
-                "name": "Sede PSD Leiria",
-                "latitude": 39.742459,
-                "longitude": -8.808694
-            },
-            {
-                "pokestop_id": "6ca6691f59ca45f3922e750eca164a13.16",
-                "name": "COOPPOVO",
-                "latitude": 39.750118,
-                "longitude": -8.926915
-            },
-            {
-                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
-                "name": "O Pastor Peregrino",
-                "latitude": 39.744326,
-                "longitude": -8.807043
-            },
-            {
-                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
-                "name": "Sede N\u00facleo Sporting",
-                "latitude": 39.750953,
-                "longitude": -8.932885
-            },
-            {
-                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
-                "name": "Correios Post Office",
-                "latitude": 39.747622,
-                "longitude": -8.930452
-            },
-            {
-                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
-                "name": "Arcos - Leiria",
-                "latitude": 39.746016,
-                "longitude": -8.80598
-            },
-            {
-                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
-                "name": "Ponte pedonal norte do Parque das Bernardas",
-                "latitude": 39.738465,
-                "longitude": -8.929156
-            },
-            {
-                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
-                "name": "Celtis Australis",
-                "latitude": 39.741299,
-                "longitude": -8.801055
-            },
-            {
-                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731526,
-                "longitude": -8.803604
-            }
-        ]
-    },
-    {
         "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
         "quest_reward": "Growlithe",
         "quest_reward_type": "Pokemon",
@@ -638,24 +698,6 @@
                 "name": "Marco CTT - Rua de Alcoba\u00e7a",
                 "latitude": 39.741853,
                 "longitude": -8.810621
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Charizard Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Charizard",
-        "quest_reward_pokemon_id": 6,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5613eab61745402d916a04de1e0cd30f.16",
-                "name": "Antigo Forno",
-                "latitude": 39.748463,
-                "longitude": -8.92676
             }
         ]
     },
@@ -764,24 +806,6 @@
                 "name": "Igreja Paroquial da Marinha Grande",
                 "latitude": 39.750842,
                 "longitude": -8.931292
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 3 times",
-        "quest_reward": "Bulbasaur",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bulbasaur",
-        "quest_reward_pokemon_id": 1,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
-                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
-                "latitude": 39.745489,
-                "longitude": -8.933253
             }
         ]
     },
@@ -968,6 +992,24 @@
                 "name": "D. Dinis",
                 "latitude": 39.745862,
                 "longitude": -8.809441
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Tepig",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tepig",
+        "quest_reward_pokemon_id": 498,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
+                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
+                "latitude": 39.742537,
+                "longitude": -8.793462
             }
         ]
     }
