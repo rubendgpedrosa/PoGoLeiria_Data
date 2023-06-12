@@ -46,6 +46,12 @@
                 "longitude": -8.803617
             },
             {
+                "pokestop_id": "9ca6a62285044856b76ecea9607f63bb.16",
+                "name": "Campo De Futebol A.C. Marinhense",
+                "latitude": 39.749818,
+                "longitude": -8.936966
+            },
+            {
                 "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
                 "name": "O Nosso Claustro \u00c9 O Mundo",
                 "latitude": 39.742156,
@@ -96,6 +102,36 @@
         ]
     },
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Drilbur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Drilbur",
+        "quest_reward_pokemon_id": 529,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "48b7a038bcb145e7b704c1b59ec4769b.16",
+                "name": "The Dog",
+                "latitude": 39.745474,
+                "longitude": -8.808424
+            },
+            {
+                "pokestop_id": "7ce99cdeda41439eb6de9133392a5262.16",
+                "name": "Cabine de Leitura - Trokakioske",
+                "latitude": 39.744527,
+                "longitude": -8.807312
+            },
+            {
+                "pokestop_id": "8ed0ec246a4e4238a11b7eef7444c5d4.16",
+                "name": "Ponte pedonal sobre a ribeira das bernardas",
+                "latitude": 39.744965,
+                "longitude": -8.933162
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Marowak",
         "quest_reward_type": "Pokemon",
@@ -110,24 +146,6 @@
                 "name": "Ponte da Fonte Quente",
                 "latitude": 39.747216,
                 "longitude": -8.802534
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Drilbur",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Drilbur",
-        "quest_reward_pokemon_id": 529,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8ed0ec246a4e4238a11b7eef7444c5d4.16",
-                "name": "Ponte pedonal sobre a ribeira das bernardas",
-                "latitude": 39.744965,
-                "longitude": -8.933162
             }
         ]
     },
