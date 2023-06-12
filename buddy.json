@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Jigglypuff",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Jigglypuff",
+        "quest_reward_pokemon_id": 39,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            },
+            {
+                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
+                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
+                "latitude": 39.742059,
+                "longitude": -8.808031
+            },
+            {
+                "pokestop_id": "de7d0cc92e0e4b62b195f7a846d06f79.16",
+                "name": "Urban Fitness",
+                "latitude": 39.748953,
+                "longitude": -8.802133
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 3 hearts with your Buddy",
         "quest_reward": "Buneary",
         "quest_reward_type": "Pokemon",
@@ -38,6 +68,12 @@
                 "name": "Playcities Santo Agostinho",
                 "latitude": 39.741341,
                 "longitude": -8.801969
+            },
+            {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
             }
         ]
     },
@@ -56,6 +92,24 @@
                 "name": "Skate Parque Do Parque da Cerca",
                 "latitude": 39.74986,
                 "longitude": -8.935551
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Glameow",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Glameow",
+        "quest_reward_pokemon_id": 431,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "486d78e58bea4436b785c5a44da1e0db.16",
+                "name": "Associa\u00e7\u00e3o Social, Cultural e Desportiva de Casal Galego.",
+                "latitude": 39.74153,
+                "longitude": -8.931072
             }
         ]
     },
@@ -92,30 +146,6 @@
                 "name": "Jornal de Leiria",
                 "latitude": 39.743267,
                 "longitude": -8.809349
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Jigglypuff",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Jigglypuff",
-        "quest_reward_pokemon_id": 39,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
-                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
-                "latitude": 39.742059,
-                "longitude": -8.808031
-            },
-            {
-                "pokestop_id": "de7d0cc92e0e4b62b195f7a846d06f79.16",
-                "name": "Urban Fitness",
-                "latitude": 39.748953,
-                "longitude": -8.802133
             }
         ]
     }
