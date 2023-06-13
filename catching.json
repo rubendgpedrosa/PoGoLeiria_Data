@@ -556,6 +556,12 @@
                 "longitude": -8.805202
             },
             {
+                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
+                "name": "Marco CTT",
+                "latitude": 39.747797,
+                "longitude": -8.803171
+            },
+            {
                 "pokestop_id": "ab805be772cb4ad7918ff8ffd6287881.16",
                 "name": "EPAMG",
                 "latitude": 39.749907,
@@ -614,6 +620,42 @@
                 "name": "Campo De Apoio",
                 "latitude": 39.738138,
                 "longitude": -8.933062
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "29067fa585d24b8480240cbc1f6e8484.16",
+                "name": "Galerias Beira Rio",
+                "latitude": 39.750341,
+                "longitude": -8.802272
+            },
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
+            {
+                "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
+                "name": "Tribunal do Trabalho de Leiria",
+                "latitude": 39.739929,
+                "longitude": -8.808784
+            },
+            {
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
             }
         ]
     },
@@ -696,32 +738,20 @@
         ]
     },
     {
-        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "Shuppet",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Shuppet",
+        "quest_reward_pokemon_id": 353,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
-                "name": "Ponte pedonal",
-                "latitude": 39.751672,
-                "longitude": -8.816499
-            },
-            {
-                "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
-                "name": "Tribunal do Trabalho de Leiria",
-                "latitude": 39.739929,
-                "longitude": -8.808784
-            },
-            {
-                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
-                "name": "Parque de Merendas Sta Clara",
-                "latitude": 39.738467,
-                "longitude": -8.822362
+                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
+                "name": "Gin\u00e1sio Luis Lopes",
+                "latitude": 39.743959,
+                "longitude": -8.798023
             }
         ]
     },
@@ -992,6 +1022,12 @@
                 "name": "Igreja Paroquial da Marinha Grande",
                 "latitude": 39.750842,
                 "longitude": -8.931292
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             }
         ]
     },
@@ -1128,6 +1164,36 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
+                "name": "Cal\u00e7ada Portuguesa",
+                "latitude": 39.744753,
+                "longitude": -8.804849
+            },
+            {
+                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
+                "name": "Arquivo Distrital",
+                "latitude": 39.744298,
+                "longitude": -8.811006
+            },
+            {
+                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
+                "name": "Ponte Azul",
+                "latitude": 39.749013,
+                "longitude": -8.801741
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Vanillite",
         "quest_reward_type": "Pokemon",
@@ -1220,30 +1286,6 @@
                 "name": "Museu do Vidro da Marinha Grande",
                 "latitude": 39.749484,
                 "longitude": -8.93346
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
-                "name": "Arquivo Distrital",
-                "latitude": 39.744298,
-                "longitude": -8.811006
-            },
-            {
-                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
-                "name": "Ponte Azul",
-                "latitude": 39.749013,
-                "longitude": -8.801741
             }
         ]
     }
