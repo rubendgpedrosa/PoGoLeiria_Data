@@ -139,6 +139,36 @@
     },
     {
         "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Nidoran\u2640",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Nidoran\u2640",
+        "quest_reward_pokemon_id": 29,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4d86c7b25ae23c4e88f5151e4d759839.16",
+                "name": "Galerias Mouzinho de Albuquerque",
+                "latitude": 39.747271,
+                "longitude": -8.805217
+            },
+            {
+                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
+                "name": "laurus nobilis",
+                "latitude": 39.736728,
+                "longitude": -8.795776
+            },
+            {
+                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
+                "name": "Barragem do Rio Lis",
+                "latitude": 39.751189,
+                "longitude": -8.812916
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
         "quest_reward": "Drilbur",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -158,30 +188,6 @@
                 "name": "Miradouro Leiria",
                 "latitude": 39.743941,
                 "longitude": -8.802609
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Nidoran\u2640",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Nidoran\u2640",
-        "quest_reward_pokemon_id": 29,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
-                "name": "laurus nobilis",
-                "latitude": 39.736728,
-                "longitude": -8.795776
-            },
-            {
-                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
-                "name": "Barragem do Rio Lis",
-                "latitude": 39.751189,
-                "longitude": -8.812916
             }
         ]
     },
