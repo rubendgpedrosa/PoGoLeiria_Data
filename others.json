@@ -655,6 +655,48 @@
     },
     {
         "quest_description": "Scan 1",
+        "quest_reward": "10 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "19d07885069546bcbc59f5dbf3317a93.16",
+                "name": "Homme Lion",
+                "latitude": 48.865226,
+                "longitude": 2.300395
+            },
+            {
+                "pokestop_id": "479e409cf75e4eaa9bffdaa70577a7a9.16",
+                "name": "Statue",
+                "latitude": 48.86595,
+                "longitude": 2.317014
+            },
+            {
+                "pokestop_id": "5e9b679aaacc45889fbbc238732995cb.16",
+                "name": "Temple Inca",
+                "latitude": 48.857012,
+                "longitude": 2.307553
+            },
+            {
+                "pokestop_id": "a05cccec48cb40f887e9fead48fea3d8.16",
+                "name": "Capitaine Fran\u00e7ois De Laboucherie",
+                "latitude": 48.870217,
+                "longitude": 2.275278
+            },
+            {
+                "pokestop_id": "a847fe927e524f2da9949fa2a13bafbb.16",
+                "name": "La Poste de la Pompe",
+                "latitude": 48.861158,
+                "longitude": 2.275214
+            }
+        ]
+    },
+    {
+        "quest_description": "Scan 1",
         "quest_reward": "1 Poffin",
         "quest_reward_type": "Item",
         "quest_reward_amount": 1,
@@ -986,42 +1028,6 @@
                 "name": "Medalh\u00e3o - Primeiro Mealheiro P\u00fablico",
                 "latitude": 39.744064,
                 "longitude": -8.807857
-            }
-        ]
-    },
-    {
-        "quest_description": "Scan 1",
-        "quest_reward": "10 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "479e409cf75e4eaa9bffdaa70577a7a9.16",
-                "name": "Statue",
-                "latitude": 48.86595,
-                "longitude": 2.317014
-            },
-            {
-                "pokestop_id": "5e9b679aaacc45889fbbc238732995cb.16",
-                "name": "Temple Inca",
-                "latitude": 48.857012,
-                "longitude": 2.307553
-            },
-            {
-                "pokestop_id": "a05cccec48cb40f887e9fead48fea3d8.16",
-                "name": "Capitaine Fran\u00e7ois De Laboucherie",
-                "latitude": 48.870217,
-                "longitude": 2.275278
-            },
-            {
-                "pokestop_id": "a847fe927e524f2da9949fa2a13bafbb.16",
-                "name": "La Poste de la Pompe",
-                "latitude": 48.861158,
-                "longitude": 2.275214
             }
         ]
     },
