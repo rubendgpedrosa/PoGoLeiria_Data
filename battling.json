@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Tirtouga",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tirtouga",
+        "quest_reward_pokemon_id": 564,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Marowak",
         "quest_reward_type": "Pokemon",
@@ -54,6 +72,30 @@
         ]
     },
     {
+        "quest_description": "Win 3 raids",
+        "quest_reward": "Mawile",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mawile",
+        "quest_reward_pokemon_id": 303,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
+                "name": "Centro de Linguas Chinesas",
+                "latitude": 39.740291,
+                "longitude": -8.811645
+            },
+            {
+                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
+                "name": "D. Dinis",
+                "latitude": 39.745862,
+                "longitude": -8.809441
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Drilbur",
         "quest_reward_type": "Pokemon",
@@ -88,28 +130,16 @@
                 "longitude": -8.808285
             },
             {
+                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
+                "name": "Igreja Batista da Lagoinha",
+                "latitude": 39.740459,
+                "longitude": -8.80699
+            },
+            {
                 "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
                 "name": "Edif\u00edcio Da Resinagem",
                 "latitude": 39.749198,
                 "longitude": -8.932709
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 3 raids",
-        "quest_reward": "Mawile",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Mawile",
-        "quest_reward_pokemon_id": 303,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
-                "name": "D. Dinis",
-                "latitude": 39.745862,
-                "longitude": -8.809441
             }
         ]
     }
