@@ -544,6 +544,12 @@
                 "longitude": -8.812971
             },
             {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
+            },
+            {
                 "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
                 "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
                 "latitude": 39.742537,
@@ -834,6 +840,30 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "5329f6a14e024a0a95900ff685a0d32f.16",
+                "name": "Antigo Fontan\u00e1rio",
+                "latitude": 39.752154,
+                "longitude": -8.929224
+            },
+            {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
+            }
+        ]
+    },
+    {
         "quest_description": "Make 2 Nice Curveball Throws in a row",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -1118,24 +1148,6 @@
                 "name": "Galeria Manuel Artur Santos",
                 "latitude": 39.742898,
                 "longitude": -8.807245
-            }
-        ]
-    },
-    {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
-                "name": "Mural Bombeiro",
-                "latitude": 39.740828,
-                "longitude": -8.800367
             }
         ]
     },
