@@ -91,6 +91,24 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Jigglypuff",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Jigglypuff",
+        "quest_reward_pokemon_id": 39,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Glameow",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -186,6 +204,36 @@
         ]
     },
     {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Sudowoodo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sudowoodo",
+        "quest_reward_pokemon_id": 185,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
+                "name": "Clube de campismo da Marinha Grande",
+                "latitude": 39.747495,
+                "longitude": -8.935422
+            },
+            {
+                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
+                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
+                "latitude": 39.742537,
+                "longitude": -8.793462
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 3 hearts with your Buddy",
         "quest_reward": "Lillipup",
         "quest_reward_type": "Pokemon",
@@ -200,30 +248,6 @@
                 "name": "Pinheiro Manso",
                 "latitude": 39.735547,
                 "longitude": -8.796467
-            }
-        ]
-    },
-    {
-        "quest_description": "Send 5 Gifts and add a sticker to each",
-        "quest_reward": "Sudowoodo",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Sudowoodo",
-        "quest_reward_pokemon_id": 185,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
-                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
-                "latitude": 39.742537,
-                "longitude": -8.793462
-            },
-            {
-                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
-                "name": "Lady in Red",
-                "latitude": 39.741869,
-                "longitude": -8.805353
             }
         ]
     }
