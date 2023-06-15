@@ -102,6 +102,30 @@
         ]
     },
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Marowak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marowak",
+        "quest_reward_pokemon_id": 105,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
+                "name": "Audit\u00f3rio",
+                "latitude": 39.749766,
+                "longitude": -8.926395
+            },
+            {
+                "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
+                "name": "Ponte Ondulada",
+                "latitude": 39.746196,
+                "longitude": -8.80374
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Meditite",
         "quest_reward_type": "Pokemon",
@@ -116,24 +140,6 @@
                 "name": "Castelo de Leiria",
                 "latitude": 39.747664,
                 "longitude": -8.808828
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "Marowak",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Marowak",
-        "quest_reward_pokemon_id": 105,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
-                "name": "Ponte Ondulada",
-                "latitude": 39.746196,
-                "longitude": -8.80374
             }
         ]
     },
