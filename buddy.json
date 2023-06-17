@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Earn 3 hearts with your Buddy",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
+            {
+                "pokestop_id": "3e0e09c5f37d47b29d85b0209445098d.16",
+                "name": "Painel Informativo Junta de Freguesia Marinha Grande",
+                "latitude": 39.741149,
+                "longitude": -8.932965
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
@@ -18,24 +42,6 @@
         ]
     },
     {
-        "quest_description": "Earn 3 hearts with your Buddy",
-        "quest_reward": "Buneary",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Buneary",
-        "quest_reward_pokemon_id": 427,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "3e0e09c5f37d47b29d85b0209445098d.16",
-                "name": "Painel Informativo Junta de Freguesia Marinha Grande",
-                "latitude": 39.741149,
-                "longitude": -8.932965
-            }
-        ]
-    },
-    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Glameow",
         "quest_reward_type": "Pokemon",
@@ -50,6 +56,12 @@
                 "name": "Mural Brave",
                 "latitude": 39.743151,
                 "longitude": -8.812097
+            },
+            {
+                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
+                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
+                "latitude": 39.75142,
+                "longitude": -8.930414
             }
         ]
     },
