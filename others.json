@@ -822,6 +822,30 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Remoraid",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Remoraid",
+        "quest_reward_pokemon_id": 223,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
+                "name": "Anfiteatro",
+                "latitude": 39.751453,
+                "longitude": -8.809059
+            },
+            {
+                "pokestop_id": "cfa99aca982c4d5594e91f019f507180.16",
+                "name": "LeiriaMini - \u00c1rea Interativa",
+                "latitude": 39.732346,
+                "longitude": -8.824545
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Rowlet",
         "quest_reward_type": "Pokemon",
@@ -926,24 +950,6 @@
                 "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
                 "latitude": 39.744597,
                 "longitude": -8.935054
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Remoraid",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Remoraid",
-        "quest_reward_pokemon_id": 223,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "cfa99aca982c4d5594e91f019f507180.16",
-                "name": "LeiriaMini - \u00c1rea Interativa",
-                "latitude": 39.732346,
-                "longitude": -8.824545
             }
         ]
     },
