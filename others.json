@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Evolve a Pok\u00e9mon",
+        "quest_reward": "Eevee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Eevee",
+        "quest_reward_pokemon_id": 133,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0ea1aadc3e4e30b09db1f7c8c06cde31.16",
+                "name": "Caixa Postal CTT - Av. Jos\u00e9 Greg\u00f3rio",
+                "latitude": 39.754491,
+                "longitude": -8.932577
+            }
+        ]
+    },
+    {
         "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
         "quest_reward": "Trapinch",
         "quest_reward_type": "Pokemon",
@@ -14,6 +32,102 @@
                 "name": "Biblioteca Municipal Afonso Lopes Vieira",
                 "latitude": 39.743917,
                 "longitude": -8.810087
+            },
+            {
+                "pokestop_id": "9b830e47d8cc3ccc90f39664428f7a91.16",
+                "name": "O Vidraceiro",
+                "latitude": 39.750005,
+                "longitude": -8.931744
+            },
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "300f8d0be9d2491ab4c578c377120e03.16",
+                "name": "Marco de Correio",
+                "latitude": 39.734008,
+                "longitude": -8.808168
+            },
+            {
+                "pokestop_id": "4d10e14a2db243309483794fd9fbeba2.16",
+                "name": "Solar do Bar\u00e3o de Salgueiro",
+                "latitude": 39.74411,
+                "longitude": -8.810157
+            }
+        ]
+    },
+    {
+        "quest_description": "Walk 1 km",
+        "quest_reward": "Snubbull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snubbull",
+        "quest_reward_pokemon_id": 209,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
+                "name": "Ponte Pedonal Sul",
+                "latitude": 39.748399,
+                "longitude": -8.93453
+            },
+            {
+                "pokestop_id": "dc7256a2cf083ed281f4b0938df2df2a.16",
+                "name": "Associa\u00e7\u00e3o de Kickboxing e Muay Thai Hugo Matos",
+                "latitude": 39.747777,
+                "longitude": -8.93253
+            }
+        ]
+    },
+    {
+        "quest_description": "Purify 3 Pokemon",
+        "quest_reward": "Haunter",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Haunter",
+        "quest_reward_pokemon_id": 93,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
+                "name": "ASURPI",
+                "latitude": 39.75141,
+                "longitude": -8.933588
+            },
+            {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
+                "pokestop_id": "692fb081edc349979975cb8a4a8d5af5.16",
+                "name": "Parque Do Museu Do Vidro",
+                "latitude": 39.74908,
+                "longitude": -8.933678
+            },
+            {
+                "pokestop_id": "e45e96f79eee4dd5b32db03fd04c4191.16",
+                "name": "Centro Comercial D.Dinis",
+                "latitude": 39.742971,
+                "longitude": -8.809768
             }
         ]
     },
@@ -36,24 +150,6 @@
         ]
     },
     {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "4d10e14a2db243309483794fd9fbeba2.16",
-                "name": "Solar do Bar\u00e3o de Salgueiro",
-                "latitude": 39.74411,
-                "longitude": -8.810157
-            }
-        ]
-    },
-    {
         "quest_description": "Hatch an Egg",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
@@ -68,24 +164,6 @@
                 "name": "F\u00e9nix Muralhartes",
                 "latitude": 39.747251,
                 "longitude": -8.808742
-            }
-        ]
-    },
-    {
-        "quest_description": "Purify 3 Pokemon",
-        "quest_reward": "Haunter",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Haunter",
-        "quest_reward_pokemon_id": 93,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
-                "name": "Pai Natal Lar\u00e1pio",
-                "latitude": 39.73156,
-                "longitude": -8.823204
             }
         ]
     },
@@ -110,6 +188,48 @@
                 "name": "O Principezinho",
                 "latitude": 39.745269,
                 "longitude": -8.808602
+            },
+            {
+                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
+                "name": "Arquivo Distrital",
+                "latitude": 39.744298,
+                "longitude": -8.811006
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Charmander",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Charmander",
+        "quest_reward_pokemon_id": 4,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
+                "name": "Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739852,
+                "longitude": -8.808011
             }
         ]
     },
@@ -146,6 +266,24 @@
                 "name": "Homegame aos Her\u00f3icos Soldados",
                 "latitude": 39.746449,
                 "longitude": -8.808147
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Cottonee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cottonee",
+        "quest_reward_pokemon_id": 546,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
+                "name": "Sede Bloco de Esquerda",
+                "latitude": 39.750634,
+                "longitude": -8.932602
             }
         ]
     },
@@ -200,24 +338,6 @@
                 "name": "Artes Manuais",
                 "latitude": 39.742853,
                 "longitude": -8.933931
-            }
-        ]
-    },
-    {
-        "quest_description": "Walk 1 km",
-        "quest_reward": "Snubbull",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snubbull",
-        "quest_reward_pokemon_id": 209,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "dc7256a2cf083ed281f4b0938df2df2a.16",
-                "name": "Associa\u00e7\u00e3o de Kickboxing e Muay Thai Hugo Matos",
-                "latitude": 39.747777,
-                "longitude": -8.93253
             }
         ]
     },
