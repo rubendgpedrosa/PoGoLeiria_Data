@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Nidoran\u2640",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Nidoran\u2640",
+        "quest_reward_pokemon_id": 29,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
+                "name": "Pra\u00e7a do Emigrante",
+                "latitude": 39.748896,
+                "longitude": -8.80445
+            },
+            {
+                "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
+                "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
+                "latitude": 39.747526,
+                "longitude": -8.93077
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Marowak",
         "quest_reward_type": "Pokemon",
@@ -42,20 +66,20 @@
         ]
     },
     {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Nidoran\u2640",
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Nidoran\u2640",
-        "quest_reward_pokemon_id": 29,
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
-                "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
-                "latitude": 39.747526,
-                "longitude": -8.93077
+                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
+                "name": "Confer\u00eancia de S. Vicente Paulo",
+                "latitude": 39.750114,
+                "longitude": -8.92967
             }
         ]
     }
