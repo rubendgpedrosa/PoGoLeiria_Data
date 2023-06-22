@@ -24,6 +24,30 @@
         ]
     },
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Drilbur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Drilbur",
+        "quest_reward_pokemon_id": 529,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "39f68387b317417da9b59e0c85faf878.16",
+                "name": "Colette",
+                "latitude": 48.865866,
+                "longitude": 2.338476
+            },
+            {
+                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
+                "name": "Edif\u00edcio Ferro de Engomar",
+                "latitude": 39.740629,
+                "longitude": -8.802995
+            }
+        ]
+    },
+    {
         "quest_description": "Win 3 raids",
         "quest_reward": "Klink",
         "quest_reward_type": "Pokemon",
@@ -80,24 +104,6 @@
                 "name": "Marco de Correio CTT",
                 "latitude": 39.746326,
                 "longitude": -8.804666
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Drilbur",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Drilbur",
-        "quest_reward_pokemon_id": 529,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
-                "name": "Edif\u00edcio Ferro de Engomar",
-                "latitude": 39.740629,
-                "longitude": -8.802995
             }
         ]
     },
