@@ -36,6 +36,42 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            },
+            {
+                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
+                "name": "Jardim da Marinha Grande",
+                "latitude": 39.750988,
+                "longitude": -8.929103
+            },
+            {
+                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
+                "name": "Sapo",
+                "latitude": 39.74516,
+                "longitude": -8.804145
+            },
+            {
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Aipom",
         "quest_reward_type": "Pokemon",
@@ -182,6 +218,12 @@
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
                 "longitude": -8.811107
+            },
+            {
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
             },
             {
                 "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
@@ -426,6 +468,24 @@
         ]
     },
     {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "3d6959cc1325477b88ffe44689e49093.16",
+                "name": "Ponte Pedonal Suspensa",
+                "latitude": 39.750997,
+                "longitude": -8.809201
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "3 Pinap Berry",
         "quest_reward_type": "Item",
@@ -548,6 +608,60 @@
                 "name": "Clube Acad\u00e9mico Leiria",
                 "latitude": 39.738592,
                 "longitude": -8.80671
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
+            },
+            {
+                "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
+                "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
+                "latitude": 39.747526,
+                "longitude": -8.93077
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "1 Rare Candy",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Rare Candy",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1301,
+        "pokestops": [
+            {
+                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
+                "name": "Ponte Pedonal Jardim da Almuinha",
+                "latitude": 39.751736,
+                "longitude": -8.810436
+            },
+            {
+                "pokestop_id": "8c20f9c9b65b384ea6311422e708bcd1.16",
+                "name": "Parque Verde de Leiria",
+                "latitude": 39.741617,
+                "longitude": -8.819755
+            },
+            {
+                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
+                "name": "Ponte Pique-nique",
+                "latitude": 39.739692,
+                "longitude": -8.798933
             }
         ]
     },
@@ -726,30 +840,6 @@
         ]
     },
     {
-        "quest_description": "Make 3 Great Throws in a row",
-        "quest_reward": "1 Rare Candy",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Rare Candy",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1301,
-        "pokestops": [
-            {
-                "pokestop_id": "8c20f9c9b65b384ea6311422e708bcd1.16",
-                "name": "Parque Verde de Leiria",
-                "latitude": 39.741617,
-                "longitude": -8.819755
-            },
-            {
-                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
-                "name": "Ponte Pique-nique",
-                "latitude": 39.739692,
-                "longitude": -8.798933
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Great Curveball Throws in a row",
         "quest_reward": "Spinda",
         "quest_reward_type": "Pokemon",
@@ -764,36 +854,6 @@
                 "name": "Correios Post Office",
                 "latitude": 39.747622,
                 "longitude": -8.930452
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
-                "name": "Jardim da Marinha Grande",
-                "latitude": 39.750988,
-                "longitude": -8.929103
-            },
-            {
-                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
-                "name": "Sapo",
-                "latitude": 39.74516,
-                "longitude": -8.804145
-            },
-            {
-                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
-                "name": "Ponte pedonal do Parque das Bernardas",
-                "latitude": 39.737792,
-                "longitude": -8.928996
             }
         ]
     },
@@ -835,19 +895,25 @@
     },
     {
         "quest_description": "Make 5 Curveball Throws in a row",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
+        "quest_reward_item_id": 701,
         "pokestops": [
             {
-                "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
-                "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
-                "latitude": 39.747526,
-                "longitude": -8.93077
+                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
+                "name": "Barragem do Rio Lis",
+                "latitude": 39.751189,
+                "longitude": -8.812916
+            },
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
             }
         ]
     },
@@ -902,24 +968,6 @@
                 "name": "Anno Christi MDCXLVI",
                 "latitude": 39.742708,
                 "longitude": -8.810826
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Curveball Throws in a row",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
-                "name": "Play City",
-                "latitude": 39.747179,
-                "longitude": -8.802109
             }
         ]
     },
