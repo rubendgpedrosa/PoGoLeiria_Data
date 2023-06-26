@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Earn 3 Candies walking with your buddy",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
+                "name": "Moagem Leiriense",
+                "latitude": 39.74865,
+                "longitude": -8.803723
+            },
+            {
+                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
+                "name": "Janelas Santo Agostinho",
+                "latitude": 39.740857,
+                "longitude": -8.801746
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Jigglypuff",
         "quest_reward_type": "Pokemon",
@@ -116,24 +140,6 @@
                 "name": "Posto de turismo da Marinha Grande",
                 "latitude": 39.743295,
                 "longitude": -8.935619
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 3 Candies walking with your buddy",
-        "quest_reward": "Stunfisk",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stunfisk",
-        "quest_reward_pokemon_id": 618,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
-                "name": "Janelas Santo Agostinho",
-                "latitude": 39.740857,
-                "longitude": -8.801746
             }
         ]
     },
