@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Doduo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Doduo",
+        "quest_reward_pokemon_id": 84,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            }
+        ]
+    },
+    {
         "quest_description": "Purify 3 Pokemon",
         "quest_reward": "Haunter",
         "quest_reward_type": "Pokemon",
@@ -92,6 +110,18 @@
                 "name": "Est\u00e1dio Municipal de Leiria",
                 "latitude": 39.749735,
                 "longitude": -8.812954
+            },
+            {
+                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
+                "name": "Escuteiros",
+                "latitude": 39.741841,
+                "longitude": -8.933249
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
             },
             {
                 "pokestop_id": "f3a20103705430bc9e7a1e1d054c1b6a.16",
@@ -346,6 +376,12 @@
                 "longitude": -8.807148
             },
             {
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "latitude": 39.739681,
+                "longitude": -8.805175
+            },
+            {
                 "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
                 "name": "Live Gym Marinha Grande",
                 "latitude": 39.74109,
@@ -386,6 +422,48 @@
                 "name": "Franguinho no churrasco",
                 "latitude": 39.755374,
                 "longitude": -8.932558
+            }
+        ]
+    },
+    {
+        "quest_description": "Evolve a Pok\u00e9mon",
+        "quest_reward": "Eevee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Eevee",
+        "quest_reward_pokemon_id": 133,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "262ba1506aef49f6a42a5bcac223111c.16",
+                "name": "Parque Infantil",
+                "latitude": 39.734135,
+                "longitude": -8.803202
+            },
+            {
+                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
+                "name": "Sede N\u00facleo Sporting",
+                "latitude": 39.750953,
+                "longitude": -8.932885
+            },
+            {
+                "pokestop_id": "8b154fbb9a5c43b08a495a8d85dfdb93.16",
+                "name": "O sol da Cerca",
+                "latitude": 39.748941,
+                "longitude": -8.934582
+            },
+            {
+                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
+                "name": "Ponte Azul",
+                "latitude": 39.749013,
+                "longitude": -8.801741
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
             }
         ]
     },
@@ -512,6 +590,12 @@
                 "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
                 "latitude": 39.74317,
                 "longitude": -8.804189
+            },
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
             }
         ]
     },
@@ -550,10 +634,40 @@
                 "longitude": -8.808011
             },
             {
+                "pokestop_id": "a9aecff3187e48e6bc006f1a2fd4ee5a.16",
+                "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
+                "latitude": 39.739299,
+                "longitude": -8.801276
+            },
+            {
                 "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
                 "name": "O Nosso Claustro \u00c9 O Mundo",
                 "latitude": 39.742156,
                 "longitude": -8.811256
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Bulbasaur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bulbasaur",
+        "quest_reward_pokemon_id": 1,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
             }
         ]
     },
@@ -638,6 +752,12 @@
                 "name": "Antigo Fontan\u00e1rio",
                 "latitude": 39.752154,
                 "longitude": -8.929224
+            },
+            {
+                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
+                "name": "Sede PSD Leiria",
+                "latitude": 39.742459,
+                "longitude": -8.808694
             },
             {
                 "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
@@ -728,6 +848,12 @@
                 "name": "Parque de S\u00e3o Rom\u00e3o",
                 "latitude": 39.733442,
                 "longitude": -8.797748
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             }
         ]
     },
@@ -840,32 +966,20 @@
         ]
     },
     {
-        "quest_description": "Evolve a Pok\u00e9mon",
-        "quest_reward": "Eevee",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Eevee",
-        "quest_reward_pokemon_id": 133,
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Blastoise Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
-                "name": "Sede N\u00facleo Sporting",
-                "latitude": 39.750953,
-                "longitude": -8.932885
-            },
-            {
-                "pokestop_id": "8b154fbb9a5c43b08a495a8d85dfdb93.16",
-                "name": "O sol da Cerca",
-                "latitude": 39.748941,
-                "longitude": -8.934582
-            },
-            {
-                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
-                "name": "Ponte Azul",
-                "latitude": 39.749013,
-                "longitude": -8.801741
+                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
+                "name": "Campo Polidesportivo",
+                "latitude": 39.732954,
+                "longitude": -8.809802
             }
         ]
     },
