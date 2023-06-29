@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Sudowoodo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sudowoodo",
+        "quest_reward_pokemon_id": 185,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
@@ -10,10 +28,34 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
+                "name": "Janelas Santo Agostinho",
+                "latitude": 39.740857,
+                "longitude": -8.801746
+            },
+            {
                 "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
                 "name": "Malta do Aerosol",
                 "latitude": 39.750045,
                 "longitude": -8.935074
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 3 hearts with your Buddy",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
+                "name": "Cal\u00e7ada Portuguesa",
+                "latitude": 39.744753,
+                "longitude": -8.804849
             }
         ]
     }
