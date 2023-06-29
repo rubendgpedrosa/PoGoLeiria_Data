@@ -114,6 +114,72 @@
         ]
     },
     {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Lotad",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lotad",
+        "quest_reward_pokemon_id": 270,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
+            },
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
+            },
+            {
+                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
+                "name": "Mural Brave",
+                "latitude": 39.743151,
+                "longitude": -8.812097
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 10 times",
+        "quest_reward": "25 Ampharos Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Ampharos",
+        "quest_reward_pokemon_id": 181,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
+                "name": "Black Cat",
+                "latitude": 39.745372,
+                "longitude": -8.807148
+            },
+            {
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "latitude": 39.739681,
+                "longitude": -8.805175
+            },
+            {
+                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
+                "name": "Live Gym Marinha Grande",
+                "latitude": 39.74109,
+                "longitude": -8.929395
+            }
+        ]
+    },
+    {
         "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
         "quest_reward": "Trapinch",
         "quest_reward_type": "Pokemon",
@@ -146,36 +212,6 @@
                 "name": "Ponte pedonal sobre a ribeira das bernardas",
                 "latitude": 39.744965,
                 "longitude": -8.933162
-            }
-        ]
-    },
-    {
-        "quest_description": "Defeat 3 Team GO Rocket Grunts",
-        "quest_reward": "Lotad",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Lotad",
-        "quest_reward_pokemon_id": 270,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
-                "name": "Campo De Futebol",
-                "latitude": 39.745553,
-                "longitude": -8.803583
-            },
-            {
-                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
-                "name": "Mural Brave",
-                "latitude": 39.743151,
-                "longitude": -8.812097
-            },
-            {
-                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
-                "name": "Estradas Portugal",
-                "latitude": 39.751555,
-                "longitude": -8.808172
             }
         ]
     },
@@ -316,6 +352,12 @@
                 "longitude": -8.810436
             },
             {
+                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
+                "name": "laurus nobilis",
+                "latitude": 39.736728,
+                "longitude": -8.795776
+            },
+            {
                 "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
                 "name": "Slither Monsters",
                 "latitude": 39.746086,
@@ -374,30 +416,6 @@
                 "name": "Corvos Do Lis",
                 "latitude": 39.747121,
                 "longitude": -8.803942
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 10 times",
-        "quest_reward": "25 Ampharos Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 25,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Ampharos",
-        "quest_reward_pokemon_id": 181,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
-                "name": "Antigo Marco de Correios",
-                "latitude": 39.739681,
-                "longitude": -8.805175
-            },
-            {
-                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
-                "name": "Live Gym Marinha Grande",
-                "latitude": 39.74109,
-                "longitude": -8.929395
             }
         ]
     },
