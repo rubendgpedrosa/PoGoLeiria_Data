@@ -24,6 +24,30 @@
         ]
     },
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Jigglypuff",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Jigglypuff",
+        "quest_reward_pokemon_id": 39,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
+            {
+                "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
+                "name": "CEMFIR - Culturismo",
+                "latitude": 39.752054,
+                "longitude": -8.92786
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 3 hearts with your Buddy",
         "quest_reward": "Poochyena",
         "quest_reward_type": "Pokemon",
@@ -38,6 +62,12 @@
                 "name": "Painel Informativo Junta de Freguesia Marinha Grande",
                 "latitude": 39.741149,
                 "longitude": -8.932965
+            },
+            {
+                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
+                "name": "Sede N\u00facleo Sporting",
+                "latitude": 39.750953,
+                "longitude": -8.932885
             }
         ]
     },
@@ -62,24 +92,6 @@
                 "name": "Parque de Merendas Sta Clara",
                 "latitude": 39.738467,
                 "longitude": -8.822362
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Jigglypuff",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Jigglypuff",
-        "quest_reward_pokemon_id": 39,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
-                "name": "CEMFIR - Culturismo",
-                "latitude": 39.752054,
-                "longitude": -8.92786
             }
         ]
     },
