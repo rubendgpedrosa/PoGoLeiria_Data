@@ -420,24 +420,6 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 3 times",
-        "quest_reward": "Squirtle",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Squirtle",
-        "quest_reward_pokemon_id": 7,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
-                "name": "Leiria Shopping",
-                "latitude": 39.732373,
-                "longitude": -8.824896
-            }
-        ]
-    },
-    {
         "quest_description": "Walk 4 km",
         "quest_reward": "Snorlax",
         "quest_reward_type": "Pokemon",
@@ -447,6 +429,12 @@
         "quest_reward_pokemon_id": 143,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
+                "name": "Play Land - Parque Infantil",
+                "latitude": 39.739605,
+                "longitude": -8.818371
+            },
             {
                 "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
                 "name": "Sede PSD Leiria",
@@ -488,6 +476,24 @@
                 "name": "Associa\u00e7\u00e3o de Kickboxing e Muay Thai Hugo Matos",
                 "latitude": 39.747777,
                 "longitude": -8.93253
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Squirtle",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Squirtle",
+        "quest_reward_pokemon_id": 7,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
+                "name": "Leiria Shopping",
+                "latitude": 39.732373,
+                "longitude": -8.824896
             }
         ]
     },
