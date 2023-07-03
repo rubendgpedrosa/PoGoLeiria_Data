@@ -94,10 +94,22 @@
                 "longitude": -8.809737
             },
             {
+                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
+                "name": "Marco CTT",
+                "latitude": 39.747797,
+                "longitude": -8.803171
+            },
+            {
                 "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
                 "name": "Espa\u00e7o O Nariz",
                 "latitude": 39.740953,
                 "longitude": -8.803248
+            },
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
             },
             {
                 "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
@@ -192,6 +204,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "097466c5212c4a0a81c4123a78445154.16",
+                "name": "Mural \"Liberdade\"",
+                "latitude": 39.745754,
+                "longitude": -8.805297
+            },
+            {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -254,6 +290,12 @@
                 "name": "Ponte Euro 2004",
                 "latitude": 39.752764,
                 "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "a175686711784037833ee274d88813d8.16",
+                "name": "Galeria Manuel Artur Santos",
+                "latitude": 39.742898,
+                "longitude": -8.807245
             }
         ]
     },
@@ -528,24 +570,6 @@
         ]
     },
     {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
-                "name": "Burning Heart",
-                "latitude": 39.748962,
-                "longitude": -8.807073
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "10 Sceptile Mega Energy",
         "quest_reward_type": "Energy",
@@ -734,6 +758,36 @@
                 "name": "Zona De Merendas",
                 "latitude": 39.7347,
                 "longitude": -8.796927
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "490174996655472e998bccb559694a1b.16",
+                "name": "Bordalo II",
+                "latitude": 39.742515,
+                "longitude": -8.80218
+            },
+            {
+                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
+                "name": "Anfiteatro Do Parque Da Cerca",
+                "latitude": 39.749604,
+                "longitude": -8.934917
+            },
+            {
+                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
+                "name": "Liz ao Quadro - Art Galery",
+                "latitude": 39.748424,
+                "longitude": -8.802439
             }
         ]
     },
@@ -938,6 +992,24 @@
                 "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
                 "latitude": 39.740265,
                 "longitude": -8.929824
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Hippopotas",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Hippopotas",
+        "quest_reward_pokemon_id": 449,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
+                "name": "EL REI D. AFONSO I",
+                "latitude": 39.748442,
+                "longitude": -8.810054
             }
         ]
     },
@@ -1182,6 +1254,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Vulpix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Vulpix",
+        "quest_reward_pokemon_id": 37,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -1214,30 +1304,6 @@
                 "name": "Campus 1 - ESECS",
                 "latitude": 39.739983,
                 "longitude": -8.812123
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
-                "name": "Anfiteatro Do Parque Da Cerca",
-                "latitude": 39.749604,
-                "longitude": -8.934917
-            },
-            {
-                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
-                "name": "Liz ao Quadro - Art Galery",
-                "latitude": 39.748424,
-                "longitude": -8.802439
             }
         ]
     },
