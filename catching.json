@@ -1,5 +1,77 @@
 [
     {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "10 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "01a435e293263fa2b2bc1b4c7fb620ef.16",
+                "name": "Mosaico  catedral verde",
+                "latitude": 39.75082,
+                "longitude": -8.93155
+            },
+            {
+                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
+                "name": "Skate Park",
+                "latitude": 39.735189,
+                "longitude": -8.797673
+            },
+            {
+                "pokestop_id": "1cae0c5655654f4ab9271c1b3328d4bc.16",
+                "name": "Painel Informativo C\u00e2mara Municipal de Leiria",
+                "latitude": 39.749357,
+                "longitude": -8.805745
+            },
+            {
+                "pokestop_id": "2220c88e700f4716a79a5a0fcd4b9e48.16",
+                "name": "Piscina Municipal Da Marinha Grande",
+                "latitude": 39.749552,
+                "longitude": -8.924803
+            },
+            {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
+            },
+            {
+                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
+                "name": "O pensativo.",
+                "latitude": 39.747078,
+                "longitude": -8.8151
+            },
+            {
+                "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
+                "name": "Os vizinhos associa\u00e7\u00e3o cultural",
+                "latitude": 39.741479,
+                "longitude": -8.936194
+            },
+            {
+                "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
+                "name": "Junta de Freguesia",
+                "latitude": 39.751118,
+                "longitude": -8.928216
+            },
+            {
+                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
+                "name": "Escuteiros",
+                "latitude": 39.741841,
+                "longitude": -8.933249
+            },
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
+            }
+        ]
+    },
+    {
         "quest_description": "Use 7 Berries to help catch Pok\u00e9mon",
         "quest_reward": "Cyndaquil",
         "quest_reward_type": "Pokemon",
@@ -38,6 +110,18 @@
                 "name": "O Prisioneiro",
                 "latitude": 39.744766,
                 "longitude": -8.81039
+            },
+            {
+                "pokestop_id": "6d59dc9c55f743179a8cb5f6fb59a86f.16",
+                "name": "Placa Informativa - Antes do Castelo",
+                "latitude": 39.747749,
+                "longitude": -8.808107
+            },
+            {
+                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
+                "name": "Posto de turismo da Marinha Grande",
+                "latitude": 39.743295,
+                "longitude": -8.935619
             },
             {
                 "pokestop_id": "88cdcb6d570d4c1bbad94a55d966d4c5.16",
@@ -144,66 +228,6 @@
         ]
     },
     {
-        "quest_description": "Catch 7 Pok\u00e9mon",
-        "quest_reward": "10 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
-                "name": "Skate Park",
-                "latitude": 39.735189,
-                "longitude": -8.797673
-            },
-            {
-                "pokestop_id": "2220c88e700f4716a79a5a0fcd4b9e48.16",
-                "name": "Piscina Municipal Da Marinha Grande",
-                "latitude": 39.749552,
-                "longitude": -8.924803
-            },
-            {
-                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
-                "name": "Playcity 003",
-                "latitude": 39.740875,
-                "longitude": -8.801093
-            },
-            {
-                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
-                "name": "O pensativo.",
-                "latitude": 39.747078,
-                "longitude": -8.8151
-            },
-            {
-                "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
-                "name": "Os vizinhos associa\u00e7\u00e3o cultural",
-                "latitude": 39.741479,
-                "longitude": -8.936194
-            },
-            {
-                "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
-                "name": "Junta de Freguesia",
-                "latitude": 39.751118,
-                "longitude": -8.928216
-            },
-            {
-                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
-                "name": "Escuteiros",
-                "latitude": 39.741841,
-                "longitude": -8.933249
-            },
-            {
-                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
-                "name": "CrossFit Leiria",
-                "latitude": 39.729649,
-                "longitude": -8.804977
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 7 different species of Pokemon",
         "quest_reward": "Popplio",
         "quest_reward_type": "Pokemon",
@@ -270,6 +294,30 @@
         ]
     },
     {
+        "quest_description": "Catch 7 different species of Pokemon",
+        "quest_reward": "Rowlet",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Rowlet",
+        "quest_reward_pokemon_id": 722,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0bc2c65541d54e619cd907342180b784.16",
+                "name": "Igreja Universal Do Reino De Deus",
+                "latitude": 39.747902,
+                "longitude": -8.805366
+            },
+            {
+                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
+                "name": "Parque da Encarna\u00e7\u00e3o",
+                "latitude": 39.738905,
+                "longitude": -8.798901
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "10 Charizard Mega Energy",
         "quest_reward_type": "Energy",
@@ -284,6 +332,12 @@
                 "name": "Caixa Postal CTT - Av. Jos\u00e9 Greg\u00f3rio",
                 "latitude": 39.754491,
                 "longitude": -8.932577
+            },
+            {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
             }
         ]
     },
@@ -338,6 +392,12 @@
                 "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
                 "latitude": 39.743218,
                 "longitude": -8.812164
+            },
+            {
+                "pokestop_id": "b90bc99759c643c1b07a37a91179a8fd.16",
+                "name": "Mural Rei das Runas",
+                "latitude": 39.747825,
+                "longitude": -8.930829
             },
             {
                 "pokestop_id": "dce7b40c4a4838b9b3fbf663537f23b3.16",
@@ -736,6 +796,12 @@
                 "longitude": -8.933859
             },
             {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
+            },
+            {
                 "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
                 "name": "ESSLEI",
                 "latitude": 39.732661,
@@ -763,6 +829,24 @@
     },
     {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 6,
@@ -776,6 +860,12 @@
                 "name": "Ponte pedonal norte do Parque das Bernardas",
                 "latitude": 39.738465,
                 "longitude": -8.929156
+            },
+            {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
             }
         ]
     },
@@ -848,6 +938,12 @@
                 "name": "Urban Fitness",
                 "latitude": 39.748953,
                 "longitude": -8.802133
+            },
+            {
+                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
+                "name": "Xilofone M\u00e1rmore",
+                "latitude": 39.741581,
+                "longitude": -8.802014
             }
         ]
     },
@@ -884,24 +980,6 @@
                 "name": "IPL - Unidade de investiga\u00e7\u00e3o",
                 "latitude": 39.74349,
                 "longitude": -8.791929
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 7 different species of Pokemon",
-        "quest_reward": "Rowlet",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Rowlet",
-        "quest_reward_pokemon_id": 722,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
-                "name": "Parque da Encarna\u00e7\u00e3o",
-                "latitude": 39.738905,
-                "longitude": -8.798901
             }
         ]
     }
