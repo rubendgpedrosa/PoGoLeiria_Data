@@ -60,6 +60,30 @@
         ]
     },
     {
+        "quest_description": "Send 7 Gifts and add a sticker to each",
+        "quest_reward": "Chespin",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Chespin",
+        "quest_reward_pokemon_id": 650,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b5569737a8438f0abfdf718370b73eb.16",
+                "name": "Amieiro",
+                "latitude": 39.733619,
+                "longitude": -8.797415
+            },
+            {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 7 hearts with your Buddy",
         "quest_reward": "Turtwig",
         "quest_reward_type": "Pokemon",
@@ -172,6 +196,12 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "3d6959cc1325477b88ffe44689e49093.16",
+                "name": "Ponte Pedonal Suspensa",
+                "latitude": 39.750997,
+                "longitude": -8.809201
+            },
+            {
                 "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
                 "name": "Edif\u00edcio Comendador",
                 "latitude": 39.742053,
@@ -230,24 +260,6 @@
                 "name": "Parque de Merendas Sta Clara",
                 "latitude": 39.738467,
                 "longitude": -8.822362
-            }
-        ]
-    },
-    {
-        "quest_description": "Send 7 Gifts and add a sticker to each",
-        "quest_reward": "Chespin",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Chespin",
-        "quest_reward_pokemon_id": 650,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
-                "name": "Fonte Do Halton",
-                "latitude": 39.747031,
-                "longitude": -8.816442
             }
         ]
     },
