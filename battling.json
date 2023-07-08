@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Nidoran\u2640",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Nidoran\u2640",
+        "quest_reward_pokemon_id": 29,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "01a435e293263fa2b2bc1b4c7fb620ef.16",
+                "name": "Mosaico  catedral verde",
+                "latitude": 39.75082,
+                "longitude": -8.93155
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Marowak",
         "quest_reward_type": "Pokemon",
@@ -14,6 +32,60 @@
                 "name": "Choupo Negro",
                 "latitude": 39.750236,
                 "longitude": -8.804137
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Archen",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Archen",
+        "quest_reward_pokemon_id": 566,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 3 raids",
+        "quest_reward": "Mawile",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mawile",
+        "quest_reward_pokemon_id": 303,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
+                "name": "Wellness life",
+                "latitude": 39.751779,
+                "longitude": -8.929718
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Drilbur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Drilbur",
+        "quest_reward_pokemon_id": 529,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
             }
         ]
     }
