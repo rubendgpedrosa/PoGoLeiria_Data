@@ -52,6 +52,12 @@
                 "longitude": -8.93423
             },
             {
+                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
+                "name": "Rodilha",
+                "latitude": 39.742979,
+                "longitude": -8.806888
+            },
+            {
                 "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
                 "name": "Sport Oper\u00e1rio Marinhense",
                 "latitude": 39.749997,
@@ -148,10 +154,22 @@
                 "longitude": -8.931966
             },
             {
+                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
+                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
+                "latitude": 39.73966,
+                "longitude": -8.808042
+            },
+            {
                 "pokestop_id": "4d86c7b25ae23c4e88f5151e4d759839.16",
                 "name": "Galerias Mouzinho de Albuquerque",
                 "latitude": 39.747271,
                 "longitude": -8.805217
+            },
+            {
+                "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
+                "name": "F\u00e9nix Muralhartes",
+                "latitude": 39.747251,
+                "longitude": -8.808742
             },
             {
                 "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
@@ -228,6 +246,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Sudowoodo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sudowoodo",
+        "quest_reward_pokemon_id": 185,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "176cb9f808b441daae85466c3d053623.11",
+                "name": "Fonte Luminosa",
+                "latitude": 39.743649,
+                "longitude": -8.806831
+            },
+            {
+                "pokestop_id": "c3c8a7b519bd349b96df337260957971.16",
+                "name": "Sociedade Columb\u00f3fila Marinhense",
+                "latitude": 39.748494,
+                "longitude": -8.932563
+            }
+        ]
+    },
+    {
         "quest_description": "Make 7 Curveball Throws",
         "quest_reward": "Snivy",
         "quest_reward_type": "Pokemon",
@@ -272,6 +314,12 @@
                 "name": "Ponte Verde da Encosta do Castelo",
                 "latitude": 39.748256,
                 "longitude": -8.809223
+            },
+            {
+                "pokestop_id": "d507cf11ba724b0e99127ed0e11b6597.16",
+                "name": "Lenda do Lis e do Lena",
+                "latitude": 39.743468,
+                "longitude": -8.8068
             },
             {
                 "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
@@ -372,6 +420,36 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "2 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
+            },
+            {
+                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
+                "name": "Ponte Pedonal Jardim da Almuinha",
+                "latitude": 39.751736,
+                "longitude": -8.810436
+            },
+            {
+                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
+                "name": "Ringue De Futebol",
+                "latitude": 39.745324,
+                "longitude": -8.933841
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
@@ -440,30 +518,6 @@
                 "name": "Sede do Partido Social Democrata da Marinha Grande",
                 "latitude": 39.746712,
                 "longitude": -8.928824
-            }
-        ]
-    },
-    {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "2 Ultra Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Ultra Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
-        "pokestops": [
-            {
-                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
-                "name": "Ponte Pedonal Jardim da Almuinha",
-                "latitude": 39.751736,
-                "longitude": -8.810436
-            },
-            {
-                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
-                "name": "Ringue De Futebol",
-                "latitude": 39.745324,
-                "longitude": -8.933841
             }
         ]
     },
@@ -728,6 +782,42 @@
                 "name": "Chamin\u00e9 Sthepens",
                 "latitude": 39.751303,
                 "longitude": -8.934332
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "3 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
+                "name": "D. Dinis",
+                "latitude": 39.745862,
+                "longitude": -8.809441
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
+                "name": "Zona de lazer",
+                "latitude": 39.737598,
+                "longitude": -8.928606
             }
         ]
     }
