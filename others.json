@@ -1,5 +1,83 @@
 [
     {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Lotad",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lotad",
+        "quest_reward_pokemon_id": 270,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            },
+            {
+                "pokestop_id": "09e9559bb8af3eb3b70f0e933f650c5e.16",
+                "name": "Largo C\u00e2ndido dos Reis - Terreiro",
+                "latitude": 39.743611,
+                "longitude": -8.810345
+            },
+            {
+                "pokestop_id": "176cb9f808b441daae85466c3d053623.11",
+                "name": "Fonte Luminosa",
+                "latitude": 39.743649,
+                "longitude": -8.806831
+            },
+            {
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067
+            },
+            {
+                "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
+                "name": "Ponte da Fonte Quente",
+                "latitude": 39.747216,
+                "longitude": -8.802534
+            },
+            {
+                "pokestop_id": "68078d1b4a164f9c850ee98c757acdfb.16",
+                "name": "Centro Comercial Lumar",
+                "latitude": 39.746744,
+                "longitude": -8.935747
+            },
+            {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
+            },
+            {
+                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
+                "name": "Parque da Cerca",
+                "latitude": 39.748598,
+                "longitude": -8.934927
+            },
+            {
+                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
+                "name": "LM Fitness",
+                "latitude": 39.747089,
+                "longitude": -8.935386
+            },
+            {
+                "pokestop_id": "e92b33c341c3485d9b402af105b2484d.16",
+                "name": "Anno Christi MDCXLVI",
+                "latitude": 39.742708,
+                "longitude": -8.810826
+            },
+            {
+                "pokestop_id": "fbe6e381a35b44268d1c15f5bac2925c.11",
+                "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
+                "latitude": 39.746897,
+                "longitude": -8.804124
+            }
+        ]
+    },
+    {
         "quest_description": "Walk 4 km",
         "quest_reward": "Snorlax",
         "quest_reward_type": "Pokemon",
@@ -130,6 +208,12 @@
                 "longitude": -8.79645
             },
             {
+                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
+                "name": "Campo Polidesportivo",
+                "latitude": 39.732954,
+                "longitude": -8.809802
+            },
+            {
                 "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
                 "name": "Mural \"Na Dist\u00e2ncia\"",
                 "latitude": 39.736711,
@@ -218,78 +302,6 @@
                 "name": "Play City",
                 "latitude": 39.747179,
                 "longitude": -8.802109
-            }
-        ]
-    },
-    {
-        "quest_description": "Defeat 3 Team GO Rocket Grunts",
-        "quest_reward": "Lotad",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Lotad",
-        "quest_reward_pokemon_id": 270,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "09e9559bb8af3eb3b70f0e933f650c5e.16",
-                "name": "Largo C\u00e2ndido dos Reis - Terreiro",
-                "latitude": 39.743611,
-                "longitude": -8.810345
-            },
-            {
-                "pokestop_id": "176cb9f808b441daae85466c3d053623.11",
-                "name": "Fonte Luminosa",
-                "latitude": 39.743649,
-                "longitude": -8.806831
-            },
-            {
-                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
-                "name": "Campo de Futebol",
-                "latitude": 39.736816,
-                "longitude": -8.804067
-            },
-            {
-                "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
-                "name": "Ponte da Fonte Quente",
-                "latitude": 39.747216,
-                "longitude": -8.802534
-            },
-            {
-                "pokestop_id": "68078d1b4a164f9c850ee98c757acdfb.16",
-                "name": "Centro Comercial Lumar",
-                "latitude": 39.746744,
-                "longitude": -8.935747
-            },
-            {
-                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
-                "name": "Mural Bombeiro",
-                "latitude": 39.740828,
-                "longitude": -8.800367
-            },
-            {
-                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
-                "name": "Parque da Cerca",
-                "latitude": 39.748598,
-                "longitude": -8.934927
-            },
-            {
-                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
-                "name": "LM Fitness",
-                "latitude": 39.747089,
-                "longitude": -8.935386
-            },
-            {
-                "pokestop_id": "e92b33c341c3485d9b402af105b2484d.16",
-                "name": "Anno Christi MDCXLVI",
-                "latitude": 39.742708,
-                "longitude": -8.810826
-            },
-            {
-                "pokestop_id": "fbe6e381a35b44268d1c15f5bac2925c.11",
-                "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
-                "latitude": 39.746897,
-                "longitude": -8.804124
             }
         ]
     },
@@ -554,6 +566,12 @@
                 "name": "Pharmacia",
                 "latitude": 39.745802,
                 "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
             }
         ]
     },
@@ -638,6 +656,12 @@
                 "name": "Playcities Santo Agostinho",
                 "latitude": 39.741341,
                 "longitude": -8.801969
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
             }
         ]
     },
@@ -1112,6 +1136,24 @@
                 "name": "Est\u00e1dio Municipal de Leiria",
                 "latitude": 39.749735,
                 "longitude": -8.812954
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Togedemaru",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Togedemaru",
+        "quest_reward_pokemon_id": 777,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
+                "name": "Barcos da Costa",
+                "latitude": 39.73964,
+                "longitude": -8.805776
             }
         ]
     },
