@@ -90,6 +90,42 @@
         ]
     },
     {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "1d22b403b3e849439d80774f339186b4.16",
+                "name": "Azulejos Leiria S\u00e9culo XIX",
+                "latitude": 39.742721,
+                "longitude": -8.81045
+            },
+            {
+                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
+                "name": "Live Gym Marinha Grande",
+                "latitude": 39.74109,
+                "longitude": -8.929395
+            },
+            {
+                "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
+                "name": "Janelas do Jardim da Almuinha",
+                "latitude": 39.751734,
+                "longitude": -8.80984
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "10 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -104,6 +140,12 @@
                 "name": "Complexo Municipal De T\u00eanis",
                 "latitude": 39.735363,
                 "longitude": -8.795582
+            },
+            {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
             }
         ]
     },
@@ -184,6 +226,12 @@
                 "longitude": -8.936966
             },
             {
+                "pokestop_id": "be27a58579f64cae8b898b838163757b.16",
+                "name": "VDesign",
+                "latitude": 39.745756,
+                "longitude": -8.807801
+            },
+            {
                 "pokestop_id": "ce998aebdaae3750bedfc6e568df7f5e.16",
                 "name": "Projeto U-Bike: ESTG - Bloco D",
                 "latitude": 39.734271,
@@ -200,6 +248,12 @@
                 "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
                 "latitude": 39.749364,
                 "longitude": -8.930986
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
             }
         ]
     },
@@ -242,30 +296,6 @@
                 "name": "Painel Informativo C\u00e2mara Municipal de Leiria",
                 "latitude": 39.749357,
                 "longitude": -8.805745
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "1d22b403b3e849439d80774f339186b4.16",
-                "name": "Azulejos Leiria S\u00e9culo XIX",
-                "latitude": 39.742721,
-                "longitude": -8.81045
-            },
-            {
-                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
-                "name": "Live Gym Marinha Grande",
-                "latitude": 39.74109,
-                "longitude": -8.929395
             }
         ]
     },
@@ -498,6 +528,36 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
+                "name": "Playcities Santo Agostinho",
+                "latitude": 39.741341,
+                "longitude": -8.801969
+            },
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
+            },
+            {
+                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
+                "name": "Monumento aos Combatentes da Grande Guerra",
+                "latitude": 39.740806,
+                "longitude": -8.802768
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Baltoy",
         "quest_reward_type": "Pokemon",
@@ -674,6 +734,12 @@
                 "name": "Parque Do Museu Do Vidro",
                 "latitude": 39.74908,
                 "longitude": -8.933678
+            },
+            {
+                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731526,
+                "longitude": -8.803604
             }
         ]
     },
@@ -698,30 +764,6 @@
                 "name": "Xilofone M\u00e1rmore",
                 "latitude": 39.741581,
                 "longitude": -8.802014
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
-                "name": "Castelo de Leiria",
-                "latitude": 39.747664,
-                "longitude": -8.808828
-            },
-            {
-                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
-                "name": "Monumento aos Combatentes da Grande Guerra",
-                "latitude": 39.740806,
-                "longitude": -8.802768
             }
         ]
     },
@@ -800,6 +842,12 @@
                 "name": "Jardim Am\u00e9lia Pinto Pais",
                 "latitude": 39.742343,
                 "longitude": -8.803473
+            },
+            {
+                "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
+                "name": "Jardim de Leiria",
+                "latitude": 39.744338,
+                "longitude": -8.806031
             }
         ]
     },
