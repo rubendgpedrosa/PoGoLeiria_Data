@@ -310,10 +310,22 @@
                 "longitude": -8.809882
             },
             {
+                "pokestop_id": "266b43dbec17425a81f8256b14f1c2cd.16",
+                "name": "Rodovi\u00e1ria Do Lis",
+                "latitude": 39.745095,
+                "longitude": -8.805202
+            },
+            {
                 "pokestop_id": "4d10e14a2db243309483794fd9fbeba2.16",
                 "name": "Solar do Bar\u00e3o de Salgueiro",
                 "latitude": 39.74411,
                 "longitude": -8.810157
+            },
+            {
+                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
+                "name": "Rodilha",
+                "latitude": 39.742979,
+                "longitude": -8.806888
             }
         ]
     },
@@ -666,6 +678,36 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "Anorith",
         "quest_reward_type": "Pokemon",
@@ -846,30 +888,6 @@
         ]
     },
     {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
-                "name": "Ponte Euro 2004",
-                "latitude": 39.752764,
-                "longitude": -8.814174
-            },
-            {
-                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
-                "name": "Homenagem Bravos Leirienses",
-                "latitude": 39.741354,
-                "longitude": -8.810787
-            }
-        ]
-    },
-    {
         "quest_description": "Make 10 Nice Throws",
         "quest_reward": "Woobat",
         "quest_reward_type": "Pokemon",
@@ -1016,6 +1034,12 @@
                 "name": "Torre Agua Leiria",
                 "latitude": 39.743319,
                 "longitude": -8.799232
+            },
+            {
+                "pokestop_id": "f3a20103705430bc9e7a1e1d054c1b6a.16",
+                "name": "Polit\u00e9cnico de Leiria - ESECS",
+                "latitude": 39.739751,
+                "longitude": -8.811364
             }
         ]
     },
@@ -1052,6 +1076,24 @@
                 "name": "Antigo Bebedouro",
                 "latitude": 39.750713,
                 "longitude": -8.926943
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
+                "name": "Anfiteatro Do Parque Da Cerca",
+                "latitude": 39.749604,
+                "longitude": -8.934917
             }
         ]
     }

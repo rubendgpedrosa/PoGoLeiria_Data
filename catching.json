@@ -42,6 +42,24 @@
         ]
     },
     {
+        "quest_description": "Catch 15 Pok\u00e9mon",
+        "quest_reward": "Bronzor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bronzor",
+        "quest_reward_pokemon_id": 436,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d8a08d8b1373ea6aa0dda39ef0333c1.16",
+                "name": "m|i|mo - Museu da Imagem em Movimento",
+                "latitude": 39.747339,
+                "longitude": -8.807318
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -140,6 +158,12 @@
                 "name": "Complexo Municipal De T\u00eanis",
                 "latitude": 39.735363,
                 "longitude": -8.795582
+            },
+            {
+                "pokestop_id": "20d010499ea44bb8a7f38881b2d47338.16",
+                "name": "Mural Bailarina",
+                "latitude": 39.739897,
+                "longitude": -8.804231
             },
             {
                 "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
@@ -248,6 +272,12 @@
                 "name": "Edif\u00edcio Ferro de Engomar",
                 "latitude": 39.740629,
                 "longitude": -8.802995
+            },
+            {
+                "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
+                "name": "Igreja",
+                "latitude": 39.741631,
+                "longitude": -8.802822
             },
             {
                 "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
@@ -880,6 +910,12 @@
                 "longitude": -8.93432
             },
             {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
+            },
+            {
                 "pokestop_id": "f99206298061310da2599051b487f4ef.16",
                 "name": "Parque Infantil",
                 "latitude": 39.731552,
@@ -998,6 +1034,30 @@
                 "name": "Escultura Edifoz",
                 "latitude": 39.746497,
                 "longitude": -8.815913
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
+                "name": "D.Isabel",
+                "latitude": 39.749043,
+                "longitude": -8.80843
+            },
+            {
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
             }
         ]
     },
@@ -1280,24 +1340,6 @@
                 "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
                 "latitude": 39.742537,
                 "longitude": -8.793462
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
-                "name": "Ponte pedonal do Parque das Bernardas",
-                "latitude": 39.737792,
-                "longitude": -8.928996
             }
         ]
     }
