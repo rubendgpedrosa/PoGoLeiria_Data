@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "2 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "01a435e293263fa2b2bc1b4c7fb620ef.16",
+                "name": "Mosaico  catedral verde",
+                "latitude": 39.75082,
+                "longitude": -8.93155
+            },
+            {
+                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
+                "name": "Gin\u00e1sio ao Ar Livre",
+                "latitude": 39.750817,
+                "longitude": -8.929649
+            },
+            {
+                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
+                "name": "Marco CTT",
+                "latitude": 39.747797,
+                "longitude": -8.803171
+            }
+        ]
+    },
+    {
         "quest_description": "Make 10 Nice Throws",
         "quest_reward": "Psyduck",
         "quest_reward_type": "Pokemon",
@@ -158,6 +188,12 @@
                 "name": "Igreja do cemit\u00e9rio da Marinha Grande",
                 "latitude": 39.745877,
                 "longitude": -8.932347
+            },
+            {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
             },
             {
                 "pokestop_id": "8be5956c59cc3621a677fff8c99d12c6.16",
@@ -426,6 +462,36 @@
         ]
     },
     {
+        "quest_description": "Make 5 Great Curveball Throws in a row",
+        "quest_reward": "Spinda",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spinda",
+        "quest_reward_pokemon_id": 327,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "19a9281ab7a83984b81186b81ecf6942.16",
+                "name": "Medronheiro",
+                "latitude": 39.748255,
+                "longitude": -8.801251
+            },
+            {
+                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
+                "name": "Igreja Man\u00e1",
+                "latitude": 39.741498,
+                "longitude": -8.799315
+            },
+            {
+                "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
+                "name": "Jardim de Leiria",
+                "latitude": 39.744338,
+                "longitude": -8.806031
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "2 Ultra Ball",
         "quest_reward_type": "Item",
@@ -582,26 +648,26 @@
         ]
     },
     {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "2 Ultra Ball",
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
+        "quest_reward_item_id": 701,
         "pokestops": [
             {
-                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
-                "name": "Gin\u00e1sio ao Ar Livre",
-                "latitude": 39.750817,
-                "longitude": -8.929649
+                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
+                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
+                "latitude": 39.73966,
+                "longitude": -8.808042
             },
             {
-                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
-                "name": "Marco CTT",
-                "latitude": 39.747797,
-                "longitude": -8.803171
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
             }
         ]
     },
@@ -798,24 +864,6 @@
         ]
     },
     {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
-                "name": "Jornal de Leiria",
-                "latitude": 39.743267,
-                "longitude": -8.809349
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -874,10 +922,40 @@
                 "longitude": -8.804666
             },
             {
+                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
+                "name": "Parque de merendas 2",
+                "latitude": 39.733159,
+                "longitude": -8.82037
+            },
+            {
                 "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
                 "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
                 "latitude": 39.747526,
                 "longitude": -8.93077
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
+                "name": "Azinheira",
+                "latitude": 39.747237,
+                "longitude": -8.80158
+            },
+            {
+                "pokestop_id": "c0206140379044b5a8ce69871cfa0f22.16",
+                "name": "Igreja Crist\u00e3 Maranata",
+                "latitude": 39.743058,
+                "longitude": -8.800445
             }
         ]
     },
@@ -1008,30 +1086,6 @@
         ]
     },
     {
-        "quest_description": "Make 5 Great Curveball Throws in a row",
-        "quest_reward": "Spinda",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Spinda",
-        "quest_reward_pokemon_id": 327,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
-                "name": "Igreja Man\u00e1",
-                "latitude": 39.741498,
-                "longitude": -8.799315
-            },
-            {
-                "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
-                "name": "Jardim de Leiria",
-                "latitude": 39.744338,
-                "longitude": -8.806031
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -1052,24 +1106,6 @@
                 "name": "Polit\u00e9cnico de Leiria - ESECS",
                 "latitude": 39.739751,
                 "longitude": -8.811364
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "c0206140379044b5a8ce69871cfa0f22.16",
-                "name": "Igreja Crist\u00e3 Maranata",
-                "latitude": 39.743058,
-                "longitude": -8.800445
             }
         ]
     },
@@ -1106,6 +1142,24 @@
                 "name": "Anfiteatro Do Parque Da Cerca",
                 "latitude": 39.749604,
                 "longitude": -8.934917
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Excellent Throws in a row",
+        "quest_reward": "Gible",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Gible",
+        "quest_reward_pokemon_id": 443,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "f8b148e8b0d84e6f8efa67b045341351.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.744672,
+                "longitude": -8.795859
             }
         ]
     }
