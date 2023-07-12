@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Walk 4 km",
+        "quest_reward": "Snorlax",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snorlax",
+        "quest_reward_pokemon_id": 143,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "06030e41449c4302874baae88549b655.16",
+                "name": "Correios Her\u00f3is De Angola",
+                "latitude": 39.747609,
+                "longitude": -8.804195
+            },
+            {
+                "pokestop_id": "89dbb0af65bb450bb804eee0d872e639.16",
+                "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
+                "latitude": 39.740265,
+                "longitude": -8.929824
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -100,6 +124,12 @@
                 "longitude": -8.808828
             },
             {
+                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
+                "name": "Ponte pedonal norte do Parque das Bernardas",
+                "latitude": 39.738465,
+                "longitude": -8.929156
+            },
+            {
                 "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
                 "name": "Placa de Homenagem Wenceslau de Morais",
                 "latitude": 39.747264,
@@ -110,6 +140,12 @@
                 "name": "Calv\u00e1rio",
                 "latitude": 39.746362,
                 "longitude": -8.807238
+            },
+            {
+                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
+                "name": "Live Gym Marinha Grande",
+                "latitude": 39.74109,
+                "longitude": -8.929395
             },
             {
                 "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
@@ -146,6 +182,12 @@
                 "name": "Antiga Sede Jornal de Leiria",
                 "latitude": 39.744151,
                 "longitude": -8.811916
+            },
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
             }
         ]
     },
@@ -176,6 +218,12 @@
                 "name": "Campo de Futebol",
                 "latitude": 39.736816,
                 "longitude": -8.804067
+            },
+            {
+                "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
+                "name": "Ponte da Fonte Quente",
+                "latitude": 39.747216,
+                "longitude": -8.802534
             },
             {
                 "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
@@ -278,6 +326,42 @@
                 "name": "Museu BVMG",
                 "latitude": 39.748136,
                 "longitude": -8.933859
+            },
+            {
+                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
+                "name": "Liz ao Quadro - Art Galery",
+                "latitude": 39.748424,
+                "longitude": -8.802439
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            },
+            {
+                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
+                "name": "Wellness life",
+                "latitude": 39.751779,
+                "longitude": -8.929718
             }
         ]
     },
@@ -374,6 +458,24 @@
                 "name": "Pharmacia",
                 "latitude": 39.745802,
                 "longitude": -8.807245
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Charmander",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Charmander",
+        "quest_reward_pokemon_id": 4,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2ac9299d7ffd319aa934d0d4337e8b8f.16",
+                "name": "Leiria: Cidade Europeia do Desporto 2022",
+                "latitude": 39.736999,
+                "longitude": -8.82141
             }
         ]
     },
@@ -750,6 +852,24 @@
         ]
     },
     {
+        "quest_description": "Evolve a Pok\u00e9mon",
+        "quest_reward": "Eevee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Eevee",
+        "quest_reward_pokemon_id": 133,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6ec49906cb8c4e0d9e2ca1709374c77c.16",
+                "name": "Associa\u00e7\u00e3o de Futebol de Leiria",
+                "latitude": 39.739999,
+                "longitude": -8.815938
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 10 times",
         "quest_reward": "25 Houndoom Mega Energy",
         "quest_reward_type": "Energy",
@@ -816,20 +936,44 @@
         ]
     },
     {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Rowlet",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Rowlet",
+        "quest_reward_pokemon_id": 722,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
-                "name": "Wellness life",
-                "latitude": 39.751779,
-                "longitude": -8.929718
+                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
+                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
+                "latitude": 39.750529,
+                "longitude": -8.803749
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Popplio",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Popplio",
+        "quest_reward_pokemon_id": 728,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a1d7da08d79c492098f4f57a27931039.16",
+                "name": "Marco CTT - Rua Professor N. Costa",
+                "latitude": 39.742221,
+                "longitude": -8.813073
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             }
         ]
     },
@@ -848,24 +992,6 @@
                 "name": "Est\u00e1dio Municipal de Leiria",
                 "latitude": 39.749735,
                 "longitude": -8.812954
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 7 times",
-        "quest_reward": "Popplio",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Popplio",
-        "quest_reward_pokemon_id": 728,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
-                "name": "Estradas Portugal",
-                "latitude": 39.751555,
-                "longitude": -8.808172
             }
         ]
     },
