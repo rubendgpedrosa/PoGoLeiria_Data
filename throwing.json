@@ -98,6 +98,12 @@
                 "name": "Amieiro",
                 "latitude": 39.733619,
                 "longitude": -8.797415
+            },
+            {
+                "pokestop_id": "ac8054dc06544e05b1d10a47ff12b097.16",
+                "name": "Bras\u00e3o da Cidade",
+                "latitude": 39.743168,
+                "longitude": -8.805737
             }
         ]
     },
@@ -152,6 +158,12 @@
                 "name": "Caixa Postal CTT - Av. Jos\u00e9 Greg\u00f3rio",
                 "latitude": 39.754491,
                 "longitude": -8.932577
+            },
+            {
+                "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
+                "name": "Lago Santo Agostinho",
+                "latitude": 39.74149,
+                "longitude": -8.801741
             }
         ]
     },
@@ -380,6 +392,12 @@
                 "name": "Audit\u00f3rio",
                 "latitude": 39.749766,
                 "longitude": -8.926395
+            },
+            {
+                "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
+                "name": "Gin\u00e1sio Fit On Move",
+                "latitude": 39.745658,
+                "longitude": -8.803177
             }
         ]
     },
@@ -446,6 +464,12 @@
                 "name": "Campo De Futebol A.C. Marinhense",
                 "latitude": 39.749818,
                 "longitude": -8.936966
+            },
+            {
+                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
+                "name": "Xilofone M\u00e1rmore",
+                "latitude": 39.741581,
+                "longitude": -8.802014
             },
             {
                 "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
@@ -558,6 +582,30 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "54ed01ac248146bab4c80325d8c3a9ea.16",
+                "name": "Centro De Turismo",
+                "latitude": 39.743896,
+                "longitude": -8.806459
+            },
+            {
+                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
+                "name": "LM Fitness",
+                "latitude": 39.747089,
+                "longitude": -8.935386
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -632,6 +680,18 @@
                 "name": "Arte Urbana",
                 "latitude": 39.750531,
                 "longitude": -8.805541
+            },
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
+                "name": "Abra\u00e7o ao universo",
+                "latitude": 39.751515,
+                "longitude": -8.814163
             }
         ]
     },
@@ -834,6 +894,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Diglett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Diglett",
+        "quest_reward_pokemon_id": 50,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a175686711784037833ee274d88813d8.16",
+                "name": "Galeria Manuel Artur Santos",
+                "latitude": 39.742898,
+                "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -854,24 +938,6 @@
                 "name": "LeiriaMini - \u00c1rea Interativa",
                 "latitude": 39.732346,
                 "longitude": -8.824545
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "Diglett",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Diglett",
-        "quest_reward_pokemon_id": 50,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
-                "name": "Edif\u00edcio Da Resinagem",
-                "latitude": 39.749198,
-                "longitude": -8.932709
             }
         ]
     },
@@ -966,20 +1032,38 @@
         ]
     },
     {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
-                "name": "LM Fitness",
-                "latitude": 39.747089,
-                "longitude": -8.935386
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "3 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "f20cf939cb55424184465327db0ec8e8.16",
+                "name": "Playcity 006",
+                "latitude": 39.746676,
+                "longitude": -8.802645
             }
         ]
     },
