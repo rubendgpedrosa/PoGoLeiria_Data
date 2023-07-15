@@ -28,6 +28,12 @@
                 "longitude": -8.807102
             },
             {
+                "pokestop_id": "2ac9299d7ffd319aa934d0d4337e8b8f.16",
+                "name": "Leiria: Cidade Europeia do Desporto 2022",
+                "latitude": 39.736999,
+                "longitude": -8.82141
+            },
+            {
                 "pokestop_id": "54ed01ac248146bab4c80325d8c3a9ea.16",
                 "name": "Centro De Turismo",
                 "latitude": 39.743896,
@@ -148,6 +154,12 @@
                 "longitude": -8.821638
             },
             {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            },
+            {
                 "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
                 "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
                 "latitude": 39.751963,
@@ -250,6 +262,12 @@
                 "longitude": -8.810345
             },
             {
+                "pokestop_id": "0b5569737a8438f0abfdf718370b73eb.16",
+                "name": "Amieiro",
+                "latitude": 39.733619,
+                "longitude": -8.797415
+            },
+            {
                 "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
                 "name": "Burning Heart",
                 "latitude": 39.748962,
@@ -272,6 +290,12 @@
                 "name": "ASURPI",
                 "latitude": 39.75141,
                 "longitude": -8.933588
+            },
+            {
+                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
+                "name": "Parque de S\u00e3o Rom\u00e3o",
+                "latitude": 39.733442,
+                "longitude": -8.797748
             },
             {
                 "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
@@ -446,6 +470,12 @@
                 "name": "O Gladiador",
                 "latitude": 39.746592,
                 "longitude": -8.803601
+            },
+            {
+                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
+                "name": "Igreja Batista da Lagoinha",
+                "latitude": 39.740459,
+                "longitude": -8.80699
             },
             {
                 "pokestop_id": "a07bbdcea6594eeb89872edc6a61cdfd.16",
@@ -769,6 +799,30 @@
     },
     {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
+                "name": "Marco CTT",
+                "latitude": 39.747797,
+                "longitude": -8.803171
+            },
+            {
+                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
+                "name": "Chamin\u00e9 Sthepens",
+                "latitude": 39.751303,
+                "longitude": -8.934332
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
         "quest_reward_amount": 5,
@@ -1052,24 +1106,6 @@
                 "name": "Kid's Web",
                 "latitude": 39.732741,
                 "longitude": -8.79703
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
-                "name": "Chamin\u00e9 Sthepens",
-                "latitude": 39.751303,
-                "longitude": -8.934332
             }
         ]
     },
