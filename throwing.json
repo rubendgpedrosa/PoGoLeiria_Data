@@ -468,6 +468,24 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Binacle",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Binacle",
+        "quest_reward_pokemon_id": 688,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Curveball Throws in a row",
         "quest_reward": "Spinda",
         "quest_reward_type": "Pokemon",
@@ -602,6 +620,48 @@
                 "name": "Sede Bloco de Esquerda - Leiria",
                 "latitude": 39.743977,
                 "longitude": -8.80892
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            },
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
+            },
+            {
+                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
+                "name": "laurus nobilis",
+                "latitude": 39.736728,
+                "longitude": -8.795776
+            },
+            {
+                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
+                "name": "Ponte pedonal do parque das Almoinhas",
+                "latitude": 39.751479,
+                "longitude": -8.813373
+            },
+            {
+                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
+                "name": "Caixa Postal CTT - Guimarota",
+                "latitude": 39.732839,
+                "longitude": -8.795816
             }
         ]
     },
@@ -746,42 +806,6 @@
                 "name": "Dan'el E'me",
                 "latitude": 39.740549,
                 "longitude": -8.802441
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
-                "name": "Fonte do Alambique",
-                "latitude": 39.751211,
-                "longitude": -8.803585
-            },
-            {
-                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
-                "name": "laurus nobilis",
-                "latitude": 39.736728,
-                "longitude": -8.795776
-            },
-            {
-                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
-                "name": "Ponte pedonal do parque das Almoinhas",
-                "latitude": 39.751479,
-                "longitude": -8.813373
-            },
-            {
-                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
-                "name": "Caixa Postal CTT - Guimarota",
-                "latitude": 39.732839,
-                "longitude": -8.795816
             }
         ]
     },
