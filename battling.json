@@ -25,6 +25,36 @@
     },
     {
         "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "143767309db947358b481a9f9c40ae56.16",
+                "name": "Parque Infantil Almuinha Grande",
+                "latitude": 39.751567,
+                "longitude": -8.81027
+            },
+            {
+                "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
+                "name": "Rainha Santa Isabel",
+                "latitude": 39.745508,
+                "longitude": -8.811107
+            },
+            {
+                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
+                "name": "Shopping 2000",
+                "latitude": 39.749243,
+                "longitude": -8.803685
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
         "quest_reward": "Marowak",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -38,24 +68,6 @@
                 "name": "Oficina da M\u00fasica",
                 "latitude": 39.745717,
                 "longitude": -8.933685
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Exeggutor",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Exeggutor",
-        "quest_reward_pokemon_id": 103,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
-                "name": "Rainha Santa Isabel",
-                "latitude": 39.745508,
-                "longitude": -8.811107
             }
         ]
     },
