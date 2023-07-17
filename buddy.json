@@ -1,6 +1,24 @@
 [
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Litleo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Dedenne",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -20,6 +38,12 @@
                 "name": "Jogo De Som",
                 "latitude": 39.734864,
                 "longitude": -8.797733
+            },
+            {
+                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
+                "name": "S.L.Anti",
+                "latitude": 39.743737,
+                "longitude": -8.805579
             }
         ]
     },
@@ -38,6 +62,30 @@
                 "name": "Parque de Merendas",
                 "latitude": 39.733817,
                 "longitude": -8.809361
+            },
+            {
+                "pokestop_id": "6641122bc0ea406f917adfe1cfbd22e6.11",
+                "name": "Mercado Municipal",
+                "latitude": 39.749213,
+                "longitude": -8.8064
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Jigglypuff",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Jigglypuff",
+        "quest_reward_pokemon_id": 39,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
             }
         ]
     },
