@@ -24,6 +24,30 @@
         ]
     },
     {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Marowak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marowak",
+        "quest_reward_pokemon_id": 105,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
+                "name": "Play Land - Parque Infantil",
+                "latitude": 39.739605,
+                "longitude": -8.818371
+            },
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Meditite",
         "quest_reward_type": "Pokemon",
@@ -54,24 +78,6 @@
         ]
     },
     {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Archen",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Archen",
-        "quest_reward_pokemon_id": 566,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
-                "name": "Janelas Santo Agostinho",
-                "latitude": 39.740857,
-                "longitude": -8.801746
-            }
-        ]
-    },
-    {
         "quest_description": "Win a raid",
         "quest_reward": "Marowak",
         "quest_reward_type": "Pokemon",
@@ -81,6 +87,12 @@
         "quest_reward_pokemon_id": 105,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
+                "name": "Pal\u00e1cio dos Ata\u00eddes",
+                "latitude": 39.744296,
+                "longitude": -8.810014
+            },
             {
                 "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
                 "name": "Os vizinhos associa\u00e7\u00e3o cultural",
@@ -102,20 +114,20 @@
         ]
     },
     {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Marowak",
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Archen",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Marowak",
-        "quest_reward_pokemon_id": 105,
+        "quest_reward_pokemon_name": "Archen",
+        "quest_reward_pokemon_id": 566,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
-                "name": "Jungle Gym",
-                "latitude": 39.749395,
-                "longitude": -8.802482
+                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
+                "name": "Janelas Santo Agostinho",
+                "latitude": 39.740857,
+                "longitude": -8.801746
             }
         ]
     },

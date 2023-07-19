@@ -126,6 +126,36 @@
         ]
     },
     {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Wimpod",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wimpod",
+        "quest_reward_pokemon_id": 767,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "097466c5212c4a0a81c4123a78445154.16",
+                "name": "Mural \"Liberdade\"",
+                "latitude": 39.745754,
+                "longitude": -8.805297
+            },
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
+            },
+            {
+                "pokestop_id": "eb09f8325d3b4095b70b9b37cd92fb6e.16",
+                "name": "Cabana do Parque da Cerca",
+                "latitude": 39.74824,
+                "longitude": -8.935596
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -290,6 +320,12 @@
                 "name": "Parque Dos Cani\u00e7os",
                 "latitude": 39.740299,
                 "longitude": -8.799535
+            },
+            {
+                "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
+                "name": "B Your Own Hero",
+                "latitude": 39.750139,
+                "longitude": -8.803923
             },
             {
                 "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
@@ -1328,30 +1364,6 @@
                 "name": "Torre Agua Leiria",
                 "latitude": 39.743319,
                 "longitude": -8.799232
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 7 Pok\u00e9mon",
-        "quest_reward": "Wimpod",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Wimpod",
-        "quest_reward_pokemon_id": 767,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
-                "name": "Mural Final Four - Leiria",
-                "latitude": 39.736271,
-                "longitude": -8.822064
-            },
-            {
-                "pokestop_id": "eb09f8325d3b4095b70b9b37cd92fb6e.16",
-                "name": "Cabana do Parque da Cerca",
-                "latitude": 39.74824,
-                "longitude": -8.935596
             }
         ]
     },
