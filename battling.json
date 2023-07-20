@@ -60,6 +60,24 @@
         ]
     },
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Marowak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marowak",
+        "quest_reward_pokemon_id": 105,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "262ba1506aef49f6a42a5bcac223111c.16",
+                "name": "Parque Infantil",
+                "latitude": 39.734135,
+                "longitude": -8.803202
+            }
+        ]
+    },
+    {
         "quest_description": "Win 3 raids",
         "quest_reward": "Klink",
         "quest_reward_type": "Pokemon",
@@ -116,6 +134,30 @@
                 "name": "CTT Leiria Plaza",
                 "latitude": 39.742146,
                 "longitude": -8.810426
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
+                "name": "Barcos da Costa",
+                "latitude": 39.73964,
+                "longitude": -8.805776
             }
         ]
     }
