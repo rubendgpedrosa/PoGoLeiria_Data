@@ -474,6 +474,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            },
+            {
+                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
+                "name": "Playcities Santo Agostinho",
+                "latitude": 39.741341,
+                "longitude": -8.801969
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Hippopotas",
         "quest_reward_type": "Pokemon",
@@ -620,24 +644,6 @@
                 "name": "Mural De Namorados",
                 "latitude": 39.743299,
                 "longitude": -8.803428
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
-                "name": "Playcities Santo Agostinho",
-                "latitude": 39.741341,
-                "longitude": -8.801969
             }
         ]
     },
