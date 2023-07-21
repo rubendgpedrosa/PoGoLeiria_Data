@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Win 3 raids",
+        "quest_reward": "Klink",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Klink",
+        "quest_reward_pokemon_id": 599,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2d7b37f4596348a3ae410d3b6e0f5be5.16",
+                "name": "Igreja da Miseric\u00f3rdia",
+                "latitude": 39.745213,
+                "longitude": -8.807912
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Exeggutor",
         "quest_reward_type": "Pokemon",
@@ -32,6 +50,18 @@
                 "name": "Plataforma de \u00e1gua",
                 "latitude": 39.748981,
                 "longitude": -8.934711
+            },
+            {
+                "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
+                "name": "CEMFIR - Culturismo",
+                "latitude": 39.752054,
+                "longitude": -8.92786
+            },
+            {
+                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
+                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
+                "latitude": 39.75142,
+                "longitude": -8.930414
             }
         ]
     },
