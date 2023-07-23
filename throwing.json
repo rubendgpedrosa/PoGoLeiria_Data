@@ -342,6 +342,30 @@
         ]
     },
     {
+        "quest_description": "Make 2 Excellent Throws",
+        "quest_reward": "Beldum",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Beldum",
+        "quest_reward_pokemon_id": 374,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "346692f7731647539c32a978b011270d.16",
+                "name": "Zona de Merendas",
+                "latitude": 39.747887,
+                "longitude": -8.810421
+            },
+            {
+                "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
+                "name": "F\u00e9nix Muralhartes",
+                "latitude": 39.747251,
+                "longitude": -8.808742
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "3 Pinap Berry",
         "quest_reward_type": "Item",
@@ -524,24 +548,6 @@
                 "name": "Arte Urbana",
                 "latitude": 39.750531,
                 "longitude": -8.805541
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 2 Excellent Throws",
-        "quest_reward": "Beldum",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Beldum",
-        "quest_reward_pokemon_id": 374,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
-                "name": "F\u00e9nix Muralhartes",
-                "latitude": 39.747251,
-                "longitude": -8.808742
             }
         ]
     },
@@ -776,6 +782,12 @@
                 "name": "Zona Desportiva",
                 "latitude": 39.747903,
                 "longitude": -8.936311
+            },
+            {
+                "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
+                "name": "Igreja",
+                "latitude": 39.741631,
+                "longitude": -8.802822
             }
         ]
     },
