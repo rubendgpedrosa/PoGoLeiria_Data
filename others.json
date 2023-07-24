@@ -220,6 +220,12 @@
                 "longitude": -8.797432
             },
             {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
+            },
+            {
                 "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
                 "name": "Ringue de futebol da Marinha Grande",
                 "latitude": 39.740808,
@@ -404,6 +410,12 @@
                 "name": "Junta De Freguesia Leiria",
                 "latitude": 39.743562,
                 "longitude": -8.804606
+            },
+            {
+                "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
+                "name": "Pal\u00e1cio dos Ata\u00eddes",
+                "latitude": 39.744296,
+                "longitude": -8.810014
             },
             {
                 "pokestop_id": "6ec49906cb8c4e0d9e2ca1709374c77c.16",
@@ -930,42 +942,6 @@
         ]
     },
     {
-        "quest_description": "Hatch an Egg",
-        "quest_reward": "Nincada",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Nincada",
-        "quest_reward_pokemon_id": 290,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
-                "name": "Audit\u00f3rio",
-                "latitude": 39.749766,
-                "longitude": -8.926395
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 3 times",
-        "quest_reward": "Charmander",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Charmander",
-        "quest_reward_pokemon_id": 4,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
-                "name": "Marco CTT - Rua de Alcoba\u00e7a",
-                "latitude": 39.741853,
-                "longitude": -8.810621
-            }
-        ]
-    },
-    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Lotad",
         "quest_reward_type": "Pokemon",
@@ -975,6 +951,12 @@
         "quest_reward_pokemon_id": 270,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
             {
                 "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
                 "name": "Plataforma de \u00e1gua",
@@ -1022,6 +1004,42 @@
                 "name": "Arquivo Distrital",
                 "latitude": 39.744298,
                 "longitude": -8.811006
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Nincada",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Nincada",
+        "quest_reward_pokemon_id": 290,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
+                "name": "Audit\u00f3rio",
+                "latitude": 39.749766,
+                "longitude": -8.926395
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Charmander",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Charmander",
+        "quest_reward_pokemon_id": 4,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
+                "name": "Marco CTT - Rua de Alcoba\u00e7a",
+                "latitude": 39.741853,
+                "longitude": -8.810621
             }
         ]
     },
@@ -1206,6 +1224,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Manectric Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Manectric",
+        "quest_reward_pokemon_id": 310,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
+                "name": "Jardim de Leiria",
+                "latitude": 39.744338,
+                "longitude": -8.806031
+            },
+            {
+                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
+                "name": "Mercado de Sant'ana",
+                "latitude": 39.74304,
+                "longitude": -8.807411
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1256,24 +1298,6 @@
                 "name": "Janelas do Jardim da Almuinha",
                 "latitude": 39.751734,
                 "longitude": -8.80984
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Manectric Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Manectric",
-        "quest_reward_pokemon_id": 310,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
-                "name": "Mercado de Sant'ana",
-                "latitude": 39.74304,
-                "longitude": -8.807411
             }
         ]
     }
