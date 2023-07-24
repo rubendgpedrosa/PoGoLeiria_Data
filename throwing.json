@@ -40,6 +40,12 @@
                 "longitude": -8.929224
             },
             {
+                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
+                "name": "Jogo Da Malha",
+                "latitude": 39.745722,
+                "longitude": -8.80351
+            },
+            {
                 "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
                 "name": "Parque Infantil",
                 "latitude": 39.731526,
@@ -900,6 +906,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "3 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
+            },
+            {
+                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
+                "name": "Zona Desportiva",
+                "latitude": 39.747903,
+                "longitude": -8.936311
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -956,24 +986,6 @@
                 "name": "Glove x 400mI",
                 "latitude": 39.74775,
                 "longitude": -8.807233
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws in a row",
-        "quest_reward": "3 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
-                "name": "Zona Desportiva",
-                "latitude": 39.747903,
-                "longitude": -8.936311
             }
         ]
     },
