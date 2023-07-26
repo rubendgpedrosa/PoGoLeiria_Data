@@ -22,6 +22,12 @@
                 "longitude": -8.935551
             },
             {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
+            },
+            {
                 "pokestop_id": "68078d1b4a164f9c850ee98c757acdfb.16",
                 "name": "Centro Comercial Lumar",
                 "latitude": 39.746744,
@@ -1003,6 +1009,42 @@
     },
     {
         "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "b1c086d41082469e87705d1cedb0fac3.16",
+                "name": "Fonte Freire",
+                "latitude": 39.743645,
+                "longitude": -8.810948
+            },
+            {
+                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
+                "name": "Museu BVMG",
+                "latitude": 39.748136,
+                "longitude": -8.933859
+            },
+            {
+                "pokestop_id": "fafc1dc9332130dd9955fd98eeae7954.16",
+                "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
+                "latitude": 39.749364,
+                "longitude": -8.930986
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 1,
@@ -1022,36 +1064,6 @@
                 "name": "Artes Manuais",
                 "latitude": 39.742853,
                 "longitude": -8.933931
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "b1c086d41082469e87705d1cedb0fac3.16",
-                "name": "Fonte Freire",
-                "latitude": 39.743645,
-                "longitude": -8.810948
-            },
-            {
-                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
-                "name": "Museu BVMG",
-                "latitude": 39.748136,
-                "longitude": -8.933859
-            },
-            {
-                "pokestop_id": "fafc1dc9332130dd9955fd98eeae7954.16",
-                "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
-                "latitude": 39.749364,
-                "longitude": -8.930986
             }
         ]
     },
