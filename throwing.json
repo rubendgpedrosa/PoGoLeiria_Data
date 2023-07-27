@@ -22,6 +22,12 @@
                 "longitude": -8.811698
             },
             {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
                 "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
                 "name": "Tribunal do Trabalho de Leiria",
                 "latitude": 39.739929,
@@ -86,6 +92,12 @@
                 "name": "Caixa Postal CTT - Cristal Atrium",
                 "latitude": 39.747021,
                 "longitude": -8.936766
+            },
+            {
+                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
+                "name": "D. Dinis",
+                "latitude": 39.745862,
+                "longitude": -8.809441
             }
         ]
     },
@@ -280,6 +292,12 @@
                 "longitude": -8.794807
             },
             {
+                "pokestop_id": "64028475605436c098d172cef7a27671.16",
+                "name": "Arquivo Municipal de Leiria",
+                "latitude": 39.731487,
+                "longitude": -8.794807
+            },
+            {
                 "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
                 "name": "Freixo de Folhas Estreitas",
                 "latitude": 39.750386,
@@ -416,6 +434,30 @@
                 "name": "Igreja da Miseric\u00f3rdia",
                 "latitude": 39.745213,
                 "longitude": -8.807912
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2eb6fcf025c9474d971550339c9512ae.11",
+                "name": "Correios Leiria (Post Office)",
+                "latitude": 39.743073,
+                "longitude": -8.808473
+            },
+            {
+                "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
+                "name": "Ponte Hintze Ribeiro",
+                "latitude": 39.742734,
+                "longitude": -8.803525
             }
         ]
     },
@@ -594,24 +636,6 @@
         ]
     },
     {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
-                "name": "Ponte Hintze Ribeiro",
-                "latitude": 39.742734,
-                "longitude": -8.803525
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "9 Razz Berry",
         "quest_reward_type": "Item",
@@ -626,6 +650,24 @@
                 "name": "Zona De Merendas",
                 "latitude": 39.7347,
                 "longitude": -8.796927
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "9 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 9,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
+                "name": "Patria No Ultramar",
+                "latitude": 39.74471,
+                "longitude": -8.805589
             }
         ]
     },
