@@ -46,6 +46,12 @@
                 "longitude": -8.935422
             },
             {
+                "pokestop_id": "7ce99cdeda41439eb6de9133392a5262.16",
+                "name": "Cabine de Leitura - Trokakioske",
+                "latitude": 39.744527,
+                "longitude": -8.807312
+            },
+            {
                 "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
                 "name": "Monumento aos Combatentes da Grande Guerra",
                 "latitude": 39.740806,
@@ -140,6 +146,12 @@
                 "name": "Terra\u00e7o do Ateneu",
                 "latitude": 39.739192,
                 "longitude": -8.818713
+            },
+            {
+                "pokestop_id": "0b47f45c695c45d18f4fd061a8ab3144.16",
+                "name": "Edif\u00edcio Z\u00faquete",
+                "latitude": 39.744416,
+                "longitude": -8.807663
             },
             {
                 "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
@@ -414,6 +426,42 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Cubone",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cubone",
+        "quest_reward_pokemon_id": 104,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
+            },
+            {
+                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
+                "name": "Marco CTT - Rua de Alcoba\u00e7a",
+                "latitude": 39.741853,
+                "longitude": -8.810621
+            },
+            {
+                "pokestop_id": "f1edf2dd4b33434186ddc331a2fb2ce3.11",
+                "name": "Camara Municipal de Leiria",
+                "latitude": 39.741093,
+                "longitude": -8.810354
+            },
+            {
+                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
+                "name": "Mercado de Sant'ana",
+                "latitude": 39.74304,
+                "longitude": -8.807411
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
         "quest_reward": "Spinarak",
         "quest_reward_type": "Pokemon",
@@ -666,36 +714,6 @@
         ]
     },
     {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Cubone",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Cubone",
-        "quest_reward_pokemon_id": 104,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
-                "name": "Marco CTT - Rua de Alcoba\u00e7a",
-                "latitude": 39.741853,
-                "longitude": -8.810621
-            },
-            {
-                "pokestop_id": "f1edf2dd4b33434186ddc331a2fb2ce3.11",
-                "name": "Camara Municipal de Leiria",
-                "latitude": 39.741093,
-                "longitude": -8.810354
-            },
-            {
-                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
-                "name": "Mercado de Sant'ana",
-                "latitude": 39.74304,
-                "longitude": -8.807411
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -728,6 +746,12 @@
                 "name": "Centro Comercial Lumar",
                 "latitude": 39.746744,
                 "longitude": -8.935747
+            },
+            {
+                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
+                "name": "O Pastor Peregrino",
+                "latitude": 39.744326,
+                "longitude": -8.807043
             }
         ]
     },
