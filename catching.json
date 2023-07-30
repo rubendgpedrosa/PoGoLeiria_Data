@@ -486,6 +486,36 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "1f8703ec0451364f90420f66f3220978.16",
+                "name": "Centro de Cultura e Desporto dos Trabalhadores da Seguran\u00e7a Social de Leiria",
+                "latitude": 39.74061,
+                "longitude": -8.814058
+            },
+            {
+                "pokestop_id": "8bbdad203c004919a02b8d596cd56170.16",
+                "name": "Jardim Am\u00e9lia Pinto Pais",
+                "latitude": 39.742343,
+                "longitude": -8.803473
+            },
+            {
+                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
+                "name": "Est\u00e1tua Vacas",
+                "latitude": 39.745118,
+                "longitude": -8.804209
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
         "quest_reward": "Spinarak",
         "quest_reward_type": "Pokemon",
@@ -770,30 +800,6 @@
                 "name": "Parque Infantil",
                 "latitude": 39.731526,
                 "longitude": -8.803604
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "8bbdad203c004919a02b8d596cd56170.16",
-                "name": "Jardim Am\u00e9lia Pinto Pais",
-                "latitude": 39.742343,
-                "longitude": -8.803473
-            },
-            {
-                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
-                "name": "Est\u00e1tua Vacas",
-                "latitude": 39.745118,
-                "longitude": -8.804209
             }
         ]
     },
