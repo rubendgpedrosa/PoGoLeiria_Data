@@ -42,6 +42,30 @@
         ]
     },
     {
+        "quest_description": "Earn 3 hearts with your Buddy",
+        "quest_reward": "Poochyena",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Poochyena",
+        "quest_reward_pokemon_id": 261,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
+                "name": "S. Francisco",
+                "latitude": 39.74836,
+                "longitude": -8.803617
+            },
+            {
+                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
+                "name": "Mural \"Na Dist\u00e2ncia\"",
+                "latitude": 39.736711,
+                "longitude": -8.793678
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Spritzee",
         "quest_reward_type": "Pokemon",
@@ -116,24 +140,6 @@
                 "name": "Ponte Ondulada",
                 "latitude": 39.746196,
                 "longitude": -8.80374
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 3 hearts with your Buddy",
-        "quest_reward": "Poochyena",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Poochyena",
-        "quest_reward_pokemon_id": 261,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
-                "name": "Mural \"Na Dist\u00e2ncia\"",
-                "latitude": 39.736711,
-                "longitude": -8.793678
             }
         ]
     },
