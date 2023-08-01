@@ -43,6 +43,30 @@
     },
     {
         "quest_description": "Earn 3 hearts with your Buddy",
+        "quest_reward": "Poochyena",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Poochyena",
+        "quest_reward_pokemon_id": 261,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
+                "name": "Pal\u00e1cio dos Ata\u00eddes",
+                "latitude": 39.744296,
+                "longitude": -8.810014
+            },
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 3 hearts with your Buddy",
         "quest_reward": "Buneary",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -74,24 +98,6 @@
                 "name": "Painel Moinho de Papel",
                 "latitude": 39.740201,
                 "longitude": -8.800153
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 3 hearts with your Buddy",
-        "quest_reward": "Poochyena",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Poochyena",
-        "quest_reward_pokemon_id": 261,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
-                "name": "Jungle Gym",
-                "latitude": 39.749395,
-                "longitude": -8.802482
             }
         ]
     },
