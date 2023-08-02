@@ -97,6 +97,36 @@
     },
     {
         "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "20d010499ea44bb8a7f38881b2d47338.16",
+                "name": "Mural Bailarina",
+                "latitude": 39.739897,
+                "longitude": -8.804231
+            },
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
+                "name": "Estravag\u00e1rio Graffiti",
+                "latitude": 39.752932,
+                "longitude": -8.933662
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
         "quest_reward_amount": 5,
@@ -174,24 +204,6 @@
         ]
     },
     {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "Diglett",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Diglett",
-        "quest_reward_pokemon_id": 50,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
-                "name": "Catalpa",
-                "latitude": 39.745748,
-                "longitude": -8.804397
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -201,6 +213,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 705,
         "pokestops": [
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            },
             {
                 "pokestop_id": "2d7b37f4596348a3ae410d3b6e0f5be5.16",
                 "name": "Igreja da Miseric\u00f3rdia",
@@ -218,6 +236,24 @@
                 "name": "Cal\u00e7ada Portuguesa",
                 "latitude": 39.744753,
                 "longitude": -8.804849
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Diglett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Diglett",
+        "quest_reward_pokemon_id": 50,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
             }
         ]
     },
@@ -276,6 +312,66 @@
         ]
     },
     {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
+                "name": "Igreja do cemit\u00e9rio da Marinha Grande",
+                "latitude": 39.745877,
+                "longitude": -8.932347
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
+                "name": "ASURPI",
+                "latitude": 39.75141,
+                "longitude": -8.933588
+            },
+            {
+                "pokestop_id": "a9aecff3187e48e6bc006f1a2fd4ee5a.16",
+                "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
+                "latitude": 39.739299,
+                "longitude": -8.801276
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws in a row",
+        "quest_reward": "10 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
+                "name": "Marco CTT - Rua de Alcoba\u00e7a",
+                "latitude": 39.741853,
+                "longitude": -8.810621
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "Onix",
         "quest_reward_type": "Pokemon",
@@ -302,6 +398,18 @@
                 "name": "Casa Da Cultura",
                 "latitude": 39.749033,
                 "longitude": -8.933087
+            },
+            {
+                "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
+                "name": "Igreja",
+                "latitude": 39.741631,
+                "longitude": -8.802822
+            },
+            {
+                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
+                "name": "\u00c1rea De Recreio",
+                "latitude": 39.745761,
+                "longitude": -8.934351
             }
         ]
     },
@@ -320,6 +428,12 @@
                 "name": "Arquivo Municipal de Leiria",
                 "latitude": 39.731487,
                 "longitude": -8.794807
+            },
+            {
+                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
+                "name": "Chamin\u00e9 Sthepens",
+                "latitude": 39.751303,
+                "longitude": -8.934332
             },
             {
                 "pokestop_id": "e011da7e4afa4206b4dec0dbbde05b13.16",
@@ -350,6 +464,12 @@
                 "name": "Ponte Verde da Encosta do Castelo",
                 "latitude": 39.748256,
                 "longitude": -8.809223
+            },
+            {
+                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
+                "name": "Xilofone M\u00e1rmore",
+                "latitude": 39.741581,
+                "longitude": -8.802014
             }
         ]
     },
@@ -368,6 +488,24 @@
                 "name": "LeiriaMini - Parque Infantil",
                 "latitude": 39.733184,
                 "longitude": -8.824761
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 10 Nice Throws",
+        "quest_reward": "Psyduck",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Psyduck",
+        "quest_reward_pokemon_id": 54,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a175686711784037833ee274d88813d8.16",
+                "name": "Galeria Manuel Artur Santos",
+                "latitude": 39.742898,
+                "longitude": -8.807245
             }
         ]
     },
@@ -397,6 +535,60 @@
     },
     {
         "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
+                "name": "O Nosso Claustro \u00c9 O Mundo",
+                "latitude": 39.742156,
+                "longitude": -8.811256
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "9 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 9,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "b9d4215916a5403d8010bfe7dd3896d3.16",
+                "name": "Teatro Miguel Franco",
+                "latitude": 39.742692,
+                "longitude": -8.80773
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
+                "name": "Edif\u00edcio Ferro de Engomar",
+                "latitude": 39.740629,
+                "longitude": -8.802995
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
         "quest_reward_amount": 200,
@@ -410,6 +602,24 @@
                 "name": "Posto de Correios CTT",
                 "latitude": 39.748012,
                 "longitude": -8.927626
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Curveball Throws in a row",
+        "quest_reward": "Spinda",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spinda",
+        "quest_reward_pokemon_id": 327,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
+                "name": "Ponte Pique-nique",
+                "latitude": 39.739692,
+                "longitude": -8.798933
             }
         ]
     }
