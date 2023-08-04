@@ -58,6 +58,12 @@
                 "longitude": -8.814058
             },
             {
+                "pokestop_id": "486d78e58bea4436b785c5a44da1e0db.16",
+                "name": "Associa\u00e7\u00e3o Social, Cultural e Desportiva de Casal Galego.",
+                "latitude": 39.74153,
+                "longitude": -8.931072
+            },
+            {
                 "pokestop_id": "490174996655472e998bccb559694a1b.16",
                 "name": "Bordalo II",
                 "latitude": 39.742515,
@@ -218,6 +224,12 @@
                 "name": "Igreja Universal Do Reino De Deus",
                 "latitude": 39.747902,
                 "longitude": -8.805366
+            },
+            {
+                "pokestop_id": "364a7a745fb547b5914ce2b76a8e8ddc.16",
+                "name": "Parque De Merendas - Campus 2",
+                "latitude": 39.735284,
+                "longitude": -8.821824
             },
             {
                 "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
@@ -600,6 +612,30 @@
         ]
     },
     {
+        "quest_description": "Take snapshots of 3 different wild Ground-, Rock-, or Fairy-type Pok\u00e9mon",
+        "quest_reward": "Clefairy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Clefairy",
+        "quest_reward_pokemon_id": 35,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "35a7b988a82d34d88f937b142e51c01c.16",
+                "name": "Assembleia de Deus.",
+                "latitude": 39.753204,
+                "longitude": -8.806617
+            },
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Popplio",
         "quest_reward_type": "Pokemon",
@@ -676,10 +712,28 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "46466edffad93e0d99f46c379661c144.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.739412,
+                "longitude": -8.81129
+            },
+            {
                 "pokestop_id": "4dbc1059dc043532829dda66e5d5ab5b.16",
                 "name": "Caixa Postal CTT",
                 "latitude": 39.742178,
                 "longitude": -8.798332
+            },
+            {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
+            },
+            {
+                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
+                "name": "As Cisternas do Castelo",
+                "latitude": 39.747505,
+                "longitude": -8.809466
             }
         ]
     },
@@ -800,6 +854,36 @@
                 "name": "Playcity 006",
                 "latitude": 39.746676,
                 "longitude": -8.802645
+            }
+        ]
+    },
+    {
+        "quest_description": "Evolve a Pok\u00e9mon",
+        "quest_reward": "Eevee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Eevee",
+        "quest_reward_pokemon_id": 133,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6641122bc0ea406f917adfe1cfbd22e6.11",
+                "name": "Mercado Municipal",
+                "latitude": 39.749213,
+                "longitude": -8.8064
+            },
+            {
+                "pokestop_id": "7f9a5234b0c5345c9940d8c491e044ee.16",
+                "name": "Choupo",
+                "latitude": 39.750912,
+                "longitude": -8.807484
+            },
+            {
+                "pokestop_id": "ab805be772cb4ad7918ff8ffd6287881.16",
+                "name": "EPAMG",
+                "latitude": 39.749907,
+                "longitude": -8.933733
             }
         ]
     },
@@ -960,24 +1044,6 @@
         ]
     },
     {
-        "quest_description": "Evolve a Pok\u00e9mon",
-        "quest_reward": "Eevee",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Eevee",
-        "quest_reward_pokemon_id": 133,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ab805be772cb4ad7918ff8ffd6287881.16",
-                "name": "EPAMG",
-                "latitude": 39.749907,
-                "longitude": -8.933733
-            }
-        ]
-    },
-    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Pidgeot Mega Energy",
         "quest_reward_type": "Energy",
@@ -1028,24 +1094,6 @@
                 "name": "Parque Infantil",
                 "latitude": 39.731526,
                 "longitude": -8.803604
-            }
-        ]
-    },
-    {
-        "quest_description": "Take snapshots of 3 different wild Ground-, Rock-, or Fairy-type Pok\u00e9mon",
-        "quest_reward": "Clefairy",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Clefairy",
-        "quest_reward_pokemon_id": 35,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731552,
-                "longitude": -8.809623
             }
         ]
     },
