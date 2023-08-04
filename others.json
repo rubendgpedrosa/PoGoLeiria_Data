@@ -294,6 +294,36 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 10 times",
+        "quest_reward": "25 Houndoom Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Houndoom",
+        "quest_reward_pokemon_id": 229,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0bc494effd014e5dbc2284958658b195.11",
+                "name": "Praca Rodrigues Lobo",
+                "latitude": 39.744413,
+                "longitude": -8.808075
+            },
+            {
+                "pokestop_id": "2c3e851cc9694b21b30f43ccd0eb8b62.16",
+                "name": "Campo De Treino",
+                "latitude": 39.73825,
+                "longitude": -8.929618
+            },
+            {
+                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
+                "name": "O pensativo.",
+                "latitude": 39.747078,
+                "longitude": -8.8151
+            }
+        ]
+    },
+    {
         "quest_description": "Evolve a Pok\u00e9mon",
         "quest_reward": "Eevee",
         "quest_reward_type": "Pokemon",
@@ -536,30 +566,6 @@
                 "name": "Liz ao Quadro - Art Galery",
                 "latitude": 39.748424,
                 "longitude": -8.802439
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 10 times",
-        "quest_reward": "25 Houndoom Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 25,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Houndoom",
-        "quest_reward_pokemon_id": 229,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2c3e851cc9694b21b30f43ccd0eb8b62.16",
-                "name": "Campo De Treino",
-                "latitude": 39.73825,
-                "longitude": -8.929618
-            },
-            {
-                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
-                "name": "O pensativo.",
-                "latitude": 39.747078,
-                "longitude": -8.8151
             }
         ]
     },
@@ -1016,6 +1022,24 @@
                 "name": "LM Fitness",
                 "latitude": 39.747089,
                 "longitude": -8.935386
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Scyther",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scyther",
+        "quest_reward_pokemon_id": 123,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "e45e96f79eee4dd5b32db03fd04c4191.16",
+                "name": "Centro Comercial D.Dinis",
+                "latitude": 39.742971,
+                "longitude": -8.809768
             }
         ]
     },
