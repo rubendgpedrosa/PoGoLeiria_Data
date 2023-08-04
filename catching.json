@@ -121,6 +121,30 @@
     },
     {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Wingull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wingull",
+        "quest_reward_pokemon_id": 278,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "09574b8a80a94a0d9c6f868d9f1ef02e.16",
+                "name": "Sede UDL",
+                "latitude": 39.748744,
+                "longitude": -8.811496
+            },
+            {
+                "pokestop_id": "3bbc897a1d6a4a6194f3326b30204c44.16",
+                "name": "O Gladiador",
+                "latitude": 39.746592,
+                "longitude": -8.803601
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Roggenrola",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -158,6 +182,48 @@
                 "name": "Escola de Dan\u00e7a Clara Le\u00e3o",
                 "latitude": 39.747173,
                 "longitude": -8.812967
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Baltoy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Baltoy",
+        "quest_reward_pokemon_id": 343,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
+            {
+                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
+                "name": "Gin\u00e1sio ao Ar Livre",
+                "latitude": 39.750817,
+                "longitude": -8.929649
+            },
+            {
+                "pokestop_id": "89dbb0af65bb450bb804eee0d872e639.16",
+                "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
+                "latitude": 39.740265,
+                "longitude": -8.929824
+            },
+            {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
+            },
+            {
+                "pokestop_id": "cabb27e3442b493dac7065440e39f238.16",
+                "name": "Casa Oliveira Dias",
+                "latitude": 39.74247,
+                "longitude": -8.80407
             }
         ]
     },
@@ -418,6 +484,12 @@
                 "longitude": -8.808742
             },
             {
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
+            },
+            {
                 "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
                 "name": "Mercado de Sant'ana",
                 "latitude": 39.74304,
@@ -583,24 +655,6 @@
     },
     {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "Wingull",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Wingull",
-        "quest_reward_pokemon_id": 278,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "3bbc897a1d6a4a6194f3326b30204c44.16",
-                "name": "O Gladiador",
-                "latitude": 39.746592,
-                "longitude": -8.803601
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Vanillite",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -740,42 +794,6 @@
                 "name": "IPL - Unidade de investiga\u00e7\u00e3o",
                 "latitude": 39.74349,
                 "longitude": -8.791929
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Baltoy",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Baltoy",
-        "quest_reward_pokemon_id": 343,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
-                "name": "Gin\u00e1sio ao Ar Livre",
-                "latitude": 39.750817,
-                "longitude": -8.929649
-            },
-            {
-                "pokestop_id": "89dbb0af65bb450bb804eee0d872e639.16",
-                "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
-                "latitude": 39.740265,
-                "longitude": -8.929824
-            },
-            {
-                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
-                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
-                "latitude": 39.745123,
-                "longitude": -8.797432
-            },
-            {
-                "pokestop_id": "cabb27e3442b493dac7065440e39f238.16",
-                "name": "Casa Oliveira Dias",
-                "latitude": 39.74247,
-                "longitude": -8.80407
             }
         ]
     },
@@ -1292,6 +1310,24 @@
                 "name": "Galeria Manuel Artur Santos",
                 "latitude": 39.742898,
                 "longitude": -8.807245
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
             }
         ]
     },
