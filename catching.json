@@ -96,6 +96,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Wingull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wingull",
+        "quest_reward_pokemon_id": 278,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0a24790da0af39809c89230721e5ace9.16",
+                "name": "Terra\u00e7o do Ateneu",
+                "latitude": 39.739192,
+                "longitude": -8.818713
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -182,6 +200,12 @@
                 "name": "Fonte Do Halton",
                 "latitude": 39.747031,
                 "longitude": -8.816442
+            },
+            {
+                "pokestop_id": "92d679c065cf4936a127b1133d3e57b6.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.754255,
+                "longitude": -8.808874
             },
             {
                 "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
@@ -746,6 +770,24 @@
                 "name": "Liz ao Quadro - Art Galery",
                 "latitude": 39.748424,
                 "longitude": -8.802439
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "10 Pidgeot Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Pidgeot",
+        "quest_reward_pokemon_id": 18,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "59a6eb172b334499b7489e32c8ac436c.16",
+                "name": "Convento de Santo Ant\u00f3nio dos Capuchos",
+                "latitude": 39.743939,
+                "longitude": -8.813784
             }
         ]
     },
