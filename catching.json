@@ -342,6 +342,24 @@
         ]
     },
     {
+        "quest_description": "Catch a Ditto",
+        "quest_reward": "10 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "1f8703ec0451364f90420f66f3220978.16",
+                "name": "Centro de Cultura e Desporto dos Trabalhadores da Seguran\u00e7a Social de Leiria",
+                "latitude": 39.74061,
+                "longitude": -8.814058
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -708,6 +726,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 Pok\u00e9mon",
         "quest_reward": "Wimpod",
         "quest_reward_type": "Pokemon",
@@ -902,24 +944,6 @@
                 "name": "Biblioteca Municipal",
                 "latitude": 39.749895,
                 "longitude": -8.934498
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
-                "name": "Castelo de Leiria",
-                "latitude": 39.747664,
-                "longitude": -8.808828
             }
         ]
     },
