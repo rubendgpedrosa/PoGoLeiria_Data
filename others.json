@@ -30,6 +30,48 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Venusaur Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Venusaur",
+        "quest_reward_pokemon_id": 3,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "091456d950da38849bd7ae900f166679.16",
+                "name": "Sonhos de Papel",
+                "latitude": 39.743096,
+                "longitude": -8.935367
+            },
+            {
+                "pokestop_id": "397894b8406948d39293b559e2a32455.16",
+                "name": "Instituto Portugu\u00eas da Juventude",
+                "latitude": 39.747497,
+                "longitude": -8.81418
+            },
+            {
+                "pokestop_id": "ab805be772cb4ad7918ff8ffd6287881.16",
+                "name": "EPAMG",
+                "latitude": 39.749907,
+                "longitude": -8.933733
+            },
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            },
+            {
+                "pokestop_id": "bec2eb07d3e344378617c29ab4eff35a.16",
+                "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
+                "latitude": 39.74317,
+                "longitude": -8.804189
+            }
+        ]
+    },
+    {
         "quest_description": "Walk 1 km",
         "quest_reward": "Snubbull",
         "quest_reward_type": "Pokemon",
@@ -56,6 +98,12 @@
                 "name": "Pr\u00e9dio Marqu\u00eas da Cruz",
                 "latitude": 39.748039,
                 "longitude": -8.805136
+            },
+            {
+                "pokestop_id": "4dbc1059dc043532829dda66e5d5ab5b.16",
+                "name": "Caixa Postal CTT",
+                "latitude": 39.742178,
+                "longitude": -8.798332
             },
             {
                 "pokestop_id": "5eaed2f460e2442b9efc9f0480e83587.16",
@@ -200,6 +248,12 @@
                 "name": "Jardim da Marinha Grande",
                 "latitude": 39.750988,
                 "longitude": -8.929103
+            },
+            {
+                "pokestop_id": "be27a58579f64cae8b898b838163757b.16",
+                "name": "VDesign",
+                "latitude": 39.745756,
+                "longitude": -8.807801
             }
         ]
     },
@@ -242,6 +296,54 @@
                 "name": "Black Cat",
                 "latitude": 39.745372,
                 "longitude": -8.807148
+            }
+        ]
+    },
+    {
+        "quest_description": "Walk 4 km",
+        "quest_reward": "Snorlax",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snorlax",
+        "quest_reward_pokemon_id": 143,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f0a9819d0db41ae902717902a8452a2.16",
+                "name": "Centro De Interpreta\u00e7\u00e3o Ambiental De Leiria",
+                "latitude": 39.740739,
+                "longitude": -8.80134
+            },
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            },
+            {
+                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
+                "name": "laurus nobilis",
+                "latitude": 39.736728,
+                "longitude": -8.795776
+            },
+            {
+                "pokestop_id": "5b7c1cda9e0d4c8f876d96cb4b090630.16",
+                "name": "Arte Urbana",
+                "latitude": 39.750531,
+                "longitude": -8.805541
+            },
+            {
+                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
+                "name": "Casa Da Cultura",
+                "latitude": 39.749033,
+                "longitude": -8.933087
+            },
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
             }
         ]
     },
@@ -336,42 +438,6 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Venusaur Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Venusaur",
-        "quest_reward_pokemon_id": 3,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "397894b8406948d39293b559e2a32455.16",
-                "name": "Instituto Portugu\u00eas da Juventude",
-                "latitude": 39.747497,
-                "longitude": -8.81418
-            },
-            {
-                "pokestop_id": "ab805be772cb4ad7918ff8ffd6287881.16",
-                "name": "EPAMG",
-                "latitude": 39.749907,
-                "longitude": -8.933733
-            },
-            {
-                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
-                "name": "Jungle Gym",
-                "latitude": 39.749395,
-                "longitude": -8.802482
-            },
-            {
-                "pokestop_id": "bec2eb07d3e344378617c29ab4eff35a.16",
-                "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
-                "latitude": 39.74317,
-                "longitude": -8.804189
-            }
-        ]
-    },
-    {
         "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Rowlet",
         "quest_reward_type": "Pokemon",
@@ -386,36 +452,6 @@
                 "name": "Marco CTT - Rua de Alcoba\u00e7a",
                 "latitude": 39.741853,
                 "longitude": -8.810621
-            }
-        ]
-    },
-    {
-        "quest_description": "Walk 4 km",
-        "quest_reward": "Snorlax",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snorlax",
-        "quest_reward_pokemon_id": 143,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
-                "name": "laurus nobilis",
-                "latitude": 39.736728,
-                "longitude": -8.795776
-            },
-            {
-                "pokestop_id": "5b7c1cda9e0d4c8f876d96cb4b090630.16",
-                "name": "Arte Urbana",
-                "latitude": 39.750531,
-                "longitude": -8.805541
-            },
-            {
-                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
-                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
-                "latitude": 39.744597,
-                "longitude": -8.935054
             }
         ]
     },
@@ -458,6 +494,36 @@
                 "name": "Mercado Municipal",
                 "latitude": 39.749213,
                 "longitude": -8.8064
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
+                "name": "Ringue De Futebol",
+                "latitude": 39.745324,
+                "longitude": -8.933841
+            },
+            {
+                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
+                "name": "Ponte pedonal norte do Parque das Bernardas",
+                "latitude": 39.738465,
+                "longitude": -8.929156
+            },
+            {
+                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
+                "name": "Jogo Da Malha",
+                "latitude": 39.745722,
+                "longitude": -8.80351
             }
         ]
     },
@@ -656,6 +722,30 @@
                 "name": "Mural Rei das Runas",
                 "latitude": 39.747825,
                 "longitude": -8.930829
+            },
+            {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Snivy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snivy",
+        "quest_reward_pokemon_id": 495,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
             }
         ]
     },
@@ -674,6 +764,12 @@
                 "name": "Jardim de Leiria",
                 "latitude": 39.744338,
                 "longitude": -8.806031
+            },
+            {
+                "pokestop_id": "fafc1dc9332130dd9955fd98eeae7954.16",
+                "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
+                "latitude": 39.749364,
+                "longitude": -8.930986
             }
         ]
     },
