@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "083e0b72da963baab293d8a954696f7d.16",
+                "name": "Futuro",
+                "latitude": 39.752573,
+                "longitude": -8.81389
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -26,6 +44,12 @@
                 "name": "Anfiteatro",
                 "latitude": 39.751453,
                 "longitude": -8.809059
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             },
             {
                 "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
