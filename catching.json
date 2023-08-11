@@ -210,42 +210,6 @@
         ]
     },
     {
-        "quest_description": "Catch 7 different species of Pok\u00e9mon",
-        "quest_reward": "Exeggcute",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Exeggcute",
-        "quest_reward_pokemon_id": 102,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
-                "name": "Black Cat",
-                "latitude": 39.745372,
-                "longitude": -8.807148
-            },
-            {
-                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
-                "name": "Gin\u00e1sio Luis Lopes",
-                "latitude": 39.743959,
-                "longitude": -8.798023
-            },
-            {
-                "pokestop_id": "9c3dbe6fc8ce440bad72fd7a64b4e153.11",
-                "name": "Afonso Lopes Vieira",
-                "latitude": 39.743902,
-                "longitude": -8.808525
-            },
-            {
-                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
-                "name": "Edif\u00edcio Ferro de Engomar",
-                "latitude": 39.740629,
-                "longitude": -8.802995
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 7 Pok\u00e9mon",
         "quest_reward": "Pikachu",
         "quest_reward_type": "Pokemon",
@@ -255,6 +219,12 @@
         "quest_reward_pokemon_id": 25,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
+                "name": "Arco 42",
+                "latitude": 39.744873,
+                "longitude": -8.807102
+            },
             {
                 "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
                 "name": "Fonte De \u00c1gua Quente",
@@ -380,6 +350,48 @@
                 "name": "Ringue de futebol da Marinha Grande",
                 "latitude": 39.740808,
                 "longitude": -8.929041
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 7 different species of Pok\u00e9mon",
+        "quest_reward": "Exeggcute",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggcute",
+        "quest_reward_pokemon_id": 102,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
+                "name": "Black Cat",
+                "latitude": 39.745372,
+                "longitude": -8.807148
+            },
+            {
+                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
+                "name": "Black Cat",
+                "latitude": 39.745372,
+                "longitude": -8.807148
+            },
+            {
+                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
+                "name": "Gin\u00e1sio Luis Lopes",
+                "latitude": 39.743959,
+                "longitude": -8.798023
+            },
+            {
+                "pokestop_id": "9c3dbe6fc8ce440bad72fd7a64b4e153.11",
+                "name": "Afonso Lopes Vieira",
+                "latitude": 39.743902,
+                "longitude": -8.808525
+            },
+            {
+                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
+                "name": "Edif\u00edcio Ferro de Engomar",
+                "latitude": 39.740629,
+                "longitude": -8.802995
             }
         ]
     },
