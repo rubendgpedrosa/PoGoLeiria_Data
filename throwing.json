@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "01a435e293263fa2b2bc1b4c7fb620ef.16",
+                "name": "Mosaico  catedral verde",
+                "latitude": 39.75082,
+                "longitude": -8.93155
+            },
+            {
+                "pokestop_id": "17b2cd0ad9d434b8a10e960f0b4171ba.16",
+                "name": "Parque desportivo de S.Rom\u00e3o",
+                "latitude": 39.735758,
+                "longitude": -8.795726
+            },
+            {
+                "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
+                "name": "Plataforma de \u00e1gua",
+                "latitude": 39.748981,
+                "longitude": -8.934711
+            },
+            {
+                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
+                "name": "Parque de merendas 2",
+                "latitude": 39.733159,
+                "longitude": -8.82037
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -86,6 +122,12 @@
                 "name": "Parque Infantil Jardim do Liz",
                 "latitude": 39.750826,
                 "longitude": -8.806392
+            },
+            {
+                "pokestop_id": "b9d4215916a5403d8010bfe7dd3896d3.16",
+                "name": "Teatro Miguel Franco",
+                "latitude": 39.742692,
+                "longitude": -8.80773
             }
         ]
     },
@@ -122,6 +164,12 @@
                 "name": "Painel de Informa\u00e7\u00f5es - Avenida dos Combatentes",
                 "latitude": 39.74274,
                 "longitude": -8.809864
+            },
+            {
+                "pokestop_id": "2eef5abe51ad487f95a1ebd034c9bdef.16",
+                "name": "Choupo Negro",
+                "latitude": 39.750236,
+                "longitude": -8.804137
             }
         ]
     },
@@ -258,26 +306,38 @@
         ]
     },
     {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Baltoy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Baltoy",
+        "quest_reward_pokemon_id": 343,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
-                "name": "Plataforma de \u00e1gua",
-                "latitude": 39.748981,
-                "longitude": -8.934711
+                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
+                "name": "Parque de S\u00e3o Rom\u00e3o",
+                "latitude": 39.733442,
+                "longitude": -8.797748
             },
             {
-                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
-                "name": "Parque de merendas 2",
-                "latitude": 39.733159,
-                "longitude": -8.82037
+                "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
+                "name": "Monumento Afonso Lopes Vieira",
+                "latitude": 39.740187,
+                "longitude": -8.812398
+            },
+            {
+                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
+                "name": "EL REI D. AFONSO I",
+                "latitude": 39.748442,
+                "longitude": -8.810054
+            },
+            {
+                "pokestop_id": "e92b33c341c3485d9b402af105b2484d.16",
+                "name": "Anno Christi MDCXLVI",
+                "latitude": 39.742708,
+                "longitude": -8.810826
             }
         ]
     },
@@ -314,30 +374,6 @@
                 "name": "Leiria Shopping",
                 "latitude": 39.732373,
                 "longitude": -8.824896
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Great Throws",
-        "quest_reward": "Baltoy",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Baltoy",
-        "quest_reward_pokemon_id": 343,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
-                "name": "EL REI D. AFONSO I",
-                "latitude": 39.748442,
-                "longitude": -8.810054
-            },
-            {
-                "pokestop_id": "e92b33c341c3485d9b402af105b2484d.16",
-                "name": "Anno Christi MDCXLVI",
-                "latitude": 39.742708,
-                "longitude": -8.810826
             }
         ]
     },
@@ -572,6 +608,24 @@
                 "name": "Homenagem a Dr. An\u00edbal Couceiro",
                 "latitude": 39.750433,
                 "longitude": -8.932692
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "db4297efc87f426fb048a83fbd6ddfc6.16",
+                "name": "Capela Sao Francisco",
+                "latitude": 39.748187,
+                "longitude": -8.803393
             }
         ]
     },
