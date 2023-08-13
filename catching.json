@@ -138,66 +138,6 @@
         ]
     },
     {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "0f4d2ba2234b41a78dcfa1eabbecc1be.16",
-                "name": "Acad\u00e9mico de Leiria",
-                "latitude": 39.74249,
-                "longitude": -8.809242
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "176cb9f808b441daae85466c3d053623.11",
-                "name": "Fonte Luminosa",
-                "latitude": 39.743649,
-                "longitude": -8.806831
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "19a9281ab7a83984b81186b81ecf6942.16",
-                "name": "Medronheiro",
-                "latitude": 39.748255,
-                "longitude": -8.801251
-            },
-            {
-                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
-                "name": "Mercado de Sant'ana",
-                "latitude": 39.74304,
-                "longitude": -8.807411
-            }
-        ]
-    },
-    {
         "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
         "quest_reward": "Spinarak",
         "quest_reward_type": "Pokemon",
@@ -207,6 +147,12 @@
         "quest_reward_pokemon_id": 167,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
             {
                 "pokestop_id": "2220c88e700f4716a79a5a0fcd4b9e48.16",
                 "name": "Piscina Municipal Da Marinha Grande",
@@ -266,6 +212,66 @@
                 "name": "Cabana do Parque da Cerca",
                 "latitude": 39.74824,
                 "longitude": -8.935596
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0f4d2ba2234b41a78dcfa1eabbecc1be.16",
+                "name": "Acad\u00e9mico de Leiria",
+                "latitude": 39.74249,
+                "longitude": -8.809242
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "176cb9f808b441daae85466c3d053623.11",
+                "name": "Fonte Luminosa",
+                "latitude": 39.743649,
+                "longitude": -8.806831
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "19a9281ab7a83984b81186b81ecf6942.16",
+                "name": "Medronheiro",
+                "latitude": 39.748255,
+                "longitude": -8.801251
+            },
+            {
+                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
+                "name": "Mercado de Sant'ana",
+                "latitude": 39.74304,
+                "longitude": -8.807411
             }
         ]
     },
