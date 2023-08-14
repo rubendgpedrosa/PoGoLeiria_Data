@@ -296,6 +296,12 @@
                 "name": "Mercado de Sant'ana",
                 "latitude": 39.74304,
                 "longitude": -8.807411
+            },
+            {
+                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
+                "name": "\u00c1rea De Recreio",
+                "latitude": 39.745761,
+                "longitude": -8.934351
             }
         ]
     },
@@ -612,6 +618,30 @@
         ]
     },
     {
+        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
+        "quest_reward": "10 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
+            },
+            {
+                "pokestop_id": "946db6c31be84d5f852138b80b630b0b.11",
+                "name": "Pedras de Armas",
+                "latitude": 39.741978,
+                "longitude": -8.810843
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -722,24 +752,6 @@
                 "name": "Campo Desportivo Da Seixa",
                 "latitude": 39.7328,
                 "longitude": -8.800894
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
-        "quest_reward": "10 Ultra Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Ultra Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
-        "pokestops": [
-            {
-                "pokestop_id": "946db6c31be84d5f852138b80b630b0b.11",
-                "name": "Pedras de Armas",
-                "latitude": 39.741978,
-                "longitude": -8.810843
             }
         ]
     },
@@ -908,6 +920,24 @@
                 "name": "Capela Sao Francisco",
                 "latitude": 39.748187,
                 "longitude": -8.803393
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "10 Pidgeot Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Pidgeot",
+        "quest_reward_pokemon_id": 18,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
             }
         ]
     },
