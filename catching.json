@@ -811,6 +811,30 @@
     },
     {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Roggenrola",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Roggenrola",
+        "quest_reward_pokemon_id": 524,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8ed0ec246a4e4238a11b7eef7444c5d4.16",
+                "name": "Ponte pedonal sobre a ribeira das bernardas",
+                "latitude": 39.744965,
+                "longitude": -8.933162
+            },
+            {
+                "pokestop_id": "bec2eb07d3e344378617c29ab4eff35a.16",
+                "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
+                "latitude": 39.74317,
+                "longitude": -8.804189
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 1,
@@ -878,24 +902,6 @@
                 "name": "Campo De T\u00e9nis",
                 "latitude": 39.740902,
                 "longitude": -8.933727
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "Roggenrola",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Roggenrola",
-        "quest_reward_pokemon_id": 524,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bec2eb07d3e344378617c29ab4eff35a.16",
-                "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
-                "latitude": 39.74317,
-                "longitude": -8.804189
             }
         ]
     },
