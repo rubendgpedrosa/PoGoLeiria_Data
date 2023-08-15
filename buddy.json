@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Jigglypuff",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Jigglypuff",
+        "quest_reward_pokemon_id": 39,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "129668a582fd47fd8cc44e2489befedb.16",
+                "name": "Parede De Escalada Do Parque Da Cerca",
+                "latitude": 39.750316,
+                "longitude": -8.935659
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 3 hearts with your Buddy",
         "quest_reward": "Buneary",
         "quest_reward_type": "Pokemon",
@@ -86,6 +104,12 @@
                 "name": "EL REI D. AFONSO I",
                 "latitude": 39.748442,
                 "longitude": -8.810054
+            },
+            {
+                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
+                "name": "Marinha Grande",
+                "latitude": 39.747761,
+                "longitude": -8.936047
             }
         ]
     },
