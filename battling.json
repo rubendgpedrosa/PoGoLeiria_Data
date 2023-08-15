@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Meditite",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Meditite",
+        "quest_reward_pokemon_id": 307,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "083e0b72da963baab293d8a954696f7d.16",
+                "name": "Futuro",
+                "latitude": 39.752573,
+                "longitude": -8.81389
+            },
+            {
+                "pokestop_id": "3bbc897a1d6a4a6194f3326b30204c44.16",
+                "name": "O Gladiador",
+                "latitude": 39.746592,
+                "longitude": -8.803601
+            },
+            {
+                "pokestop_id": "b90bc99759c643c1b07a37a91179a8fd.16",
+                "name": "Mural Rei das Runas",
+                "latitude": 39.747825,
+                "longitude": -8.930829
+            }
+        ]
+    },
+    {
         "quest_description": "Win 3 raids",
         "quest_reward": "Klink",
         "quest_reward_type": "Pokemon",
@@ -14,30 +44,6 @@
                 "name": "Igreja De Jesus Cristo Dos Santos Dos \u00daltimos Dias",
                 "latitude": 39.740096,
                 "longitude": -8.804572
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Meditite",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Meditite",
-        "quest_reward_pokemon_id": 307,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "3bbc897a1d6a4a6194f3326b30204c44.16",
-                "name": "O Gladiador",
-                "latitude": 39.746592,
-                "longitude": -8.803601
-            },
-            {
-                "pokestop_id": "b90bc99759c643c1b07a37a91179a8fd.16",
-                "name": "Mural Rei das Runas",
-                "latitude": 39.747825,
-                "longitude": -8.930829
             }
         ]
     },
@@ -134,6 +140,24 @@
                 "name": "Casa Oliveira Dias",
                 "latitude": 39.74247,
                 "longitude": -8.80407
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Tirtouga",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tirtouga",
+        "quest_reward_pokemon_id": 564,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
+                "name": "Marinha Grande",
+                "latitude": 39.747761,
+                "longitude": -8.936047
             }
         ]
     },
