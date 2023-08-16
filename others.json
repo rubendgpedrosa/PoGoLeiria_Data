@@ -98,6 +98,12 @@
                 "name": "Americo Cortez Pinto",
                 "latitude": 39.746966,
                 "longitude": -8.803221
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
             }
         ]
     },
@@ -666,6 +672,48 @@
         ]
     },
     {
+        "quest_description": "Purify 3 Pokemon",
+        "quest_reward": "Haunter",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Haunter",
+        "quest_reward_pokemon_id": 93,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
+                "name": "Marco CTT - Rua de Alcoba\u00e7a",
+                "latitude": 39.741853,
+                "longitude": -8.810621
+            },
+            {
+                "pokestop_id": "5b7c1cda9e0d4c8f876d96cb4b090630.16",
+                "name": "Arte Urbana",
+                "latitude": 39.750531,
+                "longitude": -8.805541
+            },
+            {
+                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
+                "name": "Kid's Web",
+                "latitude": 39.732741,
+                "longitude": -8.79703
+            },
+            {
+                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
+                "name": "As Cisternas do Castelo",
+                "latitude": 39.747505,
+                "longitude": -8.809466
+            },
+            {
+                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
+                "name": "LM Fitness",
+                "latitude": 39.747089,
+                "longitude": -8.935386
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 10 times",
         "quest_reward": "25 Ampharos Mega Energy",
         "quest_reward_type": "Energy",
@@ -764,42 +812,6 @@
                 "name": "Fonte Do Halton",
                 "latitude": 39.747031,
                 "longitude": -8.816442
-            }
-        ]
-    },
-    {
-        "quest_description": "Purify 3 Pokemon",
-        "quest_reward": "Haunter",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Haunter",
-        "quest_reward_pokemon_id": 93,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5b7c1cda9e0d4c8f876d96cb4b090630.16",
-                "name": "Arte Urbana",
-                "latitude": 39.750531,
-                "longitude": -8.805541
-            },
-            {
-                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
-                "name": "Kid's Web",
-                "latitude": 39.732741,
-                "longitude": -8.79703
-            },
-            {
-                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
-                "name": "As Cisternas do Castelo",
-                "latitude": 39.747505,
-                "longitude": -8.809466
-            },
-            {
-                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
-                "name": "LM Fitness",
-                "latitude": 39.747089,
-                "longitude": -8.935386
             }
         ]
     },
