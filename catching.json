@@ -68,6 +68,12 @@
                 "name": "Jardins do Lis Galerias",
                 "latitude": 39.750761,
                 "longitude": -8.805877
+            },
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
             }
         ]
     },
@@ -368,6 +374,12 @@
                 "name": "Azinheira",
                 "latitude": 39.747237,
                 "longitude": -8.80158
+            },
+            {
+                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
+                "name": "Monumento aos Combatentes da Grande Guerra",
+                "latitude": 39.740806,
+                "longitude": -8.802768
             },
             {
                 "pokestop_id": "f99206298061310da2599051b487f4ef.16",
@@ -1026,6 +1038,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
+                "name": "CAL",
+                "latitude": 39.741024,
+                "longitude": -8.806283
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -1118,6 +1148,24 @@
                 "name": "Jungle Gym",
                 "latitude": 39.749395,
                 "longitude": -8.802482
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 15 Pok\u00e9mon",
+        "quest_reward": "Baltoy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Baltoy",
+        "quest_reward_pokemon_id": 343,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
             }
         ]
     },
