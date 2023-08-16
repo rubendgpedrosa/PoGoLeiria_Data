@@ -82,6 +82,12 @@
                 "longitude": -8.803202
             },
             {
+                "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
+                "name": "Bullied Graffiti",
+                "latitude": 39.742343,
+                "longitude": -8.801731
+            },
+            {
                 "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
                 "name": "Miradouro Leiria",
                 "latitude": 39.743941,
@@ -230,6 +236,12 @@
                 "name": "Ultramar",
                 "latitude": 39.745448,
                 "longitude": -8.805844
+            },
+            {
+                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
+                "name": "Monumento aos Combatentes da Grande Guerra",
+                "latitude": 39.740806,
+                "longitude": -8.802768
             },
             {
                 "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
@@ -738,6 +750,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "10 Swampert Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Swampert",
+        "quest_reward_pokemon_id": 260,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
+                "name": "Espa\u00e7o O Nariz",
+                "latitude": 39.740953,
+                "longitude": -8.803248
+            },
+            {
+                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
+                "name": "Fontario Com Escultura",
+                "latitude": 39.739551,
+                "longitude": -8.809911
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 15 Pok\u00e9mon",
         "quest_reward": "Baltoy",
         "quest_reward_type": "Pokemon",
@@ -926,24 +962,6 @@
                 "name": "Painel Moinho de Papel",
                 "latitude": 39.740201,
                 "longitude": -8.800153
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "10 Swampert Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Swampert",
-        "quest_reward_pokemon_id": 260,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
-                "name": "Fontario Com Escultura",
-                "latitude": 39.739551,
-                "longitude": -8.809911
             }
         ]
     },
