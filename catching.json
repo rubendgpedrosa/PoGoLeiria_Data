@@ -540,6 +540,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "10 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -656,6 +674,42 @@
                 "name": "Pra\u00e7a Nova",
                 "latitude": 39.752742,
                 "longitude": -8.811752
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Baltoy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Baltoy",
+        "quest_reward_pokemon_id": 343,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
+                "name": "CENFIM",
+                "latitude": 39.749026,
+                "longitude": -8.928307
+            },
+            {
+                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
+                "name": "Marco CTT - Rua de Alcoba\u00e7a",
+                "latitude": 39.741853,
+                "longitude": -8.810621
+            },
+            {
+                "pokestop_id": "8bc82266c02148c0974687ddf80f96f7.16",
+                "name": "LeiriaMini - Parque Infantil",
+                "latitude": 39.733184,
+                "longitude": -8.824761
+            },
+            {
+                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
+                "name": "Painel Moinho de Papel",
+                "latitude": 39.740201,
+                "longitude": -8.800153
             }
         ]
     },
@@ -884,30 +938,6 @@
                 "name": "Arquivo Distrital",
                 "latitude": 39.744298,
                 "longitude": -8.811006
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Baltoy",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Baltoy",
-        "quest_reward_pokemon_id": 343,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
-                "name": "Marco CTT - Rua de Alcoba\u00e7a",
-                "latitude": 39.741853,
-                "longitude": -8.810621
-            },
-            {
-                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
-                "name": "Painel Moinho de Papel",
-                "latitude": 39.740201,
-                "longitude": -8.800153
             }
         ]
     },
