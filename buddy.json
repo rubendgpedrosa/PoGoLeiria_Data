@@ -19,6 +19,30 @@
     },
     {
         "quest_description": "Earn 3 hearts with your Buddy",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "143767309db947358b481a9f9c40ae56.16",
+                "name": "Parque Infantil Almuinha Grande",
+                "latitude": 39.751567,
+                "longitude": -8.81027
+            },
+            {
+                "pokestop_id": "fbe6e381a35b44268d1c15f5bac2925c.11",
+                "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
+                "latitude": 39.746897,
+                "longitude": -8.804124
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 3 hearts with your Buddy",
         "quest_reward": "Poochyena",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -66,6 +90,24 @@
         ]
     },
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b45d709e2d704d54aa402db61ddd284c.16",
+                "name": "Live gym Almuinha Grande",
+                "latitude": 39.75227,
+                "longitude": -8.813364
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Spritzee",
         "quest_reward_type": "Pokemon",
@@ -80,24 +122,6 @@
                 "name": "Igreja Crist\u00e3 Maranata",
                 "latitude": 39.743058,
                 "longitude": -8.800445
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 3 hearts with your Buddy",
-        "quest_reward": "Buneary",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Buneary",
-        "quest_reward_pokemon_id": 427,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "fbe6e381a35b44268d1c15f5bac2925c.11",
-                "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
-                "latitude": 39.746897,
-                "longitude": -8.804124
             }
         ]
     }
