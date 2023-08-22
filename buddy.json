@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Glameow",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Glameow",
+        "quest_reward_pokemon_id": 431,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b5569737a8438f0abfdf718370b73eb.16",
+                "name": "Amieiro",
+                "latitude": 39.733619,
+                "longitude": -8.797415
+            },
+            {
+                "pokestop_id": "63b13db5ccdc469187f2f589afef94fe.16",
+                "name": "Parque Infantil Da Seixa",
+                "latitude": 39.732435,
+                "longitude": -8.801047
+            },
+            {
+                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
+                "name": "Mural \"Na Dist\u00e2ncia\"",
+                "latitude": 39.736711,
+                "longitude": -8.793678
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Sudowoodo",
         "quest_reward_type": "Pokemon",
@@ -14,6 +44,24 @@
                 "name": "Praca Rodrigues Lobo",
                 "latitude": 39.744413,
                 "longitude": -8.808075
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Jigglypuff",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Jigglypuff",
+        "quest_reward_pokemon_id": 39,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
             }
         ]
     },
@@ -158,30 +206,6 @@
                 "name": "Ponte Hintze Ribeiro",
                 "latitude": 39.742734,
                 "longitude": -8.803525
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Glameow",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Glameow",
-        "quest_reward_pokemon_id": 431,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "63b13db5ccdc469187f2f589afef94fe.16",
-                "name": "Parque Infantil Da Seixa",
-                "latitude": 39.732435,
-                "longitude": -8.801047
-            },
-            {
-                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
-                "name": "Mural \"Na Dist\u00e2ncia\"",
-                "latitude": 39.736711,
-                "longitude": -8.793678
             }
         ]
     },
