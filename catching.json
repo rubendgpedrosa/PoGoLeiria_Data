@@ -616,6 +616,12 @@
                 "longitude": -8.804716
             },
             {
+                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.740902,
+                "longitude": -8.933727
+            },
+            {
                 "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
                 "name": "Mural Final Four - Leiria",
                 "latitude": 39.736271,
@@ -960,6 +966,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "4f926fcd72ea300d9a7ace8deb9b2a6d.16",
+                "name": "Pra\u00e7a Eng Calazans Duarte",
+                "latitude": 39.742041,
+                "longitude": -8.934302
+            },
+            {
+                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
+                "name": "Caixa Postal CTT - Ordem",
+                "latitude": 39.741068,
+                "longitude": -8.936685
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "Duskull",
         "quest_reward_type": "Pokemon",
@@ -1196,24 +1226,6 @@
                 "name": "Camara Municipal de Leiria",
                 "latitude": 39.741093,
                 "longitude": -8.810354
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
-                "name": "Caixa Postal CTT - Ordem",
-                "latitude": 39.741068,
-                "longitude": -8.936685
             }
         ]
     },

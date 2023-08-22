@@ -1002,6 +1002,36 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
+                "name": "Posto de turismo da Marinha Grande",
+                "latitude": 39.743295,
+                "longitude": -8.935619
+            },
+            {
+                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
+                "name": "Rotary Club De Leiria",
+                "latitude": 39.735202,
+                "longitude": -8.798938
+            },
+            {
+                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
+                "name": "Escuteiros",
+                "latitude": 39.741841,
+                "longitude": -8.933249
+            }
+        ]
+    },
+    {
         "quest_description": "Make 10 Nice Throws",
         "quest_reward": "Psyduck",
         "quest_reward_type": "Pokemon",
@@ -1220,30 +1250,6 @@
                 "name": "Freixo de Folhas Estreitas",
                 "latitude": 39.750386,
                 "longitude": -8.804894
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
-                "name": "Rotary Club De Leiria",
-                "latitude": 39.735202,
-                "longitude": -8.798938
-            },
-            {
-                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
-                "name": "Escuteiros",
-                "latitude": 39.741841,
-                "longitude": -8.933249
             }
         ]
     },
