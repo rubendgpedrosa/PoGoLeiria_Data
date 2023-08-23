@@ -336,6 +336,60 @@
         ]
     },
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "48b7a038bcb145e7b704c1b59ec4769b.16",
+                "name": "The Dog",
+                "latitude": 39.745474,
+                "longitude": -8.808424
+            },
+            {
+                "pokestop_id": "60d0640e32b531d1a57e5a3aa77d92a0.16",
+                "name": "Pistas de ateletismo do campo de treino do est\u00e1dio municipal",
+                "latitude": 39.737201,
+                "longitude": -8.929543
+            },
+            {
+                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
+                "name": "Anfiteatro",
+                "latitude": 39.751453,
+                "longitude": -8.809059
+            },
+            {
+                "pokestop_id": "8b154fbb9a5c43b08a495a8d85dfdb93.16",
+                "name": "O sol da Cerca",
+                "latitude": 39.748941,
+                "longitude": -8.934582
+            },
+            {
+                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
+                "name": "Caixa Postal CTT - Ordem",
+                "latitude": 39.741068,
+                "longitude": -8.936685
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "1000 Stardust",
         "quest_reward_type": "Stardust",
@@ -482,6 +536,12 @@
                 "name": "Parque Infantil Cristal Atrium",
                 "latitude": 39.746939,
                 "longitude": -8.936985
+            },
+            {
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
             }
         ]
     },
@@ -512,6 +572,12 @@
                 "name": "Lago Santo Agostinho",
                 "latitude": 39.74149,
                 "longitude": -8.801741
+            },
+            {
+                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.740095,
+                "longitude": -8.811435
             }
         ]
     },
@@ -566,6 +632,24 @@
                 "name": "Correios Marrazes",
                 "latitude": 39.753807,
                 "longitude": -8.81209
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws in a row",
+        "quest_reward": "10 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "19a9281ab7a83984b81186b81ecf6942.16",
+                "name": "Medronheiro",
+                "latitude": 39.748255,
+                "longitude": -8.801251
             }
         ]
     },
@@ -906,48 +990,6 @@
         ]
     },
     {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "48b7a038bcb145e7b704c1b59ec4769b.16",
-                "name": "The Dog",
-                "latitude": 39.745474,
-                "longitude": -8.808424
-            },
-            {
-                "pokestop_id": "60d0640e32b531d1a57e5a3aa77d92a0.16",
-                "name": "Pistas de ateletismo do campo de treino do est\u00e1dio municipal",
-                "latitude": 39.737201,
-                "longitude": -8.929543
-            },
-            {
-                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
-                "name": "Anfiteatro",
-                "latitude": 39.751453,
-                "longitude": -8.809059
-            },
-            {
-                "pokestop_id": "8b154fbb9a5c43b08a495a8d85dfdb93.16",
-                "name": "O sol da Cerca",
-                "latitude": 39.748941,
-                "longitude": -8.934582
-            },
-            {
-                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
-                "name": "A\u00e7ude Da Fonte Quente",
-                "latitude": 39.747803,
-                "longitude": -8.802251
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -962,6 +1004,12 @@
                 "name": "Mural Brave",
                 "latitude": 39.743151,
                 "longitude": -8.812097
+            },
+            {
+                "pokestop_id": "832a7aa8d7b5306595ed9b512f663c44.16",
+                "name": "\u00c1rvore do Ambar",
+                "latitude": 39.732049,
+                "longitude": -8.796385
             }
         ]
     },
