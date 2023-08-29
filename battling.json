@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Archen",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Archen",
+        "quest_reward_pokemon_id": 566,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "397894b8406948d39293b559e2a32455.16",
+                "name": "Instituto Portugu\u00eas da Juventude",
+                "latitude": 39.747497,
+                "longitude": -8.81418
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 3 raids",
+        "quest_reward": "Mawile",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mawile",
+        "quest_reward_pokemon_id": 303,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
+                "name": "Audit\u00f3rio",
+                "latitude": 39.749766,
+                "longitude": -8.926395
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Drilbur",
         "quest_reward_type": "Pokemon",
@@ -50,6 +86,12 @@
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
                 "longitude": -8.811107
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
             }
         ]
     }
