@@ -78,6 +78,30 @@
         ]
     },
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Onix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Onix",
+        "quest_reward_pokemon_id": 95,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "7ce99cdeda41439eb6de9133392a5262.16",
+                "name": "Cabine de Leitura - Trokakioske",
+                "latitude": 39.744527,
+                "longitude": -8.807312
+            },
+            {
+                "pokestop_id": "e4897ddbe10d40768c3eb0293e36e6a5.11",
+                "name": "Americo Cortez Pinto",
+                "latitude": 39.746966,
+                "longitude": -8.803221
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -120,20 +144,20 @@
         ]
     },
     {
-        "quest_description": "Win a raid",
-        "quest_reward": "Onix",
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Tentacool",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Onix",
-        "quest_reward_pokemon_id": 95,
+        "quest_reward_pokemon_name": "Tentacool",
+        "quest_reward_pokemon_id": 72,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "e4897ddbe10d40768c3eb0293e36e6a5.11",
-                "name": "Americo Cortez Pinto",
-                "latitude": 39.746966,
-                "longitude": -8.803221
+                "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
+                "name": "Campus 2 - ESTG",
+                "latitude": 39.734095,
+                "longitude": -8.823089
             }
         ]
     }
