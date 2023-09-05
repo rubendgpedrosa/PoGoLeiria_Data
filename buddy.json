@@ -1,6 +1,30 @@
 [
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Jigglypuff",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Jigglypuff",
+        "quest_reward_pokemon_id": 39,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            },
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Dedenne",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
