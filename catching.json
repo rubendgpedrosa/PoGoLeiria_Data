@@ -1356,6 +1356,42 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "44c4e82a70a73e23a89ed45b8d7d1e88.16",
+                "name": "Caixa Postal dos CTT - Quinta da Matinha",
+                "latitude": 39.755207,
+                "longitude": -8.806823
+            },
+            {
+                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
+                "name": "Mural Brave",
+                "latitude": 39.743151,
+                "longitude": -8.812097
+            },
+            {
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
+            },
+            {
+                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
+                "name": "Sapo",
+                "latitude": 39.74516,
+                "longitude": -8.804145
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -1430,36 +1466,6 @@
                 "name": "Audit\u00f3rio",
                 "latitude": 39.749766,
                 "longitude": -8.926395
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
-                "name": "Mural Brave",
-                "latitude": 39.743151,
-                "longitude": -8.812097
-            },
-            {
-                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
-                "name": "Escultura Edifoz",
-                "latitude": 39.746497,
-                "longitude": -8.815913
-            },
-            {
-                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
-                "name": "Sapo",
-                "latitude": 39.74516,
-                "longitude": -8.804145
             }
         ]
     },
