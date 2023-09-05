@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Marill",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marill",
+        "quest_reward_pokemon_id": 183,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
+            }
+        ]
+    },
+    {
         "quest_description": "Win a three-star raid or higher",
         "quest_reward": "Tirtouga",
         "quest_reward_type": "Pokemon",
@@ -9,6 +27,12 @@
         "quest_reward_pokemon_id": 564,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            },
             {
                 "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
                 "name": "Jardins do Lis Galerias",
@@ -56,6 +80,24 @@
                 "name": "Ponte pedonal sobre a ribeira das bernardas",
                 "latitude": 39.744965,
                 "longitude": -8.933162
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
+                "name": "Liz ao Quadro - Art Galery",
+                "latitude": 39.748424,
+                "longitude": -8.802439
             }
         ]
     }
