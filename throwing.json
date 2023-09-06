@@ -124,6 +124,12 @@
                 "longitude": -8.79703
             },
             {
+                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
+                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
+                "latitude": 39.742537,
+                "longitude": -8.793462
+            },
+            {
                 "pokestop_id": "eb09f8325d3b4095b70b9b37cd92fb6e.16",
                 "name": "Cabana do Parque da Cerca",
                 "latitude": 39.74824,
@@ -290,6 +296,12 @@
                 "name": "Museu S C P",
                 "latitude": 39.746818,
                 "longitude": -8.812759
+            },
+            {
+                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
+                "name": "Barcos da Costa",
+                "latitude": 39.73964,
+                "longitude": -8.805776
             }
         ]
     },
@@ -762,6 +774,30 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "92d679c065cf4936a127b1133d3e57b6.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.754255,
+                "longitude": -8.808874
+            },
+            {
+                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
+                "name": "Ponte Pique-nique",
+                "latitude": 39.739692,
+                "longitude": -8.798933
+            }
+        ]
+    },
+    {
         "quest_description": "Make 2 Excellent Throws",
         "quest_reward": "Beldum",
         "quest_reward_type": "Pokemon",
@@ -924,6 +960,24 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "1 Rare Candy",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Rare Candy",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1301,
+        "pokestops": [
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -974,24 +1028,6 @@
                 "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
                 "latitude": 39.749364,
                 "longitude": -8.930986
-            }
-        ]
-    },
-    {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
-                "name": "Ponte Pique-nique",
-                "latitude": 39.739692,
-                "longitude": -8.798933
             }
         ]
     }
