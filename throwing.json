@@ -112,6 +112,12 @@
                 "longitude": -8.801741
             },
             {
+                "pokestop_id": "90dbc24bfa2f4f7697ce38f13bde3fb9.11",
+                "name": "Monumento aos Combatentes do U",
+                "latitude": 39.747479,
+                "longitude": -8.812497
+            },
+            {
                 "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
                 "name": "Kid's Web",
                 "latitude": 39.732741,
@@ -152,6 +158,12 @@
                 "name": "Faces Cubistas",
                 "latitude": 39.750855,
                 "longitude": -8.806714
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
             },
             {
                 "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
@@ -224,6 +236,12 @@
                 "name": "Glove x 400mI",
                 "latitude": 39.74775,
                 "longitude": -8.807233
+            },
+            {
+                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
+                "name": "Barragem do Rio Lis",
+                "latitude": 39.751189,
+                "longitude": -8.812916
             }
         ]
     },
@@ -452,6 +470,12 @@
                 "name": "Ponte El-Rei D. Dinis",
                 "latitude": 39.743323,
                 "longitude": -8.804477
+            },
+            {
+                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
+                "name": "Igreja Man\u00e1",
+                "latitude": 39.741498,
+                "longitude": -8.799315
             }
         ]
     },
@@ -512,6 +536,12 @@
                 "name": "Mural Rei das Runas",
                 "latitude": 39.747825,
                 "longitude": -8.930829
+            },
+            {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
             },
             {
                 "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
@@ -618,6 +648,48 @@
         ]
     },
     {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
+                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
+                "name": "Zona De Merendas",
+                "latitude": 39.7347,
+                "longitude": -8.796927
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -656,24 +728,6 @@
                 "name": "Edif\u00edcio \"O Pa\u00e7o\"",
                 "latitude": 39.745253,
                 "longitude": -8.80654
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
-                "name": "Zona De Merendas",
-                "latitude": 39.7347,
-                "longitude": -8.796927
             }
         ]
     },
