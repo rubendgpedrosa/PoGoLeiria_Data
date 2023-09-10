@@ -618,6 +618,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
+            },
+            {
+                "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
+                "name": "Campo De Apoio",
+                "latitude": 39.738138,
+                "longitude": -8.933062
+            }
+        ]
+    },
+    {
         "quest_description": "Make 2 Nice Curveball Throws in a row",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -788,6 +812,12 @@
                 "name": "Jogo Da Malha",
                 "latitude": 39.745722,
                 "longitude": -8.80351
+            },
+            {
+                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
+                "name": "Caixa Postal CTT - Guimarota",
+                "latitude": 39.732839,
+                "longitude": -8.795816
             }
         ]
     },
@@ -884,24 +914,6 @@
                 "name": "Play City",
                 "latitude": 39.747179,
                 "longitude": -8.802109
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Curveball Throws in a row",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
-                "name": "Campo De Apoio",
-                "latitude": 39.738138,
-                "longitude": -8.933062
             }
         ]
     }
