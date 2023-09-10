@@ -30,6 +30,30 @@
         ]
     },
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2ee5e9aa78c2326ca47a6d1fcb42d8dc.16",
+                "name": "O pastor",
+                "latitude": 39.748327,
+                "longitude": -8.807442
+            },
+            {
+                "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
+                "name": "Caixa Postal CTT - Cristal Atrium",
+                "latitude": 39.747021,
+                "longitude": -8.936766
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 3 Candies walking with your buddy",
         "quest_reward": "Stunfisk",
         "quest_reward_type": "Pokemon",
@@ -55,19 +79,25 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Dedenne",
+        "quest_reward": "Glameow",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Dedenne",
-        "quest_reward_pokemon_id": 702,
+        "quest_reward_pokemon_name": "Glameow",
+        "quest_reward_pokemon_id": 431,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
-                "name": "Caixa Postal CTT - Cristal Atrium",
-                "latitude": 39.747021,
-                "longitude": -8.936766
+                "pokestop_id": "7d69d15f3015358e87eb5cf0ba93c005.16",
+                "name": "Parque Infantil Cristal Atrium",
+                "latitude": 39.746939,
+                "longitude": -8.936985
+            },
+            {
+                "pokestop_id": "89dbb0af65bb450bb804eee0d872e639.16",
+                "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
+                "latitude": 39.740265,
+                "longitude": -8.929824
             }
         ]
     }
