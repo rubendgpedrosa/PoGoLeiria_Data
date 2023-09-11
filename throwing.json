@@ -438,6 +438,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "Lileep",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lileep",
+        "quest_reward_pokemon_id": 345,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            },
+            {
+                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
+                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
+                "latitude": 39.742537,
+                "longitude": -8.793462
+            }
+        ]
+    },
+    {
         "quest_description": "Make 2 Nice Curveball Throws in a row",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -926,24 +950,6 @@
                 "name": "Antigo Bebedouro",
                 "latitude": 39.750713,
                 "longitude": -8.926943
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws in a row",
-        "quest_reward": "Lileep",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Lileep",
-        "quest_reward_pokemon_id": 345,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
-                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
-                "latitude": 39.742537,
-                "longitude": -8.793462
             }
         ]
     }
