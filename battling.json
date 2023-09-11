@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Tirtouga",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tirtouga",
+        "quest_reward_pokemon_id": 564,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
+                "name": "Moagem Leiriense",
+                "latitude": 39.74865,
+                "longitude": -8.803723
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Marill",
         "quest_reward_type": "Pokemon",
@@ -14,6 +32,12 @@
                 "name": "Ponte Pedonal Sul",
                 "latitude": 39.748399,
                 "longitude": -8.93453
+            },
+            {
+                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
+                "name": "Shopping 2000",
+                "latitude": 39.749243,
+                "longitude": -8.803685
             }
         ]
     },
@@ -50,6 +74,24 @@
                 "name": "C\u00e2mara Municipal da Marinha Grande",
                 "latitude": 39.75001,
                 "longitude": -8.933133
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
             }
         ]
     }

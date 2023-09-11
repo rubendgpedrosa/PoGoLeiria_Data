@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
+                "name": "Pra\u00e7a do Emigrante",
+                "latitude": 39.748896,
+                "longitude": -8.80445
+            },
+            {
+                "pokestop_id": "8ed0ec246a4e4238a11b7eef7444c5d4.16",
+                "name": "Ponte pedonal sobre a ribeira das bernardas",
+                "latitude": 39.744965,
+                "longitude": -8.933162
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Wooper",
         "quest_reward_type": "Pokemon",
@@ -32,24 +56,6 @@
                 "name": "O pastor",
                 "latitude": 39.748327,
                 "longitude": -8.807442
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Buneary",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Buneary",
-        "quest_reward_pokemon_id": 427,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8ed0ec246a4e4238a11b7eef7444c5d4.16",
-                "name": "Ponte pedonal sobre a ribeira das bernardas",
-                "latitude": 39.744965,
-                "longitude": -8.933162
             }
         ]
     },
