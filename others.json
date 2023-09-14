@@ -30,6 +30,30 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "09574b8a80a94a0d9c6f868d9f1ef02e.16",
+                "name": "Sede UDL",
+                "latitude": 39.748744,
+                "longitude": -8.811496
+            },
+            {
+                "pokestop_id": "14a69ce370fb46f88261e19bbc2101cb.16",
+                "name": "Biblioteca Municipal Afonso Lopes Vieira",
+                "latitude": 39.743917,
+                "longitude": -8.810087
+            }
+        ]
+    },
+    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Inkay",
         "quest_reward_type": "Pokemon",
@@ -232,6 +256,12 @@
                 "longitude": -8.931698
             },
             {
+                "pokestop_id": "1f8703ec0451364f90420f66f3220978.16",
+                "name": "Centro de Cultura e Desporto dos Trabalhadores da Seguran\u00e7a Social de Leiria",
+                "latitude": 39.74061,
+                "longitude": -8.814058
+            },
+            {
                 "pokestop_id": "3dde03090bbf41dd8051072fd518992c.16",
                 "name": "I P Leiria",
                 "latitude": 39.744915,
@@ -290,24 +320,6 @@
                 "name": "Parque Infantil",
                 "latitude": 39.731552,
                 "longitude": -8.809623
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "14a69ce370fb46f88261e19bbc2101cb.16",
-                "name": "Biblioteca Municipal Afonso Lopes Vieira",
-                "latitude": 39.743917,
-                "longitude": -8.810087
             }
         ]
     },
@@ -446,6 +458,12 @@
                 "name": "Parque de S\u00e3o Rom\u00e3o",
                 "latitude": 39.733442,
                 "longitude": -8.797748
+            },
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
             }
         ]
     },
@@ -614,6 +632,12 @@
                 "name": "Posto de turismo da Marinha Grande",
                 "latitude": 39.743295,
                 "longitude": -8.935619
+            },
+            {
+                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
+                "name": "Rotary Club De Leiria",
+                "latitude": 39.735202,
+                "longitude": -8.798938
             }
         ]
     },
@@ -782,6 +806,24 @@
                 "name": "Leiria Shopping",
                 "latitude": 39.732373,
                 "longitude": -8.824896
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Trubbish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Trubbish",
+        "quest_reward_pokemon_id": 568,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
+                "name": "Zona De Merendas",
+                "latitude": 39.7347,
+                "longitude": -8.796927
             }
         ]
     },
