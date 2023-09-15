@@ -55,6 +55,24 @@
     },
     {
         "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Chinchou",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Chinchou",
+        "quest_reward_pokemon_id": 170,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3c3affed92033d50b8f0202713d8a53e.16",
+                "name": "Villa Portela - Casa D'Artes",
+                "latitude": 39.741224,
+                "longitude": -8.809235
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
         "quest_reward": "Tentacool",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -68,6 +86,12 @@
                 "name": "Campo Polidesportivo",
                 "latitude": 39.732954,
                 "longitude": -8.809802
+            },
+            {
+                "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
+                "name": "Carvalho Cerquinho",
+                "latitude": 39.731849,
+                "longitude": -8.795909
             }
         ]
     },
