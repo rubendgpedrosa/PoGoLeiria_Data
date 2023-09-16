@@ -454,6 +454,12 @@
                 "longitude": -8.801969
             },
             {
+                "pokestop_id": "4f926fcd72ea300d9a7ace8deb9b2a6d.16",
+                "name": "Pra\u00e7a Eng Calazans Duarte",
+                "latitude": 39.742041,
+                "longitude": -8.934302
+            },
+            {
                 "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
                 "name": "Castelo de Leiria",
                 "latitude": 39.747664,
@@ -536,6 +542,12 @@
                 "name": "Espa\u00e7o O Nariz",
                 "latitude": 39.740953,
                 "longitude": -8.803248
+            },
+            {
+                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
+                "name": "Posto de turismo da Marinha Grande",
+                "latitude": 39.743295,
+                "longitude": -8.935619
             },
             {
                 "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
@@ -670,6 +682,12 @@
                 "longitude": -8.796467
             },
             {
+                "pokestop_id": "a1d7da08d79c492098f4f57a27931039.16",
+                "name": "Marco CTT - Rua Professor N. Costa",
+                "latitude": 39.742221,
+                "longitude": -8.813073
+            },
+            {
                 "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
                 "name": "Miradouro Leiria",
                 "latitude": 39.743941,
@@ -698,6 +716,12 @@
                 "name": "Parque Infantil",
                 "latitude": 39.731526,
                 "longitude": -8.803604
+            },
+            {
+                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
+                "name": "Ponte Azul",
+                "latitude": 39.749013,
+                "longitude": -8.801741
             }
         ]
     },
@@ -734,6 +758,24 @@
                 "name": "Igreja de S\u00e3o Pedro",
                 "latitude": 39.74725,
                 "longitude": -8.807508
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Sudowoodo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sudowoodo",
+        "quest_reward_pokemon_id": 185,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "46cb0801d3613d68bfe9c1e5c4273b52.16",
+                "name": "Parque de Merendas",
+                "latitude": 39.733817,
+                "longitude": -8.809361
             }
         ]
     },
@@ -966,6 +1008,36 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Beedrill Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Beedrill",
+        "quest_reward_pokemon_id": 15,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
+                "name": "Campo Polidesportivo",
+                "latitude": 39.732954,
+                "longitude": -8.809802
+            },
+            {
+                "pokestop_id": "b45d709e2d704d54aa402db61ddd284c.16",
+                "name": "Live gym Almuinha Grande",
+                "latitude": 39.75227,
+                "longitude": -8.813364
+            },
+            {
+                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
+                "name": "ESSLEI",
+                "latitude": 39.732661,
+                "longitude": -8.820675
+            }
+        ]
+    },
+    {
         "quest_description": "Trade a Pok\u00e9mon",
         "quest_reward": "Staryu",
         "quest_reward_type": "Pokemon",
@@ -1064,30 +1136,6 @@
                 "name": "Jogo da Macaca",
                 "latitude": 39.738327,
                 "longitude": -8.81087
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Beedrill Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Beedrill",
-        "quest_reward_pokemon_id": 15,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b45d709e2d704d54aa402db61ddd284c.16",
-                "name": "Live gym Almuinha Grande",
-                "latitude": 39.75227,
-                "longitude": -8.813364
-            },
-            {
-                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
-                "name": "ESSLEI",
-                "latitude": 39.732661,
-                "longitude": -8.820675
             }
         ]
     },

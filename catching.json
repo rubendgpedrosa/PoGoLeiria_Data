@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Purrloin",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Purrloin",
+        "quest_reward_pokemon_id": 509,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "091456d950da38849bd7ae900f166679.16",
+                "name": "Sonhos de Papel",
+                "latitude": 39.743096,
+                "longitude": -8.935367
+            },
+            {
+                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
+                "name": "\u00c1rea De Recreio",
+                "latitude": 39.745761,
+                "longitude": -8.934351
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "10 Swampert Mega Energy",
         "quest_reward_type": "Energy",
@@ -80,6 +104,12 @@
                 "name": "Campo de Futebol - IPL",
                 "latitude": 39.736738,
                 "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "23076c7b2d5e3d209916143b5207e5b3.16",
+                "name": "Soneto da Casa",
+                "latitude": 39.733913,
+                "longitude": -8.80966
             },
             {
                 "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
@@ -290,6 +320,12 @@
                 "name": "Edif\u00edcio Ferro de Engomar",
                 "latitude": 39.740629,
                 "longitude": -8.802995
+            },
+            {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
             }
         ]
     },
@@ -704,6 +740,12 @@
                 "name": "Estravag\u00e1rio Graffiti",
                 "latitude": 39.752932,
                 "longitude": -8.933662
+            },
+            {
+                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
+                "name": "Ponte pedonal norte do Parque das Bernardas",
+                "latitude": 39.738465,
+                "longitude": -8.929156
             }
         ]
     },
@@ -962,6 +1004,12 @@
                 "name": "Afonso Lopes Vieira",
                 "latitude": 39.743902,
                 "longitude": -8.808525
+            },
+            {
+                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
+                "name": "Painel Moinho de Papel",
+                "latitude": 39.740201,
+                "longitude": -8.800153
             }
         ]
     },
@@ -1034,6 +1082,12 @@
                 "name": "Monumento aos Combatentes da Grande Guerra",
                 "latitude": 39.740806,
                 "longitude": -8.802768
+            },
+            {
+                "pokestop_id": "9ca6a62285044856b76ecea9607f63bb.16",
+                "name": "Campo De Futebol A.C. Marinhense",
+                "latitude": 39.749818,
+                "longitude": -8.936966
             }
         ]
     },
@@ -1280,24 +1334,6 @@
                 "name": "Campus 2 - ESTG",
                 "latitude": 39.734095,
                 "longitude": -8.823089
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Purrloin",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Purrloin",
-        "quest_reward_pokemon_id": 509,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
-                "name": "\u00c1rea De Recreio",
-                "latitude": 39.745761,
-                "longitude": -8.934351
             }
         ]
     }
