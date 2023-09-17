@@ -694,6 +694,12 @@
                 "longitude": -8.801093
             },
             {
+                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
+                "name": "Igreja Batista da Lagoinha",
+                "latitude": 39.740459,
+                "longitude": -8.80699
+            },
+            {
                 "pokestop_id": "9f3d5e1703b74483b3d6625f162b2842.16",
                 "name": "Ponte pedonal sul do Parque das Bernardas",
                 "latitude": 39.737116,
@@ -769,6 +775,48 @@
     },
     {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
+            },
+            {
+                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
+                "name": "Mural pintura no vidro",
+                "latitude": 39.740536,
+                "longitude": -8.929225
+            },
+            {
+                "pokestop_id": "8bc82266c02148c0974687ddf80f96f7.16",
+                "name": "LeiriaMini - Parque Infantil",
+                "latitude": 39.733184,
+                "longitude": -8.824761
+            },
+            {
+                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
+                "name": "Estravag\u00e1rio Graffiti",
+                "latitude": 39.752932,
+                "longitude": -8.933662
+            },
+            {
+                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
+                "name": "Ponte pedonal norte do Parque das Bernardas",
+                "latitude": 39.738465,
+                "longitude": -8.929156
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Hippopotas",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -806,42 +854,6 @@
                 "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
                 "latitude": 39.739412,
                 "longitude": -8.81129
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
-                "name": "Mural pintura no vidro",
-                "latitude": 39.740536,
-                "longitude": -8.929225
-            },
-            {
-                "pokestop_id": "8bc82266c02148c0974687ddf80f96f7.16",
-                "name": "LeiriaMini - Parque Infantil",
-                "latitude": 39.733184,
-                "longitude": -8.824761
-            },
-            {
-                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
-                "name": "Estravag\u00e1rio Graffiti",
-                "latitude": 39.752932,
-                "longitude": -8.933662
-            },
-            {
-                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
-                "name": "Ponte pedonal norte do Parque das Bernardas",
-                "latitude": 39.738465,
-                "longitude": -8.929156
             }
         ]
     },
@@ -1008,6 +1020,30 @@
         ]
     },
     {
+        "quest_description": "Catch 15 different species of Pok\u00e9mon",
+        "quest_reward": "Lickitung",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lickitung",
+        "quest_reward_pokemon_id": 108,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
+            },
+            {
+                "pokestop_id": "6e16a724c20f4752b9b6cee03cfe329a.16",
+                "name": "Nossa Senhora Imaculada Concei\u00e7\u00e3o",
+                "latitude": 39.730732,
+                "longitude": -8.808285
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1094,24 +1130,6 @@
                 "name": "Ponte pedestre do parque da Bernardas",
                 "latitude": 39.737402,
                 "longitude": -8.928949
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 15 different species of Pok\u00e9mon",
-        "quest_reward": "Lickitung",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Lickitung",
-        "quest_reward_pokemon_id": 108,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6e16a724c20f4752b9b6cee03cfe329a.16",
-                "name": "Nossa Senhora Imaculada Concei\u00e7\u00e3o",
-                "latitude": 39.730732,
-                "longitude": -8.808285
             }
         ]
     },
@@ -1284,6 +1302,48 @@
         ]
     },
     {
+        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
+        "quest_reward": "Dratini",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dratini",
+        "quest_reward_pokemon_id": 147,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
+                "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739793,
+                "longitude": -8.808255
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Dark-, Ghost- or Dark-type Pokemon",
+        "quest_reward": "Gothita",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Gothita",
+        "quest_reward_pokemon_id": 574,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "cabb27e3442b493dac7065440e39f238.16",
+                "name": "Casa Oliveira Dias",
+                "latitude": 39.74247,
+                "longitude": -8.80407
+            },
+            {
+                "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
+                "name": "Pra\u00e7a Nova",
+                "latitude": 39.752742,
+                "longitude": -8.811752
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "10 Sceptile Mega Energy",
         "quest_reward_type": "Energy",
@@ -1334,24 +1394,6 @@
                 "name": "Xilofone M\u00e1rmore",
                 "latitude": 39.741581,
                 "longitude": -8.802014
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Dark-, Ghost- or Dark-type Pokemon",
-        "quest_reward": "Gothita",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Gothita",
-        "quest_reward_pokemon_id": 574,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
-                "name": "Pra\u00e7a Nova",
-                "latitude": 39.752742,
-                "longitude": -8.811752
             }
         ]
     },
