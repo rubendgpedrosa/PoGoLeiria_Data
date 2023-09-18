@@ -184,6 +184,12 @@
                 "longitude": -8.804231
             },
             {
+                "pokestop_id": "3dde03090bbf41dd8051072fd518992c.16",
+                "name": "I P Leiria",
+                "latitude": 39.744915,
+                "longitude": -8.811439
+            },
+            {
                 "pokestop_id": "51a5cfd3c47c404080bf2813b792897b.16",
                 "name": "ADESER II",
                 "latitude": 39.75137,
@@ -296,6 +302,12 @@
                 "name": "Caritas Diocesana de Leiria",
                 "latitude": 39.73688,
                 "longitude": -8.806748
+            },
+            {
+                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
+                "name": "Jogo De Som",
+                "latitude": 39.734864,
+                "longitude": -8.797733
             },
             {
                 "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
@@ -694,6 +706,12 @@
                 "longitude": -8.804361
             },
             {
+                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
+                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
+                "latitude": 39.742059,
+                "longitude": -8.808031
+            },
+            {
                 "pokestop_id": "897ec754d2833022ae683fdeb8474d10.16",
                 "name": "Pinheiro Manso",
                 "latitude": 39.735547,
@@ -710,6 +728,12 @@
                 "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739793,
                 "longitude": -8.808255
+            },
+            {
+                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
+                "name": "Rotary Club De Leiria",
+                "latitude": 39.735202,
+                "longitude": -8.798938
             },
             {
                 "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
@@ -1212,6 +1236,30 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Remoraid",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Remoraid",
+        "quest_reward_pokemon_id": 223,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ac8054dc06544e05b1d10a47ff12b097.16",
+                "name": "Bras\u00e3o da Cidade",
+                "latitude": 39.743168,
+                "longitude": -8.805737
+            },
+            {
+                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
+                "name": "Museu BVMG",
+                "latitude": 39.748136,
+                "longitude": -8.933859
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch 2 Eggs",
         "quest_reward": "Feebas",
         "quest_reward_type": "Pokemon",
@@ -1244,24 +1292,6 @@
                 "name": "LeiriaMini - \u00c1rea Interativa",
                 "latitude": 39.732346,
                 "longitude": -8.824545
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Remoraid",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Remoraid",
-        "quest_reward_pokemon_id": 223,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
-                "name": "Museu BVMG",
-                "latitude": 39.748136,
-                "longitude": -8.933859
             }
         ]
     },

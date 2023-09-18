@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Skitty",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Skitty",
+        "quest_reward_pokemon_id": 300,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0a29459869b0327cba66cebbd13ecbae.16",
+                "name": "Escola de Dan\u00e7a Clara Le\u00e3o",
+                "latitude": 39.747173,
+                "longitude": -8.812967
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
@@ -62,6 +80,12 @@
                 "name": "Junta De Freguesia Leiria",
                 "latitude": 39.743562,
                 "longitude": -8.804606
+            },
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
             }
         ]
     },
