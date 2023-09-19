@@ -258,6 +258,42 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
+            {
+                "pokestop_id": "300f8d0be9d2491ab4c578c377120e03.16",
+                "name": "Marco de Correio",
+                "latitude": 39.734008,
+                "longitude": -8.808168
+            },
+            {
+                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
+                "name": "Campo Basketball",
+                "latitude": 39.746655,
+                "longitude": -8.802376
+            },
+            {
+                "pokestop_id": "5b30d5cc95af495c8066d9675b25ae77.16",
+                "name": "Lonac 2017",
+                "latitude": 39.744206,
+                "longitude": -8.812656
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -734,30 +770,6 @@
                 "name": "Monumento aos Combatentes do U",
                 "latitude": 39.747479,
                 "longitude": -8.812497
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
-                "name": "Campo Basketball",
-                "latitude": 39.746655,
-                "longitude": -8.802376
-            },
-            {
-                "pokestop_id": "5b30d5cc95af495c8066d9675b25ae77.16",
-                "name": "Lonac 2017",
-                "latitude": 39.744206,
-                "longitude": -8.812656
             }
         ]
     },
