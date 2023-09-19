@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Win 2 raids",
+        "quest_reward": "Shedinja",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Shedinja",
+        "quest_reward_pokemon_id": 292,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "091456d950da38849bd7ae900f166679.16",
+                "name": "Sonhos de Papel",
+                "latitude": 39.743096,
+                "longitude": -8.935367
+            },
+            {
+                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
+                "name": "ASURPI",
+                "latitude": 39.75141,
+                "longitude": -8.933588
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Onix",
         "quest_reward_type": "Pokemon",
@@ -62,24 +86,6 @@
                 "name": "Biblioteca Municipal",
                 "latitude": 39.749895,
                 "longitude": -8.934498
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 2 raids",
-        "quest_reward": "Shedinja",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Shedinja",
-        "quest_reward_pokemon_id": 292,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
-                "name": "ASURPI",
-                "latitude": 39.75141,
-                "longitude": -8.933588
             }
         ]
     },
