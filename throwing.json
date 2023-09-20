@@ -472,6 +472,12 @@
                 "longitude": -8.805745
             },
             {
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067
+            },
+            {
                 "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
                 "name": "Shaman Urbano",
                 "latitude": 39.744681,
@@ -1020,6 +1026,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "63b13db5ccdc469187f2f589afef94fe.16",
+                "name": "Parque Infantil Da Seixa",
+                "latitude": 39.732435,
+                "longitude": -8.801047
+            },
+            {
+                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731526,
+                "longitude": -8.803604
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "2 Ultra Ball",
         "quest_reward_type": "Item",
@@ -1274,24 +1304,6 @@
                 "name": "Igreja Deus Prover\u00e1",
                 "latitude": 39.748424,
                 "longitude": -8.80807
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Curveball Throws in a row",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731526,
-                "longitude": -8.803604
             }
         ]
     }
