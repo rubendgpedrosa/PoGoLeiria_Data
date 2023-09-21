@@ -148,6 +148,12 @@
                 "longitude": -8.809059
             },
             {
+                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.740095,
+                "longitude": -8.811435
+            },
+            {
                 "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
                 "name": "Jogo da Macaca",
                 "latitude": 39.738327,
@@ -506,6 +512,12 @@
                 "name": "Urban Fitness",
                 "latitude": 39.748953,
                 "longitude": -8.802133
+            },
+            {
+                "pokestop_id": "f1edf2dd4b33434186ddc331a2fb2ce3.11",
+                "name": "Camara Municipal de Leiria",
+                "latitude": 39.741093,
+                "longitude": -8.810354
             }
         ]
     },
@@ -650,6 +662,12 @@
                 "name": "Glove x 400mI",
                 "latitude": 39.74775,
                 "longitude": -8.807233
+            },
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
             },
             {
                 "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
@@ -1014,6 +1032,48 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Curveball Throw",
+        "quest_reward": "Inkay",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Inkay",
+        "quest_reward_pokemon_id": 686,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
+            },
+            {
+                "pokestop_id": "92d679c065cf4936a127b1133d3e57b6.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.754255,
+                "longitude": -8.808874
+            },
+            {
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
+            },
+            {
+                "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
+                "name": "Engenho Na Escola",
+                "latitude": 39.74247,
+                "longitude": -8.933721
+            },
+            {
+                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
+                "name": "Ringue de futebol da Marinha Grande",
+                "latitude": 39.740808,
+                "longitude": -8.929041
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1142,42 +1202,6 @@
                 "name": "Pinheiro Manso",
                 "latitude": 39.735547,
                 "longitude": -8.796467
-            }
-        ]
-    },
-    {
-        "quest_description": "Make an Excellent Curveball Throw",
-        "quest_reward": "Inkay",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Inkay",
-        "quest_reward_pokemon_id": 686,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "92d679c065cf4936a127b1133d3e57b6.16",
-                "name": "Campo de Futebol",
-                "latitude": 39.754255,
-                "longitude": -8.808874
-            },
-            {
-                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
-                "name": "Marco de Correios CTT",
-                "latitude": 39.752895,
-                "longitude": -8.805935
-            },
-            {
-                "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
-                "name": "Engenho Na Escola",
-                "latitude": 39.74247,
-                "longitude": -8.933721
-            },
-            {
-                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
-                "name": "Ringue de futebol da Marinha Grande",
-                "latitude": 39.740808,
-                "longitude": -8.929041
             }
         ]
     },
