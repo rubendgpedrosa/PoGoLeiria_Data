@@ -46,6 +46,12 @@
                 "longitude": -8.801969
             },
             {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            },
+            {
                 "pokestop_id": "399426cd8ff340e6b273e3bede1d39bd.16",
                 "name": "Congrega\u00e7\u00e3o Crist\u00e3 em Portugal.",
                 "latitude": 39.746828,
@@ -152,6 +158,12 @@
                 "name": "Torre de Miragem",
                 "latitude": 39.746911,
                 "longitude": -8.809565
+            },
+            {
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
             },
             {
                 "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
@@ -534,6 +546,84 @@
         ]
     },
     {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Sableye",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sableye",
+        "quest_reward_pokemon_id": 302,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
+                "name": "Arco 42",
+                "latitude": 39.744873,
+                "longitude": -8.807102
+            },
+            {
+                "pokestop_id": "269dbaf0499c3b2ab34b41f321f8ccd8.16",
+                "name": "Mural comboio de lata",
+                "latitude": 39.748094,
+                "longitude": -8.933068
+            },
+            {
+                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
+                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
+                "latitude": 39.73966,
+                "longitude": -8.808042
+            },
+            {
+                "pokestop_id": "5b7c1cda9e0d4c8f876d96cb4b090630.16",
+                "name": "Arte Urbana",
+                "latitude": 39.750531,
+                "longitude": -8.805541
+            },
+            {
+                "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
+                "name": "Praceta Abraao Zacuto",
+                "latitude": 39.74904,
+                "longitude": -8.802788
+            },
+            {
+                "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
+                "name": "Calv\u00e1rio",
+                "latitude": 39.746362,
+                "longitude": -8.807238
+            },
+            {
+                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
+                "name": "Glove x 400mI",
+                "latitude": 39.74775,
+                "longitude": -8.807233
+            },
+            {
+                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
+                "name": "Torre Agua Leiria",
+                "latitude": 39.743319,
+                "longitude": -8.799232
+            },
+            {
+                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
+                "name": "O Nosso Claustro \u00c9 O Mundo",
+                "latitude": 39.742156,
+                "longitude": -8.811256
+            },
+            {
+                "pokestop_id": "e4897ddbe10d40768c3eb0293e36e6a5.11",
+                "name": "Americo Cortez Pinto",
+                "latitude": 39.746966,
+                "longitude": -8.803221
+            },
+            {
+                "pokestop_id": "eb4ed26ece984942b87a28477de84568.16",
+                "name": "IPL - Unidade de investiga\u00e7\u00e3o",
+                "latitude": 39.74349,
+                "longitude": -8.791929
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
         "quest_reward": "Slowpoke",
         "quest_reward_type": "Pokemon",
@@ -632,72 +722,6 @@
                 "name": "Shopping 2000",
                 "latitude": 39.749243,
                 "longitude": -8.803685
-            }
-        ]
-    },
-    {
-        "quest_description": "Defeat 3 Team GO Rocket Grunts",
-        "quest_reward": "Sableye",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Sableye",
-        "quest_reward_pokemon_id": 302,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "269dbaf0499c3b2ab34b41f321f8ccd8.16",
-                "name": "Mural comboio de lata",
-                "latitude": 39.748094,
-                "longitude": -8.933068
-            },
-            {
-                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
-                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
-                "latitude": 39.73966,
-                "longitude": -8.808042
-            },
-            {
-                "pokestop_id": "5b7c1cda9e0d4c8f876d96cb4b090630.16",
-                "name": "Arte Urbana",
-                "latitude": 39.750531,
-                "longitude": -8.805541
-            },
-            {
-                "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
-                "name": "Praceta Abraao Zacuto",
-                "latitude": 39.74904,
-                "longitude": -8.802788
-            },
-            {
-                "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
-                "name": "Calv\u00e1rio",
-                "latitude": 39.746362,
-                "longitude": -8.807238
-            },
-            {
-                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
-                "name": "Glove x 400mI",
-                "latitude": 39.74775,
-                "longitude": -8.807233
-            },
-            {
-                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
-                "name": "O Nosso Claustro \u00c9 O Mundo",
-                "latitude": 39.742156,
-                "longitude": -8.811256
-            },
-            {
-                "pokestop_id": "e4897ddbe10d40768c3eb0293e36e6a5.11",
-                "name": "Americo Cortez Pinto",
-                "latitude": 39.746966,
-                "longitude": -8.803221
-            },
-            {
-                "pokestop_id": "eb4ed26ece984942b87a28477de84568.16",
-                "name": "IPL - Unidade de investiga\u00e7\u00e3o",
-                "latitude": 39.74349,
-                "longitude": -8.791929
             }
         ]
     },
@@ -872,6 +896,42 @@
                 "name": "Marco de Correio CTT",
                 "latitude": 39.746326,
                 "longitude": -8.804666
+            }
+        ]
+    },
+    {
+        "quest_description": "Explore 2 km",
+        "quest_reward": "Yungoos",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Yungoos",
+        "quest_reward_pokemon_id": 734,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
+                "name": "Engenho Na Escola",
+                "latitude": 39.74247,
+                "longitude": -8.933721
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Sudowoodo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sudowoodo",
+        "quest_reward_pokemon_id": 185,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b9d4215916a5403d8010bfe7dd3896d3.16",
+                "name": "Teatro Miguel Franco",
+                "latitude": 39.742692,
+                "longitude": -8.80773
             }
         ]
     },
