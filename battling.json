@@ -1,6 +1,42 @@
 [
     {
         "quest_description": "Win a raid",
+        "quest_reward": "50 Alakazam Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 50,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Alakazam",
+        "quest_reward_pokemon_id": 65,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "266b43dbec17425a81f8256b14f1c2cd.16",
+                "name": "Rodovi\u00e1ria Do Lis",
+                "latitude": 39.745095,
+                "longitude": -8.805202
+            },
+            {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
+            },
+            {
+                "pokestop_id": "e4897ddbe10d40768c3eb0293e36e6a5.11",
+                "name": "Americo Cortez Pinto",
+                "latitude": 39.746966,
+                "longitude": -8.803221
+            },
+            {
+                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
+                "name": "Confer\u00eancia de S. Vicente Paulo",
+                "latitude": 39.750114,
+                "longitude": -8.92967
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a raid",
         "quest_reward": "50 Gardevoir Mega Energy",
         "quest_reward_type": "Energy",
         "quest_reward_amount": 50,
@@ -50,30 +86,6 @@
                 "name": "Mural Rei das Runas",
                 "latitude": 39.747825,
                 "longitude": -8.930829
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "50 Alakazam Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 50,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Alakazam",
-        "quest_reward_pokemon_id": 65,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
-                "name": "Freixo de Folhas Estreitas",
-                "latitude": 39.750386,
-                "longitude": -8.804894
-            },
-            {
-                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
-                "name": "Confer\u00eancia de S. Vicente Paulo",
-                "latitude": 39.750114,
-                "longitude": -8.92967
             }
         ]
     }
