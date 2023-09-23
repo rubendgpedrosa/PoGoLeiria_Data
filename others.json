@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Popplio",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Popplio",
+        "quest_reward_pokemon_id": 728,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "01a435e293263fa2b2bc1b4c7fb620ef.16",
+                "name": "Mosaico  catedral verde",
+                "latitude": 39.75082,
+                "longitude": -8.93155
+            },
+            {
+                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
+                "name": "Confer\u00eancia de S. Vicente Paulo",
+                "latitude": 39.750114,
+                "longitude": -8.92967
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -158,6 +182,12 @@
                 "name": "Projeto U-Bike: ESTG - Bloco D",
                 "latitude": 39.734271,
                 "longitude": -8.821229
+            },
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455
             },
             {
                 "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
@@ -1184,24 +1214,6 @@
                 "name": "Centro Comercial D.Dinis",
                 "latitude": 39.742971,
                 "longitude": -8.809768
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 7 times",
-        "quest_reward": "Popplio",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Popplio",
-        "quest_reward_pokemon_id": 728,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
-                "name": "Confer\u00eancia de S. Vicente Paulo",
-                "latitude": 39.750114,
-                "longitude": -8.92967
             }
         ]
     }
