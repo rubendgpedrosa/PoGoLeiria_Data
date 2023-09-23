@@ -322,6 +322,12 @@
                 "longitude": -8.809864
             },
             {
+                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
+                "name": "S. Francisco",
+                "latitude": 39.74836,
+                "longitude": -8.803617
+            },
+            {
                 "pokestop_id": "3e0e09c5f37d47b29d85b0209445098d.16",
                 "name": "Painel Informativo Junta de Freguesia Marinha Grande",
                 "latitude": 39.741149,
@@ -358,10 +364,22 @@
                 "longitude": -8.93432
             },
             {
+                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
+                "name": "Ponte pedonal norte do Parque das Bernardas",
+                "latitude": 39.738465,
+                "longitude": -8.929156
+            },
+            {
                 "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
                 "name": "Jungle Gym",
                 "latitude": 39.749395,
                 "longitude": -8.802482
+            },
+            {
+                "pokestop_id": "d507cf11ba724b0e99127ed0e11b6597.16",
+                "name": "Lenda do Lis e do Lena",
+                "latitude": 39.743468,
+                "longitude": -8.8068
             },
             {
                 "pokestop_id": "e45e96f79eee4dd5b32db03fd04c4191.16",
@@ -662,6 +680,12 @@
                 "name": "Liz ao Quadro - Art Galery",
                 "latitude": 39.748424,
                 "longitude": -8.802439
+            },
+            {
+                "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
+                "name": "Campo De Apoio",
+                "latitude": 39.738138,
+                "longitude": -8.933062
             }
         ]
     },
@@ -930,6 +954,24 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "3 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
+                "name": "O pensativo.",
+                "latitude": 39.747078,
+                "longitude": -8.8151
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "10 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -986,6 +1028,24 @@
                 "name": "Sede Bloco de Esquerda",
                 "latitude": 39.750634,
                 "longitude": -8.932602
+            }
+        ]
+    },
+    {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
+                "name": "O Nosso Claustro \u00c9 O Mundo",
+                "latitude": 39.742156,
+                "longitude": -8.811256
             }
         ]
     },
