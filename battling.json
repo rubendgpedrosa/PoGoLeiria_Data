@@ -126,6 +126,30 @@
         ]
     },
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Onix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Onix",
+        "quest_reward_pokemon_id": 95,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5b7c1cda9e0d4c8f876d96cb4b090630.16",
+                "name": "Arte Urbana",
+                "latitude": 39.750531,
+                "longitude": -8.805541
+            },
+            {
+                "pokestop_id": "7f9a5234b0c5345c9940d8c491e044ee.16",
+                "name": "Choupo",
+                "latitude": 39.750912,
+                "longitude": -8.807484
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Tentacool",
         "quest_reward_type": "Pokemon",
@@ -158,24 +182,6 @@
                 "name": "Janelas Santo Agostinho",
                 "latitude": 39.740857,
                 "longitude": -8.801746
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "Onix",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Onix",
-        "quest_reward_pokemon_id": 95,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "7f9a5234b0c5345c9940d8c491e044ee.16",
-                "name": "Choupo",
-                "latitude": 39.750912,
-                "longitude": -8.807484
             }
         ]
     },
