@@ -184,6 +184,12 @@
                 "longitude": -8.804572
             },
             {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
+            {
                 "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
                 "name": "Campo de Futebol",
                 "latitude": 39.736816,
@@ -212,6 +218,12 @@
                 "name": "Campo Basketball",
                 "latitude": 39.746655,
                 "longitude": -8.802376
+            },
+            {
+                "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
+                "name": "Caritas Diocesana de Leiria",
+                "latitude": 39.73688,
+                "longitude": -8.806748
             },
             {
                 "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
@@ -662,6 +674,12 @@
                 "name": "Campo De Treino",
                 "latitude": 39.73825,
                 "longitude": -8.929618
+            },
+            {
+                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
+                "name": "laurus nobilis",
+                "latitude": 39.736728,
+                "longitude": -8.795776
             }
         ]
     },
@@ -802,6 +820,12 @@
                 "longitude": -8.929351
             },
             {
+                "pokestop_id": "b3356645cffd432abf254b1c58a5c593.16",
+                "name": "Mural ESTG",
+                "latitude": 39.734569,
+                "longitude": -8.821932
+            },
+            {
                 "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
                 "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
                 "latitude": 39.744778,
@@ -864,6 +888,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Clamperl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Clamperl",
+        "quest_reward_pokemon_id": 366,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "51a5cfd3c47c404080bf2813b792897b.16",
+                "name": "ADESER II",
+                "latitude": 39.75137,
+                "longitude": -8.931029
+            },
+            {
+                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
+                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
+                "latitude": 39.742059,
+                "longitude": -8.808031
+            }
+        ]
+    },
+    {
         "quest_description": "Make an Excellent Throw",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -878,6 +926,24 @@
                 "name": "Antigo Fontan\u00e1rio",
                 "latitude": 39.752154,
                 "longitude": -8.929224
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
             }
         ]
     },
@@ -1046,24 +1112,6 @@
                 "name": "Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739852,
                 "longitude": -8.808011
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "Clamperl",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Clamperl",
-        "quest_reward_pokemon_id": 366,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
-                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
-                "latitude": 39.742059,
-                "longitude": -8.808031
             }
         ]
     },
