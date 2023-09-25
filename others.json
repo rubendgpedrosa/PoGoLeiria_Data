@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Explore 2 km",
+        "quest_reward": "Yungoos",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Yungoos",
+        "quest_reward_pokemon_id": 734,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "01a435e293263fa2b2bc1b4c7fb620ef.16",
+                "name": "Mosaico  catedral verde",
+                "latitude": 39.75082,
+                "longitude": -8.93155
+            },
+            {
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
+            },
+            {
+                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
+                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
+                "latitude": 39.745038,
+                "longitude": -8.804716
+            }
+        ]
+    },
+    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Inkay",
         "quest_reward_type": "Pokemon",
@@ -508,6 +538,12 @@
                 "longitude": -8.814058
             },
             {
+                "pokestop_id": "2ac9299d7ffd319aa934d0d4337e8b8f.16",
+                "name": "Leiria: Cidade Europeia do Desporto 2022",
+                "latitude": 39.736999,
+                "longitude": -8.82141
+            },
+            {
                 "pokestop_id": "46cb0801d3613d68bfe9c1e5c4273b52.16",
                 "name": "Parque de Merendas",
                 "latitude": 39.733817,
@@ -704,6 +740,12 @@
                 "name": "Igreja",
                 "latitude": 39.741631,
                 "longitude": -8.802822
+            },
+            {
+                "pokestop_id": "f1edf2dd4b33434186ddc331a2fb2ce3.11",
+                "name": "Camara Municipal de Leiria",
+                "latitude": 39.741093,
+                "longitude": -8.810354
             },
             {
                 "pokestop_id": "f253df31ccb53395831c337eae84c9f9.16",
@@ -998,6 +1040,12 @@
                 "name": "Audit\u00f3rio",
                 "latitude": 39.749766,
                 "longitude": -8.926395
+            },
+            {
+                "pokestop_id": "d507cf11ba724b0e99127ed0e11b6597.16",
+                "name": "Lenda do Lis e do Lena",
+                "latitude": 39.743468,
+                "longitude": -8.8068
             }
         ]
     },
@@ -1046,30 +1094,6 @@
                 "name": "Sport Oper\u00e1rio Marinhense",
                 "latitude": 39.749997,
                 "longitude": -8.926437
-            }
-        ]
-    },
-    {
-        "quest_description": "Explore 2 km",
-        "quest_reward": "Yungoos",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Yungoos",
-        "quest_reward_pokemon_id": 734,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
-                "name": "Escultura Edifoz",
-                "latitude": 39.746497,
-                "longitude": -8.815913
-            },
-            {
-                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
-                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
-                "latitude": 39.745038,
-                "longitude": -8.804716
             }
         ]
     },
@@ -1130,6 +1154,12 @@
                 "name": "EPAMG",
                 "latitude": 39.749907,
                 "longitude": -8.933733
+            },
+            {
+                "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
+                "name": "Campus 2 - ESTG",
+                "latitude": 39.734095,
+                "longitude": -8.823089
             }
         ]
     }
