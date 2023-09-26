@@ -828,6 +828,42 @@
         ]
     },
     {
+        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Slowpoke",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Slowpoke",
+        "quest_reward_pokemon_id": 79,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
+            },
+            {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
+            },
+            {
+                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
+                "name": "Cal\u00e7ada Portuguesa",
+                "latitude": 39.744753,
+                "longitude": -8.804849
+            },
+            {
+                "pokestop_id": "a55789a0b055357b8f42ccdc0907d810.16",
+                "name": "Parque Infantil Este",
+                "latitude": 39.735664,
+                "longitude": -8.800658
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1058,36 +1094,6 @@
                 "name": "McDonald\u2019s-Leiria",
                 "latitude": 39.73516,
                 "longitude": -8.799637
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Slowpoke",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Slowpoke",
-        "quest_reward_pokemon_id": 79,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
-                "name": "Playcity 003",
-                "latitude": 39.740875,
-                "longitude": -8.801093
-            },
-            {
-                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
-                "name": "Cal\u00e7ada Portuguesa",
-                "latitude": 39.744753,
-                "longitude": -8.804849
-            },
-            {
-                "pokestop_id": "a55789a0b055357b8f42ccdc0907d810.16",
-                "name": "Parque Infantil Este",
-                "latitude": 39.735664,
-                "longitude": -8.800658
             }
         ]
     },
