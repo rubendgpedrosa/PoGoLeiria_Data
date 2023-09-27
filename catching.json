@@ -116,6 +116,12 @@
                 "name": "ESSLEI",
                 "latitude": 39.732661,
                 "longitude": -8.820675
+            },
+            {
+                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
+                "name": "ESSLEI",
+                "latitude": 39.732661,
+                "longitude": -8.820675
             }
         ]
     },
@@ -158,6 +164,12 @@
                 "name": "Pra\u00e7a do Emigrante",
                 "latitude": 39.748896,
                 "longitude": -8.80445
+            },
+            {
+                "pokestop_id": "832a7aa8d7b5306595ed9b512f663c44.16",
+                "name": "\u00c1rvore do Ambar",
+                "latitude": 39.732049,
+                "longitude": -8.796385
             },
             {
                 "pokestop_id": "832a7aa8d7b5306595ed9b512f663c44.16",
@@ -243,6 +255,12 @@
         "quest_reward_pokemon_id": 759,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
             {
                 "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
                 "name": "Edif\u00edcio Comendador",
@@ -357,6 +375,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 701,
         "pokestops": [
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
             {
                 "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
                 "name": "ISLA - Escola Profissional de Leiria",
@@ -583,6 +607,48 @@
     },
     {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
+                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
+                "latitude": 39.75142,
+                "longitude": -8.930414
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
+                "name": "Estravag\u00e1rio Graffiti",
+                "latitude": 39.752932,
+                "longitude": -8.933662
+            },
+            {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Wingull",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -602,6 +668,12 @@
                 "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
                 "latitude": 39.743218,
                 "longitude": -8.812164
+            },
+            {
+                "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
+                "name": "Campo de Treino de Arremesso",
+                "latitude": 39.736335,
+                "longitude": -8.929017
             }
         ]
     },
@@ -632,6 +704,12 @@
                 "name": "Ponte pedonal do Parque das Bernardas",
                 "latitude": 39.737792,
                 "longitude": -8.928996
+            },
+            {
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
             }
         ]
     },
@@ -650,24 +728,6 @@
                 "name": "EPAMG",
                 "latitude": 39.749907,
                 "longitude": -8.933733
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
-                "name": "Mural Bombeiro",
-                "latitude": 39.740828,
-                "longitude": -8.800367
             }
         ]
     },
@@ -758,6 +818,24 @@
                 "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
                 "latitude": 39.74317,
                 "longitude": -8.804189
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "10 Pidgeot Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Pidgeot",
+        "quest_reward_pokemon_id": 18,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
+                "name": "Antigo Bebedouro",
+                "latitude": 39.750713,
+                "longitude": -8.926943
             }
         ]
     },
