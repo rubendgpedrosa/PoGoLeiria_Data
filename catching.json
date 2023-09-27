@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "2bee528e05843d0f872201c882e56d1e.16",
+                "name": "Porta - Cidades Imagin\u00e1rias",
+                "latitude": 39.751504,
+                "longitude": -8.806966
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "10 Venusaur Mega Energy",
         "quest_reward_type": "Energy",
@@ -14,6 +32,36 @@
                 "name": "Engenharia Autom\u00f3vel",
                 "latitude": 39.733074,
                 "longitude": -8.821522
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
+        "quest_reward": "Wurmple",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wurmple",
+        "quest_reward_pokemon_id": 265,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
+                "name": "Marco CTT - Rua de Alcoba\u00e7a",
+                "latitude": 39.741853,
+                "longitude": -8.810621
+            },
+            {
+                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
+                "name": "Museu BVMG",
+                "latitude": 39.748136,
+                "longitude": -8.933859
+            },
+            {
+                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
+                "name": "ESSLEI",
+                "latitude": 39.732661,
+                "longitude": -8.820675
             }
         ]
     },
@@ -54,26 +102,20 @@
         ]
     },
     {
-        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
-        "quest_reward": "Wurmple",
-        "quest_reward_type": "Pokemon",
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
         "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Wurmple",
-        "quest_reward_pokemon_id": 265,
-        "quest_reward_item_id": 0,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
         "pokestops": [
             {
-                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
-                "name": "Museu BVMG",
-                "latitude": 39.748136,
-                "longitude": -8.933859
-            },
-            {
-                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
-                "name": "ESSLEI",
-                "latitude": 39.732661,
-                "longitude": -8.820675
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
             }
         ]
     }
