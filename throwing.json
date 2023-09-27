@@ -216,6 +216,30 @@
         ]
     },
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "46cb0801d3613d68bfe9c1e5c4273b52.16",
+                "name": "Parque de Merendas",
+                "latitude": 39.733817,
+                "longitude": -8.809361
+            },
+            {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "2 Ultra Ball",
         "quest_reward_type": "Item",
@@ -286,6 +310,12 @@
                 "longitude": -8.804361
             },
             {
+                "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
+                "name": "Bairro dos Anjos",
+                "latitude": 39.744958,
+                "longitude": -8.804361
+            },
+            {
                 "pokestop_id": "9940cb7614d0496c8ccb12329656ceff.16",
                 "name": "O Principezinho",
                 "latitude": 39.745269,
@@ -332,6 +362,24 @@
                 "name": "Caritas Diocesana de Leiria",
                 "latitude": 39.73688,
                 "longitude": -8.806748
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "latitude": 39.739681,
+                "longitude": -8.805175
             }
         ]
     },
@@ -446,24 +494,6 @@
                 "name": "Rodilha",
                 "latitude": 39.742979,
                 "longitude": -8.806888
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
-                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
-                "latitude": 39.745123,
-                "longitude": -8.797432
             }
         ]
     },
