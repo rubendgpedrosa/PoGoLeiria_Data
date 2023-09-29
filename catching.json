@@ -70,6 +70,12 @@
                 "longitude": -8.805366
             },
             {
+                "pokestop_id": "8968f9c2f8284e1da37b0124e9ba65ea.16",
+                "name": "Campo Desportivo Da Seixa",
+                "latitude": 39.7328,
+                "longitude": -8.800894
+            },
+            {
                 "pokestop_id": "8bc82266c02148c0974687ddf80f96f7.16",
                 "name": "LeiriaMini - Parque Infantil",
                 "latitude": 39.733184,
@@ -224,6 +230,12 @@
                 "name": "Igreja da Miseric\u00f3rdia",
                 "latitude": 39.745213,
                 "longitude": -8.807912
+            },
+            {
+                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
+                "name": "Escuteiros",
+                "latitude": 39.741841,
+                "longitude": -8.933249
             }
         ]
     },
@@ -356,6 +368,30 @@
                 "name": "The Dog",
                 "latitude": 39.745474,
                 "longitude": -8.808424
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Dark-, Ghost- or Dark-type Pokemon",
+        "quest_reward": "Gothita",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Gothita",
+        "quest_reward_pokemon_id": 574,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "59a6eb172b334499b7489e32c8ac436c.16",
+                "name": "Convento de Santo Ant\u00f3nio dos Capuchos",
+                "latitude": 39.743939,
+                "longitude": -8.813784
+            },
+            {
+                "pokestop_id": "90dbc24bfa2f4f7697ce38f13bde3fb9.11",
+                "name": "Monumento aos Combatentes do U",
+                "latitude": 39.747479,
+                "longitude": -8.812497
             }
         ]
     },
@@ -528,24 +564,6 @@
         ]
     },
     {
-        "quest_description": "Catch 5 Dark-, Ghost- or Dark-type Pokemon",
-        "quest_reward": "Gothita",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Gothita",
-        "quest_reward_pokemon_id": 574,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "90dbc24bfa2f4f7697ce38f13bde3fb9.11",
-                "name": "Monumento aos Combatentes do U",
-                "latitude": 39.747479,
-                "longitude": -8.812497
-            }
-        ]
-    },
-    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -632,6 +650,24 @@
                 "name": "Museu BVMG",
                 "latitude": 39.748136,
                 "longitude": -8.933859
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "10 Blaziken Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blaziken",
+        "quest_reward_pokemon_id": 257,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d47848cf08e945c691b195b0df815135.16",
+                "name": "Artes Manuais",
+                "latitude": 39.742853,
+                "longitude": -8.933931
             }
         ]
     },
