@@ -121,6 +121,24 @@
     },
     {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Wingull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wingull",
+        "quest_reward_pokemon_id": 278,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "19a9281ab7a83984b81186b81ecf6942.16",
+                "name": "Medronheiro",
+                "latitude": 39.748255,
+                "longitude": -8.801251
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Poliwag",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -188,6 +206,12 @@
                 "name": "Piscina Municipal Da Marinha Grande",
                 "latitude": 39.749552,
                 "longitude": -8.924803
+            },
+            {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
             },
             {
                 "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
@@ -602,6 +626,24 @@
                 "name": "Marco do Correio - Rua Jo\u00e3o XXI",
                 "latitude": 39.741588,
                 "longitude": -8.805421
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
+                "name": "Ponte pedonal norte do Parque das Bernardas",
+                "latitude": 39.738465,
+                "longitude": -8.929156
             }
         ]
     },
