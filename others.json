@@ -1063,6 +1063,30 @@
     },
     {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Aron",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aron",
+        "quest_reward_pokemon_id": 304,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
+            },
+            {
+                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
+                "name": "Mural \"Na Dist\u00e2ncia\"",
+                "latitude": 39.736711,
+                "longitude": -8.793678
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
         "quest_reward_amount": 500,
@@ -1112,24 +1136,6 @@
                 "name": "Biblioteca Municipal",
                 "latitude": 39.749895,
                 "longitude": -8.934498
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Aron",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Aron",
-        "quest_reward_pokemon_id": 304,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
-                "name": "Mural \"Na Dist\u00e2ncia\"",
-                "latitude": 39.736711,
-                "longitude": -8.793678
             }
         ]
     },
