@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "01a435e293263fa2b2bc1b4c7fb620ef.16",
+                "name": "Mosaico  catedral verde",
+                "latitude": 39.75082,
+                "longitude": -8.93155
+            },
+            {
+                "pokestop_id": "1d22b403b3e849439d80774f339186b4.16",
+                "name": "Azulejos Leiria S\u00e9culo XIX",
+                "latitude": 39.742721,
+                "longitude": -8.81045
+            },
+            {
+                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
+                "name": "Edif\u00edcio Ferro de Engomar",
+                "latitude": 39.740629,
+                "longitude": -8.802995
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Curveball Throws",
         "quest_reward": "Gligar",
         "quest_reward_type": "Pokemon",
@@ -32,6 +62,12 @@
                 "name": "Ponte Pedonal Suspensa",
                 "latitude": 39.750997,
                 "longitude": -8.809201
+            },
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
             },
             {
                 "pokestop_id": "64028475605436c098d172cef7a27671.16",
@@ -148,6 +184,12 @@
                 "longitude": -8.805366
             },
             {
+                "pokestop_id": "397894b8406948d39293b559e2a32455.16",
+                "name": "Instituto Portugu\u00eas da Juventude",
+                "latitude": 39.747497,
+                "longitude": -8.81418
+            },
+            {
                 "pokestop_id": "401aa5fe5e2a4ac2b7ed091070a5dc86.16",
                 "name": "Skate Parque Do Parque da Cerca",
                 "latitude": 39.74986,
@@ -240,6 +282,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "10 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "0a29459869b0327cba66cebbd13ecbae.16",
+                "name": "Escola de Dan\u00e7a Clara Le\u00e3o",
+                "latitude": 39.747173,
+                "longitude": -8.812967
+            },
+            {
+                "pokestop_id": "7f9a5234b0c5345c9940d8c491e044ee.16",
+                "name": "Choupo",
+                "latitude": 39.750912,
+                "longitude": -8.807484
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -308,6 +374,12 @@
                 "name": "Complexo Municipal De T\u00eanis",
                 "latitude": 39.735363,
                 "longitude": -8.795582
+            },
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
             }
         ]
     },
@@ -326,6 +398,12 @@
                 "name": "Parque Infantil Almuinha Grande",
                 "latitude": 39.751567,
                 "longitude": -8.81027
+            },
+            {
+                "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
+                "name": "Dan'el E'me",
+                "latitude": 39.740549,
+                "longitude": -8.802441
             },
             {
                 "pokestop_id": "f99206298061310da2599051b487f4ef.16",
@@ -400,34 +478,16 @@
                 "longitude": -8.801251
             },
             {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
+            },
+            {
                 "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
                 "name": "Placa de Homenagem Wenceslau de Morais",
                 "latitude": 39.747264,
                 "longitude": -8.803776
-            }
-        ]
-    },
-    {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "1d22b403b3e849439d80774f339186b4.16",
-                "name": "Azulejos Leiria S\u00e9culo XIX",
-                "latitude": 39.742721,
-                "longitude": -8.81045
-            },
-            {
-                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
-                "name": "Edif\u00edcio Ferro de Engomar",
-                "latitude": 39.740629,
-                "longitude": -8.802995
             }
         ]
     },
@@ -888,24 +948,6 @@
         ]
     },
     {
-        "quest_description": "Make 3 Great Throws in a row",
-        "quest_reward": "10 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "7f9a5234b0c5345c9940d8c491e044ee.16",
-                "name": "Choupo",
-                "latitude": 39.750912,
-                "longitude": -8.807484
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1058,6 +1100,24 @@
                 "name": "Liz ao Quadro - Art Galery",
                 "latitude": 39.748424,
                 "longitude": -8.802439
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "9 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 9,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "c0206140379044b5a8ce69871cfa0f22.16",
+                "name": "Igreja Crist\u00e3 Maranata",
+                "latitude": 39.743058,
+                "longitude": -8.800445
             }
         ]
     },
