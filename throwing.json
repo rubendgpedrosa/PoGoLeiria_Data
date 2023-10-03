@@ -458,6 +458,18 @@
                 "name": "Parque Dos Cani\u00e7os",
                 "latitude": 39.740299,
                 "longitude": -8.799535
+            },
+            {
+                "pokestop_id": "2eb6fcf025c9474d971550339c9512ae.11",
+                "name": "Correios Leiria (Post Office)",
+                "latitude": 39.743073,
+                "longitude": -8.808473
+            },
+            {
+                "pokestop_id": "c3c8a7b519bd349b96df337260957971.16",
+                "name": "Sociedade Columb\u00f3fila Marinhense",
+                "latitude": 39.748494,
+                "longitude": -8.932563
             }
         ]
     },
@@ -898,6 +910,12 @@
                 "longitude": -8.809361
             },
             {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
+            },
+            {
                 "pokestop_id": "dcd6e2e0c82d308d9c33f719869d3f54.16",
                 "name": "Igreja Deus Prover\u00e1",
                 "latitude": 39.748424,
@@ -1212,6 +1230,30 @@
         ]
     },
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
+                "name": "Slither Monsters",
+                "latitude": 39.746086,
+                "longitude": -8.934856
+            },
+            {
+                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
+                "name": "Glove x 400mI",
+                "latitude": 39.74775,
+                "longitude": -8.807233
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -1290,24 +1332,6 @@
         ]
     },
     {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
-                "name": "Glove x 400mI",
-                "latitude": 39.74775,
-                "longitude": -8.807233
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "Elgyem",
         "quest_reward_type": "Pokemon",
@@ -1364,6 +1388,24 @@
                 "name": "Capela Sao Francisco",
                 "latitude": 39.748187,
                 "longitude": -8.803393
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Diglett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Diglett",
+        "quest_reward_pokemon_id": 50,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
+                "name": "Campo De Apoio",
+                "latitude": 39.738138,
+                "longitude": -8.933062
             }
         ]
     },
