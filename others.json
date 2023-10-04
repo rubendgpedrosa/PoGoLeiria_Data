@@ -16,6 +16,18 @@
                 "longitude": -8.93155
             },
             {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
+            {
                 "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
                 "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
                 "latitude": 39.73966,
@@ -46,6 +58,12 @@
                 "longitude": -8.928765
             },
             {
+                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
+                "name": "Ringue De Futebol",
+                "latitude": 39.745324,
+                "longitude": -8.933841
+            },
+            {
                 "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
                 "name": "Janelas Santo Agostinho",
                 "latitude": 39.740857,
@@ -74,6 +92,12 @@
                 "name": "Mural Bombeiro",
                 "latitude": 39.740828,
                 "longitude": -8.800367
+            },
+            {
+                "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
+                "name": "Engenho Na Escola",
+                "latitude": 39.74247,
+                "longitude": -8.933721
             },
             {
                 "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
@@ -194,6 +218,12 @@
                 "name": "Mercado de Sant'ana",
                 "latitude": 39.74304,
                 "longitude": -8.807411
+            },
+            {
+                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
+                "name": "Arquivo Distrital",
+                "latitude": 39.744298,
+                "longitude": -8.811006
             }
         ]
     },
@@ -242,6 +272,12 @@
                 "name": "m|i|mo - Museu da Imagem em Movimento",
                 "latitude": 39.747339,
                 "longitude": -8.807318
+            },
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
             },
             {
                 "pokestop_id": "2ed1ee1f97513bb093cb82a83407952b.16",
@@ -338,6 +374,12 @@
                 "name": "Franguinho no churrasco",
                 "latitude": 39.755374,
                 "longitude": -8.932558
+            },
+            {
+                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
+                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
+                "latitude": 39.742537,
+                "longitude": -8.793462
             },
             {
                 "pokestop_id": "eb09f8325d3b4095b70b9b37cd92fb6e.16",
@@ -704,6 +746,12 @@
                 "name": "Igreja do cemit\u00e9rio da Marinha Grande",
                 "latitude": 39.745877,
                 "longitude": -8.932347
+            },
+            {
+                "pokestop_id": "4f926fcd72ea300d9a7ace8deb9b2a6d.16",
+                "name": "Pra\u00e7a Eng Calazans Duarte",
+                "latitude": 39.742041,
+                "longitude": -8.934302
             }
         ]
     },
@@ -1129,6 +1177,30 @@
     },
     {
         "quest_description": "Explore 2 km",
+        "quest_reward": "Yungoos",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Yungoos",
+        "quest_reward_pokemon_id": 734,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "c3c8a7b519bd349b96df337260957971.16",
+                "name": "Sociedade Columb\u00f3fila Marinhense",
+                "latitude": 39.748494,
+                "longitude": -8.932563
+            },
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455
+            }
+        ]
+    },
+    {
+        "quest_description": "Explore 2 km",
         "quest_reward": "Rattata",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -1148,24 +1220,6 @@
                 "name": "Celtis Australis",
                 "latitude": 39.741299,
                 "longitude": -8.801055
-            }
-        ]
-    },
-    {
-        "quest_description": "Explore 2 km",
-        "quest_reward": "Yungoos",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Yungoos",
-        "quest_reward_pokemon_id": 734,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
-                "name": "Assembleia de Deus",
-                "latitude": 39.745074,
-                "longitude": -8.936455
             }
         ]
     },
