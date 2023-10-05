@@ -76,6 +76,12 @@
                 "longitude": -8.805844
             },
             {
+                "pokestop_id": "35a7b988a82d34d88f937b142e51c01c.16",
+                "name": "Assembleia de Deus.",
+                "latitude": 39.753204,
+                "longitude": -8.806617
+            },
+            {
                 "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
                 "name": "Ponte da Fonte Quente",
                 "latitude": 39.747216,
@@ -140,6 +146,12 @@
                 "name": "Pharmacia",
                 "latitude": 39.745802,
                 "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
             },
             {
                 "pokestop_id": "3a4298de80593eb885910e275b595736.16",
@@ -280,6 +292,12 @@
                 "longitude": -8.929395
             },
             {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
+            },
+            {
                 "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
                 "name": "Marco de Correios CTT",
                 "latitude": 39.752895,
@@ -296,6 +314,12 @@
                 "name": "Mural Rei das Runas",
                 "latitude": 39.747825,
                 "longitude": -8.930829
+            },
+            {
+                "pokestop_id": "bafe2c1d38fd4236a86d5d40ede9383f.16",
+                "name": "Associa\u00e7\u00e3o de Munic\u00edpios e de Desenvolvimento da Alta-Estremadura",
+                "latitude": 39.742508,
+                "longitude": -8.8066
             },
             {
                 "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
@@ -392,6 +416,12 @@
                 "name": "ASURPI",
                 "latitude": 39.75141,
                 "longitude": -8.933588
+            },
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
             }
         ]
     },
@@ -558,6 +588,24 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Manectric Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Manectric",
+        "quest_reward_pokemon_id": 310,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a1d7da08d79c492098f4f57a27931039.16",
+                "name": "Marco CTT - Rua Professor N. Costa",
+                "latitude": 39.742221,
+                "longitude": -8.813073
+            }
+        ]
+    },
+    {
         "quest_description": "Explore 2 km",
         "quest_reward": "Rattata",
         "quest_reward_type": "Pokemon",
@@ -584,6 +632,30 @@
                 "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
                 "latitude": 39.74317,
                 "longitude": -8.804189
+            }
+        ]
+    },
+    {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Elgyem",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Elgyem",
+        "quest_reward_pokemon_id": 605,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
+                "name": "Rainha Santa Isabel",
+                "latitude": 39.745508,
+                "longitude": -8.811107
+            },
+            {
+                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
+                "name": "Antigo Bebedouro",
+                "latitude": 39.750713,
+                "longitude": -8.926943
             }
         ]
     },
@@ -620,24 +692,6 @@
                 "name": "Torre Agua Leiria",
                 "latitude": 39.743319,
                 "longitude": -8.799232
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Elgyem",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Elgyem",
-        "quest_reward_pokemon_id": 605,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
-                "name": "Antigo Bebedouro",
-                "latitude": 39.750713,
-                "longitude": -8.926943
             }
         ]
     },
