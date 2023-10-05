@@ -30,6 +30,36 @@
         ]
     },
     {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Growlithe",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Growlithe",
+        "quest_reward_pokemon_id": 58,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "09211576d80e30c3b6007b0d72d8cf96.16",
+                "name": "Azulejo Bairro dos Anjos",
+                "latitude": 39.744443,
+                "longitude": -8.804282
+            },
+            {
+                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
+                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
+                "latitude": 39.73966,
+                "longitude": -8.808042
+            },
+            {
+                "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
+                "name": "Miradouro Leiria",
+                "latitude": 39.743941,
+                "longitude": -8.802609
+            }
+        ]
+    },
+    {
         "quest_description": "Purify 3 Pokemon",
         "quest_reward": "Haunter",
         "quest_reward_type": "Pokemon",
@@ -56,6 +86,12 @@
                 "name": "Zona Desportiva",
                 "latitude": 39.747903,
                 "longitude": -8.936311
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
             }
         ]
     },
@@ -116,6 +152,12 @@
                 "name": "S. Francisco",
                 "latitude": 39.74836,
                 "longitude": -8.803617
+            },
+            {
+                "pokestop_id": "3c3affed92033d50b8f0202713d8a53e.16",
+                "name": "Villa Portela - Casa D'Artes",
+                "latitude": 39.741224,
+                "longitude": -8.809235
             },
             {
                 "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
@@ -332,30 +374,6 @@
                 "name": "A\u00e7ude Da Fonte Quente",
                 "latitude": 39.747803,
                 "longitude": -8.802251
-            }
-        ]
-    },
-    {
-        "quest_description": "Hatch 2 Eggs",
-        "quest_reward": "Growlithe",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Growlithe",
-        "quest_reward_pokemon_id": 58,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
-                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
-                "latitude": 39.73966,
-                "longitude": -8.808042
-            },
-            {
-                "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
-                "name": "Miradouro Leiria",
-                "latitude": 39.743941,
-                "longitude": -8.802609
             }
         ]
     },
