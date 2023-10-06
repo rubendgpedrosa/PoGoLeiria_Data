@@ -234,42 +234,6 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 3 times",
-        "quest_reward": "Charmander",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Charmander",
-        "quest_reward_pokemon_id": 4,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "0d8a08d8b1373ea6aa0dda39ef0333c1.16",
-                "name": "m|i|mo - Museu da Imagem em Movimento",
-                "latitude": 39.747339,
-                "longitude": -8.807318
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 10 times",
-        "quest_reward": "25 Ampharos Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 25,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Ampharos",
-        "quest_reward_pokemon_id": 181,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
-                "name": "Parque Dos Cani\u00e7os",
-                "latitude": 39.740299,
-                "longitude": -8.799535
-            }
-        ]
-    },
-    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Yamask",
         "quest_reward_type": "Pokemon",
@@ -279,6 +243,12 @@
         "quest_reward_pokemon_id": 562,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
             {
                 "pokestop_id": "17b2cd0ad9d434b8a10e960f0b4171ba.16",
                 "name": "Parque desportivo de S.Rom\u00e3o",
@@ -314,6 +284,42 @@
                 "name": "Campo De Apoio",
                 "latitude": 39.738138,
                 "longitude": -8.933062
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Charmander",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Charmander",
+        "quest_reward_pokemon_id": 4,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d8a08d8b1373ea6aa0dda39ef0333c1.16",
+                "name": "m|i|mo - Museu da Imagem em Movimento",
+                "latitude": 39.747339,
+                "longitude": -8.807318
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 10 times",
+        "quest_reward": "25 Ampharos Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Ampharos",
+        "quest_reward_pokemon_id": 181,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
             }
         ]
     },
@@ -516,6 +522,24 @@
         ]
     },
     {
+        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Growlithe",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Growlithe",
+        "quest_reward_pokemon_id": 58,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2ed1ee1f97513bb093cb82a83407952b.16",
+                "name": "Quiosque da Cruz da Areia",
+                "latitude": 39.729117,
+                "longitude": -8.808391
+            }
+        ]
+    },
+    {
         "quest_description": "Explore 2 km",
         "quest_reward": "Yungoos",
         "quest_reward_type": "Pokemon",
@@ -632,6 +656,12 @@
                 "name": "O sol da Cerca",
                 "latitude": 39.748941,
                 "longitude": -8.934582
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             }
         ]
     },
