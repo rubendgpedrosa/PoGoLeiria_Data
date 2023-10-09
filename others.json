@@ -114,6 +114,36 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "0727712d36f33ead9a626d22bb911953.16",
+                "name": "Baloico Santa Clara",
+                "latitude": 39.73971,
+                "longitude": -8.821638
+            },
+            {
+                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
+                "name": "Correios Office Post Leiria",
+                "latitude": 39.740543,
+                "longitude": -8.80818
+            },
+            {
+                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
+                "name": "Antigo Bebedouro",
+                "latitude": 39.750713,
+                "longitude": -8.926943
+            }
+        ]
+    },
+    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Yamask",
         "quest_reward_type": "Pokemon",
@@ -178,10 +208,22 @@
                 "longitude": -8.805366
             },
             {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
                 "pokestop_id": "2ac9299d7ffd319aa934d0d4337e8b8f.16",
                 "name": "Leiria: Cidade Europeia do Desporto 2022",
                 "latitude": 39.736999,
                 "longitude": -8.82141
+            },
+            {
+                "pokestop_id": "346692f7731647539c32a978b011270d.16",
+                "name": "Zona de Merendas",
+                "latitude": 39.747887,
+                "longitude": -8.810421
             },
             {
                 "pokestop_id": "401aa5fe5e2a4ac2b7ed091070a5dc86.16",
@@ -266,6 +308,12 @@
                 "name": "VDesign",
                 "latitude": 39.745756,
                 "longitude": -8.807801
+            },
+            {
+                "pokestop_id": "eebf10c32cf83dc483bba74f8b7c9d35.16",
+                "name": "Painel de Informa\u00e7\u00f5es - Uni\u00e3o de Freguesias de Leiria, Pousos, Barreira e Cortes",
+                "latitude": 39.733271,
+                "longitude": -8.796911
             },
             {
                 "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
@@ -374,6 +422,12 @@
                 "name": "Estradas Portugal",
                 "latitude": 39.751555,
                 "longitude": -8.808172
+            },
+            {
+                "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
+                "name": "Campo De Apoio",
+                "latitude": 39.738138,
+                "longitude": -8.933062
             },
             {
                 "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
@@ -602,6 +656,12 @@
                 "name": "Galerias Horizonte",
                 "latitude": 39.745662,
                 "longitude": -8.930959
+            },
+            {
+                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
+                "name": "Leiria Shopping",
+                "latitude": 39.732373,
+                "longitude": -8.824896
             }
         ]
     },
@@ -644,30 +704,6 @@
                 "name": "Pra\u00e7a Eng Calazans Duarte",
                 "latitude": 39.742041,
                 "longitude": -8.934302
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
-                "name": "Correios Office Post Leiria",
-                "latitude": 39.740543,
-                "longitude": -8.80818
-            },
-            {
-                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
-                "name": "Antigo Bebedouro",
-                "latitude": 39.750713,
-                "longitude": -8.926943
             }
         ]
     },
@@ -850,6 +886,12 @@
                 "longitude": -8.809911
             },
             {
+                "pokestop_id": "c194e76186764926aed5179fbd77c49c.16",
+                "name": "Sede do Partido Social Democrata da Marinha Grande",
+                "latitude": 39.746712,
+                "longitude": -8.928824
+            },
+            {
                 "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
                 "name": "Ringue de futebol da Marinha Grande",
                 "latitude": 39.740808,
@@ -956,6 +998,12 @@
                 "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
                 "latitude": 39.736015,
                 "longitude": -8.822146
+            },
+            {
+                "pokestop_id": "fafc1dc9332130dd9955fd98eeae7954.16",
+                "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
+                "latitude": 39.749364,
+                "longitude": -8.930986
             }
         ]
     },
@@ -1225,6 +1273,30 @@
     },
     {
         "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Oshawott",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Oshawott",
+        "quest_reward_pokemon_id": 501,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
+                "name": "Arcos - Leiria",
+                "latitude": 39.746016,
+                "longitude": -8.80598
+            },
+            {
+                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
+                "name": "Escuteiros",
+                "latitude": 39.741841,
+                "longitude": -8.933249
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Charizard Mega Energy",
         "quest_reward_type": "Energy",
         "quest_reward_amount": 10,
@@ -1274,24 +1346,6 @@
                 "name": "Faces Cubistas",
                 "latitude": 39.750855,
                 "longitude": -8.806714
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "Oshawott",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Oshawott",
-        "quest_reward_pokemon_id": 501,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
-                "name": "Escuteiros",
-                "latitude": 39.741841,
-                "longitude": -8.933249
             }
         ]
     },
