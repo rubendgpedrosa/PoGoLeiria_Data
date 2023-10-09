@@ -228,6 +228,42 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "5613eab61745402d916a04de1e0cd30f.16",
+                "name": "Antigo Forno",
+                "latitude": 39.748463,
+                "longitude": -8.92676
+            },
+            {
+                "pokestop_id": "8f7b6c291e7d40b7bdd98801018beff9.16",
+                "name": "Farol",
+                "latitude": 39.750152,
+                "longitude": -8.931811
+            },
+            {
+                "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
+                "name": "Biblioteca Municipal",
+                "latitude": 39.749895,
+                "longitude": -8.934498
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -242,6 +278,12 @@
                 "name": "Bairro do Povo",
                 "latitude": 39.741382,
                 "longitude": -8.931793
+            },
+            {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
             },
             {
                 "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
@@ -622,6 +664,12 @@
                 "longitude": -8.805589
             },
             {
+                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
+                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
+                "latitude": 39.742059,
+                "longitude": -8.808031
+            },
+            {
                 "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
                 "name": "Arcos - Leiria",
                 "latitude": 39.746016,
@@ -938,36 +986,6 @@
                 "name": "Marco CTT - Rua de Alcoba\u00e7a",
                 "latitude": 39.741853,
                 "longitude": -8.810621
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "5613eab61745402d916a04de1e0cd30f.16",
-                "name": "Antigo Forno",
-                "latitude": 39.748463,
-                "longitude": -8.92676
-            },
-            {
-                "pokestop_id": "8f7b6c291e7d40b7bdd98801018beff9.16",
-                "name": "Farol",
-                "latitude": 39.750152,
-                "longitude": -8.931811
-            },
-            {
-                "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
-                "name": "Biblioteca Municipal",
-                "latitude": 39.749895,
-                "longitude": -8.934498
             }
         ]
     },
