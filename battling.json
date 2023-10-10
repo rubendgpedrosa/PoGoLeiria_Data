@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Onix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Onix",
+        "quest_reward_pokemon_id": 95,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "25a0330c10104e74a733559e8c6d11a2.16",
+                "name": "Centro Desportivo Juve Lis",
+                "latitude": 39.731097,
+                "longitude": -8.794939
+            },
+            {
+                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
+                "name": "P\u00e9rgula Marinhense",
+                "latitude": 39.751051,
+                "longitude": -8.928765
+            },
+            {
+                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
+                "name": "Barragem do Rio Lis",
+                "latitude": 39.751189,
+                "longitude": -8.812916
+            }
+        ]
+    },
+    {
         "quest_description": "Win a three-star raid or higher",
         "quest_reward": "Tirtouga",
         "quest_reward_type": "Pokemon",
@@ -28,10 +58,34 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "46cb0801d3613d68bfe9c1e5c4273b52.16",
+                "name": "Parque de Merendas",
+                "latitude": 39.733817,
+                "longitude": -8.809361
+            },
+            {
                 "pokestop_id": "d38f41a6dd1245bba807050ac15d128e.16",
                 "name": "Museu do Vidro da Marinha Grande",
                 "latitude": 39.749484,
                 "longitude": -8.93346
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Marill",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marill",
+        "quest_reward_pokemon_id": 183,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
+                "name": "Ringue De Futebol",
+                "latitude": 39.745324,
+                "longitude": -8.933841
             }
         ]
     },
