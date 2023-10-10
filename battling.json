@@ -18,6 +18,36 @@
         ]
     },
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Tirtouga",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tirtouga",
+        "quest_reward_pokemon_id": 564,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
+            {
+                "pokestop_id": "269dbaf0499c3b2ab34b41f321f8ccd8.16",
+                "name": "Mural comboio de lata",
+                "latitude": 39.748094,
+                "longitude": -8.933068
+            },
+            {
+                "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
+                "name": "Abra\u00e7o ao universo",
+                "latitude": 39.751515,
+                "longitude": -8.814163
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Onix",
         "quest_reward_type": "Pokemon",
@@ -32,6 +62,12 @@
                 "name": "Centro Desportivo Juve Lis",
                 "latitude": 39.731097,
                 "longitude": -8.794939
+            },
+            {
+                "pokestop_id": "4dbc1059dc043532829dda66e5d5ab5b.16",
+                "name": "Caixa Postal CTT",
+                "latitude": 39.742178,
+                "longitude": -8.798332
             },
             {
                 "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
@@ -50,30 +86,12 @@
                 "name": "Barragem do Rio Lis",
                 "latitude": 39.751189,
                 "longitude": -8.812916
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Tirtouga",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Tirtouga",
-        "quest_reward_pokemon_id": 564,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "269dbaf0499c3b2ab34b41f321f8ccd8.16",
-                "name": "Mural comboio de lata",
-                "latitude": 39.748094,
-                "longitude": -8.933068
             },
             {
-                "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
-                "name": "Abra\u00e7o ao universo",
-                "latitude": 39.751515,
-                "longitude": -8.814163
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
             }
         ]
     },
@@ -116,6 +134,12 @@
                 "name": "Ringue De Futebol",
                 "latitude": 39.745324,
                 "longitude": -8.933841
+            },
+            {
+                "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
+                "name": "Campo De Apoio",
+                "latitude": 39.738138,
+                "longitude": -8.933062
             }
         ]
     },
@@ -140,6 +164,12 @@
                 "name": "Sede de Imprensa Marinha Grande",
                 "latitude": 39.753915,
                 "longitude": -8.932095
+            },
+            {
+                "pokestop_id": "fafc1dc9332130dd9955fd98eeae7954.16",
+                "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
+                "latitude": 39.749364,
+                "longitude": -8.930986
             }
         ]
     }
