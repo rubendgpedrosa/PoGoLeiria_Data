@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Win 2 raids",
+        "quest_reward": "Shedinja",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Shedinja",
+        "quest_reward_pokemon_id": 292,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "097466c5212c4a0a81c4123a78445154.16",
+                "name": "Mural \"Liberdade\"",
+                "latitude": 39.745754,
+                "longitude": -8.805297
+            },
+            {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
+            },
+            {
+                "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
+                "name": "Jardim de Leiria",
+                "latitude": 39.744338,
+                "longitude": -8.806031
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Onix",
         "quest_reward_type": "Pokemon",
@@ -62,24 +92,6 @@
                 "name": "Associa\u00e7\u00e3o Social, Cultural e Desportiva de Casal Galego.",
                 "latitude": 39.74153,
                 "longitude": -8.931072
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 2 raids",
-        "quest_reward": "Shedinja",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Shedinja",
-        "quest_reward_pokemon_id": 292,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
-                "name": "Edif\u00edcio Da Resinagem",
-                "latitude": 39.749198,
-                "longitude": -8.932709
             }
         ]
     }
