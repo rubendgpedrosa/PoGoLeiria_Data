@@ -1,6 +1,24 @@
 [
     {
         "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Wooper",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wooper",
+        "quest_reward_pokemon_id": 194,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
+                "name": "Clube de campismo da Marinha Grande",
+                "latitude": 39.747495,
+                "longitude": -8.935422
+            }
+        ]
+    },
+    {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Spheal",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -14,6 +32,30 @@
                 "name": "Est\u00e1tua \"A Caminho da Feira\"",
                 "latitude": 39.744847,
                 "longitude": -8.804645
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Jigglypuff",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Jigglypuff",
+        "quest_reward_pokemon_id": 39,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
+                "name": "D. Dinis",
+                "latitude": 39.745862,
+                "longitude": -8.809441
             }
         ]
     },
