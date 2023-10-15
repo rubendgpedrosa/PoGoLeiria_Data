@@ -120,6 +120,42 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "2 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "1f641ecb295932fbbe208b6f082139d8.16",
+                "name": "Igreja bola de neve",
+                "latitude": 39.733928,
+                "longitude": -8.807519
+            },
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            },
+            {
+                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
+                "name": "Ringue De Futebol",
+                "latitude": 39.745324,
+                "longitude": -8.933841
+            },
+            {
+                "pokestop_id": "bafe2c1d38fd4236a86d5d40ede9383f.16",
+                "name": "Associa\u00e7\u00e3o de Munic\u00edpios e de Desenvolvimento da Alta-Estremadura",
+                "latitude": 39.742508,
+                "longitude": -8.8066
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Murkrow",
         "quest_reward_type": "Pokemon",
@@ -212,36 +248,6 @@
                 "name": "Parque Infantil",
                 "latitude": 39.734135,
                 "longitude": -8.803202
-            }
-        ]
-    },
-    {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "2 Ultra Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Ultra Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
-        "pokestops": [
-            {
-                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
-                "name": "O Diab\u00f3lico",
-                "latitude": 39.729536,
-                "longitude": -8.812971
-            },
-            {
-                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
-                "name": "Ringue De Futebol",
-                "latitude": 39.745324,
-                "longitude": -8.933841
-            },
-            {
-                "pokestop_id": "bafe2c1d38fd4236a86d5d40ede9383f.16",
-                "name": "Associa\u00e7\u00e3o de Munic\u00edpios e de Desenvolvimento da Alta-Estremadura",
-                "latitude": 39.742508,
-                "longitude": -8.8066
             }
         ]
     },
@@ -662,6 +668,24 @@
                 "name": "As Cisternas do Castelo",
                 "latitude": 39.747505,
                 "longitude": -8.809466
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
+                "name": "Janelas do Jardim da Almuinha",
+                "latitude": 39.751734,
+                "longitude": -8.80984
             }
         ]
     },
