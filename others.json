@@ -38,6 +38,24 @@
                 "name": "Jardim Am\u00e9lia Pinto Pais",
                 "latitude": 39.742343,
                 "longitude": -8.803473
+            },
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
+            },
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
+            },
+            {
+                "pokestop_id": "de7d0cc92e0e4b62b195f7a846d06f79.16",
+                "name": "Urban Fitness",
+                "latitude": 39.748953,
+                "longitude": -8.802133
             }
         ]
     },
@@ -62,6 +80,12 @@
                 "name": "Estravag\u00e1rio Graffiti",
                 "latitude": 39.752932,
                 "longitude": -8.933662
+            },
+            {
+                "pokestop_id": "9baafb93f8093e628262f96c06541c99.16",
+                "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
+                "latitude": 39.743218,
+                "longitude": -8.812164
             }
         ]
     },
@@ -80,6 +104,66 @@
                 "name": "Parede De Escalada Do Parque Da Cerca",
                 "latitude": 39.750316,
                 "longitude": -8.935659
+            }
+        ]
+    },
+    {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Sableye",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sableye",
+        "quest_reward_pokemon_id": 302,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "143767309db947358b481a9f9c40ae56.16",
+                "name": "Parque Infantil Almuinha Grande",
+                "latitude": 39.751567,
+                "longitude": -8.81027
+            },
+            {
+                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
+                "name": "Parque de S\u00e3o Rom\u00e3o",
+                "latitude": 39.733442,
+                "longitude": -8.797748
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Growlithe",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Growlithe",
+        "quest_reward_pokemon_id": 58,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "346692f7731647539c32a978b011270d.16",
+                "name": "Zona de Merendas",
+                "latitude": 39.747887,
+                "longitude": -8.810421
+            },
+            {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
+            },
+            {
+                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
+                "name": "Casa Da Cultura",
+                "latitude": 39.749033,
+                "longitude": -8.933087
+            },
+            {
+                "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
+                "name": "Tribunal do Trabalho de Leiria",
+                "latitude": 39.739929,
+                "longitude": -8.808784
             }
         ]
     },
@@ -126,20 +210,56 @@
         ]
     },
     {
-        "quest_description": "Defeat 3 Team GO Rocket Grunts",
-        "quest_reward": "Sableye",
+        "quest_description": "Purify 3 Pokemon",
+        "quest_reward": "Haunter",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Sableye",
-        "quest_reward_pokemon_id": 302,
+        "quest_reward_pokemon_name": "Haunter",
+        "quest_reward_pokemon_id": 93,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
-                "name": "Parque de S\u00e3o Rom\u00e3o",
-                "latitude": 39.733442,
-                "longitude": -8.797748
+                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
+                "name": "Audit\u00f3rio",
+                "latitude": 39.749766,
+                "longitude": -8.926395
+            },
+            {
+                "pokestop_id": "692fb081edc349979975cb8a4a8d5af5.16",
+                "name": "Parque Do Museu Do Vidro",
+                "latitude": 39.74908,
+                "longitude": -8.933678
+            },
+            {
+                "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
+                "name": "Slither Monsters",
+                "latitude": 39.746086,
+                "longitude": -8.934856
+            },
+            {
+                "pokestop_id": "a6d7eca545914ec3b5fc2ae294b69656.11",
+                "name": "Est\u00e1tua \"A Caminho da Feira\"",
+                "latitude": 39.744847,
+                "longitude": -8.804645
+            }
+        ]
+    },
+    {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Elgyem",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Elgyem",
+        "quest_reward_pokemon_id": 605,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4dbc1059dc043532829dda66e5d5ab5b.16",
+                "name": "Caixa Postal CTT",
+                "latitude": 39.742178,
+                "longitude": -8.798332
             }
         ]
     },
@@ -162,26 +282,38 @@
         ]
     },
     {
-        "quest_description": "Purify 3 Pokemon",
-        "quest_reward": "Haunter",
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Aron",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Haunter",
-        "quest_reward_pokemon_id": 93,
+        "quest_reward_pokemon_name": "Aron",
+        "quest_reward_pokemon_id": 304,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "692fb081edc349979975cb8a4a8d5af5.16",
-                "name": "Parque Do Museu Do Vidro",
-                "latitude": 39.74908,
-                "longitude": -8.933678
-            },
+                "pokestop_id": "6d59dc9c55f743179a8cb5f6fb59a86f.16",
+                "name": "Placa Informativa - Antes do Castelo",
+                "latitude": 39.747749,
+                "longitude": -8.808107
+            }
+        ]
+    },
+    {
+        "quest_description": "Explore 2 km",
+        "quest_reward": "Yungoos",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Yungoos",
+        "quest_reward_pokemon_id": 734,
+        "quest_reward_item_id": 0,
+        "pokestops": [
             {
-                "pokestop_id": "a6d7eca545914ec3b5fc2ae294b69656.11",
-                "name": "Est\u00e1tua \"A Caminho da Feira\"",
-                "latitude": 39.744847,
-                "longitude": -8.804645
+                "pokestop_id": "6ec49906cb8c4e0d9e2ca1709374c77c.16",
+                "name": "Associa\u00e7\u00e3o de Futebol de Leiria",
+                "latitude": 39.739999,
+                "longitude": -8.815938
             }
         ]
     },
@@ -240,30 +372,6 @@
         ]
     },
     {
-        "quest_description": "Hatch an Egg",
-        "quest_reward": "Growlithe",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Growlithe",
-        "quest_reward_pokemon_id": 58,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
-                "name": "Casa Da Cultura",
-                "latitude": 39.749033,
-                "longitude": -8.933087
-            },
-            {
-                "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
-                "name": "Tribunal do Trabalho de Leiria",
-                "latitude": 39.739929,
-                "longitude": -8.808784
-            }
-        ]
-    },
-    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "Tepig",
         "quest_reward_type": "Pokemon",
@@ -296,6 +404,24 @@
                 "name": "Ponte pedonal sul do Parque das Bernardas",
                 "latitude": 39.737116,
                 "longitude": -8.928597
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Cottonee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cottonee",
+        "quest_reward_pokemon_id": 546,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
             }
         ]
     },
