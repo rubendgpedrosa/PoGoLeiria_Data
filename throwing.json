@@ -78,6 +78,24 @@
         ]
     },
     {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "0df8fea10368498f97ff03c53648024c.16",
+                "name": "Museu S C P",
+                "latitude": 39.746818,
+                "longitude": -8.812759
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
@@ -418,6 +436,12 @@
                 "longitude": -8.928307
             },
             {
+                "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
+                "name": "CENFIM",
+                "latitude": 39.749026,
+                "longitude": -8.928307
+            },
+            {
                 "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
                 "name": "Ponte pedonal do parque das Almoinhas",
                 "latitude": 39.751479,
@@ -512,6 +536,12 @@
                 "name": "Casa Mortu\u00e1ria",
                 "latitude": 39.744917,
                 "longitude": -8.798869
+            },
+            {
+                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
+                "name": "Estravag\u00e1rio Graffiti",
+                "latitude": 39.752932,
+                "longitude": -8.933662
             },
             {
                 "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
@@ -970,6 +1000,12 @@
                 "longitude": -8.801663
             },
             {
+                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
+                "name": "Parque Av. Marques Pombal",
+                "latitude": 39.741132,
+                "longitude": -8.801663
+            },
+            {
                 "pokestop_id": "b90bc99759c643c1b07a37a91179a8fd.16",
                 "name": "Mural Rei das Runas",
                 "latitude": 39.747825,
@@ -986,6 +1022,24 @@
                 "name": "Confer\u00eancia de S. Vicente Paulo",
                 "latitude": 39.750114,
                 "longitude": -8.92967
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a55789a0b055357b8f42ccdc0907d810.16",
+                "name": "Parque Infantil Este",
+                "latitude": 39.735664,
+                "longitude": -8.800658
             }
         ]
     },
