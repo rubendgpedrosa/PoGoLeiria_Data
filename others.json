@@ -1,23 +1,5 @@
 [
     {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "06030e41449c4302874baae88549b655.16",
-                "name": "Correios Her\u00f3is De Angola",
-                "latitude": 39.747609,
-                "longitude": -8.804195
-            }
-        ]
-    },
-    {
         "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
         "quest_reward": "Phantump",
         "quest_reward_type": "Pokemon",
@@ -27,6 +9,12 @@
         "quest_reward_pokemon_id": 708,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "01a435e293263fa2b2bc1b4c7fb620ef.16",
+                "name": "Mosaico  catedral verde",
+                "latitude": 39.75082,
+                "longitude": -8.93155
+            },
             {
                 "pokestop_id": "0727712d36f33ead9a626d22bb911953.16",
                 "name": "Baloico Santa Clara",
@@ -450,6 +438,24 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "06030e41449c4302874baae88549b655.16",
+                "name": "Correios Her\u00f3is De Angola",
+                "latitude": 39.747609,
+                "longitude": -8.804195
+            }
+        ]
+    },
+    {
         "quest_description": "Evolve a Ghost-type Pokemon",
         "quest_reward": "Phantump",
         "quest_reward_type": "Pokemon",
@@ -464,6 +470,12 @@
                 "name": "Skate Park",
                 "latitude": 39.735189,
                 "longitude": -8.797673
+            },
+            {
+                "pokestop_id": "091456d950da38849bd7ae900f166679.16",
+                "name": "Sonhos de Papel",
+                "latitude": 39.743096,
+                "longitude": -8.935367
             },
             {
                 "pokestop_id": "0abc9313eb444d44a9bb0199c6c53839.16",
@@ -1060,6 +1072,12 @@
                 "longitude": -8.926915
             },
             {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
+            },
+            {
                 "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
                 "name": "Escultura Edifoz",
                 "latitude": 39.746497,
@@ -1482,6 +1500,30 @@
         ]
     },
     {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Growlithe",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Growlithe",
+        "quest_reward_pokemon_id": 58,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            },
+            {
+                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
+                "name": "Arcos - Leiria",
+                "latitude": 39.746016,
+                "longitude": -8.80598
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Rowlet",
         "quest_reward_type": "Pokemon",
@@ -1766,24 +1808,6 @@
                 "name": "Ponte Verde da Encosta do Castelo",
                 "latitude": 39.748256,
                 "longitude": -8.809223
-            }
-        ]
-    },
-    {
-        "quest_description": "Hatch an Egg",
-        "quest_reward": "Growlithe",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Growlithe",
-        "quest_reward_pokemon_id": 58,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
-                "name": "Arcos - Leiria",
-                "latitude": 39.746016,
-                "longitude": -8.80598
             }
         ]
     },
