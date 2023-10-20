@@ -250,6 +250,12 @@
                 "longitude": -8.81045
             },
             {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            },
+            {
                 "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
                 "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
                 "latitude": 39.750529,
@@ -510,6 +516,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
+            },
+            {
+                "pokestop_id": "88201671521f45388828ef0e2d2d3f8a.16",
+                "name": "Clube dos ca\u00e7adores",
+                "latitude": 39.751363,
+                "longitude": -8.937626
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -614,24 +644,6 @@
                 "name": "Campo Polidesportivo",
                 "latitude": 39.732954,
                 "longitude": -8.809802
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "88201671521f45388828ef0e2d2d3f8a.16",
-                "name": "Clube dos ca\u00e7adores",
-                "latitude": 39.751363,
-                "longitude": -8.937626
             }
         ]
     },
