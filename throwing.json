@@ -18,24 +18,6 @@
         ]
     },
     {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
-                "name": "Parque Dos Cani\u00e7os",
-                "latitude": 39.740299,
-                "longitude": -8.799535
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Misdreavus",
         "quest_reward_type": "Pokemon",
@@ -45,6 +27,24 @@
         "quest_reward_pokemon_id": 200,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "09211576d80e30c3b6007b0d72d8cf96.16",
+                "name": "Azulejo Bairro dos Anjos",
+                "latitude": 39.744443,
+                "longitude": -8.804282
+            },
+            {
+                "pokestop_id": "098af78ab679495aadb944e4da01fd49.11",
+                "name": "Ultramar",
+                "latitude": 39.745448,
+                "longitude": -8.805844
+            },
+            {
+                "pokestop_id": "1205b13b203e454985597e7c7f3a96de.16",
+                "name": "Igreja De Jesus Cristo Dos Santos Dos \u00daltimos Dias",
+                "latitude": 39.740096,
+                "longitude": -8.804572
+            },
             {
                 "pokestop_id": "129668a582fd47fd8cc44e2489befedb.16",
                 "name": "Parede De Escalada Do Parque Da Cerca",
@@ -76,6 +76,18 @@
                 "longitude": -8.933068
             },
             {
+                "pokestop_id": "2d7b37f4596348a3ae410d3b6e0f5be5.16",
+                "name": "Igreja da Miseric\u00f3rdia",
+                "latitude": 39.745213,
+                "longitude": -8.807912
+            },
+            {
+                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
+                "name": "Mural pintura no vidro",
+                "latitude": 39.740536,
+                "longitude": -8.929225
+            },
+            {
                 "pokestop_id": "782815cfe6ea4d30b6f63bb601c6360c.16",
                 "name": "Tribunal Da Marinha Grande",
                 "latitude": 39.753741,
@@ -86,6 +98,12 @@
                 "name": "Estravag\u00e1rio Graffiti",
                 "latitude": 39.752932,
                 "longitude": -8.933662
+            },
+            {
+                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
+                "name": "Ponte El-Rei D. Dinis",
+                "latitude": 39.743323,
+                "longitude": -8.804477
             },
             {
                 "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
@@ -112,10 +130,124 @@
                 "longitude": -8.806284
             },
             {
+                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
+                "name": "Escuteiros",
+                "latitude": 39.741841,
+                "longitude": -8.933249
+            },
+            {
+                "pokestop_id": "de7d0cc92e0e4b62b195f7a846d06f79.16",
+                "name": "Urban Fitness",
+                "latitude": 39.748953,
+                "longitude": -8.802133
+            },
+            {
                 "pokestop_id": "ed033216b8ae4a3e96eff61d08cf1bab.16",
                 "name": "Ringue de futebol",
                 "latitude": 39.730853,
                 "longitude": -8.811065
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "Lileep",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lileep",
+        "quest_reward_pokemon_id": 345,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "09e9559bb8af3eb3b70f0e933f650c5e.16",
+                "name": "Largo C\u00e2ndido dos Reis - Terreiro",
+                "latitude": 39.743611,
+                "longitude": -8.810345
+            }
+        ]
+    },
+    {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "2 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            },
+            {
+                "pokestop_id": "57da555c66ca4169b393e3b97389a780.16",
+                "name": "Parque Infantil Jardim do Liz",
+                "latitude": 39.750826,
+                "longitude": -8.806392
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "20d010499ea44bb8a7f38881b2d47338.16",
+                "name": "Mural Bailarina",
+                "latitude": 39.739897,
+                "longitude": -8.804231
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "23531773d4443b98b0a92a776ac62f48.16",
+                "name": "Caixa Postal CTT - Marinha Grande",
+                "latitude": 39.750744,
+                "longitude": -8.92763
             }
         ]
     },
@@ -182,6 +314,42 @@
                 "name": "McDonald\u2019s-Leiria",
                 "latitude": 39.73516,
                 "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            },
+            {
+                "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
+                "name": "Jardim de Leiria",
+                "latitude": 39.744338,
+                "longitude": -8.806031
+            },
+            {
+                "pokestop_id": "dc7256a2cf083ed281f4b0938df2df2a.16",
+                "name": "Associa\u00e7\u00e3o de Kickboxing e Muay Thai Hugo Matos",
+                "latitude": 39.747777,
+                "longitude": -8.93253
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "3 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "3a831ae2cff24109950a47a9e67ea30a.16",
+                "name": "AMM - Associa\u00e7\u00e3o Marinha em Movimento",
+                "latitude": 39.750545,
+                "longitude": -8.925972
             }
         ]
     },
@@ -236,24 +404,30 @@
                 "name": "Marco CTT - Rua de Alcoba\u00e7a",
                 "latitude": 39.741853,
                 "longitude": -8.810621
+            },
+            {
+                "pokestop_id": "92d679c065cf4936a127b1133d3e57b6.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.754255,
+                "longitude": -8.808874
             }
         ]
     },
     {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "2 Ultra Ball",
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
+        "quest_reward_item_id": 1,
         "pokestops": [
             {
-                "pokestop_id": "57da555c66ca4169b393e3b97389a780.16",
-                "name": "Parque Infantil Jardim do Liz",
-                "latitude": 39.750826,
-                "longitude": -8.806392
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "latitude": 39.739681,
+                "longitude": -8.805175
             }
         ]
     },
@@ -294,6 +468,42 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "5 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "89e6677193c942f28ff974cb475e9785.16",
+                "name": "Parque Infantil",
+                "latitude": 39.745231,
+                "longitude": -8.93432
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "1000 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1000,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
+                "name": "Correios Post Office",
+                "latitude": 39.747622,
+                "longitude": -8.930452
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
@@ -328,10 +538,76 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "ac8054dc06544e05b1d10a47ff12b097.16",
+                "name": "Bras\u00e3o da Cidade",
+                "latitude": 39.743168,
+                "longitude": -8.805737
+            },
+            {
                 "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
                 "name": "Sede Bloco de Esquerda",
                 "latitude": 39.750634,
                 "longitude": -8.932602
+            },
+            {
+                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
+                "name": "Caixa Postal CTT - Guimarota",
+                "latitude": 39.732839,
+                "longitude": -8.795816
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "b90bc99759c643c1b07a37a91179a8fd.16",
+                "name": "Mural Rei das Runas",
+                "latitude": 39.747825,
+                "longitude": -8.930829
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
+                "name": "Miradouro Leiria",
+                "latitude": 39.743941,
+                "longitude": -8.802609
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Diglett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Diglett",
+        "quest_reward_pokemon_id": 50,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
+                "name": "Rodilha",
+                "latitude": 39.742979,
+                "longitude": -8.806888
             }
         ]
     },
