@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Onix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Onix",
+        "quest_reward_pokemon_id": 95,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
+            {
+                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
+                "name": "Ponte Pedonal Jardim da Almuinha",
+                "latitude": 39.751736,
+                "longitude": -8.810436
+            },
+            {
+                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
+                "name": "Glove x 400mI",
+                "latitude": 39.74775,
+                "longitude": -8.807233
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Tentacool",
         "quest_reward_type": "Pokemon",
@@ -18,24 +48,6 @@
         ]
     },
     {
-        "quest_description": "Win a raid",
-        "quest_reward": "Onix",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Onix",
-        "quest_reward_pokemon_id": 95,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
-                "name": "Ponte Pedonal Jardim da Almuinha",
-                "latitude": 39.751736,
-                "longitude": -8.810436
-            }
-        ]
-    },
-    {
         "quest_description": "Win 2 raids",
         "quest_reward": "Shedinja",
         "quest_reward_type": "Pokemon",
@@ -45,6 +57,12 @@
         "quest_reward_pokemon_id": 292,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
+            },
             {
                 "pokestop_id": "9b830e47d8cc3ccc90f39664428f7a91.16",
                 "name": "O Vidraceiro",
