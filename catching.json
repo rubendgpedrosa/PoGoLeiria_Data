@@ -18,6 +18,24 @@
         ]
     },
     {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Stufful",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stufful",
+        "quest_reward_pokemon_id": 759,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon",
         "quest_reward": "Caterpie",
         "quest_reward_type": "Pokemon",
@@ -164,6 +182,12 @@
                 "name": "Edif\u00edcio Comendador",
                 "latitude": 39.742053,
                 "longitude": -8.809737
+            },
+            {
+                "pokestop_id": "6d59dc9c55f743179a8cb5f6fb59a86f.16",
+                "name": "Placa Informativa - Antes do Castelo",
+                "latitude": 39.747749,
+                "longitude": -8.808107
             }
         ]
     },
@@ -452,6 +476,24 @@
                 "name": "Rotary Club De Leiria",
                 "latitude": 39.735202,
                 "longitude": -8.798938
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "10 Swampert Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Swampert",
+        "quest_reward_pokemon_id": 260,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
             }
         ]
     }
