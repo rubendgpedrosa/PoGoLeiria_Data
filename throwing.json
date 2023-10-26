@@ -184,6 +184,12 @@
                 "longitude": -8.808011
             },
             {
+                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
+                "name": "Parque Av. Marques Pombal",
+                "latitude": 39.741132,
+                "longitude": -8.801663
+            },
+            {
                 "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
                 "name": "Jogo da Macaca",
                 "latitude": 39.738327,
@@ -214,6 +220,12 @@
                 "longitude": -8.805935
             },
             {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
+            },
+            {
                 "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
                 "name": "Junta de Freguesia",
                 "latitude": 39.751118,
@@ -224,6 +236,12 @@
                 "name": "Marinha Grande",
                 "latitude": 39.747761,
                 "longitude": -8.936047
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
             },
             {
                 "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
@@ -260,6 +278,48 @@
                 "name": "Praca Rodrigues Lobo",
                 "latitude": 39.744413,
                 "longitude": -8.808075
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Murkrow",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Murkrow",
+        "quest_reward_pokemon_id": 198,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
+            {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            },
+            {
+                "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
+                "name": "D.Isabel",
+                "latitude": 39.749043,
+                "longitude": -8.80843
+            },
+            {
+                "pokestop_id": "8968f9c2f8284e1da37b0124e9ba65ea.16",
+                "name": "Campo Desportivo Da Seixa",
+                "latitude": 39.7328,
+                "longitude": -8.800894
             }
         ]
     },
@@ -358,6 +418,12 @@
                 "longitude": -8.935659
             },
             {
+                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
+                "name": "Campo Polidesportivo",
+                "latitude": 39.732954,
+                "longitude": -8.809802
+            },
+            {
                 "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
                 "name": "Gin\u00e1sio Fit On Move",
                 "latitude": 39.745658,
@@ -414,6 +480,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "262ba1506aef49f6a42a5bcac223111c.16",
+                "name": "Parque Infantil",
+                "latitude": 39.734135,
+                "longitude": -8.803202
+            },
+            {
+                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
+                "name": "CAL",
+                "latitude": 39.741024,
+                "longitude": -8.806283
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -432,30 +522,6 @@
         ]
     },
     {
-        "quest_description": "Make 5 Great Throws",
-        "quest_reward": "Murkrow",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Murkrow",
-        "quest_reward_pokemon_id": 198,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
-                "name": "Casa Mortu\u00e1ria",
-                "latitude": 39.744917,
-                "longitude": -8.798869
-            },
-            {
-                "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
-                "name": "D.Isabel",
-                "latitude": 39.749043,
-                "longitude": -8.80843
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "Lileep",
         "quest_reward_type": "Pokemon",
@@ -470,6 +536,18 @@
                 "name": "Instituto Portugu\u00eas da Juventude",
                 "latitude": 39.747497,
                 "longitude": -8.81418
+            },
+            {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
+            },
+            {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
             }
         ]
     },
@@ -483,6 +561,12 @@
         "quest_reward_pokemon_id": 200,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "490174996655472e998bccb559694a1b.16",
+                "name": "Bordalo II",
+                "latitude": 39.742515,
+                "longitude": -8.80218
+            },
             {
                 "pokestop_id": "490174996655472e998bccb559694a1b.16",
                 "name": "Bordalo II",
@@ -600,6 +684,54 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
+                "name": "CEMFIR - Culturismo",
+                "latitude": 39.752054,
+                "longitude": -8.92786
+            },
+            {
+                "pokestop_id": "7d69d15f3015358e87eb5cf0ba93c005.16",
+                "name": "Parque Infantil Cristal Atrium",
+                "latitude": 39.746939,
+                "longitude": -8.936985
+            },
+            {
+                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
+                "name": "Antigo Bebedouro",
+                "latitude": 39.750713,
+                "longitude": -8.926943
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Binacle",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Binacle",
+        "quest_reward_pokemon_id": 688,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Houndour",
         "quest_reward_type": "Pokemon",
@@ -680,24 +812,6 @@
                 "name": "Mural Brisa do Lis",
                 "latitude": 39.743468,
                 "longitude": -8.812448
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
-                "name": "CAL",
-                "latitude": 39.741024,
-                "longitude": -8.806283
             }
         ]
     },
@@ -854,24 +968,6 @@
                 "name": "Barcos da Costa",
                 "latitude": 39.73964,
                 "longitude": -8.805776
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
-                "name": "Antigo Bebedouro",
-                "latitude": 39.750713,
-                "longitude": -8.926943
             }
         ]
     },
