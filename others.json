@@ -160,6 +160,12 @@
                 "longitude": -8.926915
             },
             {
+                "pokestop_id": "6ca6691f59ca45f3922e750eca164a13.16",
+                "name": "COOPPOVO",
+                "latitude": 39.750118,
+                "longitude": -8.926915
+            },
+            {
                 "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
                 "name": "O Pastor Peregrino",
                 "latitude": 39.744326,
@@ -562,6 +568,12 @@
                 "longitude": -8.931698
             },
             {
+                "pokestop_id": "1f0cbfb9e9c037f3884dad1dda9f6b2a.16",
+                "name": "Associa\u00e7\u00e3o Portuguesa de Deficientes - Sede Desportiva",
+                "latitude": 39.753845,
+                "longitude": -8.931698
+            },
+            {
                 "pokestop_id": "1f641ecb295932fbbe208b6f082139d8.16",
                 "name": "Igreja bola de neve",
                 "latitude": 39.733928,
@@ -844,6 +856,12 @@
                 "longitude": -8.932709
             },
             {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
+            },
+            {
                 "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
                 "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
                 "latitude": 39.747526,
@@ -994,6 +1012,12 @@
                 "longitude": -8.80818
             },
             {
+                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
+                "name": "ASURPI",
+                "latitude": 39.75141,
+                "longitude": -8.933588
+            },
+            {
                 "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
                 "name": "Mural pintura no vidro",
                 "latitude": 39.740536,
@@ -1048,6 +1072,12 @@
                 "longitude": -8.932369
             },
             {
+                "pokestop_id": "782815cfe6ea4d30b6f63bb601c6360c.16",
+                "name": "Tribunal Da Marinha Grande",
+                "latitude": 39.753741,
+                "longitude": -8.932369
+            },
+            {
                 "pokestop_id": "89dbb0af65bb450bb804eee0d872e639.16",
                 "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
                 "latitude": 39.740265,
@@ -1058,6 +1088,12 @@
                 "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
                 "latitude": 39.750529,
                 "longitude": -8.803749
+            },
+            {
+                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
+                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
+                "latitude": 39.75142,
+                "longitude": -8.930414
             },
             {
                 "pokestop_id": "9b830e47d8cc3ccc90f39664428f7a91.16",
@@ -1668,6 +1704,30 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
+            },
+            {
+                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
+                "name": "Sport Oper\u00e1rio Marinhense",
+                "latitude": 39.749997,
+                "longitude": -8.926437
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Blastoise Mega Energy",
         "quest_reward_type": "Energy",
@@ -1760,24 +1820,6 @@
                 "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739793,
                 "longitude": -8.808255
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
-                "name": "Sport Oper\u00e1rio Marinhense",
-                "latitude": 39.749997,
-                "longitude": -8.926437
             }
         ]
     },
