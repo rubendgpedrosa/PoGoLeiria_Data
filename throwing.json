@@ -70,6 +70,12 @@
                 "longitude": -8.802441
             },
             {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
                 "pokestop_id": "5b30d5cc95af495c8066d9675b25ae77.16",
                 "name": "Lonac 2017",
                 "latitude": 39.744206,
@@ -98,6 +104,12 @@
                 "name": "Igreja Man\u00e1",
                 "latitude": 39.741498,
                 "longitude": -8.799315
+            },
+            {
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
             },
             {
                 "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
@@ -158,6 +170,12 @@
                 "name": "Parede De Escalada Do Parque Da Cerca",
                 "latitude": 39.750316,
                 "longitude": -8.935659
+            },
+            {
+                "pokestop_id": "1f641ecb295932fbbe208b6f082139d8.16",
+                "name": "Igreja bola de neve",
+                "latitude": 39.733928,
+                "longitude": -8.807519
             },
             {
                 "pokestop_id": "1f8df9d7634c44a2b38af780e0f882bc.11",
@@ -476,6 +494,12 @@
                 "name": "Gin\u00e1sio Blue Fitness Club",
                 "latitude": 39.730321,
                 "longitude": -8.810623
+            },
+            {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
             }
         ]
     },
@@ -816,6 +840,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
+                "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
+                "name": "Ponte Ondulada",
+                "latitude": 39.746196,
+                "longitude": -8.80374
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "9 Razz Berry",
         "quest_reward_type": "Item",
@@ -830,24 +878,6 @@
                 "name": "Parque Infantil Da Seixa",
                 "latitude": 39.732435,
                 "longitude": -8.801047
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
-                "name": "Ponte Ondulada",
-                "latitude": 39.746196,
-                "longitude": -8.80374
             }
         ]
     },
@@ -1046,6 +1076,24 @@
                 "name": "Jardim de Leiria",
                 "latitude": 39.744338,
                 "longitude": -8.806031
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
             }
         ]
     },

@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
+                "name": "Skate Park",
+                "latitude": 39.735189,
+                "longitude": -8.797673
+            },
+            {
+                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
+                "name": "Mural pintura no vidro",
+                "latitude": 39.740536,
+                "longitude": -8.929225
+            },
+            {
+                "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
+                "name": "Junta de Freguesia",
+                "latitude": 39.751118,
+                "longitude": -8.928216
+            },
+            {
+                "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
+                "name": "Gin\u00e1sio Fit On Move",
+                "latitude": 39.745658,
+                "longitude": -8.803177
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
         "quest_reward": "Wurmple",
         "quest_reward_type": "Pokemon",
@@ -80,6 +116,12 @@
                 "name": "Correios Marrazes",
                 "latitude": 39.753807,
                 "longitude": -8.81209
+            },
+            {
+                "pokestop_id": "1846373feb73459994ce56162712ff83.16",
+                "name": "Correios Marrazes",
+                "latitude": 39.753807,
+                "longitude": -8.81209
             }
         ]
     },
@@ -134,6 +176,24 @@
                 "name": "Live Gym Marinha Grande",
                 "latitude": 39.74109,
                 "longitude": -8.929395
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
             }
         ]
     },
@@ -236,36 +296,12 @@
                 "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
                 "latitude": 39.736015,
                 "longitude": -8.822146
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
-                "name": "Mural pintura no vidro",
-                "latitude": 39.740536,
-                "longitude": -8.929225
             },
             {
-                "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
-                "name": "Junta de Freguesia",
-                "latitude": 39.751118,
-                "longitude": -8.928216
-            },
-            {
-                "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
-                "name": "Gin\u00e1sio Fit On Move",
-                "latitude": 39.745658,
-                "longitude": -8.803177
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
             }
         ]
     },
@@ -346,6 +382,12 @@
                 "longitude": -8.808742
             },
             {
+                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
+                "name": "Leiria Shopping",
+                "latitude": 39.732373,
+                "longitude": -8.824896
+            },
+            {
                 "pokestop_id": "ac8054dc06544e05b1d10a47ff12b097.16",
                 "name": "Bras\u00e3o da Cidade",
                 "latitude": 39.743168,
@@ -390,6 +432,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
+                "name": "Pal\u00e1cio dos Ata\u00eddes",
+                "latitude": 39.744296,
+                "longitude": -8.810014
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "10 Pidgeot Mega Energy",
         "quest_reward_type": "Energy",
@@ -423,6 +483,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 701,
         "pokestops": [
+            {
+                "pokestop_id": "6adf2e0d4daa3ed6b1feabb5458dafba.16",
+                "name": "Projeto Community - Escola de Dan\u00e7as Urbanas",
+                "latitude": 39.746889,
+                "longitude": -8.813237
+            },
             {
                 "pokestop_id": "6adf2e0d4daa3ed6b1feabb5458dafba.16",
                 "name": "Projeto Community - Escola de Dan\u00e7as Urbanas",
