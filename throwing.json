@@ -46,6 +46,12 @@
                 "longitude": -8.930843
             },
             {
+                "pokestop_id": "262ba1506aef49f6a42a5bcac223111c.16",
+                "name": "Parque Infantil",
+                "latitude": 39.734135,
+                "longitude": -8.803202
+            },
+            {
                 "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
                 "name": "Pra\u00e7a do Emigrante",
                 "latitude": 39.748896,
@@ -86,6 +92,18 @@
                 "name": "Painel Moinho de Papel",
                 "latitude": 39.740201,
                 "longitude": -8.800153
+            },
+            {
+                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
+                "name": "Igreja Man\u00e1",
+                "latitude": 39.741498,
+                "longitude": -8.799315
+            },
+            {
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
             },
             {
                 "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
@@ -160,6 +178,12 @@
                 "longitude": -8.805202
             },
             {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            },
+            {
                 "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
                 "name": "Ponte pedonal do parque verde ao Centro",
                 "latitude": 39.739952,
@@ -190,10 +214,22 @@
                 "longitude": -8.808424
             },
             {
+                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
+                "name": "Ponte Pedonal Jardim da Almuinha",
+                "latitude": 39.751736,
+                "longitude": -8.810436
+            },
+            {
                 "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
                 "name": "Fonte Do Halton",
                 "latitude": 39.747031,
                 "longitude": -8.816442
+            },
+            {
+                "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
+                "name": "Ponte Hintze Ribeiro",
+                "latitude": 39.742734,
+                "longitude": -8.803525
             },
             {
                 "pokestop_id": "6641122bc0ea406f917adfe1cfbd22e6.11",
@@ -262,6 +298,18 @@
                 "longitude": -8.811435
             },
             {
+                "pokestop_id": "a55789a0b055357b8f42ccdc0907d810.16",
+                "name": "Parque Infantil Este",
+                "latitude": 39.735664,
+                "longitude": -8.800658
+            },
+            {
+                "pokestop_id": "a5c4d67ae0ce34d0947f2636d1af6f68.16",
+                "name": "Pilates Tereza Marques",
+                "latitude": 39.74369,
+                "longitude": -8.800766
+            },
+            {
                 "pokestop_id": "a9aecff3187e48e6bc006f1a2fd4ee5a.16",
                 "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
                 "latitude": 39.739299,
@@ -272,6 +320,12 @@
                 "name": "Shopping 2000",
                 "latitude": 39.749243,
                 "longitude": -8.803685
+            },
+            {
+                "pokestop_id": "b45d709e2d704d54aa402db61ddd284c.16",
+                "name": "Live gym Almuinha Grande",
+                "latitude": 39.75227,
+                "longitude": -8.813364
             },
             {
                 "pokestop_id": "b6ad46808bf64f2d9d44ae8950e6c7b4.16",
@@ -302,6 +356,12 @@
                 "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739793,
                 "longitude": -8.808255
+            },
+            {
+                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
+                "name": "Rotary Club De Leiria",
+                "latitude": 39.735202,
+                "longitude": -8.798938
             },
             {
                 "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
@@ -410,6 +470,12 @@
                 "name": "ADESER II",
                 "latitude": 39.75137,
                 "longitude": -8.931029
+            },
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
             }
         ]
     },
@@ -516,6 +582,24 @@
         ]
     },
     {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
+                "name": "Pharmacia",
+                "latitude": 39.745802,
+                "longitude": -8.807245
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "Diglett",
         "quest_reward_type": "Pokemon",
@@ -600,6 +684,24 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
+                "name": "Igreja do cemit\u00e9rio da Marinha Grande",
+                "latitude": 39.745877,
+                "longitude": -8.932347
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Curveball Throws in a row",
         "quest_reward": "Spinda",
         "quest_reward_type": "Pokemon",
@@ -634,16 +736,34 @@
                 "longitude": -8.81129
             },
             {
+                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
+                "name": "ASURPI",
+                "latitude": 39.75141,
+                "longitude": -8.933588
+            },
+            {
                 "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
                 "name": "Monumento Afonso Lopes Vieira",
                 "latitude": 39.740187,
                 "longitude": -8.812398
             },
             {
+                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
+                "name": "Jogo De Som",
+                "latitude": 39.734864,
+                "longitude": -8.797733
+            },
+            {
                 "pokestop_id": "9baafb93f8093e628262f96c06541c99.16",
                 "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
                 "latitude": 39.743218,
                 "longitude": -8.812164
+            },
+            {
+                "pokestop_id": "a07bbdcea6594eeb89872edc6a61cdfd.16",
+                "name": "Comunidade Pastoral De S\u00e3o Rom\u00e3o",
+                "latitude": 39.731023,
+                "longitude": -8.794309
             },
             {
                 "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
@@ -872,6 +992,12 @@
                 "name": "CAL",
                 "latitude": 39.741024,
                 "longitude": -8.806283
+            },
+            {
+                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
+                "name": "Caixa Postal CTT - Ordem",
+                "latitude": 39.741068,
+                "longitude": -8.936685
             }
         ]
     },
@@ -890,6 +1016,12 @@
                 "name": "Campo De Futebol A.C. Marinhense",
                 "latitude": 39.749818,
                 "longitude": -8.936966
+            },
+            {
+                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
+                "name": "Barragem do Rio Lis",
+                "latitude": 39.751189,
+                "longitude": -8.812916
             },
             {
                 "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
