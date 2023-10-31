@@ -42,6 +42,30 @@
         ]
     },
     {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
+                "name": "Caixa Postal CTT - Ordem",
+                "latitude": 39.741068,
+                "longitude": -8.936685
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Marill",
         "quest_reward_type": "Pokemon",
@@ -114,20 +138,20 @@
         ]
     },
     {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Exeggutor",
+        "quest_description": "Win a raid",
+        "quest_reward": "Onix",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Exeggutor",
-        "quest_reward_pokemon_id": 103,
+        "quest_reward_pokemon_name": "Onix",
+        "quest_reward_pokemon_id": 95,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
-                "name": "Caixa Postal CTT - Ordem",
-                "latitude": 39.741068,
-                "longitude": -8.936685
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
             }
         ]
     }
