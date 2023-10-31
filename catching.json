@@ -116,6 +116,12 @@
                 "name": "Ponte Euro 2004",
                 "latitude": 39.752764,
                 "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
             }
         ]
     },
@@ -298,6 +304,12 @@
                 "longitude": -8.807912
             },
             {
+                "pokestop_id": "35a7b988a82d34d88f937b142e51c01c.16",
+                "name": "Assembleia de Deus.",
+                "latitude": 39.753204,
+                "longitude": -8.806617
+            },
+            {
                 "pokestop_id": "8c20f9c9b65b384ea6311422e708bcd1.16",
                 "name": "Parque Verde de Leiria",
                 "latitude": 39.741617,
@@ -326,6 +338,12 @@
                 "name": "Choupo Negro",
                 "latitude": 39.750236,
                 "longitude": -8.804137
+            },
+            {
+                "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
+                "name": "Play Land - Parque Infantil",
+                "latitude": 39.739605,
+                "longitude": -8.818371
             },
             {
                 "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
@@ -387,6 +405,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 1,
         "pokestops": [
+            {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            },
             {
                 "pokestop_id": "444dbacd73144e6985f077d48c38acde.16",
                 "name": "Clube M.M.G",
@@ -594,6 +618,30 @@
         ]
     },
     {
+        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
+        "quest_reward": "1500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
+                "name": "Mural \"Na Dist\u00e2ncia\"",
+                "latitude": 39.736711,
+                "longitude": -8.793678
+            },
+            {
+                "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
+                "name": "Engenho Na Escola",
+                "latitude": 39.74247,
+                "longitude": -8.933721
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -648,20 +696,32 @@
         ]
     },
     {
-        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
-        "quest_reward": "1500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 1500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
+        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
+        "quest_reward": "Wurmple",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wurmple",
+        "quest_reward_pokemon_id": 265,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
-                "name": "Engenho Na Escola",
-                "latitude": 39.74247,
-                "longitude": -8.933721
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
+            },
+            {
+                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
+                "name": "Ringue de futebol da Marinha Grande",
+                "latitude": 39.740808,
+                "longitude": -8.929041
+            },
+            {
+                "pokestop_id": "f8b148e8b0d84e6f8efa67b045341351.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.744672,
+                "longitude": -8.795859
             }
         ]
     },
@@ -680,30 +740,6 @@
                 "name": "Rodilha",
                 "latitude": 39.742979,
                 "longitude": -8.806888
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
-        "quest_reward": "Wurmple",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Wurmple",
-        "quest_reward_pokemon_id": 265,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
-                "name": "Ringue de futebol da Marinha Grande",
-                "latitude": 39.740808,
-                "longitude": -8.929041
-            },
-            {
-                "pokestop_id": "f8b148e8b0d84e6f8efa67b045341351.16",
-                "name": "Campo De Futebol",
-                "latitude": 39.744672,
-                "longitude": -8.795859
             }
         ]
     },
