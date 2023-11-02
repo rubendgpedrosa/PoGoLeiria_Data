@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Wooper",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wooper",
+        "quest_reward_pokemon_id": 194,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "097466c5212c4a0a81c4123a78445154.16",
+                "name": "Mural \"Liberdade\"",
+                "latitude": 39.745754,
+                "longitude": -8.805297
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Dedenne",
         "quest_reward_type": "Pokemon",
@@ -14,6 +32,24 @@
                 "name": "Pr\u00e9dio Marqu\u00eas da Cruz",
                 "latitude": 39.748039,
                 "longitude": -8.805136
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Litleo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "63f82eedfebe4f3ba61cad72f2d0644f.16",
+                "name": "Junta De Freguesia Leiria",
+                "latitude": 39.743562,
+                "longitude": -8.804606
             }
         ]
     },
@@ -92,6 +128,12 @@
                 "name": "Marco CTT - Rua Professor N. Costa",
                 "latitude": 39.742221,
                 "longitude": -8.813073
+            },
+            {
+                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
+                "name": "D. Dinis",
+                "latitude": 39.745862,
+                "longitude": -8.809441
             }
         ]
     }
