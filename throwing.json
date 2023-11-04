@@ -792,6 +792,36 @@
         ]
     },
     {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "3745160e3b4b4b71b2f2de8617750ace.16",
+                "name": "Antigo Moinho De Papel",
+                "latitude": 39.740444,
+                "longitude": -8.800663
+            },
+            {
+                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
+                "name": "Caixa Postal CTT - Guimarota",
+                "latitude": 39.732839,
+                "longitude": -8.795816
+            },
+            {
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "Kabuto",
         "quest_reward_type": "Pokemon",
@@ -1262,30 +1292,6 @@
                 "name": "Zona Desportiva",
                 "latitude": 39.747903,
                 "longitude": -8.936311
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Curveball Throws in a row",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
-                "name": "Caixa Postal CTT - Guimarota",
-                "latitude": 39.732839,
-                "longitude": -8.795816
-            },
-            {
-                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
-                "name": "Matilha",
-                "latitude": 39.738576,
-                "longitude": -8.82
             }
         ]
     },
