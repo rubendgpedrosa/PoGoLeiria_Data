@@ -1,5 +1,47 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Onix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Onix",
+        "quest_reward_pokemon_id": 95,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b5569737a8438f0abfdf718370b73eb.16",
+                "name": "Amieiro",
+                "latitude": 39.733619,
+                "longitude": -8.797415
+            },
+            {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "latitude": 39.739681,
+                "longitude": -8.805175
+            },
+            {
+                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
+                "name": "Live Gym Marinha Grande",
+                "latitude": 39.74109,
+                "longitude": -8.929395
+            },
+            {
+                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
+                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
+                "latitude": 39.745253,
+                "longitude": -8.80654
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Marill",
         "quest_reward_type": "Pokemon",
@@ -54,42 +96,6 @@
         ]
     },
     {
-        "quest_description": "Win a raid",
-        "quest_reward": "Onix",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Onix",
-        "quest_reward_pokemon_id": 95,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
-                "name": "Pai Natal Lar\u00e1pio",
-                "latitude": 39.73156,
-                "longitude": -8.823204
-            },
-            {
-                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
-                "name": "Antigo Marco de Correios",
-                "latitude": 39.739681,
-                "longitude": -8.805175
-            },
-            {
-                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
-                "name": "Live Gym Marinha Grande",
-                "latitude": 39.74109,
-                "longitude": -8.929395
-            },
-            {
-                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
-                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
-                "latitude": 39.745253,
-                "longitude": -8.80654
-            }
-        ]
-    },
-    {
         "quest_description": "Win a three-star raid or higher",
         "quest_reward": "Tirtouga",
         "quest_reward_type": "Pokemon",
@@ -128,6 +134,24 @@
                 "name": "LM Fitness",
                 "latitude": 39.747089,
                 "longitude": -8.935386
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Tentacool",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tentacool",
+        "quest_reward_pokemon_id": 72,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
+                "name": "Igreja Man\u00e1",
+                "latitude": 39.741498,
+                "longitude": -8.799315
             }
         ]
     },
