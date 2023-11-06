@@ -91,6 +91,30 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
+            },
+            {
+                "pokestop_id": "7f106d04f2634c0c975e841b620b9816.16",
+                "name": "Oficina da M\u00fasica",
+                "latitude": 39.745717,
+                "longitude": -8.933685
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -104,24 +128,6 @@
                 "name": "Jogo De Som",
                 "latitude": 39.734864,
                 "longitude": -8.797733
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Dedenne",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Dedenne",
-        "quest_reward_pokemon_id": 702,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "7f106d04f2634c0c975e841b620b9816.16",
-                "name": "Oficina da M\u00fasica",
-                "latitude": 39.745717,
-                "longitude": -8.933685
             }
         ]
     },
@@ -200,6 +206,24 @@
                 "name": "Capela Sao Francisco",
                 "latitude": 39.748187,
                 "longitude": -8.803393
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Litleo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
+                "name": "D. Dinis",
+                "latitude": 39.745862,
+                "longitude": -8.809441
             }
         ]
     }
