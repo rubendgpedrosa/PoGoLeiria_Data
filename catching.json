@@ -474,6 +474,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Grass- or Bug-type Pok\u00e9mon",
+        "quest_reward": "Spinarak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spinarak",
+        "quest_reward_pokemon_id": 167,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "262ba1506aef49f6a42a5bcac223111c.16",
+                "name": "Parque Infantil",
+                "latitude": 39.734135,
+                "longitude": -8.803202
+            },
+            {
+                "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
+                "name": "Monumento Afonso Lopes Vieira",
+                "latitude": 39.740187,
+                "longitude": -8.812398
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "10 Venusaur Mega Energy",
         "quest_reward_type": "Energy",
@@ -530,6 +554,12 @@
                 "name": "Painel de Informa\u00e7\u00f5es - Avenida dos Combatentes",
                 "latitude": 39.74274,
                 "longitude": -8.809864
+            },
+            {
+                "pokestop_id": "3d6959cc1325477b88ffe44689e49093.16",
+                "name": "Ponte Pedonal Suspensa",
+                "latitude": 39.750997,
+                "longitude": -8.809201
             },
             {
                 "pokestop_id": "6e16a724c20f4752b9b6cee03cfe329a.16",
@@ -703,6 +733,36 @@
     },
     {
         "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Magikarp",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Magikarp",
+        "quest_reward_pokemon_id": 129,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "35a7b988a82d34d88f937b142e51c01c.16",
+                "name": "Assembleia de Deus.",
+                "latitude": 39.753204,
+                "longitude": -8.806617
+            },
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
+            },
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 7 Pok\u00e9mon",
         "quest_reward": "Stufful",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -722,6 +782,36 @@
                 "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
                 "latitude": 39.744778,
                 "longitude": -8.80632
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
+                "name": "CENFIM",
+                "latitude": 39.749026,
+                "longitude": -8.928307
+            },
+            {
+                "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
+                "name": "Tribunal do Trabalho de Leiria",
+                "latitude": 39.739929,
+                "longitude": -8.808784
+            },
+            {
+                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
+                "name": "Chamin\u00e9 Sthepens",
+                "latitude": 39.751303,
+                "longitude": -8.934332
             }
         ]
     },
@@ -1002,30 +1092,6 @@
         ]
     },
     {
-        "quest_description": "Catch 7 Pok\u00e9mon",
-        "quest_reward": "Magikarp",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Magikarp",
-        "quest_reward_pokemon_id": 129,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
-                "name": "Parque Infantil Oeste",
-                "latitude": 39.735409,
-                "longitude": -8.801379
-            },
-            {
-                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
-                "name": "Ponte Euro 2004",
-                "latitude": 39.752764,
-                "longitude": -8.814174
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1044,20 +1110,32 @@
         ]
     },
     {
-        "quest_description": "Catch 5 Grass- or Bug-type Pok\u00e9mon",
-        "quest_reward": "Spinarak",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Spinarak",
-        "quest_reward_pokemon_id": 167,
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "10 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
-                "name": "Monumento Afonso Lopes Vieira",
-                "latitude": 39.740187,
-                "longitude": -8.812398
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
+            },
+            {
+                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
+                "name": "Marinha Grande",
+                "latitude": 39.747761,
+                "longitude": -8.936047
+            },
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
             }
         ]
     },
@@ -1244,30 +1322,12 @@
                 "name": "Confer\u00eancia de S. Vicente Paulo",
                 "latitude": 39.750114,
                 "longitude": -8.92967
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
-                "name": "Tribunal do Trabalho de Leiria",
-                "latitude": 39.739929,
-                "longitude": -8.808784
             },
             {
-                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
-                "name": "Chamin\u00e9 Sthepens",
-                "latitude": 39.751303,
-                "longitude": -8.934332
+                "pokestop_id": "eb09f8325d3b4095b70b9b37cd92fb6e.16",
+                "name": "Cabana do Parque da Cerca",
+                "latitude": 39.74824,
+                "longitude": -8.935596
             }
         ]
     },
@@ -1304,30 +1364,6 @@
                 "name": "Barcos da Costa",
                 "latitude": 39.73964,
                 "longitude": -8.805776
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
-        "quest_reward": "10 Charizard Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Charizard",
-        "quest_reward_pokemon_id": 6,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
-                "name": "Marinha Grande",
-                "latitude": 39.747761,
-                "longitude": -8.936047
-            },
-            {
-                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
-                "name": "Play City",
-                "latitude": 39.747179,
-                "longitude": -8.802109
             }
         ]
     },
