@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Onix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Onix",
+        "quest_reward_pokemon_id": 95,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1205b13b203e454985597e7c7f3a96de.16",
+                "name": "Igreja De Jesus Cristo Dos Santos Dos \u00daltimos Dias",
+                "latitude": 39.740096,
+                "longitude": -8.804572
+            },
+            {
+                "pokestop_id": "61f76786db87485e8eef8f2e1d2968f1.16",
+                "name": "A Juventude a Ci\u00eancia e o Mar",
+                "latitude": 39.743887,
+                "longitude": -8.805803
+            },
+            {
+                "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
+                "name": "Ponte Pedonal Rio Liz",
+                "latitude": 39.750058,
+                "longitude": -8.804897
+            },
+            {
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -62,30 +98,6 @@
                 "name": "Radioactive Man",
                 "latitude": 39.749887,
                 "longitude": -8.803576
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "Onix",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Onix",
-        "quest_reward_pokemon_id": 95,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "61f76786db87485e8eef8f2e1d2968f1.16",
-                "name": "A Juventude a Ci\u00eancia e o Mar",
-                "latitude": 39.743887,
-                "longitude": -8.805803
-            },
-            {
-                "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
-                "name": "Ponte Pedonal Rio Liz",
-                "latitude": 39.750058,
-                "longitude": -8.804897
             }
         ]
     },
