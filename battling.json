@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Marill",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marill",
+        "quest_reward_pokemon_id": 183,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "09211576d80e30c3b6007b0d72d8cf96.16",
+                "name": "Azulejo Bairro dos Anjos",
+                "latitude": 39.744443,
+                "longitude": -8.804282
+            },
+            {
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
+            }
+        ]
+    },
+    {
         "quest_description": "Win 2 raids",
         "quest_reward": "Shedinja",
         "quest_reward_type": "Pokemon",
@@ -14,6 +38,12 @@
                 "name": "Acad\u00e9mico de Leiria",
                 "latitude": 39.74249,
                 "longitude": -8.809242
+            },
+            {
+                "pokestop_id": "1f8703ec0451364f90420f66f3220978.16",
+                "name": "Centro de Cultura e Desporto dos Trabalhadores da Seguran\u00e7a Social de Leiria",
+                "latitude": 39.74061,
+                "longitude": -8.814058
             },
             {
                 "pokestop_id": "486d78e58bea4436b785c5a44da1e0db.16",
@@ -122,24 +152,6 @@
                 "name": "Liz ao Quadro - Art Galery",
                 "latitude": 39.748424,
                 "longitude": -8.802439
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Marill",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Marill",
-        "quest_reward_pokemon_id": 183,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
-                "name": "Matilha",
-                "latitude": 39.738576,
-                "longitude": -8.82
             }
         ]
     }
