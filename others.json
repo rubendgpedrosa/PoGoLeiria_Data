@@ -636,36 +636,6 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Beedrill Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Beedrill",
-        "quest_reward_pokemon_id": 15,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
-                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
-                "latitude": 39.738722,
-                "longitude": -8.821751
-            },
-            {
-                "pokestop_id": "54ed01ac248146bab4c80325d8c3a9ea.16",
-                "name": "Centro De Turismo",
-                "latitude": 39.743896,
-                "longitude": -8.806459
-            },
-            {
-                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
-                "name": "Tribunal Administrativo e Fiscal De Leiria",
-                "latitude": 39.738257,
-                "longitude": -8.802019
-            }
-        ]
-    },
-    {
         "quest_description": "Take a snapshot of wild pokemon",
         "quest_reward": "0  Experience",
         "quest_reward_type": "Experience",
@@ -675,6 +645,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "2220c88e700f4716a79a5a0fcd4b9e48.16",
+                "name": "Piscina Municipal Da Marinha Grande",
+                "latitude": 39.749552,
+                "longitude": -8.924803
+            },
             {
                 "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
                 "name": "Pharmacia",
@@ -776,6 +752,36 @@
                 "name": "\u00c1rea De Recreio",
                 "latitude": 39.745761,
                 "longitude": -8.934351
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Beedrill Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Beedrill",
+        "quest_reward_pokemon_id": 15,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            },
+            {
+                "pokestop_id": "54ed01ac248146bab4c80325d8c3a9ea.16",
+                "name": "Centro De Turismo",
+                "latitude": 39.743896,
+                "longitude": -8.806459
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
             }
         ]
     },
