@@ -132,6 +132,30 @@
         ]
     },
     {
+        "quest_description": "Make 2 Excellent Throws",
+        "quest_reward": "Beldum",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Beldum",
+        "quest_reward_pokemon_id": 374,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2ed1ee1f97513bb093cb82a83407952b.16",
+                "name": "Quiosque da Cruz da Areia",
+                "latitude": 39.729117,
+                "longitude": -8.808391
+            },
+            {
+                "pokestop_id": "53a72261b3aaad3d16c01a2d53aaea13",
+                "name": "Embaixadores da Comunidade da Niantic",
+                "latitude": 39.738384,
+                "longitude": -8.796305
+            }
+        ]
+    },
+    {
         "quest_description": "Make 10 Nice Throws",
         "quest_reward": "Gastly",
         "quest_reward_type": "Pokemon",
@@ -218,6 +242,12 @@
                 "name": "Centro De Turismo",
                 "latitude": 39.743896,
                 "longitude": -8.806459
+            },
+            {
+                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
+                "name": "S.L.Anti",
+                "latitude": 39.743737,
+                "longitude": -8.805579
             }
         ]
     },
@@ -254,24 +284,6 @@
                 "name": "Sede Santa Casa Da Miseric\u00f3rdia",
                 "latitude": 39.744101,
                 "longitude": -8.804625
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 2 Excellent Throws",
-        "quest_reward": "Beldum",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Beldum",
-        "quest_reward_pokemon_id": 374,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "53a72261b3aaad3d16c01a2d53aaea13",
-                "name": "Embaixadores da Comunidade da Niantic",
-                "latitude": 39.738384,
-                "longitude": -8.796305
             }
         ]
     },
