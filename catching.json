@@ -76,6 +76,12 @@
                 "longitude": -8.803428
             },
             {
+                "pokestop_id": "346692f7731647539c32a978b011270d.16",
+                "name": "Zona de Merendas",
+                "latitude": 39.747887,
+                "longitude": -8.810421
+            },
+            {
                 "pokestop_id": "364a7a745fb547b5914ce2b76a8e8ddc.16",
                 "name": "Parque De Merendas - Campus 2",
                 "latitude": 39.735284,
@@ -92,6 +98,12 @@
                 "name": "Ponte da Fonte Quente",
                 "latitude": 39.747216,
                 "longitude": -8.802534
+            },
+            {
+                "pokestop_id": "51a5cfd3c47c404080bf2813b792897b.16",
+                "name": "ADESER II",
+                "latitude": 39.75137,
+                "longitude": -8.931029
             },
             {
                 "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
@@ -124,6 +136,12 @@
                 "longitude": -8.808011
             },
             {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
+            },
+            {
                 "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
@@ -148,6 +166,18 @@
                 "longitude": -8.806284
             },
             {
+                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
+                "name": "Barragem do Rio Lis",
+                "latitude": 39.751189,
+                "longitude": -8.812916
+            },
+            {
+                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
+                "name": "Chamin\u00e9 Sthepens",
+                "latitude": 39.751303,
+                "longitude": -8.934332
+            },
+            {
                 "pokestop_id": "e92b33c341c3485d9b402af105b2484d.16",
                 "name": "Anno Christi MDCXLVI",
                 "latitude": 39.742708,
@@ -158,6 +188,12 @@
                 "name": "Liz ao Quadro - Art Galery",
                 "latitude": 39.748424,
                 "longitude": -8.802439
+            },
+            {
+                "pokestop_id": "fafc1dc9332130dd9955fd98eeae7954.16",
+                "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
+                "latitude": 39.749364,
+                "longitude": -8.930986
             },
             {
                 "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
@@ -336,6 +372,78 @@
         ]
     },
     {
+        "quest_description": "Catch a Dragon-type Pok\u00e9mon",
+        "quest_reward": "3 Rare Candy",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Rare Candy",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1301,
+        "pokestops": [
+            {
+                "pokestop_id": "60d1f388534c3f81bcfeb1c529486086.16",
+                "name": "Mesquita de Leiria",
+                "latitude": 39.738707,
+                "longitude": -8.805733
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "6adf2e0d4daa3ed6b1feabb5458dafba.16",
+                "name": "Projeto Community - Escola de Dan\u00e7as Urbanas",
+                "latitude": 39.746889,
+                "longitude": -8.813237
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
+                "name": "O pensativo.",
+                "latitude": 39.747078,
+                "longitude": -8.8151
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Ghost- or Dark-type Pok\u00e9mon",
         "quest_reward": "Gothita",
         "quest_reward_type": "Pokemon",
@@ -386,6 +494,24 @@
                 "name": "Praceta Abraao Zacuto",
                 "latitude": 39.74904,
                 "longitude": -8.802788
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Ghost- or Dark-type Pok\u00e9mon",
+        "quest_reward": "Solosis",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Solosis",
+        "quest_reward_pokemon_id": 577,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455
             }
         ]
     },
