@@ -154,6 +154,12 @@
                 "longitude": -8.804282
             },
             {
+                "pokestop_id": "2eef5abe51ad487f95a1ebd034c9bdef.16",
+                "name": "Choupo Negro",
+                "latitude": 39.750236,
+                "longitude": -8.804137
+            },
+            {
                 "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
                 "name": "Engenho Na Escola",
                 "latitude": 39.74247,
@@ -374,6 +380,12 @@
                 "name": "Atl\u00e9tico Clube Marinhense",
                 "latitude": 39.748748,
                 "longitude": -8.936854
+            },
+            {
+                "pokestop_id": "49f915dee3254434924c648a382a932d.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.750712,
+                "longitude": -8.816448
             },
             {
                 "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
@@ -636,6 +648,42 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Manectric Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Manectric",
+        "quest_reward_pokemon_id": 310,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929
+            },
+            {
+                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
+                "name": "Anfiteatro",
+                "latitude": 39.751453,
+                "longitude": -8.809059
+            },
+            {
+                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
+                "name": "D. Dinis",
+                "latitude": 39.745862,
+                "longitude": -8.809441
+            },
+            {
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 10 times",
         "quest_reward": "25 Ampharos Mega Energy",
         "quest_reward_type": "Energy",
@@ -710,6 +758,12 @@
                 "name": "Marco de Correio",
                 "latitude": 39.734008,
                 "longitude": -8.808168
+            },
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
             }
         ]
     },
@@ -922,6 +976,12 @@
                 "longitude": -8.933678
             },
             {
+                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
+                "name": "Jogo De Som",
+                "latitude": 39.734864,
+                "longitude": -8.797733
+            },
+            {
                 "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
                 "name": "Estradas Portugal",
                 "latitude": 39.751555,
@@ -1028,36 +1088,6 @@
                 "name": "Associa\u00e7\u00e3o de Dan\u00e7a de Leiria",
                 "latitude": 39.749055,
                 "longitude": -8.811604
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Manectric Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Manectric",
-        "quest_reward_pokemon_id": 310,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
-                "name": "Anfiteatro",
-                "latitude": 39.751453,
-                "longitude": -8.809059
-            },
-            {
-                "pokestop_id": "dc7763df22454a509925025a03f96629.11",
-                "name": "D. Dinis",
-                "latitude": 39.745862,
-                "longitude": -8.809441
-            },
-            {
-                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
-                "name": "Ponte pedonal do Parque das Bernardas",
-                "latitude": 39.737792,
-                "longitude": -8.928996
             }
         ]
     },
