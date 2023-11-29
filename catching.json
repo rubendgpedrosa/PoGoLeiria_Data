@@ -84,6 +84,30 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "09574b8a80a94a0d9c6f868d9f1ef02e.16",
+                "name": "Sede UDL",
+                "latitude": 39.748744,
+                "longitude": -8.811496
+            },
+            {
+                "pokestop_id": "a55789a0b055357b8f42ccdc0907d810.16",
+                "name": "Parque Infantil Este",
+                "latitude": 39.735664,
+                "longitude": -8.800658
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Roggenrola",
         "quest_reward_type": "Pokemon",
@@ -646,6 +670,12 @@
                 "longitude": -8.805733
             },
             {
+                "pokestop_id": "8be5956c59cc3621a677fff8c99d12c6.16",
+                "name": "Associa\u00e7\u00e3o de Dan\u00e7a de Leiria",
+                "latitude": 39.749055,
+                "longitude": -8.811604
+            },
+            {
                 "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
                 "name": "Ponte Pedonal Rio Liz",
                 "latitude": 39.750058,
@@ -1106,24 +1136,6 @@
                 "name": "Poesia Portuguesa de Janela",
                 "latitude": 39.749735,
                 "longitude": -8.930832
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "a55789a0b055357b8f42ccdc0907d810.16",
-                "name": "Parque Infantil Este",
-                "latitude": 39.735664,
-                "longitude": -8.800658
             }
         ]
     },
