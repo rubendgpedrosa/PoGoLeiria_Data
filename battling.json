@@ -48,6 +48,30 @@
         ]
     },
     {
+        "quest_description": "Win 2 raids",
+        "quest_reward": "Shedinja",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Shedinja",
+        "quest_reward_pokemon_id": 292,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
+                "name": "Leiria Shopping",
+                "latitude": 39.732373,
+                "longitude": -8.824896
+            },
+            {
+                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
+                "name": "Arquivo Distrital",
+                "latitude": 39.744298,
+                "longitude": -8.811006
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Onix",
         "quest_reward_type": "Pokemon",
@@ -62,6 +86,12 @@
                 "name": "Projeto Community - Escola de Dan\u00e7as Urbanas",
                 "latitude": 39.746889,
                 "longitude": -8.813237
+            },
+            {
+                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
+                "name": "Igreja Batista da Lagoinha",
+                "latitude": 39.740459,
+                "longitude": -8.80699
             },
             {
                 "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
@@ -120,20 +150,20 @@
         ]
     },
     {
-        "quest_description": "Win 2 raids",
-        "quest_reward": "Shedinja",
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Marill",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Shedinja",
-        "quest_reward_pokemon_id": 292,
+        "quest_reward_pokemon_name": "Marill",
+        "quest_reward_pokemon_id": 183,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
-                "name": "Arquivo Distrital",
-                "latitude": 39.744298,
-                "longitude": -8.811006
+                "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
+                "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739793,
+                "longitude": -8.808255
             }
         ]
     }
