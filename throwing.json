@@ -895,6 +895,36 @@
     },
     {
         "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "49771867bab1340ea0b86755f4f23b3d.16",
+                "name": "Parede de Escalada",
+                "latitude": 39.734361,
+                "longitude": -8.80252
+            },
+            {
+                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
+                "name": "Parque da Cerca",
+                "latitude": 39.748598,
+                "longitude": -8.934927
+            },
+            {
+                "pokestop_id": "d8f921022177335fb4f14dcd5650f88d.16",
+                "name": "Ricardo Pereira Studio",
+                "latitude": 39.743409,
+                "longitude": -8.800661
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 3,
@@ -1280,30 +1310,6 @@
                 "name": "As Cisternas do Castelo",
                 "latitude": 39.747505,
                 "longitude": -8.809466
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
-                "name": "Parque da Cerca",
-                "latitude": 39.748598,
-                "longitude": -8.934927
-            },
-            {
-                "pokestop_id": "d8f921022177335fb4f14dcd5650f88d.16",
-                "name": "Ricardo Pereira Studio",
-                "latitude": 39.743409,
-                "longitude": -8.800661
             }
         ]
     },
