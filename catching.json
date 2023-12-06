@@ -1,6 +1,24 @@
 [
     {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Wingull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wingull",
+        "quest_reward_pokemon_id": 278,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "091456d950da38849bd7ae900f166679.16",
+                "name": "Sonhos de Papel",
+                "latitude": 39.743096,
+                "longitude": -8.935367
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 1,
@@ -768,6 +786,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Cubchoo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cubchoo",
+        "quest_reward_pokemon_id": 613,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
+                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
+                "latitude": 39.742059,
+                "longitude": -8.808031
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -956,6 +992,24 @@
                 "name": "Playcity 006",
                 "latitude": 39.746676,
                 "longitude": -8.802645
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "10 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
             }
         ]
     },
