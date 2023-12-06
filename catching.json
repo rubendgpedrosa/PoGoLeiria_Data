@@ -204,6 +204,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 Pok\u00e9mon",
         "quest_reward": "Wimpod",
         "quest_reward_type": "Pokemon",
@@ -416,6 +434,12 @@
                 "name": "Plataforma de \u00e1gua",
                 "latitude": 39.748981,
                 "longitude": -8.934711
+            },
+            {
+                "pokestop_id": "a5c4d67ae0ce34d0947f2636d1af6f68.16",
+                "name": "Pilates Tereza Marques",
+                "latitude": 39.74369,
+                "longitude": -8.800766
             }
         ]
     },
@@ -458,6 +482,30 @@
                 "name": "Parque da Cerca",
                 "latitude": 39.748598,
                 "longitude": -8.934927
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
+                "name": "Ponte pedonal do parque das Almoinhas",
+                "latitude": 39.751479,
+                "longitude": -8.813373
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251
             }
         ]
     },
@@ -524,6 +572,12 @@
                 "name": "Junta De Freguesia Leiria",
                 "latitude": 39.743562,
                 "longitude": -8.804606
+            },
+            {
+                "pokestop_id": "92d679c065cf4936a127b1133d3e57b6.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.754255,
+                "longitude": -8.808874
             }
         ]
     },
@@ -572,6 +626,12 @@
                 "name": "Centro Shotokan Leiria",
                 "latitude": 39.747428,
                 "longitude": -8.807456
+            },
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
             },
             {
                 "pokestop_id": "b9d4215916a5403d8010bfe7dd3896d3.16",
@@ -842,24 +902,6 @@
                 "name": "Campo De Apoio",
                 "latitude": 39.738138,
                 "longitude": -8.933062
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
-                "name": "A\u00e7ude Da Fonte Quente",
-                "latitude": 39.747803,
-                "longitude": -8.802251
             }
         ]
     }
