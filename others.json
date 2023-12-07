@@ -328,6 +328,12 @@
                 "longitude": -8.936047
             },
             {
+                "pokestop_id": "d8f921022177335fb4f14dcd5650f88d.16",
+                "name": "Ricardo Pereira Studio",
+                "latitude": 39.743409,
+                "longitude": -8.800661
+            },
+            {
                 "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
                 "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
                 "latitude": 39.741652,
@@ -392,6 +398,12 @@
                 "name": "Igreja de S\u00e3o Pedro",
                 "latitude": 39.74725,
                 "longitude": -8.807508
+            },
+            {
+                "pokestop_id": "cfa99aca982c4d5594e91f019f507180.16",
+                "name": "LeiriaMini - \u00c1rea Interativa",
+                "latitude": 39.732346,
+                "longitude": -8.824545
             }
         ]
     },
@@ -448,10 +460,22 @@
                 "longitude": -8.936343
             },
             {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
+            {
                 "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
                 "name": "ISLA - Escola Profissional de Leiria",
                 "latitude": 39.73238,
                 "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "5329f6a14e024a0a95900ff685a0d32f.16",
+                "name": "Antigo Fontan\u00e1rio",
+                "latitude": 39.752154,
+                "longitude": -8.929224
             },
             {
                 "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
@@ -464,6 +488,12 @@
                 "name": "Marco CTT",
                 "latitude": 39.747797,
                 "longitude": -8.803171
+            },
+            {
+                "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
+                "name": "Caritas Diocesana de Leiria",
+                "latitude": 39.73688,
+                "longitude": -8.806748
             },
             {
                 "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
@@ -600,6 +630,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Rowlet",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Rowlet",
+        "quest_reward_pokemon_id": 722,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929
+            },
+            {
+                "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
+                "name": "Placa de Homenagem Wenceslau de Morais",
+                "latitude": 39.747264,
+                "longitude": -8.803776
+            }
+        ]
+    },
+    {
         "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
         "quest_reward": "Croagunk",
         "quest_reward_type": "Pokemon",
@@ -620,6 +674,12 @@
                 "name": "Pra\u00e7a Eng Calazans Duarte",
                 "latitude": 39.742041,
                 "longitude": -8.934302
+            },
+            {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
             }
         ]
     },
@@ -728,6 +788,12 @@
                 "name": "Painel de Informa\u00e7\u00f5es - Uni\u00e3o de Freguesias de Leiria, Pousos, Barreira e Cortes",
                 "latitude": 39.733271,
                 "longitude": -8.796911
+            },
+            {
+                "pokestop_id": "f3a20103705430bc9e7a1e1d054c1b6a.16",
+                "name": "Polit\u00e9cnico de Leiria - ESECS",
+                "latitude": 39.739751,
+                "longitude": -8.811364
             }
         ]
     },
@@ -794,6 +860,24 @@
                 "name": "ESSLEI",
                 "latitude": 39.732661,
                 "longitude": -8.820675
+            }
+        ]
+    },
+    {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Stunky",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunky",
+        "quest_reward_pokemon_id": 434,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
+                "name": "Parque de S\u00e3o Rom\u00e3o",
+                "latitude": 39.733442,
+                "longitude": -8.797748
             }
         ]
     },
@@ -924,20 +1008,20 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 7 times",
-        "quest_reward": "Rowlet",
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Snivy",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Rowlet",
-        "quest_reward_pokemon_id": 722,
+        "quest_reward_pokemon_name": "Snivy",
+        "quest_reward_pokemon_id": 495,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
-                "name": "Placa de Homenagem Wenceslau de Morais",
-                "latitude": 39.747264,
-                "longitude": -8.803776
+                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.740095,
+                "longitude": -8.811435
             }
         ]
     },
