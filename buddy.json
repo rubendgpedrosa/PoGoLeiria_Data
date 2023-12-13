@@ -18,6 +18,30 @@
         ]
     },
     {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Delibird",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Delibird",
+        "quest_reward_pokemon_id": 225,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
+                "name": "Bairro dos Anjos",
+                "latitude": 39.744958,
+                "longitude": -8.804361
+            },
+            {
+                "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
+                "name": "Centro Shotokan Leiria",
+                "latitude": 39.747428,
+                "longitude": -8.807456
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 3 Candies walking with your buddy",
         "quest_reward": "Stunfisk",
         "quest_reward_type": "Pokemon",
@@ -32,24 +56,6 @@
                 "name": "EL REI D. AFONSO I",
                 "latitude": 39.748442,
                 "longitude": -8.810054
-            }
-        ]
-    },
-    {
-        "quest_description": "Send 5 Gifts and add a sticker to each",
-        "quest_reward": "Delibird",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Delibird",
-        "quest_reward_pokemon_id": 225,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
-                "name": "Centro Shotokan Leiria",
-                "latitude": 39.747428,
-                "longitude": -8.807456
             }
         ]
     },
