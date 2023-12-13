@@ -60,6 +60,30 @@
         ]
     },
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Lapras",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lapras",
+        "quest_reward_pokemon_id": 131,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
+            },
+            {
+                "pokestop_id": "d507cf11ba724b0e99127ed0e11b6597.16",
+                "name": "Lenda do Lis e do Lena",
+                "latitude": 39.743468,
+                "longitude": -8.8068
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Frillish",
         "quest_reward_type": "Pokemon",
@@ -74,24 +98,6 @@
                 "name": "Associa\u00e7\u00e3o de Munic\u00edpios e de Desenvolvimento da Alta-Estremadura",
                 "latitude": 39.742508,
                 "longitude": -8.8066
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "Lapras",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Lapras",
-        "quest_reward_pokemon_id": 131,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d507cf11ba724b0e99127ed0e11b6597.16",
-                "name": "Lenda do Lis e do Lena",
-                "latitude": 39.743468,
-                "longitude": -8.8068
             }
         ]
     }
