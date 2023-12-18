@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Explore 2 km",
+        "quest_reward": "Ponyta",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Ponyta",
+        "quest_reward_pokemon_id": 77,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
+                "name": "Skate Park",
+                "latitude": 39.735189,
+                "longitude": -8.797673
+            },
+            {
+                "pokestop_id": "a6d7eca545914ec3b5fc2ae294b69656.11",
+                "name": "Est\u00e1tua \"A Caminho da Feira\"",
+                "latitude": 39.744847,
+                "longitude": -8.804645
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch 2 Eggs",
         "quest_reward": "Meowth",
         "quest_reward_type": "Pokemon",
@@ -20,6 +44,18 @@
                 "name": "Instituto Portugu\u00eas da Juventude",
                 "latitude": 39.747497,
                 "longitude": -8.81418
+            },
+            {
+                "pokestop_id": "897ec754d2833022ae683fdeb8474d10.16",
+                "name": "Pinheiro Manso",
+                "latitude": 39.735547,
+                "longitude": -8.796467
+            },
+            {
+                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
+                "name": "Ponte El-Rei D. Dinis",
+                "latitude": 39.743323,
+                "longitude": -8.804477
             },
             {
                 "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
@@ -76,16 +112,82 @@
                 "longitude": -8.804231
             },
             {
+                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
+                "name": "Centro de Linguas Chinesas",
+                "latitude": 39.740291,
+                "longitude": -8.811645
+            },
+            {
                 "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
                 "name": "Marco CTT - Rua de Alcoba\u00e7a",
                 "latitude": 39.741853,
                 "longitude": -8.810621
             },
             {
+                "pokestop_id": "8bbdad203c004919a02b8d596cd56170.16",
+                "name": "Jardim Am\u00e9lia Pinto Pais",
+                "latitude": 39.742343,
+                "longitude": -8.803473
+            },
+            {
+                "pokestop_id": "8d0d519111594c7d9d556e143b4c9f08.16",
+                "name": "Rotary Club",
+                "latitude": 39.750458,
+                "longitude": -8.925748
+            },
+            {
                 "pokestop_id": "a12d18e62f3c4c86981d2a6a4316c9a5.16",
                 "name": "Homegame aos Her\u00f3icos Soldados",
                 "latitude": 39.746449,
                 "longitude": -8.808147
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Croagunk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Croagunk",
+        "quest_reward_pokemon_id": 453,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f8df9d7634c44a2b38af780e0f882bc.11",
+                "name": "Edif\u00edcio do Dr. Jo\u00e3o Carlos Verde de Oliveira",
+                "latitude": 39.742779,
+                "longitude": -8.804791
+            }
+        ]
+    },
+    {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Scyther",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scyther",
+        "quest_reward_pokemon_id": 123,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "342b74fd64304cd7bf71bc31fb16d27d.16",
+                "name": "N\u00facleo Sportinguista",
+                "latitude": 39.753852,
+                "longitude": -8.932817
+            },
+            {
+                "pokestop_id": "6911dd91c1994c11a3ce259f0947fec5.16",
+                "name": "Ponte pedestre do parque da Bernardas",
+                "latitude": 39.737402,
+                "longitude": -8.928949
+            },
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
             }
         ]
     },
@@ -178,6 +280,12 @@
                 "longitude": -8.80843
             },
             {
+                "pokestop_id": "a1d7da08d79c492098f4f57a27931039.16",
+                "name": "Marco CTT - Rua Professor N. Costa",
+                "latitude": 39.742221,
+                "longitude": -8.813073
+            },
+            {
                 "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
                 "name": "Faces Cubistas",
                 "latitude": 39.750855,
@@ -232,6 +340,12 @@
                 "longitude": -8.813237
             },
             {
+                "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
+                "name": "Placa de Homenagem Wenceslau de Morais",
+                "latitude": 39.747264,
+                "longitude": -8.803776
+            },
+            {
                 "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
                 "name": "Torre Agua Leiria",
                 "latitude": 39.743319,
@@ -260,30 +374,6 @@
                 "name": "Centro Comercial Lumar",
                 "latitude": 39.746744,
                 "longitude": -8.935747
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Scyther",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Scyther",
-        "quest_reward_pokemon_id": 123,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6911dd91c1994c11a3ce259f0947fec5.16",
-                "name": "Ponte pedestre do parque da Bernardas",
-                "latitude": 39.737402,
-                "longitude": -8.928949
-            },
-            {
-                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731552,
-                "longitude": -8.809623
             }
         ]
     },
@@ -342,6 +432,24 @@
         ]
     },
     {
+        "quest_description": "Evolve a Pok\u00e9mon",
+        "quest_reward": "Eevee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Eevee",
+        "quest_reward_pokemon_id": 133,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
+                "name": "Jardim da Marinha Grande",
+                "latitude": 39.750988,
+                "longitude": -8.929103
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch an Egg",
         "quest_reward": "Meowth",
         "quest_reward_type": "Pokemon",
@@ -380,6 +488,24 @@
                 "name": "Anfiteatro Do Parque Da Cerca",
                 "latitude": 39.749604,
                 "longitude": -8.934917
+            }
+        ]
+    },
+    {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Mawile",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mawile",
+        "quest_reward_pokemon_id": 303,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
+                "name": "Rotary Club De Leiria",
+                "latitude": 39.735202,
+                "longitude": -8.798938
             }
         ]
     },
