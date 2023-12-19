@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
+                "name": "Skate Park",
+                "latitude": 39.735189,
+                "longitude": -8.797673
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 3 times",
         "quest_reward": "Squirtle",
         "quest_reward_type": "Pokemon",
@@ -20,6 +38,24 @@
                 "name": "Malta do Aerosol",
                 "latitude": 39.750045,
                 "longitude": -8.935074
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 10 times",
+        "quest_reward": "25 Abomasnow Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Abomasnow",
+        "quest_reward_pokemon_id": 460,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "098af78ab679495aadb944e4da01fd49.11",
+                "name": "Ultramar",
+                "latitude": 39.745448,
+                "longitude": -8.805844
             }
         ]
     },
@@ -364,6 +400,12 @@
                 "longitude": -8.807857
             },
             {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
                 "pokestop_id": "ab805be772cb4ad7918ff8ffd6287881.16",
                 "name": "EPAMG",
                 "latitude": 39.749907,
@@ -488,6 +530,24 @@
                 "name": "Anfiteatro",
                 "latitude": 39.751453,
                 "longitude": -8.809059
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Slowpoke",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Slowpoke",
+        "quest_reward_pokemon_id": 79,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
+                "name": "Ponte Pedonal Rio Liz",
+                "latitude": 39.750058,
+                "longitude": -8.804897
             }
         ]
     },
