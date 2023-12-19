@@ -1,6 +1,48 @@
 [
     {
         "quest_description": "Win a raid",
+        "quest_reward": "Lapras",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lapras",
+        "quest_reward_pokemon_id": 131,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d8a08d8b1373ea6aa0dda39ef0333c1.16",
+                "name": "m|i|mo - Museu da Imagem em Movimento",
+                "latitude": 39.747339,
+                "longitude": -8.807318
+            },
+            {
+                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
+                "name": "Campo Basketball",
+                "latitude": 39.746655,
+                "longitude": -8.802376
+            },
+            {
+                "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
+                "name": "Monumento Afonso Lopes Vieira",
+                "latitude": 39.740187,
+                "longitude": -8.812398
+            },
+            {
+                "pokestop_id": "a175686711784037833ee274d88813d8.16",
+                "name": "Galeria Manuel Artur Santos",
+                "latitude": 39.742898,
+                "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
+                "name": "Zona Desportiva",
+                "latitude": 39.747903,
+                "longitude": -8.936311
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a raid",
         "quest_reward": "Glaceon",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -16,6 +58,12 @@
                 "longitude": -8.805136
             },
             {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
+            {
                 "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
                 "name": "ISLA - Escola Profissional de Leiria",
                 "latitude": 39.73238,
@@ -26,36 +74,6 @@
                 "name": "Playcity 003",
                 "latitude": 39.740875,
                 "longitude": -8.801093
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a raid",
-        "quest_reward": "Lapras",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Lapras",
-        "quest_reward_pokemon_id": 131,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
-                "name": "Campo Basketball",
-                "latitude": 39.746655,
-                "longitude": -8.802376
-            },
-            {
-                "pokestop_id": "a175686711784037833ee274d88813d8.16",
-                "name": "Galeria Manuel Artur Santos",
-                "latitude": 39.742898,
-                "longitude": -8.807245
-            },
-            {
-                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
-                "name": "Zona Desportiva",
-                "latitude": 39.747903,
-                "longitude": -8.936311
             }
         ]
     }
