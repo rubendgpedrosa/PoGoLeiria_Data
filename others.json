@@ -90,6 +90,30 @@
         ]
     },
     {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Skrelp",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Skrelp",
+        "quest_reward_pokemon_id": 690,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            }
+        ]
+    },
+    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Cryogonal",
         "quest_reward_type": "Pokemon",
@@ -206,6 +230,12 @@
                 "name": "Castelo de Leiria",
                 "latitude": 39.747664,
                 "longitude": -8.808828
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             }
         ]
     },
@@ -296,24 +326,6 @@
                 "name": "Ponte pedonal do parque das Almoinhas",
                 "latitude": 39.751479,
                 "longitude": -8.813373
-            }
-        ]
-    },
-    {
-        "quest_description": "Defeat 3 Team GO Rocket Grunts",
-        "quest_reward": "Skrelp",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Skrelp",
-        "quest_reward_pokemon_id": 690,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
-                "name": "Casa Mortu\u00e1ria",
-                "latitude": 39.744917,
-                "longitude": -8.798869
             }
         ]
     },
