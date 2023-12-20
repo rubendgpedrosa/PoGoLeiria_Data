@@ -1,6 +1,84 @@
 [
     {
         "quest_description": "Catch 7 Ice-type Pok\u00e9mon",
+        "quest_reward": "Shellder",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Shellder",
+        "quest_reward_pokemon_id": 90,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            },
+            {
+                "pokestop_id": "0df8fea10368498f97ff03c53648024c.16",
+                "name": "Museu S C P",
+                "latitude": 39.746818,
+                "longitude": -8.812759
+            },
+            {
+                "pokestop_id": "14a69ce370fb46f88261e19bbc2101cb.16",
+                "name": "Biblioteca Municipal Afonso Lopes Vieira",
+                "latitude": 39.743917,
+                "longitude": -8.810087
+            },
+            {
+                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
+                "name": "Black Cat",
+                "latitude": 39.745372,
+                "longitude": -8.807148
+            },
+            {
+                "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
+                "name": "Pharmacia",
+                "latitude": 39.745802,
+                "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
+                "name": "Pra\u00e7a do Emigrante",
+                "latitude": 39.748896,
+                "longitude": -8.80445
+            },
+            {
+                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
+                "name": "laurus nobilis",
+                "latitude": 39.736728,
+                "longitude": -8.795776
+            },
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
+                "name": "Torre Agua Leiria",
+                "latitude": 39.743319,
+                "longitude": -8.799232
+            },
+            {
+                "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
+                "name": "Miradouro Leiria",
+                "latitude": 39.743941,
+                "longitude": -8.802609
+            },
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 7 Ice-type Pok\u00e9mon",
         "quest_reward": "Snover",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -32,6 +110,18 @@
                 "name": "Correios Marrazes",
                 "latitude": 39.753807,
                 "longitude": -8.81209
+            },
+            {
+                "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
+                "name": "Igreja do cemit\u00e9rio da Marinha Grande",
+                "latitude": 39.745877,
+                "longitude": -8.932347
+            },
+            {
+                "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
+                "name": "Dan'el E'me",
+                "latitude": 39.740549,
+                "longitude": -8.802441
             },
             {
                 "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
@@ -262,6 +352,12 @@
                 "longitude": -8.933133
             },
             {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
                 "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
                 "name": "Bairro dos Anjos",
                 "latitude": 39.744958,
@@ -308,6 +404,12 @@
                 "name": "IPL - Unidade de investiga\u00e7\u00e3o",
                 "latitude": 39.74349,
                 "longitude": -8.791929
+            },
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
             },
             {
                 "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
@@ -374,6 +476,12 @@
                 "name": "Clube M.M.G",
                 "latitude": 39.749647,
                 "longitude": -8.932786
+            },
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
             },
             {
                 "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
@@ -446,78 +554,6 @@
                 "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
                 "latitude": 39.744778,
                 "longitude": -8.80632
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 7 Ice-type Pok\u00e9mon",
-        "quest_reward": "Shellder",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Shellder",
-        "quest_reward_pokemon_id": 90,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "0df8fea10368498f97ff03c53648024c.16",
-                "name": "Museu S C P",
-                "latitude": 39.746818,
-                "longitude": -8.812759
-            },
-            {
-                "pokestop_id": "14a69ce370fb46f88261e19bbc2101cb.16",
-                "name": "Biblioteca Municipal Afonso Lopes Vieira",
-                "latitude": 39.743917,
-                "longitude": -8.810087
-            },
-            {
-                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
-                "name": "Black Cat",
-                "latitude": 39.745372,
-                "longitude": -8.807148
-            },
-            {
-                "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
-                "name": "Pharmacia",
-                "latitude": 39.745802,
-                "longitude": -8.807245
-            },
-            {
-                "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
-                "name": "Pra\u00e7a do Emigrante",
-                "latitude": 39.748896,
-                "longitude": -8.80445
-            },
-            {
-                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
-                "name": "laurus nobilis",
-                "latitude": 39.736728,
-                "longitude": -8.795776
-            },
-            {
-                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
-                "name": "Ponte Euro 2004",
-                "latitude": 39.752764,
-                "longitude": -8.814174
-            },
-            {
-                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
-                "name": "Torre Agua Leiria",
-                "latitude": 39.743319,
-                "longitude": -8.799232
-            },
-            {
-                "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
-                "name": "Miradouro Leiria",
-                "latitude": 39.743941,
-                "longitude": -8.802609
-            },
-            {
-                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731552,
-                "longitude": -8.809623
             }
         ]
     },
@@ -758,6 +794,12 @@
                 "name": "Rodilha",
                 "latitude": 39.742979,
                 "longitude": -8.806888
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
             },
             {
                 "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
