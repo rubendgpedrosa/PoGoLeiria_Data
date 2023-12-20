@@ -120,48 +120,6 @@
         ]
     },
     {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Aerodactyl",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Aerodactyl",
-        "quest_reward_pokemon_id": 142,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "15d0bdf2c3a64195981d4eab2368a386.16",
-                "name": "Painel de Azulejos D. Nuno \u00c1lvares Pereira",
-                "latitude": 39.750326,
-                "longitude": -8.930843
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Spheal",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Spheal",
-        "quest_reward_pokemon_id": 363,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
-                "name": "Shaman Urbano",
-                "latitude": 39.744681,
-                "longitude": -8.809882
-            },
-            {
-                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
-                "name": "Marco CTT",
-                "latitude": 39.747797,
-                "longitude": -8.803171
-            }
-        ]
-    },
-    {
         "quest_description": "Win a raid",
         "quest_reward": "Lapras",
         "quest_reward_type": "Pokemon",
@@ -171,6 +129,12 @@
         "quest_reward_pokemon_id": 131,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
+            },
             {
                 "pokestop_id": "3a4298de80593eb885910e275b595736.16",
                 "name": "Gin\u00e1sio Luis Lopes",
@@ -212,6 +176,48 @@
                 "name": "Parque Infantil",
                 "latitude": 39.731526,
                 "longitude": -8.803604
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Aerodactyl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "15d0bdf2c3a64195981d4eab2368a386.16",
+                "name": "Painel de Azulejos D. Nuno \u00c1lvares Pereira",
+                "latitude": 39.750326,
+                "longitude": -8.930843
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Spheal",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spheal",
+        "quest_reward_pokemon_id": 363,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
+            },
+            {
+                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
+                "name": "Marco CTT",
+                "latitude": 39.747797,
+                "longitude": -8.803171
             }
         ]
     },
