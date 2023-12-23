@@ -508,10 +508,28 @@
                 "longitude": -8.932347
             },
             {
+                "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
+                "name": "Dan'el E'me",
+                "latitude": 39.740549,
+                "longitude": -8.802441
+            },
+            {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
+            {
                 "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
                 "name": "Ponte pedonal do parque das Almoinhas",
                 "latitude": 39.751479,
                 "longitude": -8.813373
+            },
+            {
+                "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
+                "name": "Espa\u00e7o O Nariz",
+                "latitude": 39.740953,
+                "longitude": -8.803248
             },
             {
                 "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
@@ -566,6 +584,12 @@
                 "name": "EPAMG",
                 "latitude": 39.749907,
                 "longitude": -8.933733
+            },
+            {
+                "pokestop_id": "ac8054dc06544e05b1d10a47ff12b097.16",
+                "name": "Bras\u00e3o da Cidade",
+                "latitude": 39.743168,
+                "longitude": -8.805737
             },
             {
                 "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
@@ -652,6 +676,12 @@
                 "longitude": -8.807245
             },
             {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            },
+            {
                 "pokestop_id": "4d86c7b25ae23c4e88f5151e4d759839.16",
                 "name": "Galerias Mouzinho de Albuquerque",
                 "latitude": 39.747271,
@@ -694,6 +724,12 @@
                 "longitude": -8.80351
             },
             {
+                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
+                "name": "Parque de merendas 2",
+                "latitude": 39.733159,
+                "longitude": -8.82037
+            },
+            {
                 "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
                 "name": "Zona Desportiva",
                 "latitude": 39.747903,
@@ -710,6 +746,12 @@
                 "name": "Engenho Na Escola",
                 "latitude": 39.74247,
                 "longitude": -8.933721
+            },
+            {
+                "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
+                "name": "Campus 1 - ESECS",
+                "latitude": 39.739983,
+                "longitude": -8.812123
             },
             {
                 "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
@@ -1390,6 +1432,12 @@
                 "longitude": -8.802019
             },
             {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
+            },
+            {
                 "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
                 "name": "Est\u00e1dio Municipal de Leiria",
                 "latitude": 39.749735,
@@ -1640,6 +1688,18 @@
                 "name": "Projeto U-Bike: ESTG - Bloco D",
                 "latitude": 39.734271,
                 "longitude": -8.821229
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
+            },
+            {
+                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
+                "name": "ESSLEI",
+                "latitude": 39.732661,
+                "longitude": -8.820675
             },
             {
                 "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
@@ -1974,6 +2034,30 @@
         ]
     },
     {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Stufful",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stufful",
+        "quest_reward_pokemon_id": 759,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
+                "name": "Monumento aos Combatentes da Grande Guerra",
+                "latitude": 39.740806,
+                "longitude": -8.802768
+            },
+            {
+                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
+                "name": "As Cisternas do Castelo",
+                "latitude": 39.747505,
+                "longitude": -8.809466
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -2024,24 +2108,6 @@
                 "name": "Associa\u00e7\u00e3o de Munic\u00edpios e de Desenvolvimento da Alta-Estremadura",
                 "latitude": 39.742508,
                 "longitude": -8.8066
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 7 Pok\u00e9mon",
-        "quest_reward": "Stufful",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stufful",
-        "quest_reward_pokemon_id": 759,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
-                "name": "As Cisternas do Castelo",
-                "latitude": 39.747505,
-                "longitude": -8.809466
             }
         ]
     },
