@@ -76,6 +76,12 @@
                 "longitude": -8.811698
             },
             {
+                "pokestop_id": "1f8703ec0451364f90420f66f3220978.16",
+                "name": "Centro de Cultura e Desporto dos Trabalhadores da Seguran\u00e7a Social de Leiria",
+                "latitude": 39.74061,
+                "longitude": -8.814058
+            },
+            {
                 "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
                 "name": "Pharmacia",
                 "latitude": 39.745802,
@@ -220,6 +226,12 @@
                 "longitude": -8.930829
             },
             {
+                "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
+                "name": "Tribunal do Trabalho de Leiria",
+                "latitude": 39.739929,
+                "longitude": -8.808784
+            },
+            {
                 "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
                 "name": "Caixa Postal CTT - Guimarota",
                 "latitude": 39.732839,
@@ -360,36 +372,6 @@
         ]
     },
     {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Glameow",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Glameow",
-        "quest_reward_pokemon_id": 431,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
-                "name": "Gin\u00e1sio Luis Lopes",
-                "latitude": 39.743959,
-                "longitude": -8.798023
-            },
-            {
-                "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
-                "name": "Igreja do cemit\u00e9rio da Marinha Grande",
-                "latitude": 39.745877,
-                "longitude": -8.932347
-            },
-            {
-                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
-                "name": "Ponte pedonal do parque das Almoinhas",
-                "latitude": 39.751479,
-                "longitude": -8.813373
-            }
-        ]
-    },
-    {
         "quest_description": "Send 3 Gifts and add a sticker to each",
         "quest_reward": "Crabrawler",
         "quest_reward_type": "Pokemon",
@@ -399,6 +381,12 @@
         "quest_reward_pokemon_id": 739,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
             {
                 "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
                 "name": "Mural pintura no vidro",
@@ -440,6 +428,36 @@
                 "name": "Play City",
                 "latitude": 39.747179,
                 "longitude": -8.802109
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Glameow",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Glameow",
+        "quest_reward_pokemon_id": 431,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
+                "name": "Gin\u00e1sio Luis Lopes",
+                "latitude": 39.743959,
+                "longitude": -8.798023
+            },
+            {
+                "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
+                "name": "Igreja do cemit\u00e9rio da Marinha Grande",
+                "latitude": 39.745877,
+                "longitude": -8.932347
+            },
+            {
+                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
+                "name": "Ponte pedonal do parque das Almoinhas",
+                "latitude": 39.751479,
+                "longitude": -8.813373
             }
         ]
     },
