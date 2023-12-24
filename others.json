@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
+            {
+                "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
+                "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
+                "latitude": 39.741652,
+                "longitude": -8.929112
+            }
+        ]
+    },
+    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Scyther",
         "quest_reward_type": "Pokemon",
@@ -31,24 +55,6 @@
     },
     {
         "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Mawile",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Mawile",
-        "quest_reward_pokemon_id": 303,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "266b43dbec17425a81f8256b14f1c2cd.16",
-                "name": "Rodovi\u00e1ria Do Lis",
-                "latitude": 39.745095,
-                "longitude": -8.805202
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Cryogonal",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -57,6 +63,12 @@
         "quest_reward_pokemon_id": 615,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "2220c88e700f4716a79a5a0fcd4b9e48.16",
+                "name": "Piscina Municipal Da Marinha Grande",
+                "latitude": 39.749552,
+                "longitude": -8.924803
+            },
             {
                 "pokestop_id": "2bee528e05843d0f872201c882e56d1e.16",
                 "name": "Porta - Cidades Imagin\u00e1rias",
@@ -92,6 +104,24 @@
                 "name": "Anno Christi MDCXLVI",
                 "latitude": 39.742708,
                 "longitude": -8.810826
+            }
+        ]
+    },
+    {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Mawile",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mawile",
+        "quest_reward_pokemon_id": 303,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "266b43dbec17425a81f8256b14f1c2cd.16",
+                "name": "Rodovi\u00e1ria Do Lis",
+                "latitude": 39.745095,
+                "longitude": -8.805202
             }
         ]
     },
@@ -232,6 +262,12 @@
                 "longitude": -8.795909
             },
             {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
+            },
+            {
                 "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
                 "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
                 "latitude": 39.742537,
@@ -320,24 +356,6 @@
                 "name": "Museu BVMG",
                 "latitude": 39.748136,
                 "longitude": -8.933859
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
-                "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
-                "latitude": 39.741652,
-                "longitude": -8.929112
             }
         ]
     },
