@@ -474,6 +474,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Manectric Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Manectric",
+        "quest_reward_pokemon_id": 310,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
+            },
+            {
+                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
+                "name": "Ponte Pique-nique",
+                "latitude": 39.739692,
+                "longitude": -8.798933
+            }
+        ]
+    },
+    {
         "quest_description": "Purify 3 Pokemon",
         "quest_reward": "Absol",
         "quest_reward_type": "Pokemon",
@@ -668,24 +692,6 @@
                 "name": "Parque da Encarna\u00e7\u00e3o",
                 "latitude": 39.738905,
                 "longitude": -8.798901
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Manectric Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Manectric",
-        "quest_reward_pokemon_id": 310,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
-                "name": "Ponte Pique-nique",
-                "latitude": 39.739692,
-                "longitude": -8.798933
             }
         ]
     }
