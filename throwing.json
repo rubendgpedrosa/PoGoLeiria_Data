@@ -98,6 +98,12 @@
                 "name": "Farol",
                 "latitude": 39.750152,
                 "longitude": -8.931811
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
             }
         ]
     },
@@ -246,6 +252,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Diglett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Diglett",
+        "quest_reward_pokemon_id": 50,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2d7b37f4596348a3ae410d3b6e0f5be5.16",
+                "name": "Igreja da Miseric\u00f3rdia",
+                "latitude": 39.745213,
+                "longitude": -8.807912
+            },
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -308,6 +338,30 @@
                 "name": "Mercado Municipal",
                 "latitude": 39.749213,
                 "longitude": -8.8064
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Scraggy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scraggy",
+        "quest_reward_pokemon_id": 559,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
+            },
+            {
+                "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
+                "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739793,
+                "longitude": -8.808255
             }
         ]
     },
@@ -398,24 +452,6 @@
                 "name": "Ponte pedonal do parque das Almoinhas",
                 "latitude": 39.751479,
                 "longitude": -8.813373
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "Diglett",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Diglett",
-        "quest_reward_pokemon_id": 50,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
-                "name": "Jornal de Leiria",
-                "latitude": 39.743267,
-                "longitude": -8.809349
             }
         ]
     },
@@ -516,24 +552,6 @@
         ]
     },
     {
-        "quest_description": "Make 5 Great Throws",
-        "quest_reward": "Scraggy",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Scraggy",
-        "quest_reward_pokemon_id": 559,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
-                "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
-                "latitude": 39.739793,
-                "longitude": -8.808255
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "3 Pinap Berry",
         "quest_reward_type": "Item",
@@ -566,6 +584,42 @@
                 "name": "Clube Acad\u00e9mico Leiria",
                 "latitude": 39.738592,
                 "longitude": -8.80671
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "1000 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1000,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
+                "name": "Zona de lazer",
+                "latitude": 39.737598,
+                "longitude": -8.928606
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
             }
         ]
     }
