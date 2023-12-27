@@ -1122,6 +1122,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            },
+            {
+                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
+                "name": "Confer\u00eancia de S. Vicente Paulo",
+                "latitude": 39.750114,
+                "longitude": -8.92967
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -1136,6 +1160,66 @@
                 "name": "Pharmacia",
                 "latitude": 39.745802,
                 "longitude": -8.807245
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Ice-type Pok\u00e9mon",
+        "quest_reward": "3 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "2ac9299d7ffd319aa934d0d4337e8b8f.16",
+                "name": "Leiria: Cidade Europeia do Desporto 2022",
+                "latitude": 39.736999,
+                "longitude": -8.82141
+            },
+            {
+                "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
+                "name": "CENFIM",
+                "latitude": 39.749026,
+                "longitude": -8.928307
+            },
+            {
+                "pokestop_id": "57da555c66ca4169b393e3b97389a780.16",
+                "name": "Parque Infantil Jardim do Liz",
+                "latitude": 39.750826,
+                "longitude": -8.806392
+            },
+            {
+                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
+                "name": "Janelas Santo Agostinho",
+                "latitude": 39.740857,
+                "longitude": -8.801746
+            },
+            {
+                "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
+                "name": "D.Isabel",
+                "latitude": 39.749043,
+                "longitude": -8.80843
+            },
+            {
+                "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
+                "name": "Os vizinhos associa\u00e7\u00e3o cultural",
+                "latitude": 39.741479,
+                "longitude": -8.936194
+            },
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            },
+            {
+                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
+                "name": "Edif\u00edcio Ferro de Engomar",
+                "latitude": 39.740629,
+                "longitude": -8.802995
             }
         ]
     },
@@ -1226,60 +1310,6 @@
                 "name": "Mural De Namorados",
                 "latitude": 39.743299,
                 "longitude": -8.803428
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Ice-type Pok\u00e9mon",
-        "quest_reward": "3 Ultra Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Ultra Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
-        "pokestops": [
-            {
-                "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
-                "name": "CENFIM",
-                "latitude": 39.749026,
-                "longitude": -8.928307
-            },
-            {
-                "pokestop_id": "57da555c66ca4169b393e3b97389a780.16",
-                "name": "Parque Infantil Jardim do Liz",
-                "latitude": 39.750826,
-                "longitude": -8.806392
-            },
-            {
-                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
-                "name": "Janelas Santo Agostinho",
-                "latitude": 39.740857,
-                "longitude": -8.801746
-            },
-            {
-                "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
-                "name": "D.Isabel",
-                "latitude": 39.749043,
-                "longitude": -8.80843
-            },
-            {
-                "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
-                "name": "Os vizinhos associa\u00e7\u00e3o cultural",
-                "latitude": 39.741479,
-                "longitude": -8.936194
-            },
-            {
-                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
-                "name": "Jungle Gym",
-                "latitude": 39.749395,
-                "longitude": -8.802482
-            },
-            {
-                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
-                "name": "Edif\u00edcio Ferro de Engomar",
-                "latitude": 39.740629,
-                "longitude": -8.802995
             }
         ]
     },
@@ -1640,24 +1670,6 @@
                 "name": "Janelas do Jardim da Almuinha",
                 "latitude": 39.751734,
                 "longitude": -8.80984
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
-                "name": "Confer\u00eancia de S. Vicente Paulo",
-                "latitude": 39.750114,
-                "longitude": -8.92967
             }
         ]
     },
