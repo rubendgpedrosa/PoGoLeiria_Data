@@ -108,6 +108,72 @@
         ]
     },
     {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Cryogonal",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cryogonal",
+        "quest_reward_pokemon_id": 615,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
+                "name": "Playcities Santo Agostinho",
+                "latitude": 39.741341,
+                "longitude": -8.801969
+            },
+            {
+                "pokestop_id": "4dd2441d1fe54087a6b85d3e1035fe3c.16",
+                "name": "Sede Santa Casa Da Miseric\u00f3rdia",
+                "latitude": 39.744101,
+                "longitude": -8.804625
+            },
+            {
+                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
+                "name": "Campo Basketball",
+                "latitude": 39.746655,
+                "longitude": -8.802376
+            },
+            {
+                "pokestop_id": "5eaed2f460e2442b9efc9f0480e83587.16",
+                "name": "C\u00e2mara Municipal da Marinha Grande",
+                "latitude": 39.75001,
+                "longitude": -8.933133
+            },
+            {
+                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
+                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
+                "latitude": 39.745489,
+                "longitude": -8.933253
+            },
+            {
+                "pokestop_id": "88201671521f45388828ef0e2d2d3f8a.16",
+                "name": "Clube dos ca\u00e7adores",
+                "latitude": 39.751363,
+                "longitude": -8.937626
+            },
+            {
+                "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
+                "name": "Placa de Homenagem Wenceslau de Morais",
+                "latitude": 39.747264,
+                "longitude": -8.803776
+            },
+            {
+                "pokestop_id": "fbe6e381a35b44268d1c15f5bac2925c.11",
+                "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
+                "latitude": 39.746897,
+                "longitude": -8.804124
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -300,66 +366,6 @@
         ]
     },
     {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Cryogonal",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Cryogonal",
-        "quest_reward_pokemon_id": 615,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
-                "name": "Playcities Santo Agostinho",
-                "latitude": 39.741341,
-                "longitude": -8.801969
-            },
-            {
-                "pokestop_id": "4dd2441d1fe54087a6b85d3e1035fe3c.16",
-                "name": "Sede Santa Casa Da Miseric\u00f3rdia",
-                "latitude": 39.744101,
-                "longitude": -8.804625
-            },
-            {
-                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
-                "name": "Campo Basketball",
-                "latitude": 39.746655,
-                "longitude": -8.802376
-            },
-            {
-                "pokestop_id": "5eaed2f460e2442b9efc9f0480e83587.16",
-                "name": "C\u00e2mara Municipal da Marinha Grande",
-                "latitude": 39.75001,
-                "longitude": -8.933133
-            },
-            {
-                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
-                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
-                "latitude": 39.745489,
-                "longitude": -8.933253
-            },
-            {
-                "pokestop_id": "88201671521f45388828ef0e2d2d3f8a.16",
-                "name": "Clube dos ca\u00e7adores",
-                "latitude": 39.751363,
-                "longitude": -8.937626
-            },
-            {
-                "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
-                "name": "Placa de Homenagem Wenceslau de Morais",
-                "latitude": 39.747264,
-                "longitude": -8.803776
-            },
-            {
-                "pokestop_id": "fbe6e381a35b44268d1c15f5bac2925c.11",
-                "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
-                "latitude": 39.746897,
-                "longitude": -8.804124
-            }
-        ]
-    },
-    {
         "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
         "quest_reward": "Croagunk",
         "quest_reward_type": "Pokemon",
@@ -440,6 +446,12 @@
                 "name": "Marco de Correio CTT",
                 "latitude": 39.746326,
                 "longitude": -8.804666
+            },
+            {
+                "pokestop_id": "c3c8a7b519bd349b96df337260957971.16",
+                "name": "Sociedade Columb\u00f3fila Marinhense",
+                "latitude": 39.748494,
+                "longitude": -8.932563
             }
         ]
     },
@@ -600,6 +612,30 @@
         ]
     },
     {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Skrelp",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Skrelp",
+        "quest_reward_pokemon_id": 690,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
+            },
+            {
+                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
+                "name": "Chamin\u00e9 Sthepens",
+                "latitude": 39.751303,
+                "longitude": -8.934332
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Rowlet",
         "quest_reward_type": "Pokemon",
@@ -620,24 +656,6 @@
                 "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
                 "latitude": 39.741652,
                 "longitude": -8.929112
-            }
-        ]
-    },
-    {
-        "quest_description": "Defeat 3 Team GO Rocket Grunts",
-        "quest_reward": "Skrelp",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Skrelp",
-        "quest_reward_pokemon_id": 690,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
-                "name": "Chamin\u00e9 Sthepens",
-                "latitude": 39.751303,
-                "longitude": -8.934332
             }
         ]
     },
