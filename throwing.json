@@ -192,6 +192,48 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "49771867bab1340ea0b86755f4f23b3d.16",
+                "name": "Parede de Escalada",
+                "latitude": 39.734361,
+                "longitude": -8.80252
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "4dbc1059dc043532829dda66e5d5ab5b.16",
+                "name": "Caixa Postal CTT",
+                "latitude": 39.742178,
+                "longitude": -8.798332
+            },
+            {
+                "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
+                "name": "Igreja",
+                "latitude": 39.741631,
+                "longitude": -8.802822
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Curveball Throws",
         "quest_reward": "Darumaka",
         "quest_reward_type": "Pokemon",
@@ -450,24 +492,6 @@
         ]
     },
     {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
-                "name": "Igreja",
-                "latitude": 39.741631,
-                "longitude": -8.802822
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -482,6 +506,12 @@
                 "name": "Lenda do Lis e do Lena",
                 "latitude": 39.743468,
                 "longitude": -8.8068
+            },
+            {
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
             }
         ]
     },
@@ -518,6 +548,12 @@
                 "name": "D. Dinis",
                 "latitude": 39.745862,
                 "longitude": -8.809441
+            },
+            {
+                "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
+                "name": "Campus 2 - ESTG",
+                "latitude": 39.734095,
+                "longitude": -8.823089
             }
         ]
     },
