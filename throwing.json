@@ -259,6 +259,36 @@
     },
     {
         "quest_description": "Make an Excellent Throw",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3c3affed92033d50b8f0202713d8a53e.16",
+                "name": "Villa Portela - Casa D'Artes",
+                "latitude": 39.741224,
+                "longitude": -8.809235
+            },
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
+            },
+            {
+                "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
+                "name": "Carvalho Cerquinho",
+                "latitude": 39.731849,
+                "longitude": -8.795909
+            }
+        ]
+    },
+    {
+        "quest_description": "Make an Excellent Throw",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
         "quest_reward_amount": 5,
@@ -518,24 +548,6 @@
                 "name": "Fontario Com Escultura",
                 "latitude": 39.739551,
                 "longitude": -8.809911
-            }
-        ]
-    },
-    {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
-                "name": "Carvalho Cerquinho",
-                "latitude": 39.731849,
-                "longitude": -8.795909
             }
         ]
     },
