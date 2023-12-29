@@ -310,6 +310,12 @@
                 "longitude": -8.804716
             },
             {
+                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
+                "name": "Sede N\u00facleo Sporting",
+                "latitude": 39.750953,
+                "longitude": -8.932885
+            },
+            {
                 "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
                 "name": "Jungle Gym",
                 "latitude": 39.749395,
@@ -478,6 +484,12 @@
                 "longitude": -8.808204
             },
             {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
+            },
+            {
                 "pokestop_id": "23076c7b2d5e3d209916143b5207e5b3.16",
                 "name": "Soneto da Casa",
                 "latitude": 39.733913,
@@ -518,6 +530,12 @@
                 "name": "Ponte Parque Infantil",
                 "latitude": 39.750377,
                 "longitude": -8.806284
+            },
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
             },
             {
                 "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
@@ -608,6 +626,12 @@
                 "name": "Zona de lazer",
                 "latitude": 39.737598,
                 "longitude": -8.928606
+            },
+            {
+                "pokestop_id": "f19864ea0ef93bb9a7ef9b6925985966.16",
+                "name": "Homenagem ao Movimento Oper\u00e1rio",
+                "latitude": 39.746489,
+                "longitude": -8.933631
             },
             {
                 "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
@@ -792,48 +816,6 @@
         ]
     },
     {
-        "quest_description": "Catch 5 Ice-type Pok\u00e9mon",
-        "quest_reward": "3 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
-                "name": "Bairro do Povo",
-                "latitude": 39.741382,
-                "longitude": -8.931793
-            },
-            {
-                "pokestop_id": "4d10e14a2db243309483794fd9fbeba2.16",
-                "name": "Solar do Bar\u00e3o de Salgueiro",
-                "latitude": 39.74411,
-                "longitude": -8.810157
-            },
-            {
-                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
-                "name": "Sede PSD Leiria",
-                "latitude": 39.742459,
-                "longitude": -8.808694
-            },
-            {
-                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
-                "name": "Marinha Grande",
-                "latitude": 39.747761,
-                "longitude": -8.936047
-            },
-            {
-                "pokestop_id": "f6c058f22ecc3998a0030d06d26d0dfa.16",
-                "name": "Radioactive Man",
-                "latitude": 39.749887,
-                "longitude": -8.803576
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 different species of Pok\u00e9mon",
         "quest_reward": "Jynx",
         "quest_reward_type": "Pokemon",
@@ -843,6 +825,12 @@
         "quest_reward_pokemon_id": 124,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
             {
                 "pokestop_id": "103be0c9e368368ca1cf5cd08c617b70.16",
                 "name": "Local de conv\u00edvio e descan\u00e7o",
@@ -914,6 +902,48 @@
                 "name": "Pa\u00e7o D.Jo\u00e3o I",
                 "latitude": 39.746508,
                 "longitude": -8.809111
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Ice-type Pok\u00e9mon",
+        "quest_reward": "3 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            },
+            {
+                "pokestop_id": "4d10e14a2db243309483794fd9fbeba2.16",
+                "name": "Solar do Bar\u00e3o de Salgueiro",
+                "latitude": 39.74411,
+                "longitude": -8.810157
+            },
+            {
+                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
+                "name": "Sede PSD Leiria",
+                "latitude": 39.742459,
+                "longitude": -8.808694
+            },
+            {
+                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
+                "name": "Marinha Grande",
+                "latitude": 39.747761,
+                "longitude": -8.936047
+            },
+            {
+                "pokestop_id": "f6c058f22ecc3998a0030d06d26d0dfa.16",
+                "name": "Radioactive Man",
+                "latitude": 39.749887,
+                "longitude": -8.803576
             }
         ]
     },
@@ -1374,6 +1404,24 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "10 Venusaur Mega Energy",
         "quest_reward_type": "Energy",
@@ -1754,6 +1802,24 @@
                 "name": "Jardim da Marinha Grande",
                 "latitude": 39.750988,
                 "longitude": -8.929103
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Wingull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wingull",
+        "quest_reward_pokemon_id": 278,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a5c4d67ae0ce34d0947f2636d1af6f68.16",
+                "name": "Pilates Tereza Marques",
+                "latitude": 39.74369,
+                "longitude": -8.800766
             }
         ]
     },
