@@ -52,6 +52,12 @@
                 "longitude": -8.92763
             },
             {
+                "pokestop_id": "342b74fd64304cd7bf71bc31fb16d27d.16",
+                "name": "N\u00facleo Sportinguista",
+                "latitude": 39.753852,
+                "longitude": -8.932817
+            },
+            {
                 "pokestop_id": "59e2f6466c39394db919bde10c6df0c6.16",
                 "name": "O Prisioneiro",
                 "latitude": 39.744766,
@@ -88,6 +94,12 @@
                 "longitude": -8.811256
             },
             {
+                "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
+                "name": "Gin\u00e1sio Fit On Move",
+                "latitude": 39.745658,
+                "longitude": -8.803177
+            },
+            {
                 "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
                 "name": "Antigo Bebedouro",
                 "latitude": 39.750713,
@@ -98,6 +110,12 @@
                 "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
                 "latitude": 39.741652,
                 "longitude": -8.929112
+            },
+            {
+                "pokestop_id": "eb09f8325d3b4095b70b9b37cd92fb6e.16",
+                "name": "Cabana do Parque da Cerca",
+                "latitude": 39.74824,
+                "longitude": -8.935596
             }
         ]
     },
@@ -170,6 +188,12 @@
                 "name": "Circuito Manuten\u00e7\u00e3o - Patins",
                 "latitude": 39.738722,
                 "longitude": -8.821751
+            },
+            {
+                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
+                "name": "Sapo",
+                "latitude": 39.74516,
+                "longitude": -8.804145
             }
         ]
     },
@@ -190,10 +214,34 @@
                 "longitude": -8.809882
             },
             {
+                "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
+                "name": "Bairro dos Anjos",
+                "latitude": 39.744958,
+                "longitude": -8.804361
+            },
+            {
                 "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
                 "name": "Pal\u00e1cio dos Ata\u00eddes",
                 "latitude": 39.744296,
                 "longitude": -8.810014
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Manectric Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Manectric",
+        "quest_reward_pokemon_id": 310,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "269dbaf0499c3b2ab34b41f321f8ccd8.16",
+                "name": "Mural comboio de lata",
+                "latitude": 39.748094,
+                "longitude": -8.933068
             }
         ]
     },
@@ -207,6 +255,12 @@
         "quest_reward_pokemon_id": 52,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
+            },
             {
                 "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
                 "name": "Pra\u00e7a do Emigrante",
@@ -338,6 +392,48 @@
                 "name": "Oficina da M\u00fasica",
                 "latitude": 39.745717,
                 "longitude": -8.933685
+            },
+            {
+                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
+                "name": "Jogo Da Malha",
+                "latitude": 39.745722,
+                "longitude": -8.80351
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Litten",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litten",
+        "quest_reward_pokemon_id": 725,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
+                "name": "Monumento aos Combatentes da Grande Guerra",
+                "latitude": 39.740806,
+                "longitude": -8.802768
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 10 times",
+        "quest_reward": "25 Glalie Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Glalie",
+        "quest_reward_pokemon_id": 362,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
+                "name": "Estravag\u00e1rio Graffiti",
+                "latitude": 39.752932,
+                "longitude": -8.933662
             }
         ]
     },
