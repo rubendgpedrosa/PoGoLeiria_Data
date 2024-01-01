@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Archen",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Archen",
+        "quest_reward_pokemon_id": 566,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
+                "name": "Skate Park",
+                "latitude": 39.735189,
+                "longitude": -8.797673
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
+                "name": "Pharmacia",
+                "latitude": 39.745802,
+                "longitude": -8.807245
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Lapras",
         "quest_reward_type": "Pokemon",
@@ -14,6 +50,12 @@
                 "name": "Igreja da Miseric\u00f3rdia",
                 "latitude": 39.745213,
                 "longitude": -8.807912
+            },
+            {
+                "pokestop_id": "7f106d04f2634c0c975e841b620b9816.16",
+                "name": "Oficina da M\u00fasica",
+                "latitude": 39.745717,
+                "longitude": -8.933685
             },
             {
                 "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
