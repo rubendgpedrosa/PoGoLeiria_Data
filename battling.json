@@ -18,6 +18,42 @@
         ]
     },
     {
+        "quest_description": "Win 2 raids",
+        "quest_reward": "Weezing",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Weezing",
+        "quest_reward_pokemon_id": 110,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
+            },
+            {
+                "pokestop_id": "59a6eb172b334499b7489e32c8ac436c.16",
+                "name": "Convento de Santo Ant\u00f3nio dos Capuchos",
+                "latitude": 39.743939,
+                "longitude": -8.813784
+            },
+            {
+                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
+                "name": "Marco CTT",
+                "latitude": 39.747797,
+                "longitude": -8.803171
+            },
+            {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -68,36 +104,6 @@
                 "name": "Marco CTT - Rua de Alcoba\u00e7a",
                 "latitude": 39.741853,
                 "longitude": -8.810621
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 2 raids",
-        "quest_reward": "Weezing",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Weezing",
-        "quest_reward_pokemon_id": 110,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "59a6eb172b334499b7489e32c8ac436c.16",
-                "name": "Convento de Santo Ant\u00f3nio dos Capuchos",
-                "latitude": 39.743939,
-                "longitude": -8.813784
-            },
-            {
-                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
-                "name": "Marco CTT",
-                "latitude": 39.747797,
-                "longitude": -8.803171
-            },
-            {
-                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
-                "name": "Freixo de Folhas Estreitas",
-                "latitude": 39.750386,
-                "longitude": -8.804894
             }
         ]
     }

@@ -122,6 +122,12 @@
                 "name": "Arquivo Distrital",
                 "latitude": 39.744298,
                 "longitude": -8.811006
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
             }
         ]
     },
@@ -438,6 +444,36 @@
         ]
     },
     {
+        "quest_description": "Purify 3 Pokemon",
+        "quest_reward": "Meowth",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Meowth",
+        "quest_reward_pokemon_id": 52,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
+            },
+            {
+                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
+                "name": "Sede PSD Leiria",
+                "latitude": 39.742459,
+                "longitude": -8.808694
+            },
+            {
+                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731526,
+                "longitude": -8.803604
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Blastoise Mega Energy",
         "quest_reward_type": "Energy",
@@ -458,30 +494,6 @@
                 "name": "Ponte El-Rei D. Dinis",
                 "latitude": 39.743323,
                 "longitude": -8.804477
-            }
-        ]
-    },
-    {
-        "quest_description": "Purify 3 Pokemon",
-        "quest_reward": "Meowth",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Meowth",
-        "quest_reward_pokemon_id": 52,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
-                "name": "Sede PSD Leiria",
-                "latitude": 39.742459,
-                "longitude": -8.808694
-            },
-            {
-                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731526,
-                "longitude": -8.803604
             }
         ]
     },
@@ -680,6 +692,24 @@
                 "name": "Homenagem Bravos Leirienses",
                 "latitude": 39.741354,
                 "longitude": -8.810787
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Cottonee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cottonee",
+        "quest_reward_pokemon_id": 546,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
             }
         ]
     },
