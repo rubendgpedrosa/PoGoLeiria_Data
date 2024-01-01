@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Archen",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Archen",
+        "quest_reward_pokemon_id": 566,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
@@ -74,6 +92,12 @@
                 "name": "Marco CTT",
                 "latitude": 39.747797,
                 "longitude": -8.803171
+            },
+            {
+                "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
+                "name": "Freixo de Folhas Estreitas",
+                "latitude": 39.750386,
+                "longitude": -8.804894
             }
         ]
     }

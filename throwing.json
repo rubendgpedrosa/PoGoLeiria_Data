@@ -82,10 +82,22 @@
                 "longitude": -8.818713
             },
             {
+                "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
+                "name": "Placa de Homenagem Wenceslau de Morais",
+                "latitude": 39.747264,
+                "longitude": -8.803776
+            },
+            {
                 "pokestop_id": "dc7763df22454a509925025a03f96629.11",
                 "name": "D. Dinis",
                 "latitude": 39.745862,
                 "longitude": -8.809441
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251
             }
         ]
     },
@@ -152,6 +164,12 @@
                 "name": "Est\u00e1tua Burro",
                 "latitude": 39.745224,
                 "longitude": -8.804058
+            },
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
             },
             {
                 "pokestop_id": "46cb0801d3613d68bfe9c1e5c4273b52.16",
@@ -312,6 +330,24 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
+                "name": "Ponte da Fonte Quente",
+                "latitude": 39.747216,
+                "longitude": -8.802534
+            }
+        ]
+    },
+    {
         "quest_description": "Make 2 Nice Curveball Throws in a row",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -460,10 +496,52 @@
         "quest_reward_item_id": 701,
         "pokestops": [
             {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            },
+            {
                 "pokestop_id": "b9d4215916a5403d8010bfe7dd3896d3.16",
                 "name": "Teatro Miguel Franco",
                 "latitude": 39.742692,
                 "longitude": -8.80773
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "f20cf939cb55424184465327db0ec8e8.16",
+                "name": "Playcity 006",
+                "latitude": 39.746676,
+                "longitude": -8.802645
+            }
+        ]
+    },
+    {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "2 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
+                "name": "Ponte Pique-nique",
+                "latitude": 39.739692,
+                "longitude": -8.798933
             }
         ]
     }
