@@ -18,6 +18,30 @@
         ]
     },
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Tirtouga",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tirtouga",
+        "quest_reward_pokemon_id": 564,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
+            },
+            {
+                "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
+                "name": "Ponte Pedonal Sul",
+                "latitude": 39.748399,
+                "longitude": -8.93453
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Exeggutor",
         "quest_reward_type": "Pokemon",
@@ -62,24 +86,6 @@
                 "name": "Centro Shotokan Leiria",
                 "latitude": 39.747428,
                 "longitude": -8.807456
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Tirtouga",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Tirtouga",
-        "quest_reward_pokemon_id": 564,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
-                "name": "Ponte Pedonal Sul",
-                "latitude": 39.748399,
-                "longitude": -8.93453
             }
         ]
     },

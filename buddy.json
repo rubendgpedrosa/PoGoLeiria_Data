@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Bunnelby",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bunnelby",
+        "quest_reward_pokemon_id": 659,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
+            {
+                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
+                "name": "Gin\u00e1sio Luis Lopes",
+                "latitude": 39.743959,
+                "longitude": -8.798023
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Delibird",
         "quest_reward_type": "Pokemon",
@@ -56,24 +80,6 @@
                 "name": "Xilofone M\u00e1rmore",
                 "latitude": 39.741581,
                 "longitude": -8.802014
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Bunnelby",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bunnelby",
-        "quest_reward_pokemon_id": 659,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
-                "name": "Gin\u00e1sio Luis Lopes",
-                "latitude": 39.743959,
-                "longitude": -8.798023
             }
         ]
     },
