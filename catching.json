@@ -208,6 +208,12 @@
                 "longitude": -8.805803
             },
             {
+                "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
+                "name": "CEMFIR - Culturismo",
+                "latitude": 39.752054,
+                "longitude": -8.92786
+            },
+            {
                 "pokestop_id": "68bac665c7f84b688f97a44e19c40dbf.16",
                 "name": "Corvos Do Lis",
                 "latitude": 39.747121,
@@ -326,6 +332,12 @@
                 "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
                 "latitude": 39.750529,
                 "longitude": -8.803749
+            },
+            {
+                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
+                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
+                "latitude": 39.75142,
+                "longitude": -8.930414
             },
             {
                 "pokestop_id": "946db6c31be84d5f852138b80b630b0b.11",
@@ -914,6 +926,12 @@
                 "name": "Fonte Freire",
                 "latitude": 39.743645,
                 "longitude": -8.810948
+            },
+            {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
             },
             {
                 "pokestop_id": "f6c058f22ecc3998a0030d06d26d0dfa.16",
@@ -1620,6 +1638,30 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d47848cf08e945c691b195b0df815135.16",
+                "name": "Artes Manuais",
+                "latitude": 39.742853,
+                "longitude": -8.933931
+            },
+            {
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "10 Pidgeot Mega Energy",
         "quest_reward_type": "Energy",
@@ -1634,24 +1676,6 @@
                 "name": "Urban Fitness",
                 "latitude": 39.748953,
                 "longitude": -8.802133
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
-                "name": "Parque de Merendas Sta Clara",
-                "latitude": 39.738467,
-                "longitude": -8.822362
             }
         ]
     },
