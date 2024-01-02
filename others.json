@@ -96,6 +96,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Squirtle",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Squirtle",
+        "quest_reward_pokemon_id": 7,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "083e0b72da963baab293d8a954696f7d.16",
+                "name": "Futuro",
+                "latitude": 39.752573,
+                "longitude": -8.81389
+            },
+            {
+                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
+                "name": "Campo Polidesportivo",
+                "latitude": 39.732954,
+                "longitude": -8.809802
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch 2 Eggs",
         "quest_reward": "2024 Stardust",
         "quest_reward_type": "Stardust",
@@ -116,6 +140,12 @@
                 "name": "Parque Dos Cani\u00e7os",
                 "latitude": 39.740299,
                 "longitude": -8.799535
+            },
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
             },
             {
                 "pokestop_id": "15d0bdf2c3a64195981d4eab2368a386.16",
@@ -298,10 +328,22 @@
                 "longitude": -8.808784
             },
             {
+                "pokestop_id": "ce998aebdaae3750bedfc6e568df7f5e.16",
+                "name": "Projeto U-Bike: ESTG - Bloco D",
+                "latitude": 39.734271,
+                "longitude": -8.821229
+            },
+            {
                 "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
                 "name": "Sport Oper\u00e1rio Marinhense",
                 "latitude": 39.749997,
                 "longitude": -8.926437
+            },
+            {
+                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
+                "name": "Anfiteatro Do Parque Da Cerca",
+                "latitude": 39.749604,
+                "longitude": -8.934917
             },
             {
                 "pokestop_id": "dc7256a2cf083ed281f4b0938df2df2a.16",
@@ -758,6 +800,12 @@
                 "name": "F\u00e9nix Muralhartes",
                 "latitude": 39.747251,
                 "longitude": -8.808742
+            },
+            {
+                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
+                "name": "Painel Moinho de Papel",
+                "latitude": 39.740201,
+                "longitude": -8.800153
             }
         ]
     },
@@ -800,6 +848,30 @@
                 "name": "Ponte Verde da Encosta do Castelo",
                 "latitude": 39.748256,
                 "longitude": -8.809223
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
+                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
+                "name": "Live Gym Marinha Grande",
+                "latitude": 39.74109,
+                "longitude": -8.929395
             }
         ]
     },
@@ -888,24 +960,6 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 3 times",
-        "quest_reward": "Squirtle",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Squirtle",
-        "quest_reward_pokemon_id": 7,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
-                "name": "Campo Polidesportivo",
-                "latitude": 39.732954,
-                "longitude": -8.809802
-            }
-        ]
-    },
-    {
         "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Rowlet",
         "quest_reward_type": "Pokemon",
@@ -968,24 +1022,6 @@
                 "name": "Est\u00e1tua \"A Caminho da Feira\"",
                 "latitude": 39.744847,
                 "longitude": -8.804645
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
-                "name": "Live Gym Marinha Grande",
-                "latitude": 39.74109,
-                "longitude": -8.929395
             }
         ]
     },
@@ -1112,6 +1148,24 @@
                 "name": "Campo De Futebol",
                 "latitude": 39.744672,
                 "longitude": -8.795859
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Litten",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litten",
+        "quest_reward_pokemon_id": 725,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
+                "name": "Pra\u00e7a Nova",
+                "latitude": 39.752742,
+                "longitude": -8.811752
             }
         ]
     },
