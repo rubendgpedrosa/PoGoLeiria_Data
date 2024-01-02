@@ -166,6 +166,12 @@
                 "longitude": -8.932817
             },
             {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
+            {
                 "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
                 "name": "CENFIM",
                 "latitude": 39.749026,
@@ -188,6 +194,12 @@
                 "name": "Villa Portela - Casa D'Artes",
                 "latitude": 39.741224,
                 "longitude": -8.809235
+            },
+            {
+                "pokestop_id": "3d6959cc1325477b88ffe44689e49093.16",
+                "name": "Ponte Pedonal Suspensa",
+                "latitude": 39.750997,
+                "longitude": -8.809201
             },
             {
                 "pokestop_id": "3e0e09c5f37d47b29d85b0209445098d.16",
@@ -214,6 +226,12 @@
                 "longitude": -8.93453
             },
             {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
+            },
+            {
                 "pokestop_id": "444dbacd73144e6985f077d48c38acde.16",
                 "name": "Clube M.M.G",
                 "latitude": 39.749647,
@@ -238,6 +256,12 @@
                 "longitude": -8.802534
             },
             {
+                "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
+                "name": "B Your Own Hero",
+                "latitude": 39.750139,
+                "longitude": -8.803923
+            },
+            {
                 "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
                 "name": "laurus nobilis",
                 "latitude": 39.736728,
@@ -248,6 +272,12 @@
                 "name": "Parque de S\u00e3o Rom\u00e3o",
                 "latitude": 39.733442,
                 "longitude": -8.797748
+            },
+            {
+                "pokestop_id": "63b13db5ccdc469187f2f589afef94fe.16",
+                "name": "Parque Infantil Da Seixa",
+                "latitude": 39.732435,
+                "longitude": -8.801047
             },
             {
                 "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
@@ -332,6 +362,12 @@
                 "name": "Ponte Euro 2004",
                 "latitude": 39.752764,
                 "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "92d679c065cf4936a127b1133d3e57b6.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.754255,
+                "longitude": -8.808874
             },
             {
                 "pokestop_id": "948d8db4d6ef46d7aecb05bf24a888f8.16",
@@ -580,6 +616,12 @@
                 "longitude": -8.811496
             },
             {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
+            },
+            {
                 "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
                 "name": "Estravag\u00e1rio Graffiti",
                 "latitude": 39.752932,
@@ -650,6 +692,12 @@
                 "name": "Homegame aos Her\u00f3icos Soldados",
                 "latitude": 39.746449,
                 "longitude": -8.808147
+            },
+            {
+                "pokestop_id": "f6c058f22ecc3998a0030d06d26d0dfa.16",
+                "name": "Radioactive Man",
+                "latitude": 39.749887,
+                "longitude": -8.803576
             }
         ]
     },
@@ -724,6 +772,12 @@
                 "longitude": -8.936194
             },
             {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            },
+            {
                 "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
                 "name": "Abra\u00e7o ao universo",
                 "latitude": 39.751515,
@@ -740,6 +794,12 @@
                 "name": "Jardim de Leiria",
                 "latitude": 39.744338,
                 "longitude": -8.806031
+            },
+            {
+                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
+                "name": "Liz ao Quadro - Art Galery",
+                "latitude": 39.748424,
+                "longitude": -8.802439
             },
             {
                 "pokestop_id": "eb4ed26ece984942b87a28477de84568.16",
@@ -907,6 +967,24 @@
     },
     {
         "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "2eef5abe51ad487f95a1ebd034c9bdef.16",
+                "name": "Choupo Negro",
+                "latitude": 39.750236,
+                "longitude": -8.804137
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
         "quest_reward_amount": 5,
@@ -956,6 +1034,12 @@
                 "name": "Antigo Moinho De Papel",
                 "latitude": 39.740444,
                 "longitude": -8.800663
+            },
+            {
+                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
+                "name": "Anfiteatro",
+                "latitude": 39.751453,
+                "longitude": -8.809059
             }
         ]
     },
