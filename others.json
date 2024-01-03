@@ -118,6 +118,12 @@
                 "longitude": -8.806831
             },
             {
+                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
+                "name": "Gin\u00e1sio Luis Lopes",
+                "latitude": 39.743959,
+                "longitude": -8.798023
+            },
+            {
                 "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
                 "name": "Ponte El-Rei D. Dinis",
                 "latitude": 39.743323,
@@ -178,6 +184,12 @@
                 "longitude": -8.80134
             },
             {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
+            },
+            {
                 "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
                 "name": "Pharmacia",
                 "latitude": 39.745802,
@@ -196,10 +208,22 @@
                 "longitude": -8.807442
             },
             {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
+            {
                 "pokestop_id": "364a7a745fb547b5914ce2b76a8e8ddc.16",
                 "name": "Parque De Merendas - Campus 2",
                 "latitude": 39.735284,
                 "longitude": -8.821824
+            },
+            {
+                "pokestop_id": "399426cd8ff340e6b273e3bede1d39bd.16",
+                "name": "Congrega\u00e7\u00e3o Crist\u00e3 em Portugal.",
+                "latitude": 39.746828,
+                "longitude": -8.814662
             },
             {
                 "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
@@ -354,6 +378,42 @@
         ]
     },
     {
+        "quest_description": "Explore 2 km",
+        "quest_reward": "Ponyta",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Ponyta",
+        "quest_reward_pokemon_id": 77,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
+            {
+                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
+                "name": "Moagem Leiriense",
+                "latitude": 39.74865,
+                "longitude": -8.803723
+            },
+            {
+                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
+                "name": "Glove x 400mI",
+                "latitude": 39.74775,
+                "longitude": -8.807233
+            },
+            {
+                "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
+                "name": "Campus 1 - ESECS",
+                "latitude": 39.739983,
+                "longitude": -8.812123
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "Remoraid",
         "quest_reward_type": "Pokemon",
@@ -452,36 +512,6 @@
                 "name": "Edif\u00edcio do Dr. Jo\u00e3o Carlos Verde de Oliveira",
                 "latitude": 39.742779,
                 "longitude": -8.804791
-            }
-        ]
-    },
-    {
-        "quest_description": "Explore 2 km",
-        "quest_reward": "Ponyta",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Ponyta",
-        "quest_reward_pokemon_id": 77,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
-                "name": "Moagem Leiriense",
-                "latitude": 39.74865,
-                "longitude": -8.803723
-            },
-            {
-                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
-                "name": "Glove x 400mI",
-                "latitude": 39.74775,
-                "longitude": -8.807233
-            },
-            {
-                "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
-                "name": "Campus 1 - ESECS",
-                "latitude": 39.739983,
-                "longitude": -8.812123
             }
         ]
     },
@@ -608,6 +638,24 @@
                 "name": "Escultura Edifoz",
                 "latitude": 39.746497,
                 "longitude": -8.815913
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Trapinch",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Trapinch",
+        "quest_reward_pokemon_id": 328,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "64028475605436c098d172cef7a27671.16",
+                "name": "Arquivo Municipal de Leiria",
+                "latitude": 39.731487,
+                "longitude": -8.794807
             }
         ]
     },

@@ -206,6 +206,12 @@
                 "name": "Camara Municipal de Leiria",
                 "latitude": 39.741093,
                 "longitude": -8.810354
+            },
+            {
+                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
+                "name": "Ponte Pique-nique",
+                "latitude": 39.739692,
+                "longitude": -8.798933
             }
         ]
     },
@@ -366,6 +372,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Scraggy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scraggy",
+        "quest_reward_pokemon_id": 559,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            },
+            {
+                "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
+                "name": "Jogo da Macaca",
+                "latitude": 39.738327,
+                "longitude": -8.81087
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -516,24 +546,6 @@
         ]
     },
     {
-        "quest_description": "Make 5 Great Throws",
-        "quest_reward": "Scraggy",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Scraggy",
-        "quest_reward_pokemon_id": 559,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
-                "name": "Jogo da Macaca",
-                "latitude": 39.738327,
-                "longitude": -8.81087
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -566,6 +578,24 @@
                 "name": "Shopping 2000",
                 "latitude": 39.749243,
                 "longitude": -8.803685
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "1000 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1000,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
             }
         ]
     },
