@@ -1,6 +1,24 @@
 [
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -48,24 +66,6 @@
         ]
     },
     {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Glameow",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Glameow",
-        "quest_reward_pokemon_id": 431,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
-                "name": "Posto de turismo da Marinha Grande",
-                "latitude": 39.743295,
-                "longitude": -8.935619
-            }
-        ]
-    },
-    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Delibird",
         "quest_reward_type": "Pokemon",
@@ -75,6 +75,12 @@
         "quest_reward_pokemon_id": 225,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
+                "name": "Gin\u00e1sio Luis Lopes",
+                "latitude": 39.743959,
+                "longitude": -8.798023
+            },
             {
                 "pokestop_id": "946db6c31be84d5f852138b80b630b0b.11",
                 "name": "Pedras de Armas",
@@ -92,6 +98,24 @@
                 "name": "Rotary Club De Leiria",
                 "latitude": 39.735202,
                 "longitude": -8.798938
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Glameow",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Glameow",
+        "quest_reward_pokemon_id": 431,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
+                "name": "Posto de turismo da Marinha Grande",
+                "latitude": 39.743295,
+                "longitude": -8.935619
             }
         ]
     },
