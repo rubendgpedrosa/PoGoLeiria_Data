@@ -40,6 +40,12 @@
                 "longitude": -8.803099
             },
             {
+                "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
+                "name": "Azinheira",
+                "latitude": 39.747237,
+                "longitude": -8.80158
+            },
+            {
                 "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
                 "name": "Anfiteatro",
                 "latitude": 39.751453,
@@ -318,6 +324,24 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Omanyte",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Omanyte",
+        "quest_reward_pokemon_id": 138,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "23531773d4443b98b0a92a776ac62f48.16",
+                "name": "Caixa Postal CTT - Marinha Grande",
+                "latitude": 39.750744,
+                "longitude": -8.92763
+            }
+        ]
+    },
+    {
         "quest_description": "Make 2 Nice Curveball Throws in a row",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
@@ -392,6 +416,12 @@
                 "name": "Campo De Futebol",
                 "latitude": 39.745553,
                 "longitude": -8.803583
+            },
+            {
+                "pokestop_id": "d74ad1450c324939b4b68f6a7c9cb024.16",
+                "name": "Homenagem a Dr. An\u00edbal Couceiro",
+                "latitude": 39.750433,
+                "longitude": -8.932692
             }
         ]
     },
@@ -460,10 +490,40 @@
                 "longitude": -8.808473
             },
             {
+                "pokestop_id": "4b6a4096159545bba679aa8bb853f1fd.16",
+                "name": "Cemit\u00e9rio Da Marinha",
+                "latitude": 39.746706,
+                "longitude": -8.932228
+            },
+            {
                 "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
                 "name": "Igreja de S\u00e3o Pedro",
                 "latitude": 39.74725,
                 "longitude": -8.807508
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "342b74fd64304cd7bf71bc31fb16d27d.16",
+                "name": "N\u00facleo Sportinguista",
+                "latitude": 39.753852,
+                "longitude": -8.932817
+            },
+            {
+                "pokestop_id": "dce7b40c4a4838b9b3fbf663537f23b3.16",
+                "name": "Posto de Correios CTT",
+                "latitude": 39.748012,
+                "longitude": -8.927626
             }
         ]
     },
@@ -496,10 +556,52 @@
                 "longitude": -8.929041
             },
             {
+                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
+                "name": "Sport Oper\u00e1rio Marinhense",
+                "latitude": 39.749997,
+                "longitude": -8.926437
+            },
+            {
                 "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
                 "name": "Ponte pedonal do Parque das Bernardas",
                 "latitude": 39.737792,
                 "longitude": -8.928996
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
+                "name": "CENFIM",
+                "latitude": 39.749026,
+                "longitude": -8.928307
+            },
+            {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
+            {
+                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
+                "name": "Ponte pedonal do parque das Almoinhas",
+                "latitude": 39.751479,
+                "longitude": -8.813373
+            },
+            {
+                "pokestop_id": "db4297efc87f426fb048a83fbd6ddfc6.16",
+                "name": "Capela Sao Francisco",
+                "latitude": 39.748187,
+                "longitude": -8.803393
             }
         ]
     },
@@ -528,32 +630,26 @@
         ]
     },
     {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "1 Pinap Berry",
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
+        "quest_reward_amount": 2,
         "quest_reward_item_name": "Pinap Berry",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 705,
         "pokestops": [
             {
-                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
-                "name": "Edif\u00edcio Comendador",
-                "latitude": 39.742053,
-                "longitude": -8.809737
+                "pokestop_id": "4f926fcd72ea300d9a7ace8deb9b2a6d.16",
+                "name": "Pra\u00e7a Eng Calazans Duarte",
+                "latitude": 39.742041,
+                "longitude": -8.934302
             },
             {
-                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
-                "name": "Ponte pedonal do parque das Almoinhas",
-                "latitude": 39.751479,
-                "longitude": -8.813373
-            },
-            {
-                "pokestop_id": "db4297efc87f426fb048a83fbd6ddfc6.16",
-                "name": "Capela Sao Francisco",
-                "latitude": 39.748187,
-                "longitude": -8.803393
+                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
+                "name": "Shopping 2000",
+                "latitude": 39.749243,
+                "longitude": -8.803685
             }
         ]
     },
@@ -572,6 +668,12 @@
                 "name": "ISLA - Escola Profissional de Leiria",
                 "latitude": 39.73238,
                 "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
+                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
+                "latitude": 39.75142,
+                "longitude": -8.930414
             }
         ]
     },
@@ -642,6 +744,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
+                "name": "Ringue De Futebol",
+                "latitude": 39.745324,
+                "longitude": -8.933841
+            },
+            {
+                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
+                "name": "Arquivo Distrital",
+                "latitude": 39.744298,
+                "longitude": -8.811006
+            }
+        ]
+    },
+    {
         "quest_description": "Make an Excellent Throw",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -682,28 +808,16 @@
                 "longitude": -8.801276
             },
             {
+                "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
+                "name": "Sede Bloco de Esquerda",
+                "latitude": 39.750634,
+                "longitude": -8.932602
+            },
+            {
                 "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
                 "name": "Zona de lazer",
                 "latitude": 39.737598,
                 "longitude": -8.928606
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Curveball Throws in a row",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
-                "name": "Shopping 2000",
-                "latitude": 39.749243,
-                "longitude": -8.803685
             }
         ]
     },
@@ -782,24 +896,6 @@
                 "name": "Painel de Informa\u00e7\u00f5es - Uni\u00e3o de Freguesias de Leiria, Pousos, Barreira e Cortes",
                 "latitude": 39.733271,
                 "longitude": -8.796911
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
-                "name": "Arquivo Distrital",
-                "latitude": 39.744298,
-                "longitude": -8.811006
             }
         ]
     }

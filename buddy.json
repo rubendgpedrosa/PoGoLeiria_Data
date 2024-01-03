@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "01a435e293263fa2b2bc1b4c7fb620ef.16",
+                "name": "Mosaico  catedral verde",
+                "latitude": 39.75082,
+                "longitude": -8.93155
+            },
+            {
+                "pokestop_id": "103be0c9e368368ca1cf5cd08c617b70.16",
+                "name": "Local de conv\u00edvio e descan\u00e7o",
+                "latitude": 39.748322,
+                "longitude": -8.931966
+            },
+            {
+                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
+                "name": "Casa Da Cultura",
+                "latitude": 39.749033,
+                "longitude": -8.933087
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 3 Candies walking with your buddy",
         "quest_reward": "Stunfisk",
         "quest_reward_type": "Pokemon",
@@ -20,6 +50,54 @@
                 "name": "Marinha Grande",
                 "latitude": 39.747761,
                 "longitude": -8.936047
+            }
+        ]
+    },
+    {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Delibird",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Delibird",
+        "quest_reward_pokemon_id": 225,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3a831ae2cff24109950a47a9e67ea30a.16",
+                "name": "AMM - Associa\u00e7\u00e3o Marinha em Movimento",
+                "latitude": 39.750545,
+                "longitude": -8.925972
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
+            },
+            {
+                "pokestop_id": "ef40698afdf14bf2807803376584a143.16",
+                "name": "Pa\u00e7o D.Jo\u00e3o I",
+                "latitude": 39.746508,
+                "longitude": -8.809111
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
+                "name": "ASURPI",
+                "latitude": 39.75141,
+                "longitude": -8.933588
             }
         ]
     },
@@ -61,24 +139,6 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Buneary",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Buneary",
-        "quest_reward_pokemon_id": 427,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
-                "name": "Casa Da Cultura",
-                "latitude": 39.749033,
-                "longitude": -8.933087
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Jigglypuff",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -98,30 +158,6 @@
                 "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
                 "latitude": 39.741652,
                 "longitude": -8.929112
-            }
-        ]
-    },
-    {
-        "quest_description": "Send 5 Gifts and add a sticker to each",
-        "quest_reward": "Delibird",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Delibird",
-        "quest_reward_pokemon_id": 225,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
-                "name": "Celtis Australis",
-                "latitude": 39.741299,
-                "longitude": -8.801055
-            },
-            {
-                "pokestop_id": "ef40698afdf14bf2807803376584a143.16",
-                "name": "Pa\u00e7o D.Jo\u00e3o I",
-                "latitude": 39.746508,
-                "longitude": -8.809111
             }
         ]
     }
