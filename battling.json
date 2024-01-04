@@ -1,5 +1,47 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Tirtouga",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tirtouga",
+        "quest_reward_pokemon_id": 564,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1205b13b203e454985597e7c7f3a96de.16",
+                "name": "Igreja De Jesus Cristo Dos Santos Dos \u00daltimos Dias",
+                "latitude": 39.740096,
+                "longitude": -8.804572
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Meditite",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Meditite",
+        "quest_reward_pokemon_id": 307,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
+            {
+                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
+                "name": "Parque da Encarna\u00e7\u00e3o",
+                "latitude": 39.738905,
+                "longitude": -8.798901
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Lapras",
         "quest_reward_type": "Pokemon",
@@ -26,6 +68,36 @@
                 "name": "Fonte Freire",
                 "latitude": 39.743645,
                 "longitude": -8.810948
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Spheal",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spheal",
+        "quest_reward_pokemon_id": 363,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
+                "name": "Igreja Batista da Lagoinha",
+                "latitude": 39.740459,
+                "longitude": -8.80699
+            },
+            {
+                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
+                "name": "Liz ao Quadro - Art Galery",
+                "latitude": 39.748424,
+                "longitude": -8.802439
+            },
+            {
+                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
+                "name": "Ponte Azul",
+                "latitude": 39.749013,
+                "longitude": -8.801741
             }
         ]
     },
@@ -98,48 +170,12 @@
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
                 "longitude": -8.811107
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Spheal",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Spheal",
-        "quest_reward_pokemon_id": 363,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
-                "name": "Liz ao Quadro - Art Galery",
-                "latitude": 39.748424,
-                "longitude": -8.802439
             },
             {
-                "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
-                "name": "Ponte Azul",
-                "latitude": 39.749013,
-                "longitude": -8.801741
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Meditite",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Meditite",
-        "quest_reward_pokemon_id": 307,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
-                "name": "Parque da Encarna\u00e7\u00e3o",
-                "latitude": 39.738905,
-                "longitude": -8.798901
+                "pokestop_id": "e8ec622a2f3239eaa38356a5d19046ce.16",
+                "name": "Franguinho no churrasco",
+                "latitude": 39.755374,
+                "longitude": -8.932558
             }
         ]
     }
