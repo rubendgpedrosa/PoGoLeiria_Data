@@ -442,6 +442,12 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "35a7b988a82d34d88f937b142e51c01c.16",
+                "name": "Assembleia de Deus.",
+                "latitude": 39.753204,
+                "longitude": -8.806617
+            },
+            {
                 "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
                 "name": "Playcities Santo Agostinho",
                 "latitude": 39.741341,
@@ -542,6 +548,42 @@
                 "name": "Ponte Ondulada",
                 "latitude": 39.746196,
                 "longitude": -8.80374
+            },
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Excellent Throws",
+        "quest_reward": "Dratini",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dratini",
+        "quest_reward_pokemon_id": 147,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3e0e09c5f37d47b29d85b0209445098d.16",
+                "name": "Painel Informativo Junta de Freguesia Marinha Grande",
+                "latitude": 39.741149,
+                "longitude": -8.932965
+            },
+            {
+                "pokestop_id": "46466edffad93e0d99f46c379661c144.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.739412,
+                "longitude": -8.81129
+            },
+            {
+                "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
+                "name": "Centro Shotokan Leiria",
+                "latitude": 39.747428,
+                "longitude": -8.807456
             }
         ]
     },
@@ -624,26 +666,44 @@
         ]
     },
     {
-        "quest_description": "Make 2 Excellent Throws",
-        "quest_reward": "Dratini",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Dratini",
-        "quest_reward_pokemon_id": 147,
-        "quest_reward_item_id": 0,
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
         "pokestops": [
             {
-                "pokestop_id": "46466edffad93e0d99f46c379661c144.16",
-                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
-                "latitude": 39.739412,
-                "longitude": -8.81129
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
             },
             {
-                "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
-                "name": "Centro Shotokan Leiria",
-                "latitude": 39.747428,
-                "longitude": -8.807456
+                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
+                "name": "P\u00e9rgula Marinhense",
+                "latitude": 39.751051,
+                "longitude": -8.928765
+            },
+            {
+                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
+                "name": "O Pastor Peregrino",
+                "latitude": 39.744326,
+                "longitude": -8.807043
+            },
+            {
+                "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
+                "name": "Calv\u00e1rio",
+                "latitude": 39.746362,
+                "longitude": -8.807238
+            },
+            {
+                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
+                "name": "O Nosso Claustro \u00c9 O Mundo",
+                "latitude": 39.742156,
+                "longitude": -8.811256
             }
         ]
     },
@@ -702,42 +762,6 @@
         ]
     },
     {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
-                "name": "P\u00e9rgula Marinhense",
-                "latitude": 39.751051,
-                "longitude": -8.928765
-            },
-            {
-                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
-                "name": "O Pastor Peregrino",
-                "latitude": 39.744326,
-                "longitude": -8.807043
-            },
-            {
-                "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
-                "name": "Calv\u00e1rio",
-                "latitude": 39.746362,
-                "longitude": -8.807238
-            },
-            {
-                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
-                "name": "O Nosso Claustro \u00c9 O Mundo",
-                "latitude": 39.742156,
-                "longitude": -8.811256
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Great Curveball Throws in a row",
         "quest_reward": "Spinda",
         "quest_reward_type": "Pokemon",
@@ -748,10 +772,40 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "latitude": 39.739681,
+                "longitude": -8.805175
+            },
+            {
                 "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
                 "name": "Azinheira",
                 "latitude": 39.747237,
                 "longitude": -8.80158
+            },
+            {
+                "pokestop_id": "eb4ed26ece984942b87a28477de84568.16",
+                "name": "IPL - Unidade de investiga\u00e7\u00e3o",
+                "latitude": 39.74349,
+                "longitude": -8.791929
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
             }
         ]
     },
@@ -788,6 +842,30 @@
                 "name": "\u00c1rvore do Ambar",
                 "latitude": 39.732049,
                 "longitude": -8.796385
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "1000 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1000,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
+                "name": "Estravag\u00e1rio Graffiti",
+                "latitude": 39.752932,
+                "longitude": -8.933662
             }
         ]
     },
@@ -858,6 +936,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "Diglett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Diglett",
+        "quest_reward_pokemon_id": 50,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
+                "name": "Parque de merendas 2",
+                "latitude": 39.733159,
+                "longitude": -8.82037
+            },
+            {
+                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
+                "name": "Sport Oper\u00e1rio Marinhense",
+                "latitude": 39.749997,
+                "longitude": -8.926437
+            }
+        ]
+    },
+    {
         "quest_description": "Make an Excellent Throw",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -890,24 +992,6 @@
                 "name": "Mural ESTG",
                 "latitude": 39.734569,
                 "longitude": -8.821932
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "Diglett",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Diglett",
-        "quest_reward_pokemon_id": 50,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
-                "name": "Sport Oper\u00e1rio Marinhense",
-                "latitude": 39.749997,
-                "longitude": -8.926437
             }
         ]
     },
