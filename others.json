@@ -634,6 +634,12 @@
                 "longitude": -8.795909
             },
             {
+                "pokestop_id": "d74ad1450c324939b4b68f6a7c9cb024.16",
+                "name": "Homenagem a Dr. An\u00edbal Couceiro",
+                "latitude": 39.750433,
+                "longitude": -8.932692
+            },
+            {
                 "pokestop_id": "de7d0cc92e0e4b62b195f7a846d06f79.16",
                 "name": "Urban Fitness",
                 "latitude": 39.748953,
@@ -1254,6 +1260,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Beedrill Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Beedrill",
+        "quest_reward_pokemon_id": 15,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
+                "name": "Campo de Treino de Arremesso",
+                "latitude": 39.736335,
+                "longitude": -8.929017
+            },
+            {
+                "pokestop_id": "d47848cf08e945c691b195b0df815135.16",
+                "name": "Artes Manuais",
+                "latitude": 39.742853,
+                "longitude": -8.933931
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "Remoraid",
         "quest_reward_type": "Pokemon",
@@ -1268,24 +1298,6 @@
                 "name": "Caixa Postal CTT - Guimarota",
                 "latitude": 39.732839,
                 "longitude": -8.795816
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Beedrill Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Beedrill",
-        "quest_reward_pokemon_id": 15,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d47848cf08e945c691b195b0df815135.16",
-                "name": "Artes Manuais",
-                "latitude": 39.742853,
-                "longitude": -8.933931
             }
         ]
     },
