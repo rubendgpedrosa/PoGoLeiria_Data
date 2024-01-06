@@ -336,6 +336,24 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Rowlet",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Rowlet",
+        "quest_reward_pokemon_id": 722,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "09574b8a80a94a0d9c6f868d9f1ef02e.16",
+                "name": "Sede UDL",
+                "latitude": 39.748744,
+                "longitude": -8.811496
+            }
+        ]
+    },
+    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Skrelp",
         "quest_reward_type": "Pokemon",
@@ -548,6 +566,12 @@
                 "name": "Medalh\u00e3o - Primeiro Mealheiro P\u00fablico",
                 "latitude": 39.744064,
                 "longitude": -8.807857
+            },
+            {
+                "pokestop_id": "8be5956c59cc3621a677fff8c99d12c6.16",
+                "name": "Associa\u00e7\u00e3o de Dan\u00e7a de Leiria",
+                "latitude": 39.749055,
+                "longitude": -8.811604
             },
             {
                 "pokestop_id": "9ca6a62285044856b76ecea9607f63bb.16",
@@ -848,6 +872,30 @@
                 "name": "Arquivo Distrital",
                 "latitude": 39.744298,
                 "longitude": -8.811006
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "35a7b988a82d34d88f937b142e51c01c.16",
+                "name": "Assembleia de Deus.",
+                "latitude": 39.753204,
+                "longitude": -8.806617
+            },
+            {
+                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
+                "name": "Zona Desportiva",
+                "latitude": 39.747903,
+                "longitude": -8.936311
             }
         ]
     },
@@ -1226,24 +1274,6 @@
                 "name": "Edif\u00edcio \"O Pa\u00e7o\"",
                 "latitude": 39.745253,
                 "longitude": -8.80654
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Charizard Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Charizard",
-        "quest_reward_pokemon_id": 6,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
-                "name": "Zona Desportiva",
-                "latitude": 39.747903,
-                "longitude": -8.936311
             }
         ]
     },
