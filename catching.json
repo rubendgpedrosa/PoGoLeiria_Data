@@ -72,6 +72,36 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
+                "name": "D.Isabel",
+                "latitude": 39.749043,
+                "longitude": -8.80843
+            },
+            {
+                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
+                "name": "Mercado de Sant'ana",
+                "latitude": 39.74304,
+                "longitude": -8.807411
+            }
+        ]
+    },
+    {
         "quest_description": "Catch a Ditto",
         "quest_reward": "10 Ultra Ball",
         "quest_reward_type": "Item",
@@ -290,6 +320,12 @@
                 "name": "Clube M.M.G",
                 "latitude": 39.749647,
                 "longitude": -8.932786
+            },
+            {
+                "pokestop_id": "8968f9c2f8284e1da37b0124e9ba65ea.16",
+                "name": "Campo Desportivo Da Seixa",
+                "latitude": 39.7328,
+                "longitude": -8.800894
             }
         ]
     },
@@ -516,30 +552,6 @@
         ]
     },
     {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
-                "name": "D.Isabel",
-                "latitude": 39.749043,
-                "longitude": -8.80843
-            },
-            {
-                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
-                "name": "Mercado de Sant'ana",
-                "latitude": 39.74304,
-                "longitude": -8.807411
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -554,6 +566,12 @@
                 "name": "Campo Polidesportivo",
                 "latitude": 39.732954,
                 "longitude": -8.809802
+            },
+            {
+                "pokestop_id": "e011da7e4afa4206b4dec0dbbde05b13.16",
+                "name": "Torre de Miragem",
+                "latitude": 39.746911,
+                "longitude": -8.809565
             }
         ]
     },
