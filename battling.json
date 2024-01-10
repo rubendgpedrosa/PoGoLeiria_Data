@@ -19,6 +19,30 @@
     },
     {
         "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f0a9819d0db41ae902717902a8452a2.16",
+                "name": "Centro De Interpreta\u00e7\u00e3o Ambiental De Leiria",
+                "latitude": 39.740739,
+                "longitude": -8.80134
+            },
+            {
+                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
+                "name": "Zona De Merendas",
+                "latitude": 39.7347,
+                "longitude": -8.796927
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
         "quest_reward": "Aerodactyl",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -74,24 +98,6 @@
                 "name": "O Pastor Peregrino",
                 "latitude": 39.744326,
                 "longitude": -8.807043
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Exeggutor",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Exeggutor",
-        "quest_reward_pokemon_id": 103,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
-                "name": "Zona De Merendas",
-                "latitude": 39.7347,
-                "longitude": -8.796927
             }
         ]
     },
