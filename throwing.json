@@ -22,6 +22,12 @@
                 "longitude": -8.808424
             },
             {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
+            },
+            {
                 "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
                 "name": "Janelas do Jardim da Almuinha",
                 "latitude": 39.751734,
@@ -68,6 +74,12 @@
                 "name": "Ponte Euro 2004",
                 "latitude": 39.752764,
                 "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
             },
             {
                 "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
@@ -326,6 +338,12 @@
                 "name": "Medronheiro",
                 "latitude": 39.748255,
                 "longitude": -8.801251
+            },
+            {
+                "pokestop_id": "f253df31ccb53395831c337eae84c9f9.16",
+                "name": "Antiga Sede Jornal de Leiria",
+                "latitude": 39.744151,
+                "longitude": -8.811916
             }
         ]
     },
@@ -664,6 +682,12 @@
                 "longitude": -8.935747
             },
             {
+                "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
+                "name": "Campo de Treino de Arremesso",
+                "latitude": 39.736335,
+                "longitude": -8.929017
+            },
+            {
                 "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
                 "name": "Parque Infantil",
                 "latitude": 39.731526,
@@ -768,6 +792,36 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "49771867bab1340ea0b86755f4f23b3d.16",
+                "name": "Parede de Escalada",
+                "latitude": 39.734361,
+                "longitude": -8.80252
+            },
+            {
+                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
+                "name": "Parque de S\u00e3o Rom\u00e3o",
+                "latitude": 39.733442,
+                "longitude": -8.797748
+            },
+            {
+                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
+                "name": "P\u00e9rgula Marinhense",
+                "latitude": 39.751051,
+                "longitude": -8.928765
+            }
+        ]
+    },
+    {
         "quest_description": "Make 2 Nice Curveball Throws in a row",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -818,6 +872,12 @@
                 "name": "Malta do Aerosol",
                 "latitude": 39.750045,
                 "longitude": -8.935074
+            },
+            {
+                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
+                "name": "Kid's Web",
+                "latitude": 39.732741,
+                "longitude": -8.79703
             },
             {
                 "pokestop_id": "dce7b40c4a4838b9b3fbf663537f23b3.16",
@@ -896,6 +956,12 @@
                 "name": "Sport Oper\u00e1rio Marinhense",
                 "latitude": 39.749997,
                 "longitude": -8.926437
+            },
+            {
+                "pokestop_id": "eb4ed26ece984942b87a28477de84568.16",
+                "name": "IPL - Unidade de investiga\u00e7\u00e3o",
+                "latitude": 39.74349,
+                "longitude": -8.791929
             }
         ]
     },
@@ -962,24 +1028,6 @@
                 "name": "Homegame aos Her\u00f3icos Soldados",
                 "latitude": 39.746449,
                 "longitude": -8.808147
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
-                "name": "P\u00e9rgula Marinhense",
-                "latitude": 39.751051,
-                "longitude": -8.928765
             }
         ]
     },
@@ -1232,6 +1280,24 @@
                 "name": "VDesign",
                 "latitude": 39.745756,
                 "longitude": -8.807801
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws in a row",
+        "quest_reward": "1500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             }
         ]
     },
