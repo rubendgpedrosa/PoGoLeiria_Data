@@ -178,6 +178,12 @@
                 "longitude": -8.808602
             },
             {
+                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
+                "name": "Torre Agua Leiria",
+                "latitude": 39.743319,
+                "longitude": -8.799232
+            },
+            {
                 "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
                 "name": "Edif\u00edcio Da Resinagem",
                 "latitude": 39.749198,
@@ -1050,6 +1056,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
+            },
+            {
+                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
+                "name": "Sapo",
+                "latitude": 39.74516,
+                "longitude": -8.804145
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Roggenrola",
         "quest_reward_type": "Pokemon",
@@ -1436,24 +1466,6 @@
                 "name": "Zona de lazer",
                 "latitude": 39.737598,
                 "longitude": -8.928606
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
-                "name": "Sapo",
-                "latitude": 39.74516,
-                "longitude": -8.804145
             }
         ]
     },
