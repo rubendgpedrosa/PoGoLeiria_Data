@@ -18,24 +18,6 @@
         ]
     },
     {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Exeggutor",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Exeggutor",
-        "quest_reward_pokemon_id": 103,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "346692f7731647539c32a978b011270d.16",
-                "name": "Zona de Merendas",
-                "latitude": 39.747887,
-                "longitude": -8.810421
-            }
-        ]
-    },
-    {
         "quest_description": "Win a raid",
         "quest_reward": "Lapras",
         "quest_reward_type": "Pokemon",
@@ -45,6 +27,12 @@
         "quest_reward_pokemon_id": 131,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "1f8703ec0451364f90420f66f3220978.16",
+                "name": "Centro de Cultura e Desporto dos Trabalhadores da Seguran\u00e7a Social de Leiria",
+                "latitude": 39.74061,
+                "longitude": -8.814058
+            },
             {
                 "pokestop_id": "397894b8406948d39293b559e2a32455.16",
                 "name": "Instituto Portugu\u00eas da Juventude",
@@ -74,6 +62,24 @@
                 "name": "Liz ao Quadro - Art Galery",
                 "latitude": 39.748424,
                 "longitude": -8.802439
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "346692f7731647539c32a978b011270d.16",
+                "name": "Zona de Merendas",
+                "latitude": 39.747887,
+                "longitude": -8.810421
             }
         ]
     },
