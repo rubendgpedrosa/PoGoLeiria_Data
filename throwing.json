@@ -46,6 +46,12 @@
                 "longitude": -8.817837
             },
             {
+                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
+                "name": "Moagem Leiriense",
+                "latitude": 39.74865,
+                "longitude": -8.803723
+            },
+            {
                 "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
                 "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
                 "latitude": 39.73966,
@@ -146,6 +152,12 @@
                 "name": "Est\u00e1tua \"A Caminho da Feira\"",
                 "latitude": 39.744847,
                 "longitude": -8.804645
+            },
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
             },
             {
                 "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
@@ -499,6 +511,30 @@
     },
     {
         "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
+                "name": "S. Francisco",
+                "latitude": 39.74836,
+                "longitude": -8.803617
+            },
+            {
+                "pokestop_id": "f6c058f22ecc3998a0030d06d26d0dfa.16",
+                "name": "Radioactive Man",
+                "latitude": 39.749887,
+                "longitude": -8.803576
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
         "quest_reward_amount": 200,
@@ -518,6 +554,12 @@
                 "name": "Ponte Ondulada",
                 "latitude": 39.746196,
                 "longitude": -8.80374
+            },
+            {
+                "pokestop_id": "de7d0cc92e0e4b62b195f7a846d06f79.16",
+                "name": "Urban Fitness",
+                "latitude": 39.748953,
+                "longitude": -8.802133
             }
         ]
     },
@@ -632,6 +674,30 @@
                 "name": "Igreja",
                 "latitude": 39.741631,
                 "longitude": -8.802822
+            },
+            {
+                "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
+                "name": "Faces Cubistas",
+                "latitude": 39.750855,
+                "longitude": -8.806714
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "49c04382873542c79044fd2f8014bd55.16",
+                "name": "Atl\u00e9tico Clube Marinhense",
+                "latitude": 39.748748,
+                "longitude": -8.936854
             }
         ]
     },
@@ -720,6 +786,24 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "6641122bc0ea406f917adfe1cfbd22e6.11",
+                "name": "Mercado Municipal",
+                "latitude": 39.749213,
+                "longitude": -8.8064
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "Omanyte",
         "quest_reward_type": "Pokemon",
@@ -758,6 +842,48 @@
                 "name": "Igreja Paroquial da Marinha Grande",
                 "latitude": 39.750842,
                 "longitude": -8.931292
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "7f9a5234b0c5345c9940d8c491e044ee.16",
+                "name": "Choupo",
+                "latitude": 39.750912,
+                "longitude": -8.807484
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Elgyem",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Elgyem",
+        "quest_reward_pokemon_id": 605,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "88cdcb6d570d4c1bbad94a55d966d4c5.16",
+                "name": "Anfiteatro Praceta Abra\u00e3o Zacuto",
+                "latitude": 39.749235,
+                "longitude": -8.802702
+            },
+            {
+                "pokestop_id": "dcd6e2e0c82d308d9c33f719869d3f54.16",
+                "name": "Igreja Deus Prover\u00e1",
+                "latitude": 39.748424,
+                "longitude": -8.80807
             }
         ]
     },
@@ -836,24 +962,6 @@
                 "name": "Mercado de Sant'ana",
                 "latitude": 39.74304,
                 "longitude": -8.807411
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "Elgyem",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Elgyem",
-        "quest_reward_pokemon_id": 605,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "dcd6e2e0c82d308d9c33f719869d3f54.16",
-                "name": "Igreja Deus Prover\u00e1",
-                "latitude": 39.748424,
-                "longitude": -8.80807
             }
         ]
     },
