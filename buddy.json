@@ -1,5 +1,53 @@
 [
     {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Delibird",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Delibird",
+        "quest_reward_pokemon_id": 225,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f8df9d7634c44a2b38af780e0f882bc.11",
+                "name": "Edif\u00edcio do Dr. Jo\u00e3o Carlos Verde de Oliveira",
+                "latitude": 39.742779,
+                "longitude": -8.804791
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Glameow",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Glameow",
+        "quest_reward_pokemon_id": 431,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            },
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Jigglypuff",
         "quest_reward_type": "Pokemon",
@@ -25,25 +73,49 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Glameow",
+        "quest_reward": "Buneary",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Glameow",
-        "quest_reward_pokemon_id": 431,
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
-                "name": "McDonald\u2019s-Leiria",
-                "latitude": 39.73516,
-                "longitude": -8.799637
+                "pokestop_id": "364a7a745fb547b5914ce2b76a8e8ddc.16",
+                "name": "Parque De Merendas - Campus 2",
+                "latitude": 39.735284,
+                "longitude": -8.821824
             },
             {
-                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
-                "name": "Ponte pedonal do Parque das Bernardas",
-                "latitude": 39.737792,
-                "longitude": -8.928996
+                "pokestop_id": "51a5cfd3c47c404080bf2813b792897b.16",
+                "name": "ADESER II",
+                "latitude": 39.75137,
+                "longitude": -8.931029
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Litleo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "42070d6980c64ecf88a0dd6a9043ea5e.11",
+                "name": "Est\u00e1tua Burro",
+                "latitude": 39.745224,
+                "longitude": -8.804058
+            },
+            {
+                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
+                "name": "Monumento aos Combatentes da Grande Guerra",
+                "latitude": 39.740806,
+                "longitude": -8.802768
             }
         ]
     },
