@@ -1,5 +1,47 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Archen",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Archen",
+        "quest_reward_pokemon_id": 566,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b47f45c695c45d18f4fd061a8ab3144.16",
+                "name": "Edif\u00edcio Z\u00faquete",
+                "latitude": 39.744416,
+                "longitude": -8.807663
+            },
+            {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Spheal",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spheal",
+        "quest_reward_pokemon_id": 363,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0ea1aadc3e4e30b09db1f7c8c06cde31.16",
+                "name": "Caixa Postal CTT - Av. Jos\u00e9 Greg\u00f3rio",
+                "latitude": 39.754491,
+                "longitude": -8.932577
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Lapras",
         "quest_reward_type": "Pokemon",
@@ -32,24 +74,6 @@
                 "name": "Posto de Correios CTT",
                 "latitude": 39.748012,
                 "longitude": -8.927626
-            }
-        ]
-    },
-    {
-        "quest_description": "Win a three-star raid or higher",
-        "quest_reward": "Archen",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Archen",
-        "quest_reward_pokemon_id": 566,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
-                "name": "Catalpa",
-                "latitude": 39.745748,
-                "longitude": -8.804397
             }
         ]
     },
@@ -92,6 +116,24 @@
                 "name": "Parque da Cerca",
                 "latitude": 39.748598,
                 "longitude": -8.934927
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Tirtouga",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tirtouga",
+        "quest_reward_pokemon_id": 564,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
             }
         ]
     }
