@@ -420,6 +420,72 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "Surskit",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Surskit",
+        "quest_reward_pokemon_id": 283,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f0cbfb9e9c037f3884dad1dda9f6b2a.16",
+                "name": "Associa\u00e7\u00e3o Portuguesa de Deficientes - Sede Desportiva",
+                "latitude": 39.753845,
+                "longitude": -8.931698
+            },
+            {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "5eaed2f460e2442b9efc9f0480e83587.16",
+                "name": "C\u00e2mara Municipal da Marinha Grande",
+                "latitude": 39.75001,
+                "longitude": -8.933133
+            },
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
+            },
+            {
+                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
+                "name": "Jogo De Som",
+                "latitude": 39.734864,
+                "longitude": -8.797733
+            },
+            {
+                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
+                "name": "Parque Av. Marques Pombal",
+                "latitude": 39.741132,
+                "longitude": -8.801663
+            },
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
+            },
+            {
+                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
+                "name": "Anfiteatro Do Parque Da Cerca",
+                "latitude": 39.749604,
+                "longitude": -8.934917
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 different species of Pok\u00e9mon",
         "quest_reward": "Golett",
         "quest_reward_type": "Pokemon",
@@ -720,54 +786,6 @@
         ]
     },
     {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "Surskit",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Surskit",
-        "quest_reward_pokemon_id": 283,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
-                "name": "Edif\u00edcio Comendador",
-                "latitude": 39.742053,
-                "longitude": -8.809737
-            },
-            {
-                "pokestop_id": "5eaed2f460e2442b9efc9f0480e83587.16",
-                "name": "C\u00e2mara Municipal da Marinha Grande",
-                "latitude": 39.75001,
-                "longitude": -8.933133
-            },
-            {
-                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
-                "name": "Castelo de Leiria",
-                "latitude": 39.747664,
-                "longitude": -8.808828
-            },
-            {
-                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
-                "name": "Jogo De Som",
-                "latitude": 39.734864,
-                "longitude": -8.797733
-            },
-            {
-                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
-                "name": "Parque Av. Marques Pombal",
-                "latitude": 39.741132,
-                "longitude": -8.801663
-            },
-            {
-                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
-                "name": "Anfiteatro Do Parque Da Cerca",
-                "latitude": 39.749604,
-                "longitude": -8.934917
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -782,6 +800,48 @@
                 "name": "Engenharia Autom\u00f3vel",
                 "latitude": 39.733074,
                 "longitude": -8.821522
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "490174996655472e998bccb559694a1b.16",
+                "name": "Bordalo II",
+                "latitude": 39.742515,
+                "longitude": -8.80218
+            },
+            {
+                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
+                "name": "Janelas Santo Agostinho",
+                "latitude": 39.740857,
+                "longitude": -8.801746
+            },
+            {
+                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
+                "name": "Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739852,
+                "longitude": -8.808011
+            },
+            {
+                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
+                "name": "Painel Moinho de Papel",
+                "latitude": 39.740201,
+                "longitude": -8.800153
+            },
+            {
+                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
+                "name": "Zona de lazer",
+                "latitude": 39.737598,
+                "longitude": -8.928606
             }
         ]
     },
@@ -1058,42 +1118,6 @@
                 "name": "Ringue de futebol",
                 "latitude": 39.730853,
                 "longitude": -8.811065
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
-                "name": "Janelas Santo Agostinho",
-                "latitude": 39.740857,
-                "longitude": -8.801746
-            },
-            {
-                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
-                "name": "Galerias S\u00e3o Jos\u00e9",
-                "latitude": 39.739852,
-                "longitude": -8.808011
-            },
-            {
-                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
-                "name": "Painel Moinho de Papel",
-                "latitude": 39.740201,
-                "longitude": -8.800153
-            },
-            {
-                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
-                "name": "Zona de lazer",
-                "latitude": 39.737598,
-                "longitude": -8.928606
             }
         ]
     },
