@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Delibird",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Delibird",
+        "quest_reward_pokemon_id": 225,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "23076c7b2d5e3d209916143b5207e5b3.16",
+                "name": "Soneto da Casa",
+                "latitude": 39.733913,
+                "longitude": -8.80966
+            },
+            {
+                "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
+                "name": "Lago Santo Agostinho",
+                "latitude": 39.74149,
+                "longitude": -8.801741
+            },
+            {
+                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
+                "name": "Wellness life",
+                "latitude": 39.751779,
+                "longitude": -8.929718
+            }
+        ]
+    },
+    {
         "quest_description": "Send 3 Gifts to friends",
         "quest_reward": "1000 Stardust",
         "quest_reward_type": "Stardust",
@@ -18,20 +48,44 @@
         ]
     },
     {
-        "quest_description": "Send 5 Gifts and add a sticker to each",
-        "quest_reward": "Delibird",
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Litleo",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Delibird",
-        "quest_reward_pokemon_id": 225,
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
-                "name": "Lago Santo Agostinho",
-                "latitude": 39.74149,
-                "longitude": -8.801741
+                "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
+                "name": "F\u00e9nix Muralhartes",
+                "latitude": 39.747251,
+                "longitude": -8.808742
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
+                "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
+                "latitude": 39.741652,
+                "longitude": -8.929112
+            },
+            {
+                "pokestop_id": "fc7d5b3852b847f497461aa830d88bde.16",
+                "name": "A\u00e7ude Da Fonte Quente",
+                "latitude": 39.747803,
+                "longitude": -8.802251
             }
         ]
     }
