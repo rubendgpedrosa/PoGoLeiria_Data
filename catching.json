@@ -82,10 +82,22 @@
                 "longitude": -8.92676
             },
             {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
                 "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
                 "name": "Monumento Afonso Lopes Vieira",
                 "latitude": 39.740187,
                 "longitude": -8.812398
+            },
+            {
+                "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
+                "name": "Campo de Treino de Arremesso",
+                "latitude": 39.736335,
+                "longitude": -8.929017
             },
             {
                 "pokestop_id": "ed033216b8ae4a3e96eff61d08cf1bab.16",
@@ -256,6 +268,12 @@
                 "longitude": -8.804067
             },
             {
+                "pokestop_id": "266b43dbec17425a81f8256b14f1c2cd.16",
+                "name": "Rodovi\u00e1ria Do Lis",
+                "latitude": 39.745095,
+                "longitude": -8.805202
+            },
+            {
                 "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
                 "name": "Campo De Futebol",
                 "latitude": 39.745553,
@@ -344,6 +362,12 @@
                 "name": "Fonte De \u00c1gua Quente",
                 "latitude": 39.747102,
                 "longitude": -8.801658
+            },
+            {
+                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
+                "name": "Ringue de futebol da Marinha Grande",
+                "latitude": 39.740808,
+                "longitude": -8.929041
             },
             {
                 "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
@@ -452,6 +476,24 @@
                 "name": "Caixa Postal CTT",
                 "latitude": 39.742178,
                 "longitude": -8.798332
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4f926fcd72ea300d9a7ace8deb9b2a6d.16",
+                "name": "Pra\u00e7a Eng Calazans Duarte",
+                "latitude": 39.742041,
+                "longitude": -8.934302
             }
         ]
     },
@@ -592,10 +634,40 @@
                 "longitude": -8.804849
             },
             {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
+            },
+            {
                 "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
                 "name": "Est\u00e1tua Vacas",
                 "latitude": 39.745118,
                 "longitude": -8.804209
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "10 Pidgeot Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Pidgeot",
+        "quest_reward_pokemon_id": 18,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
+            },
+            {
+                "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
+                "name": "Bullied Graffiti",
+                "latitude": 39.742343,
+                "longitude": -8.801731
             }
         ]
     },
@@ -614,24 +686,6 @@
                 "name": "Oficina da M\u00fasica",
                 "latitude": 39.745717,
                 "longitude": -8.933685
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "10 Pidgeot Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Pidgeot",
-        "quest_reward_pokemon_id": 18,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
-                "name": "Bullied Graffiti",
-                "latitude": 39.742343,
-                "longitude": -8.801731
             }
         ]
     },
