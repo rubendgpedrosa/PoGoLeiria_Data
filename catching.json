@@ -175,30 +175,6 @@
     },
     {
         "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Cubchoo",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Cubchoo",
-        "quest_reward_pokemon_id": 613,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
-                "name": "Fonte De \u00c1gua Quente",
-                "latitude": 39.747102,
-                "longitude": -8.801658
-            },
-            {
-                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
-                "name": "S.L.Anti",
-                "latitude": 39.743737,
-                "longitude": -8.805579
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
         "quest_reward": "3 Great Ball",
         "quest_reward_type": "Item",
         "quest_reward_amount": 3,
@@ -208,16 +184,34 @@
         "quest_reward_item_id": 2,
         "pokestops": [
             {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            },
+            {
                 "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
                 "name": "Art",
                 "latitude": 39.750309,
                 "longitude": -8.932088
             },
             {
+                "pokestop_id": "21cf9fda632946cb88d62d3d0b8d852a.16",
+                "name": "Bras\u00e3o Jardim Lu\u00eds De Cam\u00f5es at Marinha Grande",
+                "latitude": 39.750854,
+                "longitude": -8.929265
+            },
+            {
                 "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
                 "name": "Seu Nome Era Mural",
                 "latitude": 39.746244,
                 "longitude": -8.807457
+            },
+            {
+                "pokestop_id": "57da555c66ca4169b393e3b97389a780.16",
+                "name": "Parque Infantil Jardim do Liz",
+                "latitude": 39.750826,
+                "longitude": -8.806392
             },
             {
                 "pokestop_id": "64028475605436c098d172cef7a27671.16",
@@ -249,6 +243,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 201,
         "pokestops": [
+            {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
             {
                 "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
                 "name": "Campo de Futebol",
@@ -310,6 +310,12 @@
                 "longitude": -8.93253
             },
             {
+                "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
+                "name": "Sede de Imprensa Marinha Grande",
+                "latitude": 39.753915,
+                "longitude": -8.932095
+            },
+            {
                 "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
                 "name": "LM Fitness",
                 "latitude": 39.747089,
@@ -320,6 +326,30 @@
                 "name": "Centro Comercial D.Dinis",
                 "latitude": 39.742971,
                 "longitude": -8.809768
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Cubchoo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cubchoo",
+        "quest_reward_pokemon_id": 613,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
+            },
+            {
+                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
+                "name": "S.L.Anti",
+                "latitude": 39.743737,
+                "longitude": -8.805579
             }
         ]
     },
