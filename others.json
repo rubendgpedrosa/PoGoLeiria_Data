@@ -106,6 +106,12 @@
                 "longitude": -8.928307
             },
             {
+                "pokestop_id": "47f7787d4c494d34803f1c290f5688b0.16",
+                "name": "Fonte",
+                "latitude": 39.752573,
+                "longitude": -8.933414
+            },
+            {
                 "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
                 "name": "Live Gym Marinha Grande",
                 "latitude": 39.74109,
@@ -158,6 +164,12 @@
                 "name": "Arcos - Leiria",
                 "latitude": 39.746016,
                 "longitude": -8.80598
+            },
+            {
+                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
+                "name": "Marco de Correio CTT",
+                "latitude": 39.746326,
+                "longitude": -8.804666
             },
             {
                 "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
@@ -308,6 +320,18 @@
                 "name": "Local de conv\u00edvio e descan\u00e7o",
                 "latitude": 39.748322,
                 "longitude": -8.931966
+            },
+            {
+                "pokestop_id": "330b55eef01835f4a957bf65ff5c397e.16",
+                "name": "Igreja Evang\u00e9lica de Jesus Minist\u00e9rio Pentecostal",
+                "latitude": 39.753193,
+                "longitude": -8.933195
+            },
+            {
+                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
+                "name": "Ponte El-Rei D. Dinis",
+                "latitude": 39.743323,
+                "longitude": -8.804477
             }
         ]
     },
@@ -338,6 +362,12 @@
                 "name": "Instituto Portugu\u00eas da Juventude",
                 "latitude": 39.747497,
                 "longitude": -8.81418
+            },
+            {
+                "pokestop_id": "49771867bab1340ea0b86755f4f23b3d.16",
+                "name": "Parede de Escalada",
+                "latitude": 39.734361,
+                "longitude": -8.80252
             },
             {
                 "pokestop_id": "5eaed2f460e2442b9efc9f0480e83587.16",
@@ -374,6 +404,12 @@
                 "name": "O Principezinho",
                 "latitude": 39.745269,
                 "longitude": -8.808602
+            },
+            {
+                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
+                "name": "Edif\u00edcio Ferro de Engomar",
+                "latitude": 39.740629,
+                "longitude": -8.802995
             },
             {
                 "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
@@ -428,6 +464,18 @@
                 "name": "Parque desportivo de S.Rom\u00e3o",
                 "latitude": 39.735758,
                 "longitude": -8.795726
+            },
+            {
+                "pokestop_id": "20d010499ea44bb8a7f38881b2d47338.16",
+                "name": "Mural Bailarina",
+                "latitude": 39.739897,
+                "longitude": -8.804231
+            },
+            {
+                "pokestop_id": "342b74fd64304cd7bf71bc31fb16d27d.16",
+                "name": "N\u00facleo Sportinguista",
+                "latitude": 39.753852,
+                "longitude": -8.932817
             },
             {
                 "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
@@ -734,6 +782,12 @@
                 "name": "Clube de campismo da Marinha Grande",
                 "latitude": 39.747495,
                 "longitude": -8.935422
+            },
+            {
+                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
+                "name": "Monumento aos Combatentes da Grande Guerra",
+                "latitude": 39.740806,
+                "longitude": -8.802768
             }
         ]
     },
@@ -770,6 +824,24 @@
                 "name": "Biblioteca Municipal",
                 "latitude": 39.749895,
                 "longitude": -8.934498
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Mawile",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mawile",
+        "quest_reward_pokemon_id": 303,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
+                "name": "Sede N\u00facleo Sporting",
+                "latitude": 39.750953,
+                "longitude": -8.932885
             }
         ]
     },
@@ -848,6 +920,42 @@
                 "name": "Glove x 400mI",
                 "latitude": 39.74775,
                 "longitude": -8.807233
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Aron",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aron",
+        "quest_reward_pokemon_id": 304,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b3356645cffd432abf254b1c58a5c593.16",
+                "name": "Mural ESTG",
+                "latitude": 39.734569,
+                "longitude": -8.821932
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Aggron Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Aggron",
+        "quest_reward_pokemon_id": 306,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
+                "name": "Sede de Imprensa Marinha Grande",
+                "latitude": 39.753915,
+                "longitude": -8.932095
             }
         ]
     },
