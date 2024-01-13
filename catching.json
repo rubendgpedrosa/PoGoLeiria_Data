@@ -106,6 +106,18 @@
                 "longitude": -8.929017
             },
             {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
+            },
+            {
                 "pokestop_id": "ed033216b8ae4a3e96eff61d08cf1bab.16",
                 "name": "Ringue de futebol",
                 "latitude": 39.730853,
@@ -396,6 +408,48 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Bergmite",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bergmite",
+        "quest_reward_pokemon_id": 712,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929
+            },
+            {
+                "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
+                "name": "Espa\u00e7o O Nariz",
+                "latitude": 39.740953,
+                "longitude": -8.803248
+            },
+            {
+                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
+                "name": "Cal\u00e7ada Portuguesa",
+                "latitude": 39.744753,
+                "longitude": -8.804849
+            },
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
+            },
+            {
+                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
+                "name": "Est\u00e1tua Vacas",
+                "latitude": 39.745118,
+                "longitude": -8.804209
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -428,6 +482,24 @@
                 "name": "Gin\u00e1sio Luis Lopes",
                 "latitude": 39.743959,
                 "longitude": -8.798023
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "3d6959cc1325477b88ffe44689e49093.16",
+                "name": "Ponte Pedonal Suspensa",
+                "latitude": 39.750997,
+                "longitude": -8.809201
             }
         ]
     },
@@ -626,42 +698,6 @@
                 "name": "Castelo de Leiria",
                 "latitude": 39.747664,
                 "longitude": -8.808828
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Bergmite",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bergmite",
-        "quest_reward_pokemon_id": 712,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
-                "name": "Espa\u00e7o O Nariz",
-                "latitude": 39.740953,
-                "longitude": -8.803248
-            },
-            {
-                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
-                "name": "Cal\u00e7ada Portuguesa",
-                "latitude": 39.744753,
-                "longitude": -8.804849
-            },
-            {
-                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
-                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
-                "latitude": 39.744597,
-                "longitude": -8.935054
-            },
-            {
-                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
-                "name": "Est\u00e1tua Vacas",
-                "latitude": 39.745118,
-                "longitude": -8.804209
             }
         ]
     },
