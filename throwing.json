@@ -211,6 +211,72 @@
     },
     {
         "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "083e0b72da963baab293d8a954696f7d.16",
+                "name": "Futuro",
+                "latitude": 39.752573,
+                "longitude": -8.81389
+            },
+            {
+                "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
+                "name": "Espa\u00e7o O Nariz",
+                "latitude": 39.740953,
+                "longitude": -8.803248
+            },
+            {
+                "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
+                "name": "Liceu Rodrigues Lobo",
+                "latitude": 39.742257,
+                "longitude": -8.803918
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
+            },
+            {
+                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
+                "name": "Marinha Grande",
+                "latitude": 39.747761,
+                "longitude": -8.936047
+            },
+            {
+                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
+                "name": "Est\u00e1tua Vacas",
+                "latitude": 39.745118,
+                "longitude": -8.804209
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws in a row",
+        "quest_reward": "1500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
         "quest_reward_amount": 5,
@@ -452,6 +518,36 @@
                 "name": "Polit\u00e9cnico de Leiria - ESECS",
                 "latitude": 39.739751,
                 "longitude": -8.811364
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            },
+            {
+                "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
+                "name": "Abra\u00e7o ao universo",
+                "latitude": 39.751515,
+                "longitude": -8.814163
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
             }
         ]
     },
@@ -798,42 +894,6 @@
         ]
     },
     {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
-                "name": "Espa\u00e7o O Nariz",
-                "latitude": 39.740953,
-                "longitude": -8.803248
-            },
-            {
-                "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
-                "name": "Liceu Rodrigues Lobo",
-                "latitude": 39.742257,
-                "longitude": -8.803918
-            },
-            {
-                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
-                "name": "Marinha Grande",
-                "latitude": 39.747761,
-                "longitude": -8.936047
-            },
-            {
-                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
-                "name": "Est\u00e1tua Vacas",
-                "latitude": 39.745118,
-                "longitude": -8.804209
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -968,30 +1028,6 @@
                 "name": "Fonte Freire",
                 "latitude": 39.743645,
                 "longitude": -8.810948
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
-                "name": "Abra\u00e7o ao universo",
-                "latitude": 39.751515,
-                "longitude": -8.814163
-            },
-            {
-                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
-                "name": "Homenagem Bravos Leirienses",
-                "latitude": 39.741354,
-                "longitude": -8.810787
             }
         ]
     },

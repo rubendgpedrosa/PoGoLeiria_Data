@@ -506,6 +506,12 @@
                 "name": "Fonte do Alambique",
                 "latitude": 39.751211,
                 "longitude": -8.803585
+            },
+            {
+                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
+                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
+                "latitude": 39.750529,
+                "longitude": -8.803749
             }
         ]
     },
@@ -790,6 +796,12 @@
                 "longitude": -8.807238
             },
             {
+                "pokestop_id": "d8f921022177335fb4f14dcd5650f88d.16",
+                "name": "Ricardo Pereira Studio",
+                "latitude": 39.743409,
+                "longitude": -8.800661
+            },
+            {
                 "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
                 "name": "Campus 2 - ESTG",
                 "latitude": 39.734095,
@@ -1032,6 +1044,60 @@
         ]
     },
     {
+        "quest_description": "Catch 7 different species of Pok\u00e9mon",
+        "quest_reward": "Golett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Golett",
+        "quest_reward_pokemon_id": 622,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6ec49906cb8c4e0d9e2ca1709374c77c.16",
+                "name": "Associa\u00e7\u00e3o de Futebol de Leiria",
+                "latitude": 39.739999,
+                "longitude": -8.815938
+            },
+            {
+                "pokestop_id": "88cdcb6d570d4c1bbad94a55d966d4c5.16",
+                "name": "Anfiteatro Praceta Abra\u00e3o Zacuto",
+                "latitude": 39.749235,
+                "longitude": -8.802702
+            },
+            {
+                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
+                "name": "Igreja Man\u00e1",
+                "latitude": 39.741498,
+                "longitude": -8.799315
+            },
+            {
+                "pokestop_id": "bec2eb07d3e344378617c29ab4eff35a.16",
+                "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
+                "latitude": 39.74317,
+                "longitude": -8.804189
+            },
+            {
+                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
+                "name": "Rotary Club De Leiria",
+                "latitude": 39.735202,
+                "longitude": -8.798938
+            },
+            {
+                "pokestop_id": "de7d0cc92e0e4b62b195f7a846d06f79.16",
+                "name": "Urban Fitness",
+                "latitude": 39.748953,
+                "longitude": -8.802133
+            },
+            {
+                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
+                "name": "Xilofone M\u00e1rmore",
+                "latitude": 39.741581,
+                "longitude": -8.802014
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "10 Blaziken Mega Energy",
         "quest_reward_type": "Energy",
@@ -1194,54 +1260,6 @@
         ]
     },
     {
-        "quest_description": "Catch 7 different species of Pok\u00e9mon",
-        "quest_reward": "Golett",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Golett",
-        "quest_reward_pokemon_id": 622,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "88cdcb6d570d4c1bbad94a55d966d4c5.16",
-                "name": "Anfiteatro Praceta Abra\u00e3o Zacuto",
-                "latitude": 39.749235,
-                "longitude": -8.802702
-            },
-            {
-                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
-                "name": "Igreja Man\u00e1",
-                "latitude": 39.741498,
-                "longitude": -8.799315
-            },
-            {
-                "pokestop_id": "bec2eb07d3e344378617c29ab4eff35a.16",
-                "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
-                "latitude": 39.74317,
-                "longitude": -8.804189
-            },
-            {
-                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
-                "name": "Rotary Club De Leiria",
-                "latitude": 39.735202,
-                "longitude": -8.798938
-            },
-            {
-                "pokestop_id": "de7d0cc92e0e4b62b195f7a846d06f79.16",
-                "name": "Urban Fitness",
-                "latitude": 39.748953,
-                "longitude": -8.802133
-            },
-            {
-                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
-                "name": "Xilofone M\u00e1rmore",
-                "latitude": 39.741581,
-                "longitude": -8.802014
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -1392,6 +1410,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
+            },
+            {
+                "pokestop_id": "f20cf939cb55424184465327db0ec8e8.16",
+                "name": "Playcity 006",
+                "latitude": 39.746676,
+                "longitude": -8.802645
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Grass- or Ice-type Pok\u00e9mon",
         "quest_reward": "Smoliv",
         "quest_reward_type": "Pokemon",
@@ -1442,24 +1484,6 @@
                 "name": "Anno Christi MDCXLVI",
                 "latitude": 39.742708,
                 "longitude": -8.810826
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "f20cf939cb55424184465327db0ec8e8.16",
-                "name": "Playcity 006",
-                "latitude": 39.746676,
-                "longitude": -8.802645
             }
         ]
     }
