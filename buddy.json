@@ -1,5 +1,53 @@
 [
     {
+        "quest_description": "Earn 3 Candies walking with your buddy",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "09211576d80e30c3b6007b0d72d8cf96.16",
+                "name": "Azulejo Bairro dos Anjos",
+                "latitude": 39.744443,
+                "longitude": -8.804282
+            },
+            {
+                "pokestop_id": "5b30d5cc95af495c8066d9675b25ae77.16",
+                "name": "Lonac 2017",
+                "latitude": 39.744206,
+                "longitude": -8.812656
+            },
+            {
+                "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
+                "name": "Lago Santo Agostinho",
+                "latitude": 39.74149,
+                "longitude": -8.801741
+            },
+            {
+                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
+                "name": "Ringue De Futebol",
+                "latitude": 39.745324,
+                "longitude": -8.933841
+            },
+            {
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
+            },
+            {
+                "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
+                "name": "Carvalho Cerquinho",
+                "latitude": 39.731849,
+                "longitude": -8.795909
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Buneary",
         "quest_reward_type": "Pokemon",
@@ -104,48 +152,6 @@
                 "name": "Sede Bloco de Esquerda",
                 "latitude": 39.750634,
                 "longitude": -8.932602
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 3 Candies walking with your buddy",
-        "quest_reward": "Stunfisk",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stunfisk",
-        "quest_reward_pokemon_id": 618,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5b30d5cc95af495c8066d9675b25ae77.16",
-                "name": "Lonac 2017",
-                "latitude": 39.744206,
-                "longitude": -8.812656
-            },
-            {
-                "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
-                "name": "Lago Santo Agostinho",
-                "latitude": 39.74149,
-                "longitude": -8.801741
-            },
-            {
-                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
-                "name": "Ringue De Futebol",
-                "latitude": 39.745324,
-                "longitude": -8.933841
-            },
-            {
-                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
-                "name": "Marco de Correios CTT",
-                "latitude": 39.752895,
-                "longitude": -8.805935
-            },
-            {
-                "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
-                "name": "Carvalho Cerquinho",
-                "latitude": 39.731849,
-                "longitude": -8.795909
             }
         ]
     },
