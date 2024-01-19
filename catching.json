@@ -16,6 +16,12 @@
                 "longitude": -8.803099
             },
             {
+                "pokestop_id": "0f4d2ba2234b41a78dcfa1eabbecc1be.16",
+                "name": "Acad\u00e9mico de Leiria",
+                "latitude": 39.74249,
+                "longitude": -8.809242
+            },
+            {
                 "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
                 "name": "Art",
                 "latitude": 39.750309,
@@ -218,6 +224,18 @@
                 "name": "Centro Desportivo Juve Lis",
                 "latitude": 39.731097,
                 "longitude": -8.794939
+            },
+            {
+                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
+                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
+                "latitude": 39.742059,
+                "longitude": -8.808031
+            },
+            {
+                "pokestop_id": "b45d709e2d704d54aa402db61ddd284c.16",
+                "name": "Live gym Almuinha Grande",
+                "latitude": 39.75227,
+                "longitude": -8.813364
             }
         ]
     },
@@ -410,6 +428,12 @@
                 "name": "Engenharia Autom\u00f3vel",
                 "latitude": 39.733074,
                 "longitude": -8.821522
+            },
+            {
+                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
+                "name": "Sede PSD Leiria",
+                "latitude": 39.742459,
+                "longitude": -8.808694
             },
             {
                 "pokestop_id": "782815cfe6ea4d30b6f63bb601c6360c.16",
@@ -770,6 +794,12 @@
                 "name": "Chamin\u00e9 Sthepens",
                 "latitude": 39.751303,
                 "longitude": -8.934332
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
             }
         ]
     },
@@ -1106,6 +1136,12 @@
                 "name": "O Prisioneiro",
                 "latitude": 39.744766,
                 "longitude": -8.81039
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             }
         ]
     },
@@ -1254,6 +1290,48 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Wingull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wingull",
+        "quest_reward_pokemon_id": 278,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8968f9c2f8284e1da37b0124e9ba65ea.16",
+                "name": "Campo Desportivo Da Seixa",
+                "latitude": 39.7328,
+                "longitude": -8.800894
+            },
+            {
+                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
+                "name": "Jogo Da Malha",
+                "latitude": 39.745722,
+                "longitude": -8.80351
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "10 Blaziken Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blaziken",
+        "quest_reward_pokemon_id": 257,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
+                "name": "Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739852,
+                "longitude": -8.808011
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -1316,24 +1394,6 @@
                 "name": "Ponte pedonal sul do Parque das Bernardas",
                 "latitude": 39.737116,
                 "longitude": -8.928597
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "Wingull",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Wingull",
-        "quest_reward_pokemon_id": 278,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
-                "name": "Jogo Da Malha",
-                "latitude": 39.745722,
-                "longitude": -8.80351
             }
         ]
     },
