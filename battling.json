@@ -72,6 +72,30 @@
         ]
     },
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Frillish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Frillish",
+        "quest_reward_pokemon_id": 592,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
+                "name": "Play Land - Parque Infantil",
+                "latitude": 39.739605,
+                "longitude": -8.818371
+            },
+            {
+                "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
+                "name": "Ponte Hintze Ribeiro",
+                "latitude": 39.742734,
+                "longitude": -8.803525
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Exeggutor",
         "quest_reward_type": "Pokemon",
@@ -90,20 +114,26 @@
         ]
     },
     {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Frillish",
+        "quest_description": "Win 2 raids",
+        "quest_reward": "Weezing",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Frillish",
-        "quest_reward_pokemon_id": 592,
+        "quest_reward_pokemon_name": "Weezing",
+        "quest_reward_pokemon_id": 110,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "65bfff6f1a28413c94ecf05f7dab3a8e.16",
-                "name": "Ponte Hintze Ribeiro",
-                "latitude": 39.742734,
-                "longitude": -8.803525
+                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
+                "name": "Marco CTT - Rua de Alcoba\u00e7a",
+                "latitude": 39.741853,
+                "longitude": -8.810621
+            },
+            {
+                "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
+                "name": "Igreja de S\u00e3o Pedro",
+                "latitude": 39.74725,
+                "longitude": -8.807508
             }
         ]
     },
@@ -122,24 +152,6 @@
                 "name": "Parque Infantil Cristal Atrium",
                 "latitude": 39.746939,
                 "longitude": -8.936985
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 2 raids",
-        "quest_reward": "Weezing",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Weezing",
-        "quest_reward_pokemon_id": 110,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
-                "name": "Igreja de S\u00e3o Pedro",
-                "latitude": 39.74725,
-                "longitude": -8.807508
             }
         ]
     }
