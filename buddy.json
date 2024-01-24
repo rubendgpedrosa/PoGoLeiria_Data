@@ -44,6 +44,12 @@
                 "name": "Correios Leiria (Post Office)",
                 "latitude": 39.743073,
                 "longitude": -8.808473
+            },
+            {
+                "pokestop_id": "63b13db5ccdc469187f2f589afef94fe.16",
+                "name": "Parque Infantil Da Seixa",
+                "latitude": 39.732435,
+                "longitude": -8.801047
             }
         ]
     },
@@ -91,6 +97,30 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Litleo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
+            },
+            {
+                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
+                "name": "Kid's Web",
+                "latitude": 39.732741,
+                "longitude": -8.79703
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -110,24 +140,6 @@
                 "name": "Antiga Sede Jornal de Leiria",
                 "latitude": 39.744151,
                 "longitude": -8.811916
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Litleo",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Litleo",
-        "quest_reward_pokemon_id": 667,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
-                "name": "Kid's Web",
-                "latitude": 39.732741,
-                "longitude": -8.79703
             }
         ]
     }
