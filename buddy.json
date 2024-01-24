@@ -1,6 +1,36 @@
 [
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
+            },
+            {
+                "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
+                "name": "Igreja",
+                "latitude": 39.741631,
+                "longitude": -8.802822
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -86,24 +116,12 @@
                 "name": "Cal\u00e7ada Portuguesa",
                 "latitude": 39.744753,
                 "longitude": -8.804849
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Buneary",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Buneary",
-        "quest_reward_pokemon_id": 427,
-        "quest_reward_item_id": 0,
-        "pokestops": [
+            },
             {
-                "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
-                "name": "Igreja",
-                "latitude": 39.741631,
-                "longitude": -8.802822
+                "pokestop_id": "ce998aebdaae3750bedfc6e568df7f5e.16",
+                "name": "Projeto U-Bike: ESTG - Bloco D",
+                "latitude": 39.734271,
+                "longitude": -8.821229
             }
         ]
     }

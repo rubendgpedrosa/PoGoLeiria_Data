@@ -706,6 +706,12 @@
                 "longitude": -8.824761
             },
             {
+                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
+                "name": "Mural \"Na Dist\u00e2ncia\"",
+                "latitude": 39.736711,
+                "longitude": -8.793678
+            },
+            {
                 "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
                 "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
                 "latitude": 39.750529,
@@ -1332,6 +1338,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Squirtle",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Squirtle",
+        "quest_reward_pokemon_id": 7,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "8bbdad203c004919a02b8d596cd56170.16",
+                "name": "Jardim Am\u00e9lia Pinto Pais",
+                "latitude": 39.742343,
+                "longitude": -8.803473
+            },
+            {
+                "pokestop_id": "f3a20103705430bc9e7a1e1d054c1b6a.16",
+                "name": "Polit\u00e9cnico de Leiria - ESECS",
+                "latitude": 39.739751,
+                "longitude": -8.811364
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Charizard Mega Energy",
         "quest_reward_type": "Energy",
@@ -1454,24 +1484,6 @@
                 "name": "Playcity 006",
                 "latitude": 39.746676,
                 "longitude": -8.802645
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 3 times",
-        "quest_reward": "Squirtle",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Squirtle",
-        "quest_reward_pokemon_id": 7,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f3a20103705430bc9e7a1e1d054c1b6a.16",
-                "name": "Polit\u00e9cnico de Leiria - ESECS",
-                "latitude": 39.739751,
-                "longitude": -8.811364
             }
         ]
     }
