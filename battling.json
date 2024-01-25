@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Frillish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Frillish",
+        "quest_reward_pokemon_id": 592,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
+            },
+            {
+                "pokestop_id": "49771867bab1340ea0b86755f4f23b3d.16",
+                "name": "Parede de Escalada",
+                "latitude": 39.734361,
+                "longitude": -8.80252
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Exeggutor",
         "quest_reward_type": "Pokemon",
@@ -86,24 +110,6 @@
                 "name": "Sport Oper\u00e1rio Marinhense",
                 "latitude": 39.749997,
                 "longitude": -8.926437
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Frillish",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Frillish",
-        "quest_reward_pokemon_id": 592,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "49771867bab1340ea0b86755f4f23b3d.16",
-                "name": "Parede de Escalada",
-                "latitude": 39.734361,
-                "longitude": -8.80252
             }
         ]
     },
