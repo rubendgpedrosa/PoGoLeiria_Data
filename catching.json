@@ -846,6 +846,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Wingull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wingull",
+        "quest_reward_pokemon_id": 278,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3745160e3b4b4b71b2f2de8617750ace.16",
+                "name": "Antigo Moinho De Papel",
+                "latitude": 39.740444,
+                "longitude": -8.800663
+            },
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon",
         "quest_reward": "Bergmite",
         "quest_reward_type": "Pokemon",
@@ -1490,24 +1514,6 @@
                 "name": "VDesign",
                 "latitude": 39.745756,
                 "longitude": -8.807801
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "Wingull",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Wingull",
-        "quest_reward_pokemon_id": 278,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
-                "name": "Play City",
-                "latitude": 39.747179,
-                "longitude": -8.802109
             }
         ]
     }
