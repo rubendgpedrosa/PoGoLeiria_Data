@@ -250,6 +250,12 @@
                 "longitude": -8.937626
             },
             {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            },
+            {
                 "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
                 "name": "Live Gym Marinha Grande",
                 "latitude": 39.74109,
@@ -418,6 +424,12 @@
                 "longitude": -8.809864
             },
             {
+                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
+                "name": "Sede PSD Leiria",
+                "latitude": 39.742459,
+                "longitude": -8.808694
+            },
+            {
                 "pokestop_id": "e011da7e4afa4206b4dec0dbbde05b13.16",
                 "name": "Torre de Miragem",
                 "latitude": 39.746911,
@@ -524,6 +536,30 @@
                 "name": "CrossFit Leiria",
                 "latitude": 39.729649,
                 "longitude": -8.804977
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "Lileep",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lileep",
+        "quest_reward_pokemon_id": 345,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2ed1ee1f97513bb093cb82a83407952b.16",
+                "name": "Quiosque da Cruz da Areia",
+                "latitude": 39.729117,
+                "longitude": -8.808391
+            },
+            {
+                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
+                "name": "P\u00e9rgula Marinhense",
+                "latitude": 39.751051,
+                "longitude": -8.928765
             }
         ]
     },
@@ -780,6 +816,36 @@
         ]
     },
     {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
+            },
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
+            },
+            {
+                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
+                "name": "Shopping 2000",
+                "latitude": 39.749243,
+                "longitude": -8.803685
+            }
+        ]
+    },
+    {
         "quest_description": "Make 10 Nice Throws",
         "quest_reward": "Wooper",
         "quest_reward_type": "Pokemon",
@@ -810,44 +876,26 @@
         ]
     },
     {
-        "quest_description": "Make an Excellent Throw",
-        "quest_reward": "5 Great Ball",
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
+        "quest_reward_item_id": 701,
         "pokestops": [
             {
-                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
-                "name": "Castelo de Leiria",
-                "latitude": 39.747664,
-                "longitude": -8.808828
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
             },
             {
-                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
-                "name": "Shopping 2000",
-                "latitude": 39.749243,
-                "longitude": -8.803685
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws in a row",
-        "quest_reward": "Lileep",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Lileep",
-        "quest_reward_pokemon_id": 345,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
-                "name": "P\u00e9rgula Marinhense",
-                "latitude": 39.751051,
-                "longitude": -8.928765
+                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
+                "name": "Jardim da Marinha Grande",
+                "latitude": 39.750988,
+                "longitude": -8.929103
             }
         ]
     },
@@ -920,24 +968,6 @@
                 "name": "Pedras de Armas",
                 "latitude": 39.741978,
                 "longitude": -8.810843
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
-                "name": "Jardim da Marinha Grande",
-                "latitude": 39.750988,
-                "longitude": -8.929103
             }
         ]
     },
