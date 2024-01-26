@@ -354,6 +354,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Manectric Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Manectric",
+        "quest_reward_pokemon_id": 310,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
+                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
+                "latitude": 39.75142,
+                "longitude": -8.930414
+            }
+        ]
+    },
+    {
         "quest_description": "Explore 2 km",
         "quest_reward": "Ponyta",
         "quest_reward_type": "Pokemon",
@@ -368,6 +392,12 @@
                 "name": "Monumento do parque verde de Leiria",
                 "latitude": 39.740157,
                 "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067
             },
             {
                 "pokestop_id": "3014a8690b2b49ba8918cad211918966.16",
@@ -1106,24 +1136,6 @@
                 "name": "O intelectual.",
                 "latitude": 39.747676,
                 "longitude": -8.813754
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Manectric Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Manectric",
-        "quest_reward_pokemon_id": 310,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
-                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
-                "latitude": 39.75142,
-                "longitude": -8.930414
             }
         ]
     },
