@@ -208,6 +208,12 @@
                 "longitude": -8.929224
             },
             {
+                "pokestop_id": "54ed01ac248146bab4c80325d8c3a9ea.16",
+                "name": "Centro De Turismo",
+                "latitude": 39.743896,
+                "longitude": -8.806459
+            },
+            {
                 "pokestop_id": "64028475605436c098d172cef7a27671.16",
                 "name": "Arquivo Municipal de Leiria",
                 "latitude": 39.731487,
@@ -280,6 +286,12 @@
                 "longitude": -8.80134
             },
             {
+                "pokestop_id": "3a4298de80593eb885910e275b595736.16",
+                "name": "Gin\u00e1sio Luis Lopes",
+                "latitude": 39.743959,
+                "longitude": -8.798023
+            },
+            {
                 "pokestop_id": "3bbc897a1d6a4a6194f3326b30204c44.16",
                 "name": "O Gladiador",
                 "latitude": 39.746592,
@@ -302,6 +314,18 @@
                 "name": "Pai Natal Lar\u00e1pio",
                 "latitude": 39.73156,
                 "longitude": -8.823204
+            },
+            {
+                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
+                "name": "Igreja Batista da Lagoinha",
+                "latitude": 39.740459,
+                "longitude": -8.80699
+            },
+            {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
             },
             {
                 "pokestop_id": "8f7b6c291e7d40b7bdd98801018beff9.16",
@@ -344,6 +368,12 @@
                 "name": "Ricardo Pereira Studio",
                 "latitude": 39.743409,
                 "longitude": -8.800661
+            },
+            {
+                "pokestop_id": "f8b148e8b0d84e6f8efa67b045341351.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.744672,
+                "longitude": -8.795859
             }
         ]
     },
@@ -422,6 +452,12 @@
                 "name": "Largo C\u00e2ndido dos Reis - Terreiro",
                 "latitude": 39.743611,
                 "longitude": -8.810345
+            },
+            {
+                "pokestop_id": "15d0bdf2c3a64195981d4eab2368a386.16",
+                "name": "Painel de Azulejos D. Nuno \u00c1lvares Pereira",
+                "latitude": 39.750326,
+                "longitude": -8.930843
             },
             {
                 "pokestop_id": "21cf9fda632946cb88d62d3d0b8d852a.16",
@@ -652,6 +688,12 @@
                 "longitude": -8.810157
             },
             {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
+            },
+            {
                 "pokestop_id": "5eaed2f460e2442b9efc9f0480e83587.16",
                 "name": "C\u00e2mara Municipal da Marinha Grande",
                 "latitude": 39.75001,
@@ -752,6 +794,12 @@
                 "name": "Ringue de futebol",
                 "latitude": 39.730853,
                 "longitude": -8.811065
+            },
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
             },
             {
                 "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
@@ -1114,6 +1162,12 @@
                 "longitude": -8.92967
             },
             {
+                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
+                "name": "Parque da Encarna\u00e7\u00e3o",
+                "latitude": 39.738905,
+                "longitude": -8.798901
+            },
+            {
                 "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
                 "name": "Lady in Red",
                 "latitude": 39.741869,
@@ -1261,6 +1315,48 @@
     },
     {
         "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Rowlet",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Rowlet",
+        "quest_reward_pokemon_id": 722,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Beedrill Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Beedrill",
+        "quest_reward_pokemon_id": 15,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2ac9299d7ffd319aa934d0d4337e8b8f.16",
+                "name": "Leiria: Cidade Europeia do Desporto 2022",
+                "latitude": 39.736999,
+                "longitude": -8.82141
+            },
+            {
+                "pokestop_id": "692fb081edc349979975cb8a4a8d5af5.16",
+                "name": "Parque Do Museu Do Vidro",
+                "latitude": 39.74908,
+                "longitude": -8.933678
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Popplio",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -1340,24 +1436,6 @@
                 "name": "Centro de Linguas Chinesas",
                 "latitude": 39.740291,
                 "longitude": -8.811645
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Beedrill Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Beedrill",
-        "quest_reward_pokemon_id": 15,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "692fb081edc349979975cb8a4a8d5af5.16",
-                "name": "Parque Do Museu Do Vidro",
-                "latitude": 39.74908,
-                "longitude": -8.933678
             }
         ]
     },
@@ -1442,6 +1520,24 @@
                 "name": "Caixa Postal CTT - Guimarota",
                 "latitude": 39.732839,
                 "longitude": -8.795816
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Croagunk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Croagunk",
+        "quest_reward_pokemon_id": 453,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ac8054dc06544e05b1d10a47ff12b097.16",
+                "name": "Bras\u00e3o da Cidade",
+                "latitude": 39.743168,
+                "longitude": -8.805737
             }
         ]
     },
