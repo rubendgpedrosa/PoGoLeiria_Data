@@ -334,6 +334,12 @@
                 "longitude": -8.931811
             },
             {
+                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
+                "name": "Glove x 400mI",
+                "latitude": 39.74775,
+                "longitude": -8.807233
+            },
+            {
                 "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
                 "name": "Edif\u00edcio \"O Pa\u00e7o\"",
                 "latitude": 39.745253,
@@ -494,6 +500,12 @@
                 "name": "Edif\u00edcio Comendador",
                 "latitude": 39.742053,
                 "longitude": -8.809737
+            },
+            {
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "latitude": 39.739681,
+                "longitude": -8.805175
             },
             {
                 "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
@@ -978,6 +990,48 @@
         ]
     },
     {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Skrelp",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Skrelp",
+        "quest_reward_pokemon_id": 690,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1205b13b203e454985597e7c7f3a96de.16",
+                "name": "Igreja De Jesus Cristo Dos Santos Dos \u00daltimos Dias",
+                "latitude": 39.740096,
+                "longitude": -8.804572
+            },
+            {
+                "pokestop_id": "245e040840254bcebe902eeba5f251b5.16",
+                "name": "Pr\u00e9dio Marqu\u00eas da Cruz",
+                "latitude": 39.748039,
+                "longitude": -8.805136
+            },
+            {
+                "pokestop_id": "3c5faebcdd112963b2c435aa37647306",
+                "name": "Embaixadores da Comunidade da Niantic",
+                "latitude": 39.743543,
+                "longitude": -8.806178
+            },
+            {
+                "pokestop_id": "46466edffad93e0d99f46c379661c144.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.739412,
+                "longitude": -8.81129
+            },
+            {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Charizard Mega Energy",
         "quest_reward_type": "Energy",
@@ -1274,42 +1328,6 @@
                 "name": "Radioactive Man",
                 "latitude": 39.749887,
                 "longitude": -8.803576
-            }
-        ]
-    },
-    {
-        "quest_description": "Defeat 3 Team GO Rocket Grunts",
-        "quest_reward": "Skrelp",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Skrelp",
-        "quest_reward_pokemon_id": 690,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "245e040840254bcebe902eeba5f251b5.16",
-                "name": "Pr\u00e9dio Marqu\u00eas da Cruz",
-                "latitude": 39.748039,
-                "longitude": -8.805136
-            },
-            {
-                "pokestop_id": "3c5faebcdd112963b2c435aa37647306",
-                "name": "Embaixadores da Comunidade da Niantic",
-                "latitude": 39.743543,
-                "longitude": -8.806178
-            },
-            {
-                "pokestop_id": "46466edffad93e0d99f46c379661c144.16",
-                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
-                "latitude": 39.739412,
-                "longitude": -8.81129
-            },
-            {
-                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
-                "name": "Centro Comercial Olhalvas Park",
-                "latitude": 39.741431,
-                "longitude": -8.79645
             }
         ]
     },
