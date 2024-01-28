@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
+                "name": "Art",
+                "latitude": 39.750309,
+                "longitude": -8.932088
+            },
+            {
+                "pokestop_id": "330b55eef01835f4a957bf65ff5c397e.16",
+                "name": "Igreja Evang\u00e9lica de Jesus Minist\u00e9rio Pentecostal",
+                "latitude": 39.753193,
+                "longitude": -8.933195
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Scraggy",
         "quest_reward_type": "Pokemon",
@@ -14,6 +38,30 @@
                 "name": "Caixa Postal CTT - Marinha Grande",
                 "latitude": 39.750744,
                 "longitude": -8.92763
+            },
+            {
+                "pokestop_id": "e8ec622a2f3239eaa38356a5d19046ce.16",
+                "name": "Franguinho no churrasco",
+                "latitude": 39.755374,
+                "longitude": -8.932558
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
             }
         ]
     },
@@ -32,6 +80,12 @@
                 "name": "S. Francisco",
                 "latitude": 39.74836,
                 "longitude": -8.803617
+            },
+            {
+                "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
+                "name": "Dan'el E'me",
+                "latitude": 39.740549,
+                "longitude": -8.802441
             },
             {
                 "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
@@ -66,6 +120,36 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "51a5cfd3c47c404080bf2813b792897b.16",
+                "name": "ADESER II",
+                "latitude": 39.75137,
+                "longitude": -8.931029
+            },
+            {
+                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
+                "name": "laurus nobilis",
+                "latitude": 39.736728,
+                "longitude": -8.795776
+            },
+            {
+                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
+                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
+                "latitude": 39.745489,
+                "longitude": -8.933253
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "10 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -80,6 +164,24 @@
                 "name": "Plataforma de \u00e1gua",
                 "latitude": 39.748981,
                 "longitude": -8.934711
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
+                "name": "Lago Santo Agostinho",
+                "latitude": 39.74149,
+                "longitude": -8.801741
             }
         ]
     },
@@ -120,6 +222,24 @@
         ]
     },
     {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
+                "name": "Ponte Ondulada",
+                "latitude": 39.746196,
+                "longitude": -8.80374
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -134,24 +254,6 @@
                 "name": "Jornal de Leiria",
                 "latitude": 39.743267,
                 "longitude": -8.809349
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
-                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
-                "latitude": 39.745489,
-                "longitude": -8.933253
             }
         ]
     },
@@ -188,6 +290,24 @@
                 "name": "Rotary Club",
                 "latitude": 39.750458,
                 "longitude": -8.925748
+            },
+            {
+                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
+                "name": "Live Gym Marinha Grande",
+                "latitude": 39.74109,
+                "longitude": -8.929395
+            },
+            {
+                "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
+                "name": "Igreja",
+                "latitude": 39.741631,
+                "longitude": -8.802822
+            },
+            {
+                "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
+                "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
+                "latitude": 39.741652,
+                "longitude": -8.929112
             }
         ]
     },
@@ -260,6 +380,24 @@
                 "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
                 "latitude": 39.744778,
                 "longitude": -8.80632
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Tadbulb",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tadbulb",
+        "quest_reward_pokemon_id": 938,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
+                "name": "Xilofone M\u00e1rmore",
+                "latitude": 39.741581,
+                "longitude": -8.802014
             }
         ]
     }
