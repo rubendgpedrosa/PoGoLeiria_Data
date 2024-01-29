@@ -46,6 +46,12 @@
                 "longitude": -8.817837
             },
             {
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929
+            },
+            {
                 "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
                 "name": "Ponte pedonal do parque verde ao Centro",
                 "latitude": 39.739952,
@@ -106,6 +112,12 @@
                 "longitude": -8.810436
             },
             {
+                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
+                "name": "Ponte pedonal do parque das Almoinhas",
+                "latitude": 39.751479,
+                "longitude": -8.813373
+            },
+            {
                 "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
                 "name": "CEMFIR - Culturismo",
                 "latitude": 39.752054,
@@ -116,6 +128,12 @@
                 "name": "Posto de turismo da Marinha Grande",
                 "latitude": 39.743295,
                 "longitude": -8.935619
+            },
+            {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
             },
             {
                 "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
@@ -130,6 +148,12 @@
                 "longitude": -8.812164
             },
             {
+                "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
+                "name": "Os vizinhos associa\u00e7\u00e3o cultural",
+                "latitude": 39.741479,
+                "longitude": -8.936194
+            },
+            {
                 "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
                 "name": "Jogo Da Malha",
                 "latitude": 39.745722,
@@ -140,6 +164,12 @@
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
                 "longitude": -8.811107
+            },
+            {
+                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
+                "name": "Torre Agua Leiria",
+                "latitude": 39.743319,
+                "longitude": -8.799232
             },
             {
                 "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
@@ -158,6 +188,12 @@
                 "name": "Edif\u00edcio Da Resinagem",
                 "latitude": 39.749198,
                 "longitude": -8.932709
+            },
+            {
+                "pokestop_id": "bafe2c1d38fd4236a86d5d40ede9383f.16",
+                "name": "Associa\u00e7\u00e3o de Munic\u00edpios e de Desenvolvimento da Alta-Estremadura",
+                "latitude": 39.742508,
+                "longitude": -8.8066
             },
             {
                 "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
@@ -212,6 +248,12 @@
                 "name": "Bras\u00e3o Jardim Lu\u00eds De Cam\u00f5es at Marinha Grande",
                 "latitude": 39.750854,
                 "longitude": -8.929265
+            },
+            {
+                "pokestop_id": "4d10e14a2db243309483794fd9fbeba2.16",
+                "name": "Solar do Bar\u00e3o de Salgueiro",
+                "latitude": 39.74411,
+                "longitude": -8.810157
             }
         ]
     },
@@ -248,6 +290,30 @@
                 "name": "Shopping Center Cristal Atrium",
                 "latitude": 39.747276,
                 "longitude": -8.93684
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "23531773d4443b98b0a92a776ac62f48.16",
+                "name": "Caixa Postal CTT - Marinha Grande",
+                "latitude": 39.750744,
+                "longitude": -8.92763
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
             }
         ]
     },
@@ -582,6 +648,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Vulpix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Vulpix",
+        "quest_reward_pokemon_id": 37,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
+                "name": "Painel Moinho de Papel",
+                "latitude": 39.740201,
+                "longitude": -8.800153
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "10 Venusaur Mega Energy",
         "quest_reward_type": "Energy",
@@ -624,6 +708,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -638,24 +740,6 @@
                 "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739793,
                 "longitude": -8.808255
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
-                "name": "Celtis Australis",
-                "latitude": 39.741299,
-                "longitude": -8.801055
             }
         ]
     },
