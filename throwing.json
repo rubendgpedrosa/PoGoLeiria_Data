@@ -1,5 +1,65 @@
 [
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Kabuto",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Kabuto",
+        "quest_reward_pokemon_id": 140,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d8a08d8b1373ea6aa0dda39ef0333c1.16",
+                "name": "m|i|mo - Museu da Imagem em Movimento",
+                "latitude": 39.747339,
+                "longitude": -8.807318
+            },
+            {
+                "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
+                "name": "Sede Bloco de Esquerda",
+                "latitude": 39.750634,
+                "longitude": -8.932602
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Tadbulb",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tadbulb",
+        "quest_reward_pokemon_id": 938,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
+                "name": "Gin\u00e1sio ao Ar Livre",
+                "latitude": 39.750817,
+                "longitude": -8.929649
+            },
+            {
+                "pokestop_id": "b3356645cffd432abf254b1c58a5c593.16",
+                "name": "Mural ESTG",
+                "latitude": 39.734569,
+                "longitude": -8.821932
+            },
+            {
+                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
+                "name": "Rodilha",
+                "latitude": 39.742979,
+                "longitude": -8.806888
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "Diglett",
         "quest_reward_type": "Pokemon",
@@ -58,6 +118,12 @@
                 "longitude": -8.931698
             },
             {
+                "pokestop_id": "3c5faebcdd112963b2c435aa37647306",
+                "name": "Embaixadores da Comunidade da Niantic",
+                "latitude": 39.743543,
+                "longitude": -8.806178
+            },
+            {
                 "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
                 "name": "Playcity 003",
                 "latitude": 39.740875,
@@ -86,6 +152,30 @@
                 "name": "Burning Heart",
                 "latitude": 39.748962,
                 "longitude": -8.807073
+            },
+            {
+                "pokestop_id": "3fb0e2f8f4a7358192dd283577972942.16",
+                "name": "Medalh\u00e3o - Primeiro Mealheiro P\u00fablico",
+                "latitude": 39.744064,
+                "longitude": -8.807857
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Excellent Throws",
+        "quest_reward": "Dratini",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dratini",
+        "quest_reward_pokemon_id": 147,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
+                "name": "Pharmacia",
+                "latitude": 39.745802,
+                "longitude": -8.807245
             }
         ]
     },
@@ -186,32 +276,20 @@
         ]
     },
     {
-        "quest_description": "Make 5 Great Throws",
-        "quest_reward": "Tadbulb",
-        "quest_reward_type": "Pokemon",
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
         "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Tadbulb",
-        "quest_reward_pokemon_id": 938,
-        "quest_reward_item_id": 0,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
         "pokestops": [
             {
-                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
-                "name": "Gin\u00e1sio ao Ar Livre",
-                "latitude": 39.750817,
-                "longitude": -8.929649
-            },
-            {
-                "pokestop_id": "b3356645cffd432abf254b1c58a5c593.16",
-                "name": "Mural ESTG",
-                "latitude": 39.734569,
-                "longitude": -8.821932
-            },
-            {
-                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
-                "name": "Rodilha",
-                "latitude": 39.742979,
-                "longitude": -8.806888
+                "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
+                "name": "Dan'el E'me",
+                "latitude": 39.740549,
+                "longitude": -8.802441
             }
         ]
     },
@@ -271,19 +349,19 @@
     },
     {
         "quest_description": "Make 3 Great Throws",
-        "quest_reward": "Kabuto",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Kabuto",
-        "quest_reward_pokemon_id": 140,
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
-                "name": "Sede Bloco de Esquerda",
-                "latitude": 39.750634,
-                "longitude": -8.932602
+                "pokestop_id": "8c20f9c9b65b384ea6311422e708bcd1.16",
+                "name": "Parque Verde de Leiria",
+                "latitude": 39.741617,
+                "longitude": -8.819755
             }
         ]
     },
@@ -338,6 +416,24 @@
                 "name": "Zona de lazer",
                 "latitude": 39.737598,
                 "longitude": -8.928606
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "e8ec622a2f3239eaa38356a5d19046ce.16",
+                "name": "Franguinho no churrasco",
+                "latitude": 39.755374,
+                "longitude": -8.932558
             }
         ]
     },
