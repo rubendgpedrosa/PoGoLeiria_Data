@@ -104,6 +104,12 @@
                 "name": "Praca Rodrigues Lobo",
                 "latitude": 39.744413,
                 "longitude": -8.808075
+            },
+            {
+                "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
+                "name": "The Faces",
+                "latitude": 39.748058,
+                "longitude": -8.804519
             }
         ]
     },
@@ -408,6 +414,42 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "4d86c7b25ae23c4e88f5151e4d759839.16",
+                "name": "Galerias Mouzinho de Albuquerque",
+                "latitude": 39.747271,
+                "longitude": -8.805217
+            },
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
+            },
+            {
+                "pokestop_id": "948d8db4d6ef46d7aecb05bf24a888f8.16",
+                "name": "CTT Leiria Plaza",
+                "latitude": 39.742146,
+                "longitude": -8.810426
+            },
+            {
+                "pokestop_id": "c0206140379044b5a8ce69871cfa0f22.16",
+                "name": "Igreja Crist\u00e3 Maranata",
+                "latitude": 39.743058,
+                "longitude": -8.800445
+            }
+        ]
+    },
+    {
         "quest_description": "Make an Excellent Throw",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -476,36 +518,6 @@
                 "name": "EPAMG",
                 "latitude": 39.749907,
                 "longitude": -8.933733
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
-                "name": "Castelo de Leiria",
-                "latitude": 39.747664,
-                "longitude": -8.808828
-            },
-            {
-                "pokestop_id": "948d8db4d6ef46d7aecb05bf24a888f8.16",
-                "name": "CTT Leiria Plaza",
-                "latitude": 39.742146,
-                "longitude": -8.810426
-            },
-            {
-                "pokestop_id": "c0206140379044b5a8ce69871cfa0f22.16",
-                "name": "Igreja Crist\u00e3 Maranata",
-                "latitude": 39.743058,
-                "longitude": -8.800445
             }
         ]
     },
