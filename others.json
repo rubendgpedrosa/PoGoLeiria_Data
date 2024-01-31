@@ -232,6 +232,12 @@
                 "longitude": -8.801731
             },
             {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
+            },
+            {
                 "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
                 "name": "Ponte Euro 2004",
                 "latitude": 39.752764,
@@ -326,6 +332,12 @@
                 "name": "Ponte Hintze Ribeiro",
                 "latitude": 39.742734,
                 "longitude": -8.803525
+            },
+            {
+                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
+                "name": "Anfiteatro",
+                "latitude": 39.751453,
+                "longitude": -8.809059
             },
             {
                 "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
@@ -742,6 +754,12 @@
                 "longitude": -8.811645
             },
             {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
+            {
                 "pokestop_id": "5eaed2f460e2442b9efc9f0480e83587.16",
                 "name": "C\u00e2mara Municipal da Marinha Grande",
                 "latitude": 39.75001,
@@ -908,6 +926,12 @@
                 "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
                 "latitude": 39.747526,
                 "longitude": -8.93077
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
             },
             {
                 "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
@@ -1218,24 +1242,6 @@
         ]
     },
     {
-        "quest_description": "Hatch 2 Eggs",
-        "quest_reward": "Meowth",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Meowth",
-        "quest_reward_pokemon_id": 52,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
-                "name": "Marco CTT - Rua de Alcoba\u00e7a",
-                "latitude": 39.741853,
-                "longitude": -8.810621
-            }
-        ]
-    },
-    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Mawile",
         "quest_reward_type": "Pokemon",
@@ -1245,6 +1251,12 @@
         "quest_reward_pokemon_id": 303,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
+                "name": "B Your Own Hero",
+                "latitude": 39.750139,
+                "longitude": -8.803923
+            },
             {
                 "pokestop_id": "60d0640e32b531d1a57e5a3aa77d92a0.16",
                 "name": "Pistas de ateletismo do campo de treino do est\u00e1dio municipal",
@@ -1268,6 +1280,24 @@
                 "name": "Zona Desportiva",
                 "latitude": 39.747903,
                 "longitude": -8.936311
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Meowth",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Meowth",
+        "quest_reward_pokemon_id": 52,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "54bd503d2bee47c497072721aadf4da3.16",
+                "name": "Marco CTT - Rua de Alcoba\u00e7a",
+                "latitude": 39.741853,
+                "longitude": -8.810621
             }
         ]
     },
