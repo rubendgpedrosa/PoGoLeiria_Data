@@ -114,6 +114,60 @@
         ]
     },
     {
+        "quest_description": "Make 5 Great Curveball Throws",
+        "quest_reward": "Darumaka",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Darumaka",
+        "quest_reward_pokemon_id": 554,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
+            {
+                "pokestop_id": "47f7787d4c494d34803f1c290f5688b0.16",
+                "name": "Fonte",
+                "latitude": 39.752573,
+                "longitude": -8.933414
+            },
+            {
+                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
+                "name": "Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739852,
+                "longitude": -8.808011
+            },
+            {
+                "pokestop_id": "8bbdad203c004919a02b8d596cd56170.16",
+                "name": "Jardim Am\u00e9lia Pinto Pais",
+                "latitude": 39.742343,
+                "longitude": -8.803473
+            },
+            {
+                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
+                "name": "Parque da Cerca",
+                "latitude": 39.748598,
+                "longitude": -8.934927
+            },
+            {
+                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
+                "name": "Chamin\u00e9 Sthepens",
+                "latitude": 39.751303,
+                "longitude": -8.934332
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -252,6 +306,36 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
+            {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
+            },
+            {
+                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
+                "name": "Confer\u00eancia de S. Vicente Paulo",
+                "latitude": 39.750114,
+                "longitude": -8.92967
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -308,54 +392,6 @@
                 "name": "Caixa Postal dos CTT - Quinta da Matinha",
                 "latitude": 39.755207,
                 "longitude": -8.806823
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Great Curveball Throws",
-        "quest_reward": "Darumaka",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Darumaka",
-        "quest_reward_pokemon_id": 554,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
-                "name": "Edif\u00edcio Comendador",
-                "latitude": 39.742053,
-                "longitude": -8.809737
-            },
-            {
-                "pokestop_id": "47f7787d4c494d34803f1c290f5688b0.16",
-                "name": "Fonte",
-                "latitude": 39.752573,
-                "longitude": -8.933414
-            },
-            {
-                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
-                "name": "Galerias S\u00e3o Jos\u00e9",
-                "latitude": 39.739852,
-                "longitude": -8.808011
-            },
-            {
-                "pokestop_id": "8bbdad203c004919a02b8d596cd56170.16",
-                "name": "Jardim Am\u00e9lia Pinto Pais",
-                "latitude": 39.742343,
-                "longitude": -8.803473
-            },
-            {
-                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
-                "name": "Parque da Cerca",
-                "latitude": 39.748598,
-                "longitude": -8.934927
-            },
-            {
-                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
-                "name": "Chamin\u00e9 Sthepens",
-                "latitude": 39.751303,
-                "longitude": -8.934332
             }
         ]
     },
@@ -452,30 +488,6 @@
                 "name": "Lonac 2017",
                 "latitude": 39.744206,
                 "longitude": -8.812656
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
-                "name": "Fonte Do Halton",
-                "latitude": 39.747031,
-                "longitude": -8.816442
-            },
-            {
-                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
-                "name": "Confer\u00eancia de S. Vicente Paulo",
-                "latitude": 39.750114,
-                "longitude": -8.92967
             }
         ]
     },
@@ -644,6 +656,24 @@
                 "name": "Junta de Freguesia",
                 "latitude": 39.751118,
                 "longitude": -8.928216
+            }
+        ]
+    },
+    {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "2 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
+                "name": "Matilha",
+                "latitude": 39.738576,
+                "longitude": -8.82
             }
         ]
     },
