@@ -24,6 +24,24 @@
         ]
     },
     {
+        "quest_description": "Earn 3 Candies walking with your buddy",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Delibird",
         "quest_reward_type": "Pokemon",
@@ -33,6 +51,12 @@
         "quest_reward_pokemon_id": 225,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            },
             {
                 "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
                 "name": "Monumento Afonso Lopes Vieira",
@@ -44,6 +68,24 @@
                 "name": "Ringue de futebol",
                 "latitude": 39.730853,
                 "longitude": -8.811065
+            }
+        ]
+    },
+    {
+        "quest_description": "Send 3 Gifts to friends",
+        "quest_reward": "1000 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1000,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3c5faebcdd112963b2c435aa37647306",
+                "name": "Embaixadores da Comunidade da Niantic",
+                "latitude": 39.743543,
+                "longitude": -8.806178
             }
         ]
     },

@@ -76,6 +76,12 @@
                 "longitude": -8.933068
             },
             {
+                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
+                "name": "Seu Nome Era Mural",
+                "latitude": 39.746244,
+                "longitude": -8.807457
+            },
+            {
                 "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
                 "name": "Mural pintura no vidro",
                 "latitude": 39.740536,
@@ -112,6 +118,12 @@
                 "longitude": -8.795776
             },
             {
+                "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
+                "name": "Lago Santo Agostinho",
+                "latitude": 39.74149,
+                "longitude": -8.801741
+            },
+            {
                 "pokestop_id": "6911dd91c1994c11a3ce259f0947fec5.16",
                 "name": "Ponte pedestre do parque da Bernardas",
                 "latitude": 39.737402,
@@ -130,10 +142,22 @@
                 "longitude": -8.931292
             },
             {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
+            },
+            {
                 "pokestop_id": "74478716c0344453a85c204337d872a3.16",
                 "name": "Ringue De Futebol",
                 "latitude": 39.745324,
                 "longitude": -8.933841
+            },
+            {
+                "pokestop_id": "7ce99cdeda41439eb6de9133392a5262.16",
+                "name": "Cabine de Leitura - Trokakioske",
+                "latitude": 39.744527,
+                "longitude": -8.807312
             },
             {
                 "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
@@ -152,6 +176,12 @@
                 "name": "O Principezinho",
                 "latitude": 39.745269,
                 "longitude": -8.808602
+            },
+            {
+                "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
+                "name": "Os vizinhos associa\u00e7\u00e3o cultural",
+                "latitude": 39.741479,
+                "longitude": -8.936194
             },
             {
                 "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
@@ -220,6 +250,12 @@
                 "longitude": -8.933859
             },
             {
+                "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
+                "name": "Sede de Imprensa Marinha Grande",
+                "latitude": 39.753915,
+                "longitude": -8.932095
+            },
+            {
                 "pokestop_id": "e45e96f79eee4dd5b32db03fd04c4191.16",
                 "name": "Centro Comercial D.Dinis",
                 "latitude": 39.742971,
@@ -230,6 +266,12 @@
                 "name": "Ponte pedonal do Parque das Bernardas",
                 "latitude": 39.737792,
                 "longitude": -8.928996
+            },
+            {
+                "pokestop_id": "f19864ea0ef93bb9a7ef9b6925985966.16",
+                "name": "Homenagem ao Movimento Oper\u00e1rio",
+                "latitude": 39.746489,
+                "longitude": -8.933631
             },
             {
                 "pokestop_id": "f99206298061310da2599051b487f4ef.16",
@@ -330,6 +372,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Hippopotas",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Hippopotas",
+        "quest_reward_pokemon_id": 449,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3d6959cc1325477b88ffe44689e49093.16",
+                "name": "Ponte Pedonal Suspensa",
+                "latitude": 39.750997,
+                "longitude": -8.809201
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 Pok\u00e9mon",
         "quest_reward": "Stufful",
         "quest_reward_type": "Pokemon",
@@ -386,6 +446,60 @@
                 "name": "Janelas do Jardim da Almuinha",
                 "latitude": 39.751734,
                 "longitude": -8.80984
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "10 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "6d59dc9c55f743179a8cb5f6fb59a86f.16",
+                "name": "Placa Informativa - Antes do Castelo",
+                "latitude": 39.747749,
+                "longitude": -8.808107
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
+                "name": "O Pastor Peregrino",
+                "latitude": 39.744326,
+                "longitude": -8.807043
             }
         ]
     },
@@ -528,6 +642,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Cubchoo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cubchoo",
+        "quest_reward_pokemon_id": 613,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
+                "name": "Jogo da Macaca",
+                "latitude": 39.738327,
+                "longitude": -8.81087
+            },
+            {
+                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
+                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
+                "latitude": 39.745253,
+                "longitude": -8.80654
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -564,6 +702,42 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "10 Blastoise Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.740902,
+                "longitude": -8.933727
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
+                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
+                "latitude": 39.744778,
+                "longitude": -8.80632
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "10 Venusaur Mega Energy",
         "quest_reward_type": "Energy",
@@ -578,6 +752,24 @@
                 "name": "Escuteiros",
                 "latitude": 39.741841,
                 "longitude": -8.933249
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Wingull",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wingull",
+        "quest_reward_pokemon_id": 278,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d8f921022177335fb4f14dcd5650f88d.16",
+                "name": "Ricardo Pereira Studio",
+                "latitude": 39.743409,
+                "longitude": -8.800661
             }
         ]
     },
@@ -614,6 +806,24 @@
                 "name": "Cabana do Parque da Cerca",
                 "latitude": 39.74824,
                 "longitude": -8.935596
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "eb4ed26ece984942b87a28477de84568.16",
+                "name": "IPL - Unidade de investiga\u00e7\u00e3o",
+                "latitude": 39.74349,
+                "longitude": -8.791929
             }
         ]
     },
