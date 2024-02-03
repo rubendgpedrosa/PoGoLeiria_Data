@@ -66,24 +66,6 @@
         ]
     },
     {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Marowak",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Marowak",
-        "quest_reward_pokemon_id": 105,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "a55789a0b055357b8f42ccdc0907d810.16",
-                "name": "Parque Infantil Este",
-                "latitude": 39.735664,
-                "longitude": -8.800658
-            }
-        ]
-    },
-    {
         "quest_description": "Win a raid",
         "quest_reward": "Lapras",
         "quest_reward_type": "Pokemon",
@@ -93,6 +75,12 @@
         "quest_reward_pokemon_id": 131,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "a07bbdcea6594eeb89872edc6a61cdfd.16",
+                "name": "Comunidade Pastoral De S\u00e3o Rom\u00e3o",
+                "latitude": 39.731023,
+                "longitude": -8.794309
+            },
             {
                 "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
                 "name": "Os vizinhos associa\u00e7\u00e3o cultural",
@@ -116,6 +104,24 @@
                 "name": "Lady in Red",
                 "latitude": 39.741869,
                 "longitude": -8.805353
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Marowak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marowak",
+        "quest_reward_pokemon_id": 105,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a55789a0b055357b8f42ccdc0907d810.16",
+                "name": "Parque Infantil Este",
+                "latitude": 39.735664,
+                "longitude": -8.800658
             }
         ]
     },
