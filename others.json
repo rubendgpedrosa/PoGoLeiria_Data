@@ -64,6 +64,12 @@
                 "longitude": -8.803099
             },
             {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
+            {
                 "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
                 "name": "Antigo Marco de Correios",
                 "latitude": 39.739681,
@@ -172,6 +178,12 @@
                 "longitude": -8.808391
             },
             {
+                "pokestop_id": "44c4e82a70a73e23a89ed45b8d7d1e88.16",
+                "name": "Caixa Postal dos CTT - Quinta da Matinha",
+                "latitude": 39.755207,
+                "longitude": -8.806823
+            },
+            {
                 "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
                 "name": "EL REI D. AFONSO I",
                 "latitude": 39.748442,
@@ -242,6 +254,12 @@
                 "name": "Pharmacia",
                 "latitude": 39.745802,
                 "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
             },
             {
                 "pokestop_id": "2eb6fcf025c9474d971550339c9512ae.11",
@@ -572,6 +590,30 @@
                 "name": "Campo De Apoio",
                 "latitude": 39.738138,
                 "longitude": -8.933062
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929
+            },
+            {
+                "pokestop_id": "60d0640e32b531d1a57e5a3aa77d92a0.16",
+                "name": "Pistas de ateletismo do campo de treino do est\u00e1dio municipal",
+                "latitude": 39.737201,
+                "longitude": -8.929543
             }
         ]
     },
@@ -942,20 +984,20 @@
         ]
     },
     {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Mawile",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mawile",
+        "quest_reward_pokemon_id": 303,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "60d0640e32b531d1a57e5a3aa77d92a0.16",
-                "name": "Pistas de ateletismo do campo de treino do est\u00e1dio municipal",
-                "latitude": 39.737201,
-                "longitude": -8.929543
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
             }
         ]
     },
@@ -1142,6 +1184,24 @@
                 "name": "Gin\u00e1sio Blue Fitness Club",
                 "latitude": 39.730321,
                 "longitude": -8.810623
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Scyther",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scyther",
+        "quest_reward_pokemon_id": 123,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
             }
         ]
     },
