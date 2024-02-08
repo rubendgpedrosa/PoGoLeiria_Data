@@ -154,6 +154,12 @@
                 "longitude": -8.811364
             },
             {
+                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
+                "name": "Mercado de Sant'ana",
+                "latitude": 39.74304,
+                "longitude": -8.807411
+            },
+            {
                 "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
                 "name": "Parque da Encarna\u00e7\u00e3o",
                 "latitude": 39.738905,
@@ -326,6 +332,12 @@
                 "name": "Est\u00e1tua Burro",
                 "latitude": 39.745224,
                 "longitude": -8.804058
+            },
+            {
+                "pokestop_id": "484d1bcbc0a443cb933cf338d4aa6e43.16",
+                "name": "Engenharia Autom\u00f3vel",
+                "latitude": 39.733074,
+                "longitude": -8.821522
             },
             {
                 "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
@@ -852,6 +864,42 @@
         ]
     },
     {
+        "quest_description": "Catch a Ditto",
+        "quest_reward": "1500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
+                "name": "Shopping 2000",
+                "latitude": 39.749243,
+                "longitude": -8.803685
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
+                "name": "Parque de merendas 2",
+                "latitude": 39.733159,
+                "longitude": -8.82037
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Grass- or Ice-type Pok\u00e9mon",
         "quest_reward": "Vanillite",
         "quest_reward_type": "Pokemon",
@@ -894,6 +942,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Bergmite",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bergmite",
+        "quest_reward_pokemon_id": 712,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "bddaa61df7864fd898a226e033864d45.16",
+                "name": "Ponte Parque Infantil",
+                "latitude": 39.750377,
+                "longitude": -8.806284
+            },
+            {
+                "pokestop_id": "f20cf939cb55424184465327db0ec8e8.16",
+                "name": "Playcity 006",
+                "latitude": 39.746676,
+                "longitude": -8.802645
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 different species of Pok\u00e9mon",
         "quest_reward": "Golett",
         "quest_reward_type": "Pokemon",
@@ -920,24 +992,6 @@
                 "name": "S.L.Anti",
                 "latitude": 39.743737,
                 "longitude": -8.805579
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Bergmite",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bergmite",
-        "quest_reward_pokemon_id": 712,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f20cf939cb55424184465327db0ec8e8.16",
-                "name": "Playcity 006",
-                "latitude": 39.746676,
-                "longitude": -8.802645
             }
         ]
     },
