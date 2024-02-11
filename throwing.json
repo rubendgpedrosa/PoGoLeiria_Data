@@ -94,16 +94,34 @@
                 "longitude": -8.80351
             },
             {
+                "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
+                "name": "Sede Bloco de Esquerda",
+                "latitude": 39.750634,
+                "longitude": -8.932602
+            },
+            {
                 "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
                 "name": "Zona Desportiva",
                 "latitude": 39.747903,
                 "longitude": -8.936311
             },
             {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
+            },
+            {
                 "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
                 "name": "Tribunal do Trabalho de Leiria",
                 "latitude": 39.739929,
                 "longitude": -8.808784
+            },
+            {
+                "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
+                "name": "Campo de Treino de Arremesso",
+                "latitude": 39.736335,
+                "longitude": -8.929017
             },
             {
                 "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
@@ -122,6 +140,12 @@
                 "name": "Jardim de Leiria",
                 "latitude": 39.744338,
                 "longitude": -8.806031
+            },
+            {
+                "pokestop_id": "dc7256a2cf083ed281f4b0938df2df2a.16",
+                "name": "Associa\u00e7\u00e3o de Kickboxing e Muay Thai Hugo Matos",
+                "latitude": 39.747777,
+                "longitude": -8.93253
             },
             {
                 "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
@@ -176,6 +200,12 @@
                 "name": "Chafariz",
                 "latitude": 39.74968,
                 "longitude": -8.933593
+            },
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
             },
             {
                 "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
@@ -248,6 +278,18 @@
                 "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
                 "latitude": 39.739299,
                 "longitude": -8.801276
+            },
+            {
+                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
+                "name": "O Nosso Claustro \u00c9 O Mundo",
+                "latitude": 39.742156,
+                "longitude": -8.811256
+            },
+            {
+                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
+                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
+                "latitude": 39.745253,
+                "longitude": -8.80654
             },
             {
                 "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
@@ -403,6 +445,48 @@
     },
     {
         "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Scraggy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scraggy",
+        "quest_reward_pokemon_id": 559,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f0cbfb9e9c037f3884dad1dda9f6b2a.16",
+                "name": "Associa\u00e7\u00e3o Portuguesa de Deficientes - Sede Desportiva",
+                "latitude": 39.753845,
+                "longitude": -8.931698
+            },
+            {
+                "pokestop_id": "4b6a4096159545bba679aa8bb853f1fd.16",
+                "name": "Cemit\u00e9rio Da Marinha",
+                "latitude": 39.746706,
+                "longitude": -8.932228
+            },
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
+            },
+            {
+                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
+                "name": "Zona De Merendas",
+                "latitude": 39.7347,
+                "longitude": -8.796927
+            },
+            {
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Throws",
         "quest_reward": "Tadbulb",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -458,42 +542,6 @@
                 "name": "Congrega\u00e7\u00e3o Crist\u00e3 em Portugal.",
                 "latitude": 39.746828,
                 "longitude": -8.814662
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Great Throws",
-        "quest_reward": "Scraggy",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Scraggy",
-        "quest_reward_pokemon_id": 559,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "4b6a4096159545bba679aa8bb853f1fd.16",
-                "name": "Cemit\u00e9rio Da Marinha",
-                "latitude": 39.746706,
-                "longitude": -8.932228
-            },
-            {
-                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
-                "name": "Castelo de Leiria",
-                "latitude": 39.747664,
-                "longitude": -8.808828
-            },
-            {
-                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
-                "name": "Zona De Merendas",
-                "latitude": 39.7347,
-                "longitude": -8.796927
-            },
-            {
-                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
-                "name": "Ponte pedonal do Parque das Bernardas",
-                "latitude": 39.737792,
-                "longitude": -8.928996
             }
         ]
     },
@@ -554,6 +602,12 @@
                 "name": "P\u00e9rgula Marinhense",
                 "latitude": 39.751051,
                 "longitude": -8.928765
+            },
+            {
+                "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
+                "name": "Junta de Freguesia",
+                "latitude": 39.751118,
+                "longitude": -8.928216
             }
         ]
     },
@@ -698,6 +752,24 @@
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
                 "longitude": -8.811107
+            }
+        ]
+    },
+    {
+        "quest_description": "Make an Excellent Throw",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
+                "name": "Fontario Com Escultura",
+                "latitude": 39.739551,
+                "longitude": -8.809911
             }
         ]
     },
