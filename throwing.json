@@ -22,6 +22,12 @@
                 "longitude": -8.821688
             },
             {
+                "pokestop_id": "143767309db947358b481a9f9c40ae56.16",
+                "name": "Parque Infantil Almuinha Grande",
+                "latitude": 39.751567,
+                "longitude": -8.81027
+            },
+            {
                 "pokestop_id": "1f641ecb295932fbbe208b6f082139d8.16",
                 "name": "Igreja bola de neve",
                 "latitude": 39.733928,
@@ -122,6 +128,12 @@
                 "name": "Campo de Treino de Arremesso",
                 "latitude": 39.736335,
                 "longitude": -8.929017
+            },
+            {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
             },
             {
                 "pokestop_id": "ce2da20e221f4444a53cc6556f22f2e0.16",
@@ -418,6 +430,12 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "1004b264540f414fb24fed598f65a463.16",
+                "name": "Complexo Municipal De T\u00eanis",
+                "latitude": 39.735363,
+                "longitude": -8.795582
+            },
+            {
                 "pokestop_id": "103be0c9e368368ca1cf5cd08c617b70.16",
                 "name": "Local de conv\u00edvio e descan\u00e7o",
                 "latitude": 39.748322,
@@ -434,6 +452,12 @@
                 "name": "O Gladiador",
                 "latitude": 39.746592,
                 "longitude": -8.803601
+            },
+            {
+                "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
+                "name": "D.Isabel",
+                "latitude": 39.749043,
+                "longitude": -8.80843
             },
             {
                 "pokestop_id": "8bbdad203c004919a02b8d596cd56170.16",
@@ -546,6 +570,24 @@
         ]
     },
     {
+        "quest_description": "Make 5 Great Curveball Throws in a row",
+        "quest_reward": "Spinda",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spinda",
+        "quest_reward_pokemon_id": 327,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2d7b37f4596348a3ae410d3b6e0f5be5.16",
+                "name": "Igreja da Miseric\u00f3rdia",
+                "latitude": 39.745213,
+                "longitude": -8.807912
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -560,6 +602,30 @@
                 "name": "Congrega\u00e7\u00e3o Crist\u00e3 em Portugal.",
                 "latitude": 39.746828,
                 "longitude": -8.814662
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
+            },
+            {
+                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
+                "name": "Patria No Ultramar",
+                "latitude": 39.74471,
+                "longitude": -8.805589
             }
         ]
     },
@@ -662,24 +728,6 @@
                 "name": "Jogo De Som",
                 "latitude": 39.734864,
                 "longitude": -8.797733
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Curveball Throws in a row",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
-                "name": "Patria No Ultramar",
-                "latitude": 39.74471,
-                "longitude": -8.805589
             }
         ]
     },
