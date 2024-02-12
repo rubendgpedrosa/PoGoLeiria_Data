@@ -28,6 +28,12 @@
                 "longitude": -8.812759
             },
             {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
                 "pokestop_id": "103be0c9e368368ca1cf5cd08c617b70.16",
                 "name": "Local de conv\u00edvio e descan\u00e7o",
                 "latitude": 39.748322,
@@ -52,10 +58,22 @@
                 "longitude": -8.806178
             },
             {
+                "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
+                "name": "Ponte Pedonal Sul",
+                "latitude": 39.748399,
+                "longitude": -8.93453
+            },
+            {
                 "pokestop_id": "8185a849d18432d285f930b2131093cf.16",
                 "name": "Centro Shotokan Leiria",
                 "latitude": 39.747428,
                 "longitude": -8.807456
+            },
+            {
+                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
+                "name": "Anfiteatro",
+                "latitude": 39.751453,
+                "longitude": -8.809059
             },
             {
                 "pokestop_id": "8ed0ec246a4e4238a11b7eef7444c5d4.16",
@@ -64,10 +82,22 @@
                 "longitude": -8.933162
             },
             {
+                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
+                "name": "Cal\u00e7ada Portuguesa",
+                "latitude": 39.744753,
+                "longitude": -8.804849
+            },
+            {
                 "pokestop_id": "a054259cd2763c80b9de8c2c09096fbe.16",
                 "name": "Poesia Portuguesa de Janela",
                 "latitude": 39.749735,
                 "longitude": -8.930832
+            },
+            {
+                "pokestop_id": "a12d18e62f3c4c86981d2a6a4316c9a5.16",
+                "name": "Homegame aos Her\u00f3icos Soldados",
+                "latitude": 39.746449,
+                "longitude": -8.808147
             },
             {
                 "pokestop_id": "a175686711784037833ee274d88813d8.16",
@@ -184,6 +214,12 @@
                 "longitude": -8.798023
             },
             {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
+            {
                 "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
                 "name": "Audit\u00f3rio",
                 "latitude": 39.749766,
@@ -256,10 +292,22 @@
                 "longitude": -8.931811
             },
             {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            },
+            {
                 "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
                 "name": "Edif\u00edcio \"O Pa\u00e7o\"",
                 "latitude": 39.745253,
                 "longitude": -8.80654
+            },
+            {
+                "pokestop_id": "d47848cf08e945c691b195b0df815135.16",
+                "name": "Artes Manuais",
+                "latitude": 39.742853,
+                "longitude": -8.933931
             },
             {
                 "pokestop_id": "d74ad1450c324939b4b68f6a7c9cb024.16",
@@ -397,6 +445,54 @@
     },
     {
         "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
+                "name": "Pharmacia",
+                "latitude": 39.745802,
+                "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "d8f921022177335fb4f14dcd5650f88d.16",
+                "name": "Ricardo Pereira Studio",
+                "latitude": 39.743409,
+                "longitude": -8.800661
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Roggenrola",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Roggenrola",
+        "quest_reward_pokemon_id": 524,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
+                "name": "Moagem Leiriense",
+                "latitude": 39.74865,
+                "longitude": -8.803723
+            },
+            {
+                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
+                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
+                "latitude": 39.744778,
+                "longitude": -8.80632
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "Morelull",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -518,6 +614,12 @@
                 "name": "Zona de lazer",
                 "latitude": 39.737598,
                 "longitude": -8.928606
+            },
+            {
+                "pokestop_id": "ef40698afdf14bf2807803376584a143.16",
+                "name": "Pa\u00e7o D.Jo\u00e3o I",
+                "latitude": 39.746508,
+                "longitude": -8.809111
             }
         ]
     },
@@ -536,6 +638,12 @@
                 "name": "Caixa Postal CTT",
                 "latitude": 39.742178,
                 "longitude": -8.798332
+            },
+            {
+                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
+                "name": "Torre Agua Leiria",
+                "latitude": 39.743319,
+                "longitude": -8.799232
             }
         ]
     },
@@ -612,6 +720,48 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "64028475605436c098d172cef7a27671.16",
+                "name": "Arquivo Municipal de Leiria",
+                "latitude": 39.731487,
+                "longitude": -8.794807
+            },
+            {
+                "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
+                "name": "Caixa Postal CTT - Cristal Atrium",
+                "latitude": 39.747021,
+                "longitude": -8.936766
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
+                "name": "Leiria Shopping",
+                "latitude": 39.732373,
+                "longitude": -8.824896
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "Dwebble",
         "quest_reward_type": "Pokemon",
@@ -632,6 +782,12 @@
                 "name": "Janelas Santo Agostinho",
                 "latitude": 39.740857,
                 "longitude": -8.801746
+            },
+            {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
             }
         ]
     },
@@ -690,6 +846,24 @@
         ]
     },
     {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Magikarp",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Magikarp",
+        "quest_reward_pokemon_id": 129,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "74c2b093f88f4960b4c7500711e97828.16",
+                "name": "parque Tenente Coronel Jaime Filipe Da Fonseca",
+                "latitude": 39.745038,
+                "longitude": -8.804716
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "10 Swampert Mega Energy",
         "quest_reward_type": "Energy",
@@ -710,6 +884,24 @@
                 "name": "Janelas do Jardim da Almuinha",
                 "latitude": 39.751734,
                 "longitude": -8.80984
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
+                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
+                "latitude": 39.742059,
+                "longitude": -8.808031
             }
         ]
     },
@@ -872,42 +1064,6 @@
                 "name": "Wellness life",
                 "latitude": 39.751779,
                 "longitude": -8.929718
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
-                "name": "Caixa Postal CTT - Cristal Atrium",
-                "latitude": 39.747021,
-                "longitude": -8.936766
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "Roggenrola",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Roggenrola",
-        "quest_reward_pokemon_id": 524,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
-                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
-                "latitude": 39.744778,
-                "longitude": -8.80632
             }
         ]
     },
