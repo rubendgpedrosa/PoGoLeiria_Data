@@ -184,6 +184,12 @@
                 "longitude": -8.797415
             },
             {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            },
+            {
                 "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
                 "name": "Catalpa",
                 "latitude": 39.745748,
@@ -200,6 +206,12 @@
                 "name": "Marco de Correio",
                 "latitude": 39.734008,
                 "longitude": -8.808168
+            },
+            {
+                "pokestop_id": "3014a8690b2b49ba8918cad211918966.16",
+                "name": "Mural De Namorados",
+                "latitude": 39.743299,
+                "longitude": -8.803428
             },
             {
                 "pokestop_id": "364a7a745fb547b5914ce2b76a8e8ddc.16",
@@ -326,6 +338,18 @@
                 "name": "Urban Fitness",
                 "latitude": 39.748953,
                 "longitude": -8.802133
+            },
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
+            },
+            {
+                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
+                "name": "Est\u00e1tua Vacas",
+                "latitude": 39.745118,
+                "longitude": -8.804209
             }
         ]
     },
@@ -666,6 +690,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
+            },
+            {
+                "pokestop_id": "9baafb93f8093e628262f96c06541c99.16",
+                "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
+                "latitude": 39.743218,
+                "longitude": -8.812164
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -711,6 +759,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 701,
         "pokestops": [
+            {
+                "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
+                "name": "Bairro dos Anjos",
+                "latitude": 39.744958,
+                "longitude": -8.804361
+            },
             {
                 "pokestop_id": "63f82eedfebe4f3ba61cad72f2d0644f.16",
                 "name": "Junta De Freguesia Leiria",
@@ -816,6 +870,30 @@
         ]
     },
     {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Stufful",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stufful",
+        "quest_reward_pokemon_id": 759,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
+            },
+            {
+                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
+                "name": "Sede N\u00facleo Sporting",
+                "latitude": 39.750953,
+                "longitude": -8.932885
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -906,24 +984,6 @@
         ]
     },
     {
-        "quest_description": "Catch 7 Pok\u00e9mon",
-        "quest_reward": "Stufful",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stufful",
-        "quest_reward_pokemon_id": 759,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
-                "name": "Sede N\u00facleo Sporting",
-                "latitude": 39.750953,
-                "longitude": -8.932885
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 7 different species of Pok\u00e9mon",
         "quest_reward": "Golett",
         "quest_reward_type": "Pokemon",
@@ -986,24 +1046,6 @@
                 "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
                 "latitude": 39.750529,
                 "longitude": -8.803749
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "9baafb93f8093e628262f96c06541c99.16",
-                "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
-                "latitude": 39.743218,
-                "longitude": -8.812164
             }
         ]
     },
