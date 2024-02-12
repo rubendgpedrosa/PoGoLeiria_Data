@@ -1,5 +1,47 @@
 [
     {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Meowth",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Meowth",
+        "quest_reward_pokemon_id": 52,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            },
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "2eb6fcf025c9474d971550339c9512ae.11",
+                "name": "Correios Leiria (Post Office)",
+                "latitude": 39.743073,
+                "longitude": -8.808473
+            },
+            {
+                "pokestop_id": "3c5faebcdd112963b2c435aa37647306",
+                "name": "Embaixadores da Comunidade da Niantic",
+                "latitude": 39.743543,
+                "longitude": -8.806178
+            },
+            {
+                "pokestop_id": "782815cfe6ea4d30b6f63bb601c6360c.16",
+                "name": "Tribunal Da Marinha Grande",
+                "latitude": 39.753741,
+                "longitude": -8.932369
+            }
+        ]
+    },
+    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Mawile",
         "quest_reward_type": "Pokemon",
@@ -44,6 +86,12 @@
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
                 "longitude": -8.811107
+            },
+            {
+                "pokestop_id": "bafe2c1d38fd4236a86d5d40ede9383f.16",
+                "name": "Associa\u00e7\u00e3o de Munic\u00edpios e de Desenvolvimento da Alta-Estremadura",
+                "latitude": 39.742508,
+                "longitude": -8.8066
             },
             {
                 "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
@@ -444,42 +492,6 @@
         ]
     },
     {
-        "quest_description": "Hatch an Egg",
-        "quest_reward": "Meowth",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Meowth",
-        "quest_reward_pokemon_id": 52,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
-                "name": "Monumento do parque verde de Leiria",
-                "latitude": 39.740157,
-                "longitude": -8.821688
-            },
-            {
-                "pokestop_id": "2eb6fcf025c9474d971550339c9512ae.11",
-                "name": "Correios Leiria (Post Office)",
-                "latitude": 39.743073,
-                "longitude": -8.808473
-            },
-            {
-                "pokestop_id": "3c5faebcdd112963b2c435aa37647306",
-                "name": "Embaixadores da Comunidade da Niantic",
-                "latitude": 39.743543,
-                "longitude": -8.806178
-            },
-            {
-                "pokestop_id": "782815cfe6ea4d30b6f63bb601c6360c.16",
-                "name": "Tribunal Da Marinha Grande",
-                "latitude": 39.753741,
-                "longitude": -8.932369
-            }
-        ]
-    },
-    {
         "quest_description": "Power up Pok\u00e9mon 10 times",
         "quest_reward": "25 Pidgeot Mega Energy",
         "quest_reward_type": "Energy",
@@ -494,6 +506,36 @@
                 "name": "Bairro do Povo",
                 "latitude": 39.741382,
                 "longitude": -8.931793
+            }
+        ]
+    },
+    {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Trapinch",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Trapinch",
+        "quest_reward_pokemon_id": 328,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1004b264540f414fb24fed598f65a463.16",
+                "name": "Complexo Municipal De T\u00eanis",
+                "latitude": 39.735363,
+                "longitude": -8.795582
+            },
+            {
+                "pokestop_id": "17b2cd0ad9d434b8a10e960f0b4171ba.16",
+                "name": "Parque desportivo de S.Rom\u00e3o",
+                "latitude": 39.735758,
+                "longitude": -8.795726
+            },
+            {
+                "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
+                "name": "Jogo da Macaca",
+                "latitude": 39.738327,
+                "longitude": -8.81087
             }
         ]
     },
@@ -540,26 +582,26 @@
         ]
     },
     {
-        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
-        "quest_reward": "Trapinch",
+        "quest_description": "Trade a Pok\u00e9mon",
+        "quest_reward": "Shelmet",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Trapinch",
-        "quest_reward_pokemon_id": 328,
+        "quest_reward_pokemon_name": "Shelmet",
+        "quest_reward_pokemon_id": 616,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "17b2cd0ad9d434b8a10e960f0b4171ba.16",
-                "name": "Parque desportivo de S.Rom\u00e3o",
-                "latitude": 39.735758,
-                "longitude": -8.795726
+                "pokestop_id": "1f641ecb295932fbbe208b6f082139d8.16",
+                "name": "Igreja bola de neve",
+                "latitude": 39.733928,
+                "longitude": -8.807519
             },
             {
-                "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
-                "name": "Jogo da Macaca",
-                "latitude": 39.738327,
-                "longitude": -8.81087
+                "pokestop_id": "f19864ea0ef93bb9a7ef9b6925985966.16",
+                "name": "Homenagem ao Movimento Oper\u00e1rio",
+                "latitude": 39.746489,
+                "longitude": -8.933631
             }
         ]
     },
@@ -602,6 +644,12 @@
                 "name": "Catalpa",
                 "latitude": 39.745748,
                 "longitude": -8.804397
+            },
+            {
+                "pokestop_id": "300f8d0be9d2491ab4c578c377120e03.16",
+                "name": "Marco de Correio",
+                "latitude": 39.734008,
+                "longitude": -8.808168
             },
             {
                 "pokestop_id": "3014a8690b2b49ba8918cad211918966.16",
@@ -794,6 +842,12 @@
                 "name": "Painel Informativo Junta de Freguesia Marinha Grande",
                 "latitude": 39.741149,
                 "longitude": -8.932965
+            },
+            {
+                "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
+                "name": "Ponte da Fonte Quente",
+                "latitude": 39.747216,
+                "longitude": -8.802534
             },
             {
                 "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
@@ -1340,24 +1394,6 @@
                 "name": "Edif\u00edcio Ferro de Engomar",
                 "latitude": 39.740629,
                 "longitude": -8.802995
-            }
-        ]
-    },
-    {
-        "quest_description": "Trade a Pok\u00e9mon",
-        "quest_reward": "Shelmet",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Shelmet",
-        "quest_reward_pokemon_id": 616,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f19864ea0ef93bb9a7ef9b6925985966.16",
-                "name": "Homenagem ao Movimento Oper\u00e1rio",
-                "latitude": 39.746489,
-                "longitude": -8.933631
             }
         ]
     }
