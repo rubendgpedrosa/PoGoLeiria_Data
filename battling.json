@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Win 2 raids",
+        "quest_reward": "Weezing",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Weezing",
+        "quest_reward_pokemon_id": 110,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1d22b403b3e849439d80774f339186b4.16",
+                "name": "Azulejos Leiria S\u00e9culo XIX",
+                "latitude": 39.742721,
+                "longitude": -8.81045
+            },
+            {
+                "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
+                "name": "Slither Monsters",
+                "latitude": 39.746086,
+                "longitude": -8.934856
+            },
+            {
+                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
+                "name": "Parque Av. Marques Pombal",
+                "latitude": 39.741132,
+                "longitude": -8.801663
+            },
+            {
+                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
+                "name": "Marco de Correio CTT",
+                "latitude": 39.746326,
+                "longitude": -8.804666
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Meditite",
         "quest_reward_type": "Pokemon",
@@ -38,6 +74,12 @@
                 "name": "Clube M.M.G",
                 "latitude": 39.749647,
                 "longitude": -8.932786
+            },
+            {
+                "pokestop_id": "4b6a4096159545bba679aa8bb853f1fd.16",
+                "name": "Cemit\u00e9rio Da Marinha",
+                "latitude": 39.746706,
+                "longitude": -8.932228
             }
         ]
     },
@@ -62,30 +104,6 @@
                 "name": "Biblioteca Municipal",
                 "latitude": 39.749895,
                 "longitude": -8.934498
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 2 raids",
-        "quest_reward": "Weezing",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Weezing",
-        "quest_reward_pokemon_id": 110,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
-                "name": "Slither Monsters",
-                "latitude": 39.746086,
-                "longitude": -8.934856
-            },
-            {
-                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
-                "name": "Marco de Correio CTT",
-                "latitude": 39.746326,
-                "longitude": -8.804666
             }
         ]
     },
