@@ -278,6 +278,12 @@
                 "name": "Sapo",
                 "latitude": 39.74516,
                 "longitude": -8.804145
+            },
+            {
+                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
+                "name": "Parque da Encarna\u00e7\u00e3o",
+                "latitude": 39.738905,
+                "longitude": -8.798901
             }
         ]
     },
@@ -610,6 +616,12 @@
                 "longitude": -8.802702
             },
             {
+                "pokestop_id": "8be5956c59cc3621a677fff8c99d12c6.16",
+                "name": "Associa\u00e7\u00e3o de Dan\u00e7a de Leiria",
+                "latitude": 39.749055,
+                "longitude": -8.811604
+            },
+            {
                 "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
                 "name": "Sede de Imprensa Marinha Grande",
                 "latitude": 39.753915,
@@ -924,6 +936,84 @@
         ]
     },
     {
+        "quest_description": "Purify 3 Pokemon",
+        "quest_reward": "Absol",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Absol",
+        "quest_reward_pokemon_id": 359,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3c3affed92033d50b8f0202713d8a53e.16",
+                "name": "Villa Portela - Casa D'Artes",
+                "latitude": 39.741224,
+                "longitude": -8.809235
+            },
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
+            },
+            {
+                "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
+                "name": "Ponte Pedonal Rio Liz",
+                "latitude": 39.750058,
+                "longitude": -8.804897
+            },
+            {
+                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
+                "name": "Correios Post Office",
+                "latitude": 39.747622,
+                "longitude": -8.930452
+            },
+            {
+                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
+                "name": "Jogo Da Malha",
+                "latitude": 39.745722,
+                "longitude": -8.80351
+            },
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            },
+            {
+                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
+                "name": "LM Fitness",
+                "latitude": 39.747089,
+                "longitude": -8.935386
+            },
+            {
+                "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
+                "name": "Campus 2 - ESTG",
+                "latitude": 39.734095,
+                "longitude": -8.823089
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Venusaur Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Venusaur",
+        "quest_reward_pokemon_id": 3,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "49f915dee3254434924c648a382a932d.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.750712,
+                "longitude": -8.816448
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch an Egg",
         "quest_reward": "Nincada",
         "quest_reward_type": "Pokemon",
@@ -996,60 +1086,6 @@
         ]
     },
     {
-        "quest_description": "Purify 3 Pokemon",
-        "quest_reward": "Absol",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Absol",
-        "quest_reward_pokemon_id": 359,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
-                "name": "Jornal de Leiria",
-                "latitude": 39.743267,
-                "longitude": -8.809349
-            },
-            {
-                "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
-                "name": "Ponte Pedonal Rio Liz",
-                "latitude": 39.750058,
-                "longitude": -8.804897
-            },
-            {
-                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
-                "name": "Correios Post Office",
-                "latitude": 39.747622,
-                "longitude": -8.930452
-            },
-            {
-                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
-                "name": "Jogo Da Malha",
-                "latitude": 39.745722,
-                "longitude": -8.80351
-            },
-            {
-                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
-                "name": "Jungle Gym",
-                "latitude": 39.749395,
-                "longitude": -8.802482
-            },
-            {
-                "pokestop_id": "de1c039a2c123f8ebfae701ea17a802b.16",
-                "name": "LM Fitness",
-                "latitude": 39.747089,
-                "longitude": -8.935386
-            },
-            {
-                "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
-                "name": "Campus 2 - ESTG",
-                "latitude": 39.734095,
-                "longitude": -8.823089
-            }
-        ]
-    },
-    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Charizard Mega Energy",
         "quest_reward_type": "Energy",
@@ -1106,6 +1142,12 @@
                 "name": "Jardim de Leiria",
                 "latitude": 39.744338,
                 "longitude": -8.806031
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
             },
             {
                 "pokestop_id": "f3a20103705430bc9e7a1e1d054c1b6a.16",

@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Frillish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Frillish",
+        "quest_reward_pokemon_id": 592,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "19a9281ab7a83984b81186b81ecf6942.16",
+                "name": "Medronheiro",
+                "latitude": 39.748255,
+                "longitude": -8.801251
+            }
+        ]
+    },
+    {
         "quest_description": "Win 2 raids",
         "quest_reward": "Weezing",
         "quest_reward_type": "Pokemon",
@@ -38,6 +56,12 @@
                 "name": "Marco de Correio CTT",
                 "latitude": 39.746326,
                 "longitude": -8.804666
+            },
+            {
+                "pokestop_id": "f253df31ccb53395831c337eae84c9f9.16",
+                "name": "Antiga Sede Jornal de Leiria",
+                "latitude": 39.744151,
+                "longitude": -8.811916
             }
         ]
     },
