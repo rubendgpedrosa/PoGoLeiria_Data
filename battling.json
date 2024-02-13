@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Frillish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Frillish",
+        "quest_reward_pokemon_id": 592,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "1cae0c5655654f4ab9271c1b3328d4bc.16",
+                "name": "Painel Informativo C\u00e2mara Municipal de Leiria",
+                "latitude": 39.749357,
+                "longitude": -8.805745
+            },
+            {
+                "pokestop_id": "399426cd8ff340e6b273e3bede1d39bd.16",
+                "name": "Congrega\u00e7\u00e3o Crist\u00e3 em Portugal.",
+                "latitude": 39.746828,
+                "longitude": -8.814662
+            },
+            {
+                "pokestop_id": "6d59dc9c55f743179a8cb5f6fb59a86f.16",
+                "name": "Placa Informativa - Antes do Castelo",
+                "latitude": 39.747749,
+                "longitude": -8.808107
+            }
+        ]
+    },
+    {
         "quest_description": "Win 2 raids",
         "quest_reward": "Weezing",
         "quest_reward_type": "Pokemon",
@@ -14,30 +50,6 @@
                 "name": "Complexo Municipal De T\u00eanis",
                 "latitude": 39.735363,
                 "longitude": -8.795582
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Frillish",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Frillish",
-        "quest_reward_pokemon_id": 592,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "1cae0c5655654f4ab9271c1b3328d4bc.16",
-                "name": "Painel Informativo C\u00e2mara Municipal de Leiria",
-                "latitude": 39.749357,
-                "longitude": -8.805745
-            },
-            {
-                "pokestop_id": "399426cd8ff340e6b273e3bede1d39bd.16",
-                "name": "Congrega\u00e7\u00e3o Crist\u00e3 em Portugal.",
-                "latitude": 39.746828,
-                "longitude": -8.814662
             }
         ]
     },
@@ -140,6 +152,12 @@
                 "name": "Ponte Ondulada",
                 "latitude": 39.746196,
                 "longitude": -8.80374
+            },
+            {
+                "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
+                "name": "Sede Bloco de Esquerda",
+                "latitude": 39.750634,
+                "longitude": -8.932602
             },
             {
                 "pokestop_id": "afe3954eb5a243908e01f0bb16b9a193.16",
