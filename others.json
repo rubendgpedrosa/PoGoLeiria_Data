@@ -534,6 +534,36 @@
         ]
     },
     {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Mawile",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Mawile",
+        "quest_reward_pokemon_id": 303,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "103be0c9e368368ca1cf5cd08c617b70.16",
+                "name": "Local de conv\u00edvio e descan\u00e7o",
+                "latitude": 39.748322,
+                "longitude": -8.931966
+            },
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
+            },
+            {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -865,30 +895,6 @@
     },
     {
         "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Mawile",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Mawile",
-        "quest_reward_pokemon_id": 303,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
-                "name": "Campo De Futebol",
-                "latitude": 39.745553,
-                "longitude": -8.803583
-            },
-            {
-                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
-                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
-                "latitude": 39.751963,
-                "longitude": -8.812598
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Cryogonal",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -1190,6 +1196,12 @@
                 "name": "Parque Verde de Leiria",
                 "latitude": 39.741617,
                 "longitude": -8.819755
+            },
+            {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
             },
             {
                 "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
