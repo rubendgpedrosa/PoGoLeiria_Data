@@ -112,6 +112,12 @@
                 "longitude": -8.81045
             },
             {
+                "pokestop_id": "24cfefaa5f093740869a039a16a428a2.16",
+                "name": "Parque Infantil Beira Rio",
+                "latitude": 39.739953,
+                "longitude": -8.80073
+            },
+            {
                 "pokestop_id": "44c4e82a70a73e23a89ed45b8d7d1e88.16",
                 "name": "Caixa Postal dos CTT - Quinta da Matinha",
                 "latitude": 39.755207,
@@ -236,6 +242,12 @@
                 "name": "m|i|mo - Museu da Imagem em Movimento",
                 "latitude": 39.747339,
                 "longitude": -8.807318
+            },
+            {
+                "pokestop_id": "b13a690750374016ab376f8a645094a7.16",
+                "name": "Torre Agua Leiria",
+                "latitude": 39.743319,
+                "longitude": -8.799232
             },
             {
                 "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
@@ -564,6 +576,30 @@
         ]
     },
     {
+        "quest_description": "Make 10 Nice Throws",
+        "quest_reward": "Wooper",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wooper",
+        "quest_reward_pokemon_id": 194,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
+            },
+            {
+                "pokestop_id": "e92b33c341c3485d9b402af105b2484d.16",
+                "name": "Anno Christi MDCXLVI",
+                "latitude": 39.742708,
+                "longitude": -8.810826
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "3 Pinap Berry",
         "quest_reward_type": "Item",
@@ -742,6 +778,12 @@
                 "longitude": -8.808011
             },
             {
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
+            },
+            {
                 "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
                 "name": "Chamin\u00e9 Sthepens",
                 "latitude": 39.751303,
@@ -878,24 +920,6 @@
                 "name": "LM Fitness",
                 "latitude": 39.747089,
                 "longitude": -8.935386
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 10 Nice Throws",
-        "quest_reward": "Wooper",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Wooper",
-        "quest_reward_pokemon_id": 194,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "e92b33c341c3485d9b402af105b2484d.16",
-                "name": "Anno Christi MDCXLVI",
-                "latitude": 39.742708,
-                "longitude": -8.810826
             }
         ]
     }
