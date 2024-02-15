@@ -1,5 +1,59 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Lapras",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lapras",
+        "quest_reward_pokemon_id": 131,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0ea1aadc3e4e30b09db1f7c8c06cde31.16",
+                "name": "Caixa Postal CTT - Av. Jos\u00e9 Greg\u00f3rio",
+                "latitude": 39.754491,
+                "longitude": -8.932577
+            },
+            {
+                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
+                "name": "Centro de Linguas Chinesas",
+                "latitude": 39.740291,
+                "longitude": -8.811645
+            },
+            {
+                "pokestop_id": "54ed01ac248146bab4c80325d8c3a9ea.16",
+                "name": "Centro De Turismo",
+                "latitude": 39.743896,
+                "longitude": -8.806459
+            },
+            {
+                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
+                "name": "Casa Da Cultura",
+                "latitude": 39.749033,
+                "longitude": -8.933087
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Marowak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marowak",
+        "quest_reward_pokemon_id": 105,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Spheal",
         "quest_reward_type": "Pokemon",
@@ -10,10 +64,70 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "61f76786db87485e8eef8f2e1d2968f1.16",
+                "name": "A Juventude a Ci\u00eancia e o Mar",
+                "latitude": 39.743887,
+                "longitude": -8.805803
+            },
+            {
                 "pokestop_id": "63b13db5ccdc469187f2f589afef94fe.16",
                 "name": "Parque Infantil Da Seixa",
                 "latitude": 39.732435,
                 "longitude": -8.801047
+            }
+        ]
+    },
+    {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Archen",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Archen",
+        "quest_reward_pokemon_id": 566,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a55789a0b055357b8f42ccdc0907d810.16",
+                "name": "Parque Infantil Este",
+                "latitude": 39.735664,
+                "longitude": -8.800658
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Frillish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Frillish",
+        "quest_reward_pokemon_id": 592,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 2 raids",
+        "quest_reward": "Weezing",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Weezing",
+        "quest_reward_pokemon_id": 110,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "f3a20103705430bc9e7a1e1d054c1b6a.16",
+                "name": "Polit\u00e9cnico de Leiria - ESECS",
+                "latitude": 39.739751,
+                "longitude": -8.811364
             }
         ]
     }
