@@ -304,6 +304,12 @@
                 "longitude": -8.80654
             },
             {
+                "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
+                "name": "Pra\u00e7a Nova",
+                "latitude": 39.752742,
+                "longitude": -8.811752
+            },
+            {
                 "pokestop_id": "fc049d4a9f744a55be88baf7b62e7df2.16",
                 "name": "Arquivo Distrital",
                 "latitude": 39.744298,
@@ -452,6 +458,12 @@
                 "name": "Centro De Encontro Do Parque Da Cerca",
                 "latitude": 39.748632,
                 "longitude": -8.935621
+            },
+            {
+                "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
+                "name": "Carvalho Cerquinho",
+                "latitude": 39.731849,
+                "longitude": -8.795909
             },
             {
                 "pokestop_id": "cfa99aca982c4d5594e91f019f507180.16",
@@ -904,10 +916,22 @@
                 "longitude": -8.807857
             },
             {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
+            },
+            {
                 "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
                 "name": "Campus 1 - ESECS",
                 "latitude": 39.739983,
                 "longitude": -8.812123
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
             },
             {
                 "pokestop_id": "f19688692fea380097937a9a9eeed8e4.16",
@@ -1182,6 +1206,36 @@
         ]
     },
     {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "a5c4d67ae0ce34d0947f2636d1af6f68.16",
+                "name": "Pilates Tereza Marques",
+                "latitude": 39.74369,
+                "longitude": -8.800766
+            },
+            {
+                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
+                "name": "Ringue de futebol da Marinha Grande",
+                "latitude": 39.740808,
+                "longitude": -8.929041
+            },
+            {
+                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
+                "name": "Marinha Grande",
+                "latitude": 39.747761,
+                "longitude": -8.936047
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -1214,30 +1268,6 @@
                 "name": "Teatro Miguel Franco",
                 "latitude": 39.742692,
                 "longitude": -8.80773
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
-                "name": "Ringue de futebol da Marinha Grande",
-                "latitude": 39.740808,
-                "longitude": -8.929041
-            },
-            {
-                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
-                "name": "Marinha Grande",
-                "latitude": 39.747761,
-                "longitude": -8.936047
             }
         ]
     },
