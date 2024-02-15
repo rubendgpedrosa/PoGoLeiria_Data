@@ -38,6 +38,12 @@
                 "name": "Campo de Treino de Arremesso",
                 "latitude": 39.736335,
                 "longitude": -8.929017
+            },
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455
             }
         ]
     },
@@ -106,6 +112,12 @@
                 "longitude": -8.806823
             },
             {
+                "pokestop_id": "827090a65d844cd3ac3c5c771945831b.16",
+                "name": "Old Rope Spider",
+                "latitude": 39.739577,
+                "longitude": -8.929351
+            },
+            {
                 "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
                 "name": "Ponte pedonal norte do Parque das Bernardas",
                 "latitude": 39.738465,
@@ -128,6 +140,12 @@
                 "name": "Parque da Cerca",
                 "latitude": 39.748598,
                 "longitude": -8.934927
+            },
+            {
+                "pokestop_id": "f8f42f2c693a4524bb5095eda9129433.16",
+                "name": "Campus 2 - ESTG",
+                "latitude": 39.734095,
+                "longitude": -8.823089
             },
             {
                 "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
@@ -154,10 +172,22 @@
                 "longitude": -8.807663
             },
             {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
+            },
+            {
                 "pokestop_id": "417b2e2f49203592975a5ba1bad9e8f7.16",
                 "name": "Placa informativa \u201cseja amigo do seu c\u00e3o\u201d",
                 "latitude": 39.750484,
                 "longitude": -8.936343
+            },
+            {
+                "pokestop_id": "4b6a4096159545bba679aa8bb853f1fd.16",
+                "name": "Cemit\u00e9rio Da Marinha",
+                "latitude": 39.746706,
+                "longitude": -8.932228
             },
             {
                 "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
@@ -312,6 +342,36 @@
         ]
     },
     {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Tadbulb",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tadbulb",
+        "quest_reward_pokemon_id": 938,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "346692f7731647539c32a978b011270d.16",
+                "name": "Zona de Merendas",
+                "latitude": 39.747887,
+                "longitude": -8.810421
+            },
+            {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
+            {
+                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
+                "name": "Jungle Gym",
+                "latitude": 39.749395,
+                "longitude": -8.802482
+            }
+        ]
+    },
+    {
         "quest_description": "Make an Excellent Throw",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -386,6 +446,24 @@
                 "name": "ASURPI",
                 "latitude": 39.75141,
                 "longitude": -8.933588
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "47f7787d4c494d34803f1c290f5688b0.16",
+                "name": "Fonte",
+                "latitude": 39.752573,
+                "longitude": -8.933414
             }
         ]
     },
@@ -586,6 +664,12 @@
         "quest_reward_item_id": 701,
         "pokestops": [
             {
+                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
+                "name": "Estravag\u00e1rio Graffiti",
+                "latitude": 39.752932,
+                "longitude": -8.933662
+            },
+            {
                 "pokestop_id": "ab805be772cb4ad7918ff8ffd6287881.16",
                 "name": "EPAMG",
                 "latitude": 39.749907,
@@ -596,24 +680,6 @@
                 "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
                 "latitude": 39.749364,
                 "longitude": -8.930986
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Great Throws",
-        "quest_reward": "Tadbulb",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Tadbulb",
-        "quest_reward_pokemon_id": 938,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "aedd1f2f1ad44401bedc5af66a1bad2a.16",
-                "name": "Jungle Gym",
-                "latitude": 39.749395,
-                "longitude": -8.802482
             }
         ]
     },
