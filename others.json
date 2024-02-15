@@ -88,6 +88,12 @@
                 "longitude": -8.929649
             },
             {
+                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
+                "name": "Mural Brave",
+                "latitude": 39.743151,
+                "longitude": -8.812097
+            },
+            {
                 "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
                 "name": "Centro de Linguas Chinesas",
                 "latitude": 39.740291,
@@ -435,6 +441,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "0bc2c65541d54e619cd907342180b784.16",
+                "name": "Igreja Universal Do Reino De Deus",
+                "latitude": 39.747902,
+                "longitude": -8.805366
+            },
             {
                 "pokestop_id": "0bc494effd014e5dbc2284958658b195.11",
                 "name": "Praca Rodrigues Lobo",
@@ -966,6 +978,30 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
+            }
+        ]
+    },
+    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Stunky",
         "quest_reward_type": "Pokemon",
@@ -1226,24 +1262,6 @@
                 "name": "Parque de merendas 2",
                 "latitude": 39.733159,
                 "longitude": -8.82037
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
-                "name": "Tribunal Administrativo e Fiscal De Leiria",
-                "latitude": 39.738257,
-                "longitude": -8.802019
             }
         ]
     },
