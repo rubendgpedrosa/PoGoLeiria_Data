@@ -302,6 +302,18 @@
                 "name": "Pr\u00e9dio Marqu\u00eas da Cruz",
                 "latitude": 39.748039,
                 "longitude": -8.805136
+            },
+            {
+                "pokestop_id": "26c01ec9c8fd4becaebd87f9d26ffb32.16",
+                "name": "Campo De Futebol",
+                "latitude": 39.745553,
+                "longitude": -8.803583
+            },
+            {
+                "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
+                "name": "Sede Bloco de Esquerda",
+                "latitude": 39.750634,
+                "longitude": -8.932602
             }
         ]
     },
@@ -320,6 +332,12 @@
                 "name": "Fonte Luminosa",
                 "latitude": 39.743649,
                 "longitude": -8.806831
+            },
+            {
+                "pokestop_id": "5b30d5cc95af495c8066d9675b25ae77.16",
+                "name": "Lonac 2017",
+                "latitude": 39.744206,
+                "longitude": -8.812656
             }
         ]
     },
@@ -394,6 +412,12 @@
                 "longitude": -8.936966
             },
             {
+                "pokestop_id": "ab5bd468b21e4b8ebef86636225006e1.16",
+                "name": "Jogo Da Malha",
+                "latitude": 39.745722,
+                "longitude": -8.80351
+            },
+            {
                 "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
@@ -464,6 +488,12 @@
                 "name": "Caixa Postal CTT - Marinha Grande",
                 "latitude": 39.750744,
                 "longitude": -8.92763
+            },
+            {
+                "pokestop_id": "3745160e3b4b4b71b2f2de8617750ace.16",
+                "name": "Antigo Moinho De Papel",
+                "latitude": 39.740444,
+                "longitude": -8.800663
             },
             {
                 "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
@@ -556,10 +586,22 @@
                 "longitude": -8.930959
             },
             {
+                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
+                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
+                "latitude": 39.745253,
+                "longitude": -8.80654
+            },
+            {
                 "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
                 "name": "S.L.Anti",
                 "latitude": 39.743737,
                 "longitude": -8.805579
+            },
+            {
+                "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
+                "name": "Pra\u00e7a Nova",
+                "latitude": 39.752742,
+                "longitude": -8.811752
             }
         ]
     },
@@ -608,6 +650,12 @@
                 "name": "Igreja da Miseric\u00f3rdia",
                 "latitude": 39.745213,
                 "longitude": -8.807912
+            },
+            {
+                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
+                "name": "Correios Office Post Leiria",
+                "latitude": 39.740543,
+                "longitude": -8.80818
             },
             {
                 "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
@@ -978,6 +1026,36 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "10 Swampert Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Swampert",
+        "quest_reward_pokemon_id": 260,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "89e6677193c942f28ff974cb475e9785.16",
+                "name": "Parque Infantil",
+                "latitude": 39.745231,
+                "longitude": -8.93432
+            },
+            {
+                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
+                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
+                "latitude": 39.744778,
+                "longitude": -8.80632
+            },
+            {
+                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731526,
+                "longitude": -8.803604
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 different species of Pok\u00e9mon",
         "quest_reward": "Golett",
         "quest_reward_type": "Pokemon",
@@ -1076,6 +1154,36 @@
                 "name": "Igreja de S\u00e3o Pedro",
                 "latitude": 39.74725,
                 "longitude": -8.807508
+            },
+            {
+                "pokestop_id": "db4297efc87f426fb048a83fbd6ddfc6.16",
+                "name": "Capela Sao Francisco",
+                "latitude": 39.748187,
+                "longitude": -8.803393
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
+                "name": "Caixa Postal CTT - Ordem",
+                "latitude": 39.741068,
+                "longitude": -8.936685
+            },
+            {
+                "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
+                "name": "Liceu Rodrigues Lobo",
+                "latitude": 39.742257,
+                "longitude": -8.803918
             }
         ]
     },
@@ -1148,48 +1256,12 @@
                 "name": "Caixa Postal CTT - Cristal Atrium",
                 "latitude": 39.747021,
                 "longitude": -8.936766
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "10 Swampert Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Swampert",
-        "quest_reward_pokemon_id": 260,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
-                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
-                "latitude": 39.744778,
-                "longitude": -8.80632
             },
             {
-                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731526,
-                "longitude": -8.803604
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
-                "name": "Liceu Rodrigues Lobo",
-                "latitude": 39.742257,
-                "longitude": -8.803918
+                "pokestop_id": "e45e96f79eee4dd5b32db03fd04c4191.16",
+                "name": "Centro Comercial D.Dinis",
+                "latitude": 39.742971,
+                "longitude": -8.809768
             }
         ]
     },
@@ -1256,6 +1328,12 @@
                 "name": "Igreja",
                 "latitude": 39.741631,
                 "longitude": -8.802822
+            },
+            {
+                "pokestop_id": "cabb27e3442b493dac7065440e39f238.16",
+                "name": "Casa Oliveira Dias",
+                "latitude": 39.74247,
+                "longitude": -8.80407
             }
         ]
     },
