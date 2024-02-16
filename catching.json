@@ -744,6 +744,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "2ed1ee1f97513bb093cb82a83407952b.16",
+                "name": "Quiosque da Cruz da Areia",
+                "latitude": 39.729117,
+                "longitude": -8.808391
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Wingull",
         "quest_reward_type": "Pokemon",
@@ -836,6 +854,48 @@
                 "name": "Igreja do cemit\u00e9rio da Marinha Grande",
                 "latitude": 39.745877,
                 "longitude": -8.932347
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
+                "name": "Dan'el E'me",
+                "latitude": 39.740549,
+                "longitude": -8.802441
+            },
+            {
+                "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
+                "name": "Caritas Diocesana de Leiria",
+                "latitude": 39.73688,
+                "longitude": -8.806748
+            },
+            {
+                "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
+                "name": "Azinheira",
+                "latitude": 39.747237,
+                "longitude": -8.80158
+            },
+            {
+                "pokestop_id": "b9d4215916a5403d8010bfe7dd3896d3.16",
+                "name": "Teatro Miguel Franco",
+                "latitude": 39.742692,
+                "longitude": -8.80773
+            },
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
             }
         ]
     },
@@ -1016,42 +1076,6 @@
                 "name": "Ponte Hintze Ribeiro",
                 "latitude": 39.742734,
                 "longitude": -8.803525
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
-                "name": "Caritas Diocesana de Leiria",
-                "latitude": 39.73688,
-                "longitude": -8.806748
-            },
-            {
-                "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
-                "name": "Azinheira",
-                "latitude": 39.747237,
-                "longitude": -8.80158
-            },
-            {
-                "pokestop_id": "b9d4215916a5403d8010bfe7dd3896d3.16",
-                "name": "Teatro Miguel Franco",
-                "latitude": 39.742692,
-                "longitude": -8.80773
-            },
-            {
-                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
-                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
-                "latitude": 39.744597,
-                "longitude": -8.935054
             }
         ]
     },
