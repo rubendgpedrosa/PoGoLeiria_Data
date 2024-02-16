@@ -96,6 +96,30 @@
         ]
     },
     {
+        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Growlithe",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Growlithe",
+        "quest_reward_pokemon_id": 58,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b47f45c695c45d18f4fd061a8ab3144.16",
+                "name": "Edif\u00edcio Z\u00faquete",
+                "latitude": 39.744416,
+                "longitude": -8.807663
+            },
+            {
+                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
+                "name": "Parque da Encarna\u00e7\u00e3o",
+                "latitude": 39.738905,
+                "longitude": -8.798901
+            }
+        ]
+    },
+    {
         "quest_description": "Explore 2 km",
         "quest_reward": "Ponyta",
         "quest_reward_type": "Pokemon",
@@ -870,6 +894,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Beedrill Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Beedrill",
+        "quest_reward_pokemon_id": 15,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
+            },
+            {
+                "pokestop_id": "f19864ea0ef93bb9a7ef9b6925985966.16",
+                "name": "Homenagem ao Movimento Oper\u00e1rio",
+                "latitude": 39.746489,
+                "longitude": -8.933631
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Litten",
         "quest_reward_type": "Pokemon",
@@ -1184,42 +1232,6 @@
                 "name": "Ringue de futebol da Marinha Grande",
                 "latitude": 39.740808,
                 "longitude": -8.929041
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Beedrill Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Beedrill",
-        "quest_reward_pokemon_id": 15,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f19864ea0ef93bb9a7ef9b6925985966.16",
-                "name": "Homenagem ao Movimento Oper\u00e1rio",
-                "latitude": 39.746489,
-                "longitude": -8.933631
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Growlithe",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Growlithe",
-        "quest_reward_pokemon_id": 58,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
-                "name": "Parque da Encarna\u00e7\u00e3o",
-                "latitude": 39.738905,
-                "longitude": -8.798901
             }
         ]
     }
