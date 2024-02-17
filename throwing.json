@@ -418,6 +418,12 @@
                 "longitude": -8.823204
             },
             {
+                "pokestop_id": "75267162613a4677b0e8895c929e2c52.16",
+                "name": "Igreja Batista da Lagoinha",
+                "latitude": 39.740459,
+                "longitude": -8.80699
+            },
+            {
                 "pokestop_id": "a054259cd2763c80b9de8c2c09096fbe.16",
                 "name": "Poesia Portuguesa de Janela",
                 "latitude": 39.749735,
@@ -578,6 +584,12 @@
                 "name": "Parede de Escalada",
                 "latitude": 39.734361,
                 "longitude": -8.80252
+            },
+            {
+                "pokestop_id": "5613eab61745402d916a04de1e0cd30f.16",
+                "name": "Antigo Forno",
+                "latitude": 39.748463,
+                "longitude": -8.92676
             },
             {
                 "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
@@ -769,6 +781,42 @@
     },
     {
         "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
+            },
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
+            },
+            {
+                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
+                "name": "Posto de turismo da Marinha Grande",
+                "latitude": 39.743295,
+                "longitude": -8.935619
+            },
+            {
+                "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
+                "name": "Slither Monsters",
+                "latitude": 39.746086,
+                "longitude": -8.934856
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 3,
@@ -806,6 +854,12 @@
                 "name": "Abra\u00e7o ao universo",
                 "latitude": 39.751515,
                 "longitude": -8.814163
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
             }
         ]
     },
@@ -920,36 +974,6 @@
                 "name": "Leiria Shopping",
                 "latitude": 39.732373,
                 "longitude": -8.824896
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
-                "name": "Jornal de Leiria",
-                "latitude": 39.743267,
-                "longitude": -8.809349
-            },
-            {
-                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
-                "name": "Posto de turismo da Marinha Grande",
-                "latitude": 39.743295,
-                "longitude": -8.935619
-            },
-            {
-                "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
-                "name": "Slither Monsters",
-                "latitude": 39.746086,
-                "longitude": -8.934856
             }
         ]
     },
