@@ -148,6 +148,12 @@
                 "longitude": -8.81045
             },
             {
+                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
+                "name": "Correios Office Post Leiria",
+                "latitude": 39.740543,
+                "longitude": -8.80818
+            },
+            {
                 "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
                 "name": "CENFIM",
                 "latitude": 39.749026,
@@ -176,6 +182,12 @@
                 "name": "Placa Informativa - Antes do Castelo",
                 "latitude": 39.747749,
                 "longitude": -8.808107
+            },
+            {
+                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
+                "name": "O pensativo.",
+                "latitude": 39.747078,
+                "longitude": -8.8151
             },
             {
                 "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
@@ -436,6 +448,12 @@
                 "longitude": -8.80374
             },
             {
+                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
+                "name": "Rodilha",
+                "latitude": 39.742979,
+                "longitude": -8.806888
+            },
+            {
                 "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
                 "name": "Barcos da Costa",
                 "latitude": 39.73964,
@@ -628,6 +646,12 @@
                 "longitude": -8.933414
             },
             {
+                "pokestop_id": "80fff49f00003aadbf32302a836e98ba.16",
+                "name": "Rota Arquitect\u00f3nica - Edif\u00edcio Barros Santa Rita",
+                "latitude": 39.742059,
+                "longitude": -8.808031
+            },
+            {
                 "pokestop_id": "d47848cf08e945c691b195b0df815135.16",
                 "name": "Artes Manuais",
                 "latitude": 39.742853,
@@ -754,10 +778,22 @@
                 "longitude": -8.807312
             },
             {
+                "pokestop_id": "827090a65d844cd3ac3c5c771945831b.16",
+                "name": "Old Rope Spider",
+                "latitude": 39.739577,
+                "longitude": -8.929351
+            },
+            {
                 "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
                 "name": "Parque Av. Marques Pombal",
                 "latitude": 39.741132,
                 "longitude": -8.801663
+            },
+            {
+                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
+                "name": "Mercado de Sant'ana",
+                "latitude": 39.74304,
+                "longitude": -8.807411
             }
         ]
     },
@@ -806,6 +842,30 @@
                 "name": "Tribunal Administrativo e Fiscal De Leiria",
                 "latitude": 39.738257,
                 "longitude": -8.802019
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 10 Nice Throws",
+        "quest_reward": "Wooper",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wooper",
+        "quest_reward_pokemon_id": 194,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
+                "name": "Plataforma de \u00e1gua",
+                "latitude": 39.748981,
+                "longitude": -8.934711
+            },
+            {
+                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
+                "name": "Est\u00e1tua Vacas",
+                "latitude": 39.745118,
+                "longitude": -8.804209
             }
         ]
     },
@@ -882,6 +942,42 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
+            },
+            {
+                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
+                "name": "Posto de turismo da Marinha Grande",
+                "latitude": 39.743295,
+                "longitude": -8.935619
+            },
+            {
+                "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
+                "name": "Monumento Afonso Lopes Vieira",
+                "latitude": 39.740187,
+                "longitude": -8.812398
+            },
+            {
+                "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
+                "name": "Slither Monsters",
+                "latitude": 39.746086,
+                "longitude": -8.934856
+            }
+        ]
+    },
+    {
         "quest_description": "Make 2 Excellent Throws",
         "quest_reward": "Dratini",
         "quest_reward_type": "Pokemon",
@@ -908,36 +1004,6 @@
                 "name": "Pra\u00e7a Nova",
                 "latitude": 39.752742,
                 "longitude": -8.811752
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
-                "name": "Posto de turismo da Marinha Grande",
-                "latitude": 39.743295,
-                "longitude": -8.935619
-            },
-            {
-                "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
-                "name": "Monumento Afonso Lopes Vieira",
-                "latitude": 39.740187,
-                "longitude": -8.812398
-            },
-            {
-                "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
-                "name": "Slither Monsters",
-                "latitude": 39.746086,
-                "longitude": -8.934856
             }
         ]
     },
@@ -1008,6 +1074,24 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Throws in a row",
+        "quest_reward": "Anorith",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Anorith",
+        "quest_reward_pokemon_id": 347,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
+                "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739793,
+                "longitude": -8.808255
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1022,6 +1106,24 @@
                 "name": "Projeto U-Bike: ESTG - Bloco D",
                 "latitude": 39.734271,
                 "longitude": -8.821229
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
+                "name": "Anfiteatro Do Parque Da Cerca",
+                "latitude": 39.749604,
+                "longitude": -8.934917
             }
         ]
     },
@@ -1062,6 +1164,24 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
+                "name": "Parque da Encarna\u00e7\u00e3o",
+                "latitude": 39.738905,
+                "longitude": -8.798901
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "Elgyem",
         "quest_reward_type": "Pokemon",
@@ -1076,24 +1196,6 @@
                 "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
                 "latitude": 39.749364,
                 "longitude": -8.930986
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 10 Nice Throws",
-        "quest_reward": "Wooper",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Wooper",
-        "quest_reward_pokemon_id": 194,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
-                "name": "Est\u00e1tua Vacas",
-                "latitude": 39.745118,
-                "longitude": -8.804209
             }
         ]
     }
