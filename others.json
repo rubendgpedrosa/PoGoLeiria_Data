@@ -166,6 +166,12 @@
                 "longitude": -8.802609
             },
             {
+                "pokestop_id": "be27a58579f64cae8b898b838163757b.16",
+                "name": "VDesign",
+                "latitude": 39.745756,
+                "longitude": -8.807801
+            },
+            {
                 "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
                 "name": "Antigo Bebedouro",
                 "latitude": 39.750713,
@@ -370,6 +376,12 @@
                 "longitude": -8.799637
             },
             {
+                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
+                "name": "Parque de S\u00e3o Rom\u00e3o",
+                "latitude": 39.733442,
+                "longitude": -8.797748
+            },
+            {
                 "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
                 "name": "Ponte Euro 2004",
                 "latitude": 39.752764,
@@ -526,6 +538,12 @@
                 "longitude": -8.929824
             },
             {
+                "pokestop_id": "8f0f60a0289845e0993aaa7e1f9df4ff.16",
+                "name": "Ponte Verde da Encosta do Castelo",
+                "latitude": 39.748256,
+                "longitude": -8.809223
+            },
+            {
                 "pokestop_id": "8f7b6c291e7d40b7bdd98801018beff9.16",
                 "name": "Farol",
                 "latitude": 39.750152,
@@ -612,6 +630,66 @@
         ]
     },
     {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Scyther",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scyther",
+        "quest_reward_pokemon_id": 123,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
+                "name": "Moagem Leiriense",
+                "latitude": 39.74865,
+                "longitude": -8.803723
+            },
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
+            {
+                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
+                "name": "Mural pintura no vidro",
+                "latitude": 39.740536,
+                "longitude": -8.929225
+            },
+            {
+                "pokestop_id": "725520b0ca3837daba0f82b4f415b1c0.16",
+                "name": "Gin\u00e1sio High Performace Leiria",
+                "latitude": 39.740017,
+                "longitude": -8.803766
+            },
+            {
+                "pokestop_id": "97503fe58f8c34df908b27df01c0cfa8.16",
+                "name": "Marco do Correio - Rua Jo\u00e3o XXI",
+                "latitude": 39.741588,
+                "longitude": -8.805421
+            },
+            {
+                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
+                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
+                "latitude": 39.745253,
+                "longitude": -8.80654
+            },
+            {
+                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.740902,
+                "longitude": -8.933727
+            },
+            {
+                "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
+                "name": "Jardim de Leiria",
+                "latitude": 39.744338,
+                "longitude": -8.806031
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch an Egg",
         "quest_reward": "Nincada",
         "quest_reward_type": "Pokemon",
@@ -668,60 +746,6 @@
                 "name": "Mural De Namorados",
                 "latitude": 39.743299,
                 "longitude": -8.803428
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Scyther",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Scyther",
-        "quest_reward_pokemon_id": 123,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
-                "name": "Ponte pedonal",
-                "latitude": 39.751672,
-                "longitude": -8.816499
-            },
-            {
-                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
-                "name": "Mural pintura no vidro",
-                "latitude": 39.740536,
-                "longitude": -8.929225
-            },
-            {
-                "pokestop_id": "725520b0ca3837daba0f82b4f415b1c0.16",
-                "name": "Gin\u00e1sio High Performace Leiria",
-                "latitude": 39.740017,
-                "longitude": -8.803766
-            },
-            {
-                "pokestop_id": "97503fe58f8c34df908b27df01c0cfa8.16",
-                "name": "Marco do Correio - Rua Jo\u00e3o XXI",
-                "latitude": 39.741588,
-                "longitude": -8.805421
-            },
-            {
-                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
-                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
-                "latitude": 39.745253,
-                "longitude": -8.80654
-            },
-            {
-                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
-                "name": "Campo De T\u00e9nis",
-                "latitude": 39.740902,
-                "longitude": -8.933727
-            },
-            {
-                "pokestop_id": "d60b08e15ba544f79d1f828d7adc2109.11",
-                "name": "Jardim de Leiria",
-                "latitude": 39.744338,
-                "longitude": -8.806031
             }
         ]
     },
@@ -938,6 +962,12 @@
                 "name": "O Prisioneiro",
                 "latitude": 39.744766,
                 "longitude": -8.81039
+            },
+            {
+                "pokestop_id": "cca9f6153cbc476eb8d40e954e2363fe.16",
+                "name": "Rotary Club De Leiria",
+                "latitude": 39.735202,
+                "longitude": -8.798938
             }
         ]
     },
