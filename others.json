@@ -160,6 +160,12 @@
                 "longitude": -8.801047
             },
             {
+                "pokestop_id": "b45d709e2d704d54aa402db61ddd284c.16",
+                "name": "Live gym Almuinha Grande",
+                "latitude": 39.75227,
+                "longitude": -8.813364
+            },
+            {
                 "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
                 "name": "Miradouro Leiria",
                 "latitude": 39.743941,
@@ -296,6 +302,12 @@
                 "name": "Biblioteca Municipal Afonso Lopes Vieira",
                 "latitude": 39.743917,
                 "longitude": -8.810087
+            },
+            {
+                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
+                "name": "EL REI D. AFONSO I",
+                "latitude": 39.748442,
+                "longitude": -8.810054
             },
             {
                 "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
@@ -934,6 +946,12 @@
                 "longitude": -8.812097
             },
             {
+                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
+                "name": "Centro de Linguas Chinesas",
+                "latitude": 39.740291,
+                "longitude": -8.811645
+            },
+            {
                 "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
                 "name": "D.Isabel",
                 "latitude": 39.749043,
@@ -1164,6 +1182,30 @@
         ]
     },
     {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Cottonee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Cottonee",
+        "quest_reward_pokemon_id": 546,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
+                "name": "Kid's Web",
+                "latitude": 39.732741,
+                "longitude": -8.79703
+            },
+            {
+                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
+                "name": "S.L.Anti",
+                "latitude": 39.743737,
+                "longitude": -8.805579
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Charizard Mega Energy",
         "quest_reward_type": "Energy",
@@ -1196,24 +1238,6 @@
                 "name": "Posto de Correios CTT",
                 "latitude": 39.748012,
                 "longitude": -8.927626
-            }
-        ]
-    },
-    {
-        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
-        "quest_reward": "Cottonee",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Cottonee",
-        "quest_reward_pokemon_id": 546,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
-                "name": "S.L.Anti",
-                "latitude": 39.743737,
-                "longitude": -8.805579
             }
         ]
     },
