@@ -82,10 +82,22 @@
                 "longitude": -8.930843
             },
             {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
+            },
+            {
                 "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
                 "name": "Igreja Paroquial da Marinha Grande",
                 "latitude": 39.750842,
                 "longitude": -8.931292
+            },
+            {
+                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
+                "name": "Ponte pedonal norte do Parque das Bernardas",
+                "latitude": 39.738465,
+                "longitude": -8.929156
             }
         ]
     },
@@ -174,6 +186,42 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "Surskit",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Surskit",
+        "quest_reward_pokemon_id": 283,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            },
+            {
+                "pokestop_id": "2eb6fcf025c9474d971550339c9512ae.11",
+                "name": "Correios Leiria (Post Office)",
+                "latitude": 39.743073,
+                "longitude": -8.808473
+            },
+            {
+                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
+                "name": "Sport Oper\u00e1rio Marinhense",
+                "latitude": 39.749997,
+                "longitude": -8.926437
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon",
         "quest_reward": "Cubchoo",
         "quest_reward_type": "Pokemon",
@@ -188,6 +236,12 @@
                 "name": "Painel de Informa\u00e7\u00f5es - Avenida dos Combatentes",
                 "latitude": 39.74274,
                 "longitude": -8.809864
+            },
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
             }
         ]
     },
@@ -208,6 +262,12 @@
                 "longitude": -8.929618
             },
             {
+                "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
+                "name": "Azinheira",
+                "latitude": 39.747237,
+                "longitude": -8.80158
+            },
+            {
                 "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
                 "name": "Praceta Abraao Zacuto",
                 "latitude": 39.74904,
@@ -224,36 +284,6 @@
                 "name": "Ponte Azul",
                 "latitude": 39.749013,
                 "longitude": -8.801741
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "Surskit",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Surskit",
-        "quest_reward_pokemon_id": 283,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2eb6fcf025c9474d971550339c9512ae.11",
-                "name": "Correios Leiria (Post Office)",
-                "latitude": 39.743073,
-                "longitude": -8.808473
-            },
-            {
-                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
-                "name": "Sport Oper\u00e1rio Marinhense",
-                "latitude": 39.749997,
-                "longitude": -8.926437
-            },
-            {
-                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
-                "name": "Clube Acad\u00e9mico Leiria",
-                "latitude": 39.738592,
-                "longitude": -8.80671
             }
         ]
     },
@@ -492,6 +522,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "75a3dd9324834f55888123994e3d676a.16",
+                "name": "Torre Da Se",
+                "latitude": 39.746558,
+                "longitude": -8.807836
+            },
+            {
+                "pokestop_id": "7f106d04f2634c0c975e841b620b9816.16",
+                "name": "Oficina da M\u00fasica",
+                "latitude": 39.745717,
+                "longitude": -8.933685
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 different species of Pok\u00e9mon",
         "quest_reward": "Golett",
         "quest_reward_type": "Pokemon",
@@ -512,24 +566,6 @@
                 "name": "Clube dos ca\u00e7adores",
                 "latitude": 39.751363,
                 "longitude": -8.937626
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "7f106d04f2634c0c975e841b620b9816.16",
-                "name": "Oficina da M\u00fasica",
-                "latitude": 39.745717,
-                "longitude": -8.933685
             }
         ]
     },
@@ -734,6 +770,24 @@
                 "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
                 "latitude": 39.747526,
                 "longitude": -8.93077
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "10 Venusaur Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Venusaur",
+        "quest_reward_pokemon_id": 3,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
+                "name": "Campo de Treino de Arremesso",
+                "latitude": 39.736335,
+                "longitude": -8.929017
             }
         ]
     },
