@@ -70,6 +70,12 @@
                 "longitude": -8.8064
             },
             {
+                "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
+                "name": "Rainha Santa Isabel",
+                "latitude": 39.745508,
+                "longitude": -8.811107
+            },
+            {
                 "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
                 "name": "Campo de Treino de Arremesso",
                 "latitude": 39.736335,
@@ -104,6 +110,12 @@
                 "name": "Clube dos ca\u00e7adores",
                 "latitude": 39.751363,
                 "longitude": -8.937626
+            },
+            {
+                "pokestop_id": "9ca6a62285044856b76ecea9607f63bb.16",
+                "name": "Campo De Futebol A.C. Marinhense",
+                "latitude": 39.749818,
+                "longitude": -8.936966
             }
         ]
     },
@@ -164,6 +176,12 @@
                 "name": "Casa Da Cultura",
                 "latitude": 39.749033,
                 "longitude": -8.933087
+            },
+            {
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
             },
             {
                 "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
@@ -414,6 +432,48 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Ralts",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Ralts",
+        "quest_reward_pokemon_id": 280,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1d22b403b3e849439d80774f339186b4.16",
+                "name": "Azulejos Leiria S\u00e9culo XIX",
+                "latitude": 39.742721,
+                "longitude": -8.81045
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Scyther",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scyther",
+        "quest_reward_pokemon_id": 123,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
+            }
+        ]
+    },
+    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Skrelp",
         "quest_reward_type": "Pokemon",
@@ -428,6 +488,12 @@
                 "name": "Fonte Quinta da Matinha",
                 "latitude": 39.755402,
                 "longitude": -8.807929
+            },
+            {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
             },
             {
                 "pokestop_id": "5329f6a14e024a0a95900ff685a0d32f.16",
@@ -484,6 +550,12 @@
                 "longitude": -8.805202
             },
             {
+                "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
+                "name": "CEMFIR - Culturismo",
+                "latitude": 39.752054,
+                "longitude": -8.92786
+            },
+            {
                 "pokestop_id": "9940cb7614d0496c8ccb12329656ceff.16",
                 "name": "O Principezinho",
                 "latitude": 39.745269,
@@ -524,6 +596,12 @@
                 "name": "Congrega\u00e7\u00e3o Crist\u00e3 em Portugal.",
                 "latitude": 39.746828,
                 "longitude": -8.814662
+            },
+            {
+                "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
+                "name": "Malta do Aerosol",
+                "latitude": 39.750045,
+                "longitude": -8.935074
             }
         ]
     },
@@ -556,6 +634,12 @@
                 "longitude": -8.931811
             },
             {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            },
+            {
                 "pokestop_id": "a1201aefcb9633119104210d8de69d51.16",
                 "name": "Slither Monsters",
                 "latitude": 39.746086,
@@ -582,30 +666,6 @@
         ]
     },
     {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
-                "name": "Igreja do cemit\u00e9rio da Marinha Grande",
-                "latitude": 39.745877,
-                "longitude": -8.932347
-            },
-            {
-                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
-                "name": "Ringue de futebol da Marinha Grande",
-                "latitude": 39.740808,
-                "longitude": -8.929041
-            }
-        ]
-    },
-    {
         "quest_description": "Purify 3 Pokemon",
         "quest_reward": "Absol",
         "quest_reward_type": "Pokemon",
@@ -615,6 +675,12 @@
         "quest_reward_pokemon_id": 359,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
             {
                 "pokestop_id": "44c4e82a70a73e23a89ed45b8d7d1e88.16",
                 "name": "Caixa Postal dos CTT - Quinta da Matinha",
@@ -644,6 +710,30 @@
                 "name": "Homenagem a Dr. An\u00edbal Couceiro",
                 "latitude": 39.750433,
                 "longitude": -8.932692
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
+                "name": "Igreja do cemit\u00e9rio da Marinha Grande",
+                "latitude": 39.745877,
+                "longitude": -8.932347
+            },
+            {
+                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
+                "name": "Ringue de futebol da Marinha Grande",
+                "latitude": 39.740808,
+                "longitude": -8.929041
             }
         ]
     },
@@ -834,6 +924,24 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Pidgeot Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Pidgeot",
+        "quest_reward_pokemon_id": 18,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "89dbb0af65bb450bb804eee0d872e639.16",
+                "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
+                "latitude": 39.740265,
+                "longitude": -8.929824
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 10 times",
         "quest_reward": "25 Pidgeot Mega Energy",
         "quest_reward_type": "Energy",
@@ -908,24 +1016,6 @@
                 "name": "Teatro Miguel Franco",
                 "latitude": 39.742692,
                 "longitude": -8.80773
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Ralts",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Ralts",
-        "quest_reward_pokemon_id": 280,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
-                "name": "Tribunal Administrativo e Fiscal De Leiria",
-                "latitude": 39.738257,
-                "longitude": -8.802019
             }
         ]
     },
