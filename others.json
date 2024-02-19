@@ -116,6 +116,12 @@
                 "name": "Escuteiros",
                 "latitude": 39.741841,
                 "longitude": -8.933249
+            },
+            {
+                "pokestop_id": "f5a72fe1b79349dcae11646b2d0de99a.11",
+                "name": "Mercado de Sant'ana",
+                "latitude": 39.74304,
+                "longitude": -8.807411
             }
         ]
     },
@@ -460,6 +466,12 @@
                 "longitude": -8.808147
             },
             {
+                "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
+                "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
+                "latitude": 39.740095,
+                "longitude": -8.811435
+            },
+            {
                 "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
                 "name": "Caixa Postal CTT - Guimarota",
                 "latitude": 39.732839,
@@ -542,6 +554,18 @@
                 "name": "Antigo Fontan\u00e1rio",
                 "latitude": 39.752154,
                 "longitude": -8.929224
+            },
+            {
+                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
+                "name": "Parque de merendas 2",
+                "latitude": 39.733159,
+                "longitude": -8.82037
+            },
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
             },
             {
                 "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
@@ -668,6 +692,12 @@
                 "name": "Correios Leiria (Post Office)",
                 "latitude": 39.743073,
                 "longitude": -8.808473
+            },
+            {
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
             },
             {
                 "pokestop_id": "692fb081edc349979975cb8a4a8d5af5.16",
@@ -948,6 +978,24 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Aggron Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Aggron",
+        "quest_reward_pokemon_id": 306,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "725520b0ca3837daba0f82b4f415b1c0.16",
+                "name": "Gin\u00e1sio High Performace Leiria",
+                "latitude": 39.740017,
+                "longitude": -8.803766
+            }
+        ]
+    },
+    {
         "quest_description": "Trade a Pok\u00e9mon",
         "quest_reward": "Shelmet",
         "quest_reward_type": "Pokemon",
@@ -1022,6 +1070,30 @@
                 "name": "O intelectual.",
                 "latitude": 39.747676,
                 "longitude": -8.813754
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Squirtle",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Squirtle",
+        "quest_reward_pokemon_id": 7,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a175686711784037833ee274d88813d8.16",
+                "name": "Galeria Manuel Artur Santos",
+                "latitude": 39.742898,
+                "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
             }
         ]
     },
@@ -1124,24 +1196,6 @@
                 "name": "Capela Sao Francisco",
                 "latitude": 39.748187,
                 "longitude": -8.803393
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 3 times",
-        "quest_reward": "Squirtle",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Squirtle",
-        "quest_reward_pokemon_id": 7,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
-                "name": "Clube Acad\u00e9mico Leiria",
-                "latitude": 39.738592,
-                "longitude": -8.80671
             }
         ]
     },
