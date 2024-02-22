@@ -1,6 +1,102 @@
 [
     {
         "quest_description": "Spin 10 Pok\u00e9Stops or Gyms",
+        "quest_reward": "10 Piplup Candy",
+        "quest_reward_type": "Candy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Candy",
+        "quest_reward_pokemon_name": "Piplup",
+        "quest_reward_pokemon_id": 393,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            },
+            {
+                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
+                "name": "Seu Nome Era Mural",
+                "latitude": 39.746244,
+                "longitude": -8.807457
+            },
+            {
+                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
+                "name": "Playcities Santo Agostinho",
+                "latitude": 39.741341,
+                "longitude": -8.801969
+            },
+            {
+                "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
+                "name": "Ponte Pedonal Sul",
+                "latitude": 39.748399,
+                "longitude": -8.93453
+            },
+            {
+                "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
+                "name": "B Your Own Hero",
+                "latitude": 39.750139,
+                "longitude": -8.803923
+            },
+            {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
+            },
+            {
+                "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
+                "name": "Azinheira",
+                "latitude": 39.747237,
+                "longitude": -8.80158
+            },
+            {
+                "pokestop_id": "8d0d519111594c7d9d556e143b4c9f08.16",
+                "name": "Rotary Club",
+                "latitude": 39.750458,
+                "longitude": -8.925748
+            },
+            {
+                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
+                "name": "Correios Post Office",
+                "latitude": 39.747622,
+                "longitude": -8.930452
+            },
+            {
+                "pokestop_id": "bec2eb07d3e344378617c29ab4eff35a.16",
+                "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
+                "latitude": 39.74317,
+                "longitude": -8.804189
+            },
+            {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
+            },
+            {
+                "pokestop_id": "cabb27e3442b493dac7065440e39f238.16",
+                "name": "Casa Oliveira Dias",
+                "latitude": 39.74247,
+                "longitude": -8.80407
+            },
+            {
+                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
+                "name": "Museu BVMG",
+                "latitude": 39.748136,
+                "longitude": -8.933859
+            },
+            {
+                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731526,
+                "longitude": -8.803604
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 10 Pok\u00e9Stops or Gyms",
         "quest_reward": "10 Chimchar Candy",
         "quest_reward_type": "Candy",
         "quest_reward_amount": 10,
@@ -22,6 +118,12 @@
                 "longitude": -8.811496
             },
             {
+                "pokestop_id": "0b5569737a8438f0abfdf718370b73eb.16",
+                "name": "Amieiro",
+                "latitude": 39.733619,
+                "longitude": -8.797415
+            },
+            {
                 "pokestop_id": "2ee5e9aa78c2326ca47a6d1fcb42d8dc.16",
                 "name": "O pastor",
                 "latitude": 39.748327,
@@ -38,6 +140,12 @@
                 "name": "Clube M.M.G",
                 "latitude": 39.749647,
                 "longitude": -8.932786
+            },
+            {
+                "pokestop_id": "44c4e82a70a73e23a89ed45b8d7d1e88.16",
+                "name": "Caixa Postal dos CTT - Quinta da Matinha",
+                "latitude": 39.755207,
+                "longitude": -8.806823
             },
             {
                 "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
@@ -80,522 +188,12 @@
                 "name": "Biblioteca Municipal",
                 "latitude": 39.749895,
                 "longitude": -8.934498
-            }
-        ]
-    },
-    {
-        "quest_description": "Hatch 3 Eggs",
-        "quest_reward": "1 Sinnoh Stone",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Sinnoh Stone",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1106,
-        "pokestops": [
-            {
-                "pokestop_id": "097b8d30832a4101bafeea7d922a379e.16",
-                "name": "M\u00e3os vidreiras que s\u00f3 fazem obras de arte.",
-                "latitude": 39.741278,
-                "longitude": -8.929531
-            },
-            {
-                "pokestop_id": "098af78ab679495aadb944e4da01fd49.11",
-                "name": "Ultramar",
-                "latitude": 39.745448,
-                "longitude": -8.805844
-            },
-            {
-                "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
-                "name": "Pra\u00e7a do Emigrante",
-                "latitude": 39.748896,
-                "longitude": -8.80445
-            },
-            {
-                "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
-                "name": "CENFIM",
-                "latitude": 39.749026,
-                "longitude": -8.928307
-            },
-            {
-                "pokestop_id": "3a831ae2cff24109950a47a9e67ea30a.16",
-                "name": "AMM - Associa\u00e7\u00e3o Marinha em Movimento",
-                "latitude": 39.750545,
-                "longitude": -8.925972
-            },
-            {
-                "pokestop_id": "54ed01ac248146bab4c80325d8c3a9ea.16",
-                "name": "Centro De Turismo",
-                "latitude": 39.743896,
-                "longitude": -8.806459
-            },
-            {
-                "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
-                "name": "Bairro dos Anjos",
-                "latitude": 39.744958,
-                "longitude": -8.804361
-            },
-            {
-                "pokestop_id": "64028475605436c098d172cef7a27671.16",
-                "name": "Arquivo Municipal de Leiria",
-                "latitude": 39.731487,
-                "longitude": -8.794807
-            },
-            {
-                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
-                "name": "Clube de campismo da Marinha Grande",
-                "latitude": 39.747495,
-                "longitude": -8.935422
-            },
-            {
-                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
-                "name": "Arcos - Leiria",
-                "latitude": 39.746016,
-                "longitude": -8.80598
-            },
-            {
-                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
-                "name": "Gin\u00e1sio Blue Fitness Club",
-                "latitude": 39.730321,
-                "longitude": -8.810623
-            },
-            {
-                "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
-                "name": "Calv\u00e1rio",
-                "latitude": 39.746362,
-                "longitude": -8.807238
-            },
-            {
-                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
-                "name": "Wellness life",
-                "latitude": 39.751779,
-                "longitude": -8.929718
-            },
-            {
-                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
-                "name": "Clube Acad\u00e9mico Leiria",
-                "latitude": 39.738592,
-                "longitude": -8.80671
-            }
-        ]
-    },
-    {
-        "quest_description": "Hatch 2 Eggs",
-        "quest_reward": "10 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "0a29459869b0327cba66cebbd13ecbae.16",
-                "name": "Escola de Dan\u00e7a Clara Le\u00e3o",
-                "latitude": 39.747173,
-                "longitude": -8.812967
-            },
-            {
-                "pokestop_id": "0d8a08d8b1373ea6aa0dda39ef0333c1.16",
-                "name": "m|i|mo - Museu da Imagem em Movimento",
-                "latitude": 39.747339,
-                "longitude": -8.807318
-            },
-            {
-                "pokestop_id": "0df8fea10368498f97ff03c53648024c.16",
-                "name": "Museu S C P",
-                "latitude": 39.746818,
-                "longitude": -8.812759
-            },
-            {
-                "pokestop_id": "15d0bdf2c3a64195981d4eab2368a386.16",
-                "name": "Painel de Azulejos D. Nuno \u00c1lvares Pereira",
-                "latitude": 39.750326,
-                "longitude": -8.930843
-            },
-            {
-                "pokestop_id": "176cb9f808b441daae85466c3d053623.11",
-                "name": "Fonte Luminosa",
-                "latitude": 39.743649,
-                "longitude": -8.806831
-            },
-            {
-                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
-                "name": "Fonte De \u00c1gua Quente",
-                "latitude": 39.747102,
-                "longitude": -8.801658
-            },
-            {
-                "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
-                "name": "Art",
-                "latitude": 39.750309,
-                "longitude": -8.932088
-            },
-            {
-                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
-                "name": "Campo de Futebol",
-                "latitude": 39.736816,
-                "longitude": -8.804067
-            },
-            {
-                "pokestop_id": "23531773d4443b98b0a92a776ac62f48.16",
-                "name": "Caixa Postal CTT - Marinha Grande",
-                "latitude": 39.750744,
-                "longitude": -8.92763
-            },
-            {
-                "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
-                "name": "Pharmacia",
-                "latitude": 39.745802,
-                "longitude": -8.807245
-            },
-            {
-                "pokestop_id": "266b43dbec17425a81f8256b14f1c2cd.16",
-                "name": "Rodovi\u00e1ria Do Lis",
-                "latitude": 39.745095,
-                "longitude": -8.805202
-            },
-            {
-                "pokestop_id": "330b55eef01835f4a957bf65ff5c397e.16",
-                "name": "Igreja Evang\u00e9lica de Jesus Minist\u00e9rio Pentecostal",
-                "latitude": 39.753193,
-                "longitude": -8.933195
-            },
-            {
-                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
-                "name": "Gin\u00e1sio ao Ar Livre",
-                "latitude": 39.750817,
-                "longitude": -8.929649
-            },
-            {
-                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
-                "name": "Audit\u00f3rio",
-                "latitude": 39.749766,
-                "longitude": -8.926395
-            },
-            {
-                "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
-                "name": "F\u00e9nix Muralhartes",
-                "latitude": 39.747251,
-                "longitude": -8.808742
-            },
-            {
-                "pokestop_id": "6ca6691f59ca45f3922e750eca164a13.16",
-                "name": "COOPPOVO",
-                "latitude": 39.750118,
-                "longitude": -8.926915
-            },
-            {
-                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
-                "name": "EL REI D. AFONSO I",
-                "latitude": 39.748442,
-                "longitude": -8.810054
-            },
-            {
-                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
-                "name": "Campo Polidesportivo",
-                "latitude": 39.732954,
-                "longitude": -8.809802
-            },
-            {
-                "pokestop_id": "88201671521f45388828ef0e2d2d3f8a.16",
-                "name": "Clube dos ca\u00e7adores",
-                "latitude": 39.751363,
-                "longitude": -8.937626
-            },
-            {
-                "pokestop_id": "897ec754d2833022ae683fdeb8474d10.16",
-                "name": "Pinheiro Manso",
-                "latitude": 39.735547,
-                "longitude": -8.796467
-            },
-            {
-                "pokestop_id": "8bc82266c02148c0974687ddf80f96f7.16",
-                "name": "LeiriaMini - Parque Infantil",
-                "latitude": 39.733184,
-                "longitude": -8.824761
-            },
-            {
-                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
-                "name": "Ponte El-Rei D. Dinis",
-                "latitude": 39.743323,
-                "longitude": -8.804477
-            },
-            {
-                "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
-                "name": "Igreja de S\u00e3o Pedro",
-                "latitude": 39.74725,
-                "longitude": -8.807508
-            },
-            {
-                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
-                "name": "Cal\u00e7ada Portuguesa",
-                "latitude": 39.744753,
-                "longitude": -8.804849
-            },
-            {
-                "pokestop_id": "97503fe58f8c34df908b27df01c0cfa8.16",
-                "name": "Marco do Correio - Rua Jo\u00e3o XXI",
-                "latitude": 39.741588,
-                "longitude": -8.805421
-            },
-            {
-                "pokestop_id": "9b830e47d8cc3ccc90f39664428f7a91.16",
-                "name": "O Vidraceiro",
-                "latitude": 39.750005,
-                "longitude": -8.931744
-            },
-            {
-                "pokestop_id": "9baafb93f8093e628262f96c06541c99.16",
-                "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
-                "latitude": 39.743218,
-                "longitude": -8.812164
-            },
-            {
-                "pokestop_id": "a054259cd2763c80b9de8c2c09096fbe.16",
-                "name": "Poesia Portuguesa de Janela",
-                "latitude": 39.749735,
-                "longitude": -8.930832
-            },
-            {
-                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
-                "name": "Parque Av. Marques Pombal",
-                "latitude": 39.741132,
-                "longitude": -8.801663
-            },
-            {
-                "pokestop_id": "b90bc99759c643c1b07a37a91179a8fd.16",
-                "name": "Mural Rei das Runas",
-                "latitude": 39.747825,
-                "longitude": -8.930829
-            },
-            {
-                "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
-                "name": "Liceu Rodrigues Lobo",
-                "latitude": 39.742257,
-                "longitude": -8.803918
-            },
-            {
-                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
-                "name": "Caixa Postal CTT - Guimarota",
-                "latitude": 39.732839,
-                "longitude": -8.795816
-            },
-            {
-                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
-                "name": "As Cisternas do Castelo",
-                "latitude": 39.747505,
-                "longitude": -8.809466
-            },
-            {
-                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
-                "name": "Sport Oper\u00e1rio Marinhense",
-                "latitude": 39.749997,
-                "longitude": -8.926437
-            },
-            {
-                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
-                "name": "Anfiteatro Do Parque Da Cerca",
-                "latitude": 39.749604,
-                "longitude": -8.934917
-            },
-            {
-                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
-                "name": "Marinha Grande",
-                "latitude": 39.747761,
-                "longitude": -8.936047
-            },
-            {
-                "pokestop_id": "dcd6e2e0c82d308d9c33f719869d3f54.16",
-                "name": "Igreja Deus Prover\u00e1",
-                "latitude": 39.748424,
-                "longitude": -8.80807
-            },
-            {
-                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
-                "name": "Zona de lazer",
-                "latitude": 39.737598,
-                "longitude": -8.928606
-            },
-            {
-                "pokestop_id": "ef40698afdf14bf2807803376584a143.16",
-                "name": "Pa\u00e7o D.Jo\u00e3o I",
-                "latitude": 39.746508,
-                "longitude": -8.809111
-            },
-            {
-                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
-                "name": "ESSLEI",
-                "latitude": 39.732661,
-                "longitude": -8.820675
-            },
-            {
-                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
-                "name": "Est\u00e1tua Vacas",
-                "latitude": 39.745118,
-                "longitude": -8.804209
-            },
-            {
-                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
-                "name": "Lady in Red",
-                "latitude": 39.741869,
-                "longitude": -8.805353
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 10 Pok\u00e9Stops or Gyms",
-        "quest_reward": "10 Turtwig Candy",
-        "quest_reward_type": "Candy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Candy",
-        "quest_reward_pokemon_name": "Turtwig",
-        "quest_reward_pokemon_id": 387,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "0ea1aadc3e4e30b09db1f7c8c06cde31.16",
-                "name": "Caixa Postal CTT - Av. Jos\u00e9 Greg\u00f3rio",
-                "latitude": 39.754491,
-                "longitude": -8.932577
-            },
-            {
-                "pokestop_id": "1755754dac5042c0b8f67ad2154f84b8.16",
-                "name": "Chafariz",
-                "latitude": 39.74968,
-                "longitude": -8.933593
-            },
-            {
-                "pokestop_id": "21cf9fda632946cb88d62d3d0b8d852a.16",
-                "name": "Bras\u00e3o Jardim Lu\u00eds De Cam\u00f5es at Marinha Grande",
-                "latitude": 39.750854,
-                "longitude": -8.929265
-            },
-            {
-                "pokestop_id": "245e040840254bcebe902eeba5f251b5.16",
-                "name": "Pr\u00e9dio Marqu\u00eas da Cruz",
-                "latitude": 39.748039,
-                "longitude": -8.805136
-            },
-            {
-                "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
-                "name": "Igreja do cemit\u00e9rio da Marinha Grande",
-                "latitude": 39.745877,
-                "longitude": -8.932347
-            },
-            {
-                "pokestop_id": "417b2e2f49203592975a5ba1bad9e8f7.16",
-                "name": "Placa informativa \u201cseja amigo do seu c\u00e3o\u201d",
-                "latitude": 39.750484,
-                "longitude": -8.936343
-            },
-            {
-                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
-                "name": "Mural pintura no vidro",
-                "latitude": 39.740536,
-                "longitude": -8.929225
-            },
-            {
-                "pokestop_id": "5329f6a14e024a0a95900ff685a0d32f.16",
-                "name": "Antigo Fontan\u00e1rio",
-                "latitude": 39.752154,
-                "longitude": -8.929224
-            },
-            {
-                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
-                "name": "McDonald\u2019s-Leiria",
-                "latitude": 39.73516,
-                "longitude": -8.799637
-            },
-            {
-                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
-                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
-                "latitude": 39.745489,
-                "longitude": -8.933253
-            },
-            {
-                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
-                "name": "Zona De Merendas",
-                "latitude": 39.7347,
-                "longitude": -8.796927
             },
-            {
-                "pokestop_id": "7f106d04f2634c0c975e841b620b9816.16",
-                "name": "Oficina da M\u00fasica",
-                "latitude": 39.745717,
-                "longitude": -8.933685
-            },
-            {
-                "pokestop_id": "8968f9c2f8284e1da37b0124e9ba65ea.16",
-                "name": "Campo Desportivo Da Seixa",
-                "latitude": 39.7328,
-                "longitude": -8.800894
-            },
-            {
-                "pokestop_id": "8ed0ec246a4e4238a11b7eef7444c5d4.16",
-                "name": "Ponte pedonal sobre a ribeira das bernardas",
-                "latitude": 39.744965,
-                "longitude": -8.933162
-            },
-            {
-                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
-                "name": "Estravag\u00e1rio Graffiti",
-                "latitude": 39.752932,
-                "longitude": -8.933662
-            },
-            {
-                "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
-                "name": "Os vizinhos associa\u00e7\u00e3o cultural",
-                "latitude": 39.741479,
-                "longitude": -8.936194
-            },
-            {
-                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
-                "name": "Edif\u00edcio Ferro de Engomar",
-                "latitude": 39.740629,
-                "longitude": -8.802995
-            },
-            {
-                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
-                "name": "Antigo Bebedouro",
-                "latitude": 39.750713,
-                "longitude": -8.926943
-            },
-            {
-                "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
-                "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
-                "latitude": 39.741652,
-                "longitude": -8.929112
-            },
-            {
-                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
-                "name": "Play City",
-                "latitude": 39.747179,
-                "longitude": -8.802109
-            },
-            {
-                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731552,
-                "longitude": -8.809623
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Scyther",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Scyther",
-        "quest_reward_pokemon_id": 123,
-        "quest_reward_item_id": 0,
-        "pokestops": [
             {
-                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
-                "name": "Black Cat",
-                "latitude": 39.745372,
-                "longitude": -8.807148
+                "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
+                "name": "\u00c1rea De Recreio",
+                "latitude": 39.745761,
+                "longitude": -8.934351
             }
         ]
     },
@@ -609,6 +207,12 @@
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 1,
         "pokestops": [
+            {
+                "pokestop_id": "09211576d80e30c3b6007b0d72d8cf96.16",
+                "name": "Azulejo Bairro dos Anjos",
+                "latitude": 39.744443,
+                "longitude": -8.804282
+            },
             {
                 "pokestop_id": "17b2cd0ad9d434b8a10e960f0b4171ba.16",
                 "name": "Parque desportivo de S.Rom\u00e3o",
@@ -664,16 +268,34 @@
                 "longitude": -8.808424
             },
             {
+                "pokestop_id": "4dd2441d1fe54087a6b85d3e1035fe3c.16",
+                "name": "Sede Santa Casa Da Miseric\u00f3rdia",
+                "latitude": 39.744101,
+                "longitude": -8.804625
+            },
+            {
                 "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
                 "name": "Campo Basketball",
                 "latitude": 39.746655,
                 "longitude": -8.802376
             },
             {
+                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
+                "name": "Parque de S\u00e3o Rom\u00e3o",
+                "latitude": 39.733442,
+                "longitude": -8.797748
+            },
+            {
                 "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
                 "name": "Lago Santo Agostinho",
                 "latitude": 39.74149,
                 "longitude": -8.801741
+            },
+            {
+                "pokestop_id": "5e4fa7ae2da24304ad671e6be0e330a4.16",
+                "name": "Ponte pedonal do parque das Almoinhas",
+                "latitude": 39.751479,
+                "longitude": -8.813373
             },
             {
                 "pokestop_id": "60d0640e32b531d1a57e5a3aa77d92a0.16",
@@ -796,6 +418,12 @@
                 "longitude": -8.804645
             },
             {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
+            },
+            {
                 "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
                 "name": "Malta do Aerosol",
                 "latitude": 39.750045,
@@ -850,6 +478,12 @@
                 "longitude": -8.935386
             },
             {
+                "pokestop_id": "eb09f8325d3b4095b70b9b37cd92fb6e.16",
+                "name": "Cabana do Parque da Cerca",
+                "latitude": 39.74824,
+                "longitude": -8.935596
+            },
+            {
                 "pokestop_id": "eb4ed26ece984942b87a28477de84568.16",
                 "name": "IPL - Unidade de investiga\u00e7\u00e3o",
                 "latitude": 39.74349,
@@ -890,6 +524,594 @@
                 "name": "Xilofone M\u00e1rmore",
                 "latitude": 39.741581,
                 "longitude": -8.802014
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch 3 Eggs",
+        "quest_reward": "1 Sinnoh Stone",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Sinnoh Stone",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1106,
+        "pokestops": [
+            {
+                "pokestop_id": "097b8d30832a4101bafeea7d922a379e.16",
+                "name": "M\u00e3os vidreiras que s\u00f3 fazem obras de arte.",
+                "latitude": 39.741278,
+                "longitude": -8.929531
+            },
+            {
+                "pokestop_id": "098af78ab679495aadb944e4da01fd49.11",
+                "name": "Ultramar",
+                "latitude": 39.745448,
+                "longitude": -8.805844
+            },
+            {
+                "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
+                "name": "Pra\u00e7a do Emigrante",
+                "latitude": 39.748896,
+                "longitude": -8.80445
+            },
+            {
+                "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
+                "name": "CENFIM",
+                "latitude": 39.749026,
+                "longitude": -8.928307
+            },
+            {
+                "pokestop_id": "3a831ae2cff24109950a47a9e67ea30a.16",
+                "name": "AMM - Associa\u00e7\u00e3o Marinha em Movimento",
+                "latitude": 39.750545,
+                "longitude": -8.925972
+            },
+            {
+                "pokestop_id": "54ed01ac248146bab4c80325d8c3a9ea.16",
+                "name": "Centro De Turismo",
+                "latitude": 39.743896,
+                "longitude": -8.806459
+            },
+            {
+                "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
+                "name": "Plataforma de \u00e1gua",
+                "latitude": 39.748981,
+                "longitude": -8.934711
+            },
+            {
+                "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
+                "name": "Bairro dos Anjos",
+                "latitude": 39.744958,
+                "longitude": -8.804361
+            },
+            {
+                "pokestop_id": "64028475605436c098d172cef7a27671.16",
+                "name": "Arquivo Municipal de Leiria",
+                "latitude": 39.731487,
+                "longitude": -8.794807
+            },
+            {
+                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
+                "name": "Clube de campismo da Marinha Grande",
+                "latitude": 39.747495,
+                "longitude": -8.935422
+            },
+            {
+                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
+                "name": "Arcos - Leiria",
+                "latitude": 39.746016,
+                "longitude": -8.80598
+            },
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
+            },
+            {
+                "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
+                "name": "Calv\u00e1rio",
+                "latitude": 39.746362,
+                "longitude": -8.807238
+            },
+            {
+                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
+                "name": "Wellness life",
+                "latitude": 39.751779,
+                "longitude": -8.929718
+            },
+            {
+                "pokestop_id": "e4f6ae5d813f4e46af63c7039bdeb9ff.16",
+                "name": "Clube Acad\u00e9mico Leiria",
+                "latitude": 39.738592,
+                "longitude": -8.80671
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "10 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "0a29459869b0327cba66cebbd13ecbae.16",
+                "name": "Escola de Dan\u00e7a Clara Le\u00e3o",
+                "latitude": 39.747173,
+                "longitude": -8.812967
+            },
+            {
+                "pokestop_id": "0d8a08d8b1373ea6aa0dda39ef0333c1.16",
+                "name": "m|i|mo - Museu da Imagem em Movimento",
+                "latitude": 39.747339,
+                "longitude": -8.807318
+            },
+            {
+                "pokestop_id": "0df8fea10368498f97ff03c53648024c.16",
+                "name": "Museu S C P",
+                "latitude": 39.746818,
+                "longitude": -8.812759
+            },
+            {
+                "pokestop_id": "143767309db947358b481a9f9c40ae56.16",
+                "name": "Parque Infantil Almuinha Grande",
+                "latitude": 39.751567,
+                "longitude": -8.81027
+            },
+            {
+                "pokestop_id": "15d0bdf2c3a64195981d4eab2368a386.16",
+                "name": "Painel de Azulejos D. Nuno \u00c1lvares Pereira",
+                "latitude": 39.750326,
+                "longitude": -8.930843
+            },
+            {
+                "pokestop_id": "176cb9f808b441daae85466c3d053623.11",
+                "name": "Fonte Luminosa",
+                "latitude": 39.743649,
+                "longitude": -8.806831
+            },
+            {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
+            },
+            {
+                "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
+                "name": "Art",
+                "latitude": 39.750309,
+                "longitude": -8.932088
+            },
+            {
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067
+            },
+            {
+                "pokestop_id": "23531773d4443b98b0a92a776ac62f48.16",
+                "name": "Caixa Postal CTT - Marinha Grande",
+                "latitude": 39.750744,
+                "longitude": -8.92763
+            },
+            {
+                "pokestop_id": "25da6da86d7b4e059a263ea1ba0947bf.16",
+                "name": "Pharmacia",
+                "latitude": 39.745802,
+                "longitude": -8.807245
+            },
+            {
+                "pokestop_id": "266b43dbec17425a81f8256b14f1c2cd.16",
+                "name": "Rodovi\u00e1ria Do Lis",
+                "latitude": 39.745095,
+                "longitude": -8.805202
+            },
+            {
+                "pokestop_id": "330b55eef01835f4a957bf65ff5c397e.16",
+                "name": "Igreja Evang\u00e9lica de Jesus Minist\u00e9rio Pentecostal",
+                "latitude": 39.753193,
+                "longitude": -8.933195
+            },
+            {
+                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
+                "name": "Gin\u00e1sio ao Ar Livre",
+                "latitude": 39.750817,
+                "longitude": -8.929649
+            },
+            {
+                "pokestop_id": "4aa5e2170a2c44e09a15d67b534da5f7.16",
+                "name": "Audit\u00f3rio",
+                "latitude": 39.749766,
+                "longitude": -8.926395
+            },
+            {
+                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
+                "name": "Ponte Pedonal Jardim da Almuinha",
+                "latitude": 39.751736,
+                "longitude": -8.810436
+            },
+            {
+                "pokestop_id": "54470ca40d054e83855b374a2ada04af.16",
+                "name": "F\u00e9nix Muralhartes",
+                "latitude": 39.747251,
+                "longitude": -8.808742
+            },
+            {
+                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
+                "name": "Leiria Shopping",
+                "latitude": 39.732373,
+                "longitude": -8.824896
+            },
+            {
+                "pokestop_id": "6ca6691f59ca45f3922e750eca164a13.16",
+                "name": "COOPPOVO",
+                "latitude": 39.750118,
+                "longitude": -8.926915
+            },
+            {
+                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
+                "name": "EL REI D. AFONSO I",
+                "latitude": 39.748442,
+                "longitude": -8.810054
+            },
+            {
+                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
+                "name": "Campo Polidesportivo",
+                "latitude": 39.732954,
+                "longitude": -8.809802
+            },
+            {
+                "pokestop_id": "88201671521f45388828ef0e2d2d3f8a.16",
+                "name": "Clube dos ca\u00e7adores",
+                "latitude": 39.751363,
+                "longitude": -8.937626
+            },
+            {
+                "pokestop_id": "897ec754d2833022ae683fdeb8474d10.16",
+                "name": "Pinheiro Manso",
+                "latitude": 39.735547,
+                "longitude": -8.796467
+            },
+            {
+                "pokestop_id": "8bc82266c02148c0974687ddf80f96f7.16",
+                "name": "LeiriaMini - Parque Infantil",
+                "latitude": 39.733184,
+                "longitude": -8.824761
+            },
+            {
+                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
+                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
+                "latitude": 39.750529,
+                "longitude": -8.803749
+            },
+            {
+                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
+                "name": "Ponte El-Rei D. Dinis",
+                "latitude": 39.743323,
+                "longitude": -8.804477
+            },
+            {
+                "pokestop_id": "9570f9301ee94144b79873b70f196623.11",
+                "name": "Igreja de S\u00e3o Pedro",
+                "latitude": 39.74725,
+                "longitude": -8.807508
+            },
+            {
+                "pokestop_id": "95d31038518e4c78ab66fdb7b2c5a65f.16",
+                "name": "Cal\u00e7ada Portuguesa",
+                "latitude": 39.744753,
+                "longitude": -8.804849
+            },
+            {
+                "pokestop_id": "97503fe58f8c34df908b27df01c0cfa8.16",
+                "name": "Marco do Correio - Rua Jo\u00e3o XXI",
+                "latitude": 39.741588,
+                "longitude": -8.805421
+            },
+            {
+                "pokestop_id": "9b830e47d8cc3ccc90f39664428f7a91.16",
+                "name": "O Vidraceiro",
+                "latitude": 39.750005,
+                "longitude": -8.931744
+            },
+            {
+                "pokestop_id": "9baafb93f8093e628262f96c06541c99.16",
+                "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
+                "latitude": 39.743218,
+                "longitude": -8.812164
+            },
+            {
+                "pokestop_id": "a054259cd2763c80b9de8c2c09096fbe.16",
+                "name": "Poesia Portuguesa de Janela",
+                "latitude": 39.749735,
+                "longitude": -8.930832
+            },
+            {
+                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
+                "name": "Parque Av. Marques Pombal",
+                "latitude": 39.741132,
+                "longitude": -8.801663
+            },
+            {
+                "pokestop_id": "ac8054dc06544e05b1d10a47ff12b097.16",
+                "name": "Bras\u00e3o da Cidade",
+                "latitude": 39.743168,
+                "longitude": -8.805737
+            },
+            {
+                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.740902,
+                "longitude": -8.933727
+            },
+            {
+                "pokestop_id": "b90bc99759c643c1b07a37a91179a8fd.16",
+                "name": "Mural Rei das Runas",
+                "latitude": 39.747825,
+                "longitude": -8.930829
+            },
+            {
+                "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
+                "name": "Liceu Rodrigues Lobo",
+                "latitude": 39.742257,
+                "longitude": -8.803918
+            },
+            {
+                "pokestop_id": "c983f75da2dc4e82888c1ab02f7679a9.16",
+                "name": "Campo de Treino de Arremesso",
+                "latitude": 39.736335,
+                "longitude": -8.929017
+            },
+            {
+                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
+                "name": "Caixa Postal CTT - Guimarota",
+                "latitude": 39.732839,
+                "longitude": -8.795816
+            },
+            {
+                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
+                "name": "As Cisternas do Castelo",
+                "latitude": 39.747505,
+                "longitude": -8.809466
+            },
+            {
+                "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
+                "name": "Sport Oper\u00e1rio Marinhense",
+                "latitude": 39.749997,
+                "longitude": -8.926437
+            },
+            {
+                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
+                "name": "Anfiteatro Do Parque Da Cerca",
+                "latitude": 39.749604,
+                "longitude": -8.934917
+            },
+            {
+                "pokestop_id": "d4c892ef2a9830bcb1e3eb1541a35a8a.16",
+                "name": "Marinha Grande",
+                "latitude": 39.747761,
+                "longitude": -8.936047
+            },
+            {
+                "pokestop_id": "dcd6e2e0c82d308d9c33f719869d3f54.16",
+                "name": "Igreja Deus Prover\u00e1",
+                "latitude": 39.748424,
+                "longitude": -8.80807
+            },
+            {
+                "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
+                "name": "Janelas do Jardim da Almuinha",
+                "latitude": 39.751734,
+                "longitude": -8.80984
+            },
+            {
+                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
+                "name": "Zona de lazer",
+                "latitude": 39.737598,
+                "longitude": -8.928606
+            },
+            {
+                "pokestop_id": "ef40698afdf14bf2807803376584a143.16",
+                "name": "Pa\u00e7o D.Jo\u00e3o I",
+                "latitude": 39.746508,
+                "longitude": -8.809111
+            },
+            {
+                "pokestop_id": "f0fc69e0db2549b18c1bb2dee0f221e9.16",
+                "name": "ESSLEI",
+                "latitude": 39.732661,
+                "longitude": -8.820675
+            },
+            {
+                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
+                "name": "Est\u00e1tua Vacas",
+                "latitude": 39.745118,
+                "longitude": -8.804209
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 10 Pok\u00e9Stops or Gyms",
+        "quest_reward": "10 Turtwig Candy",
+        "quest_reward_type": "Candy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Candy",
+        "quest_reward_pokemon_name": "Turtwig",
+        "quest_reward_pokemon_id": 387,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0ea1aadc3e4e30b09db1f7c8c06cde31.16",
+                "name": "Caixa Postal CTT - Av. Jos\u00e9 Greg\u00f3rio",
+                "latitude": 39.754491,
+                "longitude": -8.932577
+            },
+            {
+                "pokestop_id": "1755754dac5042c0b8f67ad2154f84b8.16",
+                "name": "Chafariz",
+                "latitude": 39.74968,
+                "longitude": -8.933593
+            },
+            {
+                "pokestop_id": "21cf9fda632946cb88d62d3d0b8d852a.16",
+                "name": "Bras\u00e3o Jardim Lu\u00eds De Cam\u00f5es at Marinha Grande",
+                "latitude": 39.750854,
+                "longitude": -8.929265
+            },
+            {
+                "pokestop_id": "245e040840254bcebe902eeba5f251b5.16",
+                "name": "Pr\u00e9dio Marqu\u00eas da Cruz",
+                "latitude": 39.748039,
+                "longitude": -8.805136
+            },
+            {
+                "pokestop_id": "2eef5abe51ad487f95a1ebd034c9bdef.16",
+                "name": "Choupo Negro",
+                "latitude": 39.750236,
+                "longitude": -8.804137
+            },
+            {
+                "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
+                "name": "Igreja do cemit\u00e9rio da Marinha Grande",
+                "latitude": 39.745877,
+                "longitude": -8.932347
+            },
+            {
+                "pokestop_id": "417b2e2f49203592975a5ba1bad9e8f7.16",
+                "name": "Placa informativa \u201cseja amigo do seu c\u00e3o\u201d",
+                "latitude": 39.750484,
+                "longitude": -8.936343
+            },
+            {
+                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
+                "name": "Mural pintura no vidro",
+                "latitude": 39.740536,
+                "longitude": -8.929225
+            },
+            {
+                "pokestop_id": "5329f6a14e024a0a95900ff685a0d32f.16",
+                "name": "Antigo Fontan\u00e1rio",
+                "latitude": 39.752154,
+                "longitude": -8.929224
+            },
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
+                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
+                "latitude": 39.745489,
+                "longitude": -8.933253
+            },
+            {
+                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
+                "name": "Zona De Merendas",
+                "latitude": 39.7347,
+                "longitude": -8.796927
+            },
+            {
+                "pokestop_id": "7f106d04f2634c0c975e841b620b9816.16",
+                "name": "Oficina da M\u00fasica",
+                "latitude": 39.745717,
+                "longitude": -8.933685
+            },
+            {
+                "pokestop_id": "8968f9c2f8284e1da37b0124e9ba65ea.16",
+                "name": "Campo Desportivo Da Seixa",
+                "latitude": 39.7328,
+                "longitude": -8.800894
+            },
+            {
+                "pokestop_id": "8ed0ec246a4e4238a11b7eef7444c5d4.16",
+                "name": "Ponte pedonal sobre a ribeira das bernardas",
+                "latitude": 39.744965,
+                "longitude": -8.933162
+            },
+            {
+                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
+                "name": "Estravag\u00e1rio Graffiti",
+                "latitude": 39.752932,
+                "longitude": -8.933662
+            },
+            {
+                "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
+                "name": "Os vizinhos associa\u00e7\u00e3o cultural",
+                "latitude": 39.741479,
+                "longitude": -8.936194
+            },
+            {
+                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
+                "name": "Edif\u00edcio Ferro de Engomar",
+                "latitude": 39.740629,
+                "longitude": -8.802995
+            },
+            {
+                "pokestop_id": "cde8d22ea8694310aed757bec07e5f13.16",
+                "name": "Barragem do Rio Lis",
+                "latitude": 39.751189,
+                "longitude": -8.812916
+            },
+            {
+                "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
+                "name": "Antigo Bebedouro",
+                "latitude": 39.750713,
+                "longitude": -8.926943
+            },
+            {
+                "pokestop_id": "dc7256a2cf083ed281f4b0938df2df2a.16",
+                "name": "Associa\u00e7\u00e3o de Kickboxing e Muay Thai Hugo Matos",
+                "latitude": 39.747777,
+                "longitude": -8.93253
+            },
+            {
+                "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
+                "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
+                "latitude": 39.741652,
+                "longitude": -8.929112
+            },
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
+            },
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
+            }
+        ]
+    },
+    {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Scyther",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scyther",
+        "quest_reward_pokemon_id": 123,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
+                "name": "Black Cat",
+                "latitude": 39.745372,
+                "longitude": -8.807148
             }
         ]
     },
@@ -968,90 +1190,6 @@
                 "name": "Parque da Encarna\u00e7\u00e3o",
                 "latitude": 39.738905,
                 "longitude": -8.798901
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 10 Pok\u00e9Stops or Gyms",
-        "quest_reward": "10 Piplup Candy",
-        "quest_reward_type": "Candy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Candy",
-        "quest_reward_pokemon_name": "Piplup",
-        "quest_reward_pokemon_id": 393,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
-                "name": "Seu Nome Era Mural",
-                "latitude": 39.746244,
-                "longitude": -8.807457
-            },
-            {
-                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
-                "name": "Playcities Santo Agostinho",
-                "latitude": 39.741341,
-                "longitude": -8.801969
-            },
-            {
-                "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
-                "name": "Ponte Pedonal Sul",
-                "latitude": 39.748399,
-                "longitude": -8.93453
-            },
-            {
-                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
-                "name": "Playcity 003",
-                "latitude": 39.740875,
-                "longitude": -8.801093
-            },
-            {
-                "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
-                "name": "Azinheira",
-                "latitude": 39.747237,
-                "longitude": -8.80158
-            },
-            {
-                "pokestop_id": "8d0d519111594c7d9d556e143b4c9f08.16",
-                "name": "Rotary Club",
-                "latitude": 39.750458,
-                "longitude": -8.925748
-            },
-            {
-                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
-                "name": "Correios Post Office",
-                "latitude": 39.747622,
-                "longitude": -8.930452
-            },
-            {
-                "pokestop_id": "bec2eb07d3e344378617c29ab4eff35a.16",
-                "name": "Esta\u00e7\u00e3o de Treino - Jardim da Vala Real",
-                "latitude": 39.74317,
-                "longitude": -8.804189
-            },
-            {
-                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
-                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
-                "latitude": 39.745123,
-                "longitude": -8.797432
-            },
-            {
-                "pokestop_id": "cabb27e3442b493dac7065440e39f238.16",
-                "name": "Casa Oliveira Dias",
-                "latitude": 39.74247,
-                "longitude": -8.80407
-            },
-            {
-                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
-                "name": "Museu BVMG",
-                "latitude": 39.748136,
-                "longitude": -8.933859
-            },
-            {
-                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731526,
-                "longitude": -8.803604
             }
         ]
     },
