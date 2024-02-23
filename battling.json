@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Win 2 raids",
+        "quest_reward": "Weezing",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Weezing",
+        "quest_reward_pokemon_id": 110,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "09211576d80e30c3b6007b0d72d8cf96.16",
+                "name": "Azulejo Bairro dos Anjos",
+                "latitude": 39.744443,
+                "longitude": -8.804282
+            },
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            }
+        ]
+    },
+    {
         "quest_description": "Complete a PVP Battle",
         "quest_reward": "Meditite",
         "quest_reward_type": "Pokemon",
@@ -44,24 +68,6 @@
                 "name": "Museu do Vidro da Marinha Grande",
                 "latitude": 39.749484,
                 "longitude": -8.93346
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 2 raids",
-        "quest_reward": "Weezing",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Weezing",
-        "quest_reward_pokemon_id": 110,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
-                "name": "Galerias Horizonte",
-                "latitude": 39.745662,
-                "longitude": -8.930959
             }
         ]
     },
@@ -130,6 +136,12 @@
                 "longitude": -8.936343
             },
             {
+                "pokestop_id": "65f5766b89563c9ba8bab5894ffd9e4e.16",
+                "name": "Sede PSD Leiria",
+                "latitude": 39.742459,
+                "longitude": -8.808694
+            },
+            {
                 "pokestop_id": "6641122bc0ea406f917adfe1cfbd22e6.11",
                 "name": "Mercado Municipal",
                 "latitude": 39.749213,
@@ -140,6 +152,24 @@
                 "name": "Ponte Parque Infantil",
                 "latitude": 39.750377,
                 "longitude": -8.806284
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Aerodactyl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aerodactyl",
+        "quest_reward_pokemon_id": 142,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
+                "name": "Espa\u00e7o O Nariz",
+                "latitude": 39.740953,
+                "longitude": -8.803248
             }
         ]
     },
