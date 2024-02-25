@@ -184,6 +184,12 @@
                 "longitude": -8.795726
             },
             {
+                "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
+                "name": "Caritas Diocesana de Leiria",
+                "latitude": 39.73688,
+                "longitude": -8.806748
+            },
+            {
                 "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
                 "name": "Zona De Merendas",
                 "latitude": 39.7347,
@@ -686,6 +692,12 @@
                 "name": "Museu BVMG",
                 "latitude": 39.748136,
                 "longitude": -8.933859
+            },
+            {
+                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
+                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
+                "latitude": 39.742537,
+                "longitude": -8.793462
             }
         ]
     },
@@ -852,6 +864,36 @@
         ]
     },
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
+                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
+                "latitude": 39.73966,
+                "longitude": -8.808042
+            },
+            {
+                "pokestop_id": "9ca6a62285044856b76ecea9607f63bb.16",
+                "name": "Campo De Futebol A.C. Marinhense",
+                "latitude": 39.749818,
+                "longitude": -8.936966
+            },
+            {
+                "pokestop_id": "bddaa61df7864fd898a226e033864d45.16",
+                "name": "Ponte Parque Infantil",
+                "latitude": 39.750377,
+                "longitude": -8.806284
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Throws",
         "quest_reward": "Scraggy",
         "quest_reward_type": "Pokemon",
@@ -978,6 +1020,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Great Curveball Throws in a row",
+        "quest_reward": "Spinda",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spinda",
+        "quest_reward_pokemon_id": 327,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
+                "name": "Lago Santo Agostinho",
+                "latitude": 39.74149,
+                "longitude": -8.801741
+            },
+            {
+                "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
+                "name": "Bullied Graffiti",
+                "latitude": 39.742343,
+                "longitude": -8.801731
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Nice Throws in a row",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -1032,24 +1098,6 @@
         ]
     },
     {
-        "quest_description": "Make 5 Great Curveball Throws in a row",
-        "quest_reward": "Spinda",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Spinda",
-        "quest_reward_pokemon_id": 327,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
-                "name": "Bullied Graffiti",
-                "latitude": 39.742343,
-                "longitude": -8.801731
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -1088,30 +1136,6 @@
                 "name": "Jardim da Marinha Grande",
                 "latitude": 39.750988,
                 "longitude": -8.929103
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "9ca6a62285044856b76ecea9607f63bb.16",
-                "name": "Campo De Futebol A.C. Marinhense",
-                "latitude": 39.749818,
-                "longitude": -8.936966
-            },
-            {
-                "pokestop_id": "bddaa61df7864fd898a226e033864d45.16",
-                "name": "Ponte Parque Infantil",
-                "latitude": 39.750377,
-                "longitude": -8.806284
             }
         ]
     },
