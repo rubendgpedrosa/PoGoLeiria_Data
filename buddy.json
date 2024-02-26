@@ -42,6 +42,30 @@
         ]
     },
     {
+        "quest_description": "Earn 3 Candies walking with your buddy",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "60e0ad8ad66d44b6aaac09f808924508.16",
+                "name": "Bairro dos Anjos",
+                "latitude": 39.744958,
+                "longitude": -8.804361
+            },
+            {
+                "pokestop_id": "e011da7e4afa4206b4dec0dbbde05b13.16",
+                "name": "Torre de Miragem",
+                "latitude": 39.746911,
+                "longitude": -8.809565
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Glameow",
         "quest_reward_type": "Pokemon",
@@ -56,24 +80,12 @@
                 "name": "Placa Informativa - Antes do Castelo",
                 "latitude": 39.747749,
                 "longitude": -8.808107
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Bunnelby",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bunnelby",
-        "quest_reward_pokemon_id": 659,
-        "quest_reward_item_id": 0,
-        "pokestops": [
+            },
             {
-                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
-                "name": "Parque da Cerca",
-                "latitude": 39.748598,
-                "longitude": -8.934927
+                "pokestop_id": "a94ceb5e018d486e976f3ce645a4df95.16",
+                "name": "Malta do Aerosol",
+                "latitude": 39.750045,
+                "longitude": -8.935074
             }
         ]
     },
@@ -88,10 +100,40 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "75a3dd9324834f55888123994e3d676a.16",
+                "name": "Torre Da Se",
+                "latitude": 39.746558,
+                "longitude": -8.807836
+            },
+            {
                 "pokestop_id": "e4897ddbe10d40768c3eb0293e36e6a5.11",
                 "name": "Americo Cortez Pinto",
                 "latitude": 39.746966,
                 "longitude": -8.803221
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Bunnelby",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bunnelby",
+        "quest_reward_pokemon_id": 659,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
+                "name": "Glove x 400mI",
+                "latitude": 39.74775,
+                "longitude": -8.807233
+            },
+            {
+                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
+                "name": "Parque da Cerca",
+                "latitude": 39.748598,
+                "longitude": -8.934927
             }
         ]
     }
