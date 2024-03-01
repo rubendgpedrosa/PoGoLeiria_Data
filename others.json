@@ -132,6 +132,30 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Aggron Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Aggron",
+        "quest_reward_pokemon_id": 306,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
+                "name": "Skate Park",
+                "latitude": 39.735189,
+                "longitude": -8.797673
+            },
+            {
+                "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
+                "name": "Biblioteca Municipal",
+                "latitude": 39.749895,
+                "longitude": -8.934498
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 7 times",
         "quest_reward": "Popplio",
         "quest_reward_type": "Pokemon",
@@ -320,6 +344,12 @@
                 "name": "Centro Comercial Olhalvas Park",
                 "latitude": 39.741431,
                 "longitude": -8.79645
+            },
+            {
+                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
+                "name": "Jogo De Som",
+                "latitude": 39.734864,
+                "longitude": -8.797733
             },
             {
                 "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
@@ -524,6 +554,12 @@
                 "name": "COOPPOVO",
                 "latitude": 39.750118,
                 "longitude": -8.926915
+            },
+            {
+                "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
+                "name": "Mural Brisa do Lis",
+                "latitude": 39.743468,
+                "longitude": -8.812448
             },
             {
                 "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
@@ -856,10 +892,22 @@
                 "longitude": -8.92786
             },
             {
+                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
+                "name": "Patria No Ultramar",
+                "latitude": 39.74471,
+                "longitude": -8.805589
+            },
+            {
                 "pokestop_id": "b1c086d41082469e87705d1cedb0fac3.16",
                 "name": "Fonte Freire",
                 "latitude": 39.743645,
                 "longitude": -8.810948
+            },
+            {
+                "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
+                "name": "Abra\u00e7o ao universo",
+                "latitude": 39.751515,
+                "longitude": -8.814163
             },
             {
                 "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
@@ -1098,20 +1146,20 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Aggron Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Aggron",
-        "quest_reward_pokemon_id": 306,
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Remoraid",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Remoraid",
+        "quest_reward_pokemon_id": 223,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
-                "name": "Biblioteca Municipal",
-                "latitude": 39.749895,
-                "longitude": -8.934498
+                "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
+                "name": "Parque da Encarna\u00e7\u00e3o",
+                "latitude": 39.738905,
+                "longitude": -8.798901
             }
         ]
     }
