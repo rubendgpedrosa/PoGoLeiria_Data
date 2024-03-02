@@ -1,6 +1,24 @@
 [
     {
         "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Grubbin",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Grubbin",
+        "quest_reward_pokemon_id": 736,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            }
+        ]
+    },
+    {
+        "quest_description": "Complete a PVP Battle",
         "quest_reward": "Chinchou",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -62,6 +80,24 @@
                 "name": "A Pobreza N\u00e3o \u00e9 Cor de Rosa",
                 "latitude": 39.743218,
                 "longitude": -8.812164
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Marowak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Marowak",
+        "quest_reward_pokemon_id": 105,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
+                "name": "Praceta Abraao Zacuto",
+                "latitude": 39.74904,
+                "longitude": -8.802788
             }
         ]
     }
