@@ -1,6 +1,24 @@
 [
     {
         "quest_description": "Battle in a Gym",
+        "quest_reward": "Electrike",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Electrike",
+        "quest_reward_pokemon_id": 309,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            }
+        ]
+    },
+    {
+        "quest_description": "Battle in a Gym",
         "quest_reward": "Blitzle",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -39,6 +57,12 @@
         "quest_reward_pokemon_id": 694,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "ab805be772cb4ad7918ff8ffd6287881.16",
+                "name": "EPAMG",
+                "latitude": 39.749907,
+                "longitude": -8.933733
+            },
             {
                 "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
                 "name": "Zona Desportiva",
