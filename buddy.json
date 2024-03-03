@@ -1,6 +1,30 @@
 [
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Glameow",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Glameow",
+        "quest_reward_pokemon_id": 431,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0727712d36f33ead9a626d22bb911953.16",
+                "name": "Baloico Santa Clara",
+                "latitude": 39.73971,
+                "longitude": -8.821638
+            },
+            {
+                "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
+                "name": "Ponte Ondulada",
+                "latitude": 39.746196,
+                "longitude": -8.80374
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Litleo",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -10,10 +34,52 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
+                "name": "Moagem Leiriense",
+                "latitude": 39.74865,
+                "longitude": -8.803723
+            },
+            {
                 "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
                 "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
                 "latitude": 39.745489,
                 "longitude": -8.933253
+            }
+        ]
+    },
+    {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Togedemaru",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Togedemaru",
+        "quest_reward_pokemon_id": 777,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
+                "name": "Escuteiros",
+                "latitude": 39.741841,
+                "longitude": -8.933249
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Bunnelby",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bunnelby",
+        "quest_reward_pokemon_id": 659,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
+                "name": "Janelas do Jardim da Almuinha",
+                "latitude": 39.751734,
+                "longitude": -8.80984
             }
         ]
     }
