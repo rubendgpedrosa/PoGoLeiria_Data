@@ -1,6 +1,30 @@
 [
     {
         "quest_description": "Battle in a Gym",
+        "quest_reward": "Chinchou",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Chinchou",
+        "quest_reward_pokemon_id": 170,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0bc2c65541d54e619cd907342180b784.16",
+                "name": "Igreja Universal Do Reino De Deus",
+                "latitude": 39.747902,
+                "longitude": -8.805366
+            },
+            {
+                "pokestop_id": "2ac9299d7ffd319aa934d0d4337e8b8f.16",
+                "name": "Leiria: Cidade Europeia do Desporto 2022",
+                "latitude": 39.736999,
+                "longitude": -8.82141
+            }
+        ]
+    },
+    {
+        "quest_description": "Battle in a Gym",
         "quest_reward": "Electrike",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -20,24 +44,6 @@
                 "name": "Igreja",
                 "latitude": 39.741631,
                 "longitude": -8.802822
-            }
-        ]
-    },
-    {
-        "quest_description": "Battle in a Gym",
-        "quest_reward": "Chinchou",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Chinchou",
-        "quest_reward_pokemon_id": 170,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2ac9299d7ffd319aa934d0d4337e8b8f.16",
-                "name": "Leiria: Cidade Europeia do Desporto 2022",
-                "latitude": 39.736999,
-                "longitude": -8.82141
             }
         ]
     },
@@ -74,6 +80,24 @@
                 "name": "Malta do Aerosol",
                 "latitude": 39.750045,
                 "longitude": -8.935074
+            }
+        ]
+    },
+    {
+        "quest_description": "Battle in a Gym",
+        "quest_reward": "Joltik",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Joltik",
+        "quest_reward_pokemon_id": 595,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
+                "name": "Campo Polidesportivo",
+                "latitude": 39.732954,
+                "longitude": -8.809802
             }
         ]
     },

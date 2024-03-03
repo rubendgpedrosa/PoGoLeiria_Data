@@ -300,6 +300,42 @@
         ]
     },
     {
+        "quest_description": "Spin 2 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Joltik",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Joltik",
+        "quest_reward_pokemon_id": 595,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "23076c7b2d5e3d209916143b5207e5b3.16",
+                "name": "Soneto da Casa",
+                "latitude": 39.733913,
+                "longitude": -8.80966
+            },
+            {
+                "pokestop_id": "49f915dee3254434924c648a382a932d.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.750712,
+                "longitude": -8.816448
+            },
+            {
+                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
+                "name": "Casa Da Cultura",
+                "latitude": 39.749033,
+                "longitude": -8.933087
+            },
+            {
+                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
+                "name": "Parque Av. Marques Pombal",
+                "latitude": 39.741132,
+                "longitude": -8.801663
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 3 times",
         "quest_reward": "Blitzle",
         "quest_reward_type": "Pokemon",
@@ -480,36 +516,6 @@
         ]
     },
     {
-        "quest_description": "Spin 2 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Joltik",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Joltik",
-        "quest_reward_pokemon_id": 595,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "49f915dee3254434924c648a382a932d.16",
-                "name": "Campo De T\u00e9nis",
-                "latitude": 39.750712,
-                "longitude": -8.816448
-            },
-            {
-                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
-                "name": "Casa Da Cultura",
-                "latitude": 39.749033,
-                "longitude": -8.933087
-            },
-            {
-                "pokestop_id": "a1bd3136dce4423cbde9501c94d600fb.11",
-                "name": "Parque Av. Marques Pombal",
-                "latitude": 39.741132,
-                "longitude": -8.801663
-            }
-        ]
-    },
-    {
         "quest_description": "Use a supereffective Charged Attack",
         "quest_reward": "Chinchou",
         "quest_reward_type": "Pokemon",
@@ -560,6 +566,12 @@
                 "name": "Pal\u00e1cio dos Ata\u00eddes",
                 "latitude": 39.744296,
                 "longitude": -8.810014
+            },
+            {
+                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
+                "name": "Ponte Pique-nique",
+                "latitude": 39.739692,
+                "longitude": -8.798933
             }
         ]
     },
