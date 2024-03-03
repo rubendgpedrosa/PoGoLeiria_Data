@@ -84,6 +84,36 @@
         ]
     },
     {
+        "quest_description": "Send 5 Gifts and add a sticker to each",
+        "quest_reward": "Togedemaru",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Togedemaru",
+        "quest_reward_pokemon_id": 777,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
+                "name": "Play Land - Parque Infantil",
+                "latitude": 39.739605,
+                "longitude": -8.818371
+            },
+            {
+                "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
+                "name": "Placa de Homenagem Wenceslau de Morais",
+                "latitude": 39.747264,
+                "longitude": -8.803776
+            },
+            {
+                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
+                "name": "Escuteiros",
+                "latitude": 39.741841,
+                "longitude": -8.933249
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Bunnelby",
         "quest_reward_type": "Pokemon",
@@ -104,24 +134,6 @@
                 "name": "Janelas do Jardim da Almuinha",
                 "latitude": 39.751734,
                 "longitude": -8.80984
-            }
-        ]
-    },
-    {
-        "quest_description": "Send 5 Gifts and add a sticker to each",
-        "quest_reward": "Togedemaru",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Togedemaru",
-        "quest_reward_pokemon_id": 777,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
-                "name": "Escuteiros",
-                "latitude": 39.741841,
-                "longitude": -8.933249
             }
         ]
     }
