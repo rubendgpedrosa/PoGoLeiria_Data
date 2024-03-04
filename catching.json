@@ -58,6 +58,12 @@
                 "longitude": -8.821638
             },
             {
+                "pokestop_id": "8ed0ec246a4e4238a11b7eef7444c5d4.16",
+                "name": "Ponte pedonal sobre a ribeira das bernardas",
+                "latitude": 39.744965,
+                "longitude": -8.933162
+            },
+            {
                 "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
                 "name": "Praceta Abraao Zacuto",
                 "latitude": 39.74904,
@@ -122,6 +128,12 @@
                 "name": "Azulejo Bairro dos Anjos",
                 "latitude": 39.744443,
                 "longitude": -8.804282
+            },
+            {
+                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
+                "name": "Jardim da Marinha Grande",
+                "latitude": 39.750988,
+                "longitude": -8.929103
             }
         ]
     },
@@ -336,6 +348,54 @@
         ]
     },
     {
+        "quest_description": "Catch 7 different species of Pok\u00e9mon",
+        "quest_reward": "Qwilfish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Qwilfish",
+        "quest_reward_pokemon_id": 211,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2c3e851cc9694b21b30f43ccd0eb8b62.16",
+                "name": "Campo De Treino",
+                "latitude": 39.73825,
+                "longitude": -8.929618
+            },
+            {
+                "pokestop_id": "486d78e58bea4436b785c5a44da1e0db.16",
+                "name": "Associa\u00e7\u00e3o Social, Cultural e Desportiva de Casal Galego.",
+                "latitude": 39.74153,
+                "longitude": -8.931072
+            },
+            {
+                "pokestop_id": "6adf2e0d4daa3ed6b1feabb5458dafba.16",
+                "name": "Projeto Community - Escola de Dan\u00e7as Urbanas",
+                "latitude": 39.746889,
+                "longitude": -8.813237
+            },
+            {
+                "pokestop_id": "782815cfe6ea4d30b6f63bb601c6360c.16",
+                "name": "Tribunal Da Marinha Grande",
+                "latitude": 39.753741,
+                "longitude": -8.932369
+            },
+            {
+                "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
+                "name": "Ponte pedonal norte do Parque das Bernardas",
+                "latitude": 39.738465,
+                "longitude": -8.929156
+            },
+            {
+                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
+                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
+                "latitude": 39.745253,
+                "longitude": -8.80654
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -486,42 +546,6 @@
         ]
     },
     {
-        "quest_description": "Catch 7 different species of Pok\u00e9mon",
-        "quest_reward": "Qwilfish",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Qwilfish",
-        "quest_reward_pokemon_id": 211,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "486d78e58bea4436b785c5a44da1e0db.16",
-                "name": "Associa\u00e7\u00e3o Social, Cultural e Desportiva de Casal Galego.",
-                "latitude": 39.74153,
-                "longitude": -8.931072
-            },
-            {
-                "pokestop_id": "6adf2e0d4daa3ed6b1feabb5458dafba.16",
-                "name": "Projeto Community - Escola de Dan\u00e7as Urbanas",
-                "latitude": 39.746889,
-                "longitude": -8.813237
-            },
-            {
-                "pokestop_id": "782815cfe6ea4d30b6f63bb601c6360c.16",
-                "name": "Tribunal Da Marinha Grande",
-                "latitude": 39.753741,
-                "longitude": -8.932369
-            },
-            {
-                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
-                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
-                "latitude": 39.745253,
-                "longitude": -8.80654
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -596,6 +620,12 @@
                 "name": "Sede Santa Casa Da Miseric\u00f3rdia",
                 "latitude": 39.744101,
                 "longitude": -8.804625
+            },
+            {
+                "pokestop_id": "4f926fcd72ea300d9a7ace8deb9b2a6d.16",
+                "name": "Pra\u00e7a Eng Calazans Duarte",
+                "latitude": 39.742041,
+                "longitude": -8.934302
             }
         ]
     },
@@ -734,6 +764,24 @@
                 "name": "Caritas Diocesana de Leiria",
                 "latitude": 39.73688,
                 "longitude": -8.806748
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "latitude": 39.739681,
+                "longitude": -8.805175
             }
         ]
     },
@@ -992,6 +1040,12 @@
                 "name": "O Vidraceiro",
                 "latitude": 39.750005,
                 "longitude": -8.931744
+            },
+            {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
             }
         ]
     },
@@ -1088,6 +1142,24 @@
                 "name": "Campo De Futebol",
                 "latitude": 39.744672,
                 "longitude": -8.795859
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Fighting-, Psychic- or Fighting-type Pokemon",
+        "quest_reward": "Gothita",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Gothita",
+        "quest_reward_pokemon_id": 574,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
             }
         ]
     },
