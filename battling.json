@@ -60,6 +60,24 @@
         ]
     },
     {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5f50be390dfb4f50b66319b20cb6cc55.16",
+                "name": "Marco CTT",
+                "latitude": 39.747797,
+                "longitude": -8.803171
+            }
+        ]
+    },
+    {
         "quest_description": "Win a three-star raid or higher",
         "quest_reward": "Archen",
         "quest_reward_type": "Pokemon",
@@ -110,6 +128,12 @@
                 "name": "Carvalho Cerquinho",
                 "latitude": 39.731849,
                 "longitude": -8.795909
+            },
+            {
+                "pokestop_id": "f19864ea0ef93bb9a7ef9b6925985966.16",
+                "name": "Homenagem ao Movimento Oper\u00e1rio",
+                "latitude": 39.746489,
+                "longitude": -8.933631
             }
         ]
     }
