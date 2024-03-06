@@ -193,6 +193,42 @@
     },
     {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
+                "name": "Campo de Futebol",
+                "latitude": 39.736816,
+                "longitude": -8.804067
+            },
+            {
+                "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
+                "name": "CEMFIR - Culturismo",
+                "latitude": 39.752054,
+                "longitude": -8.92786
+            },
+            {
+                "pokestop_id": "88cdcb6d570d4c1bbad94a55d966d4c5.16",
+                "name": "Anfiteatro Praceta Abra\u00e3o Zacuto",
+                "latitude": 39.749235,
+                "longitude": -8.802702
+            },
+            {
+                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
+                "name": "Confer\u00eancia de S. Vicente Paulo",
+                "latitude": 39.750114,
+                "longitude": -8.92967
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 3,
@@ -460,6 +496,12 @@
                 "longitude": -8.8151
             },
             {
+                "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
+                "name": "Campus 1 - ESECS",
+                "latitude": 39.739983,
+                "longitude": -8.812123
+            },
+            {
                 "pokestop_id": "fde7d3c36ff23e7a8c128e7d540448a5.16",
                 "name": "Ponte Azul",
                 "latitude": 39.749013,
@@ -512,6 +554,12 @@
                 "name": "Pra\u00e7a Eng Calazans Duarte",
                 "latitude": 39.742041,
                 "longitude": -8.934302
+            },
+            {
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
             },
             {
                 "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
@@ -578,36 +626,6 @@
                 "name": "Fonte Do Halton",
                 "latitude": 39.747031,
                 "longitude": -8.816442
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "629d9baf5264338c97fe3af375311a08.16",
-                "name": "CEMFIR - Culturismo",
-                "latitude": 39.752054,
-                "longitude": -8.92786
-            },
-            {
-                "pokestop_id": "88cdcb6d570d4c1bbad94a55d966d4c5.16",
-                "name": "Anfiteatro Praceta Abra\u00e3o Zacuto",
-                "latitude": 39.749235,
-                "longitude": -8.802702
-            },
-            {
-                "pokestop_id": "ea049e0330ff36d794e53891c4de8d45.16",
-                "name": "Confer\u00eancia de S. Vicente Paulo",
-                "latitude": 39.750114,
-                "longitude": -8.92967
             }
         ]
     },
@@ -770,6 +788,12 @@
                 "name": "Ponte pedonal sobre a Ribeira das Bernardas.",
                 "latitude": 39.740265,
                 "longitude": -8.929824
+            },
+            {
+                "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
+                "name": "Ponte Pedonal Rio Liz",
+                "latitude": 39.750058,
+                "longitude": -8.804897
             }
         ]
     },
@@ -852,6 +876,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
+            },
+            {
+                "pokestop_id": "d507cf11ba724b0e99127ed0e11b6597.16",
+                "name": "Lenda do Lis e do Lena",
+                "latitude": 39.743468,
+                "longitude": -8.8068
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -908,24 +956,6 @@
                 "name": "As Cisternas do Castelo",
                 "latitude": 39.747505,
                 "longitude": -8.809466
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d507cf11ba724b0e99127ed0e11b6597.16",
-                "name": "Lenda do Lis e do Lena",
-                "latitude": 39.743468,
-                "longitude": -8.8068
             }
         ]
     },
