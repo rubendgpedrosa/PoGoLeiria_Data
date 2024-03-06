@@ -236,6 +236,12 @@
                 "name": "Caixa Postal CTT - Marinha Grande",
                 "latitude": 39.750744,
                 "longitude": -8.92763
+            },
+            {
+                "pokestop_id": "24cfefaa5f093740869a039a16a428a2.16",
+                "name": "Parque Infantil Beira Rio",
+                "latitude": 39.739953,
+                "longitude": -8.80073
             }
         ]
     },
@@ -864,6 +870,30 @@
         ]
     },
     {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "10 Swampert Mega Energy",
         "quest_reward_type": "Energy",
@@ -914,24 +944,6 @@
                 "name": "Franguinho no churrasco",
                 "latitude": 39.755374,
                 "longitude": -8.932558
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
-                "name": "Homenagem Bravos Leirienses",
-                "latitude": 39.741354,
-                "longitude": -8.810787
             }
         ]
     }
