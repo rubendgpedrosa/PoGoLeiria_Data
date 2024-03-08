@@ -280,6 +280,12 @@
                 "longitude": -8.80632
             },
             {
+                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
+                "name": "Kid's Web",
+                "latitude": 39.732741,
+                "longitude": -8.79703
+            },
+            {
                 "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
                 "name": "Sport Oper\u00e1rio Marinhense",
                 "latitude": 39.749997,
@@ -620,6 +626,12 @@
                 "name": "Calv\u00e1rio",
                 "latitude": 39.746362,
                 "longitude": -8.807238
+            },
+            {
+                "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
+                "name": "Abra\u00e7o ao universo",
+                "latitude": 39.751515,
+                "longitude": -8.814163
             },
             {
                 "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
@@ -1044,6 +1056,42 @@
         ]
     },
     {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Trapinch",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Trapinch",
+        "quest_reward_pokemon_id": 328,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
+            {
+                "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
+                "name": "Art",
+                "latitude": 39.750309,
+                "longitude": -8.932088
+            },
+            {
+                "pokestop_id": "21cf9fda632946cb88d62d3d0b8d852a.16",
+                "name": "Bras\u00e3o Jardim Lu\u00eds De Cam\u00f5es at Marinha Grande",
+                "latitude": 39.750854,
+                "longitude": -8.929265
+            },
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch 2 Eggs",
         "quest_reward": "Quaxly",
         "quest_reward_type": "Pokemon",
@@ -1136,36 +1184,6 @@
                 "name": "Antiga Sede Jornal de Leiria",
                 "latitude": 39.744151,
                 "longitude": -8.811916
-            }
-        ]
-    },
-    {
-        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
-        "quest_reward": "Trapinch",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Trapinch",
-        "quest_reward_pokemon_id": 328,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
-                "name": "Art",
-                "latitude": 39.750309,
-                "longitude": -8.932088
-            },
-            {
-                "pokestop_id": "21cf9fda632946cb88d62d3d0b8d852a.16",
-                "name": "Bras\u00e3o Jardim Lu\u00eds De Cam\u00f5es at Marinha Grande",
-                "latitude": 39.750854,
-                "longitude": -8.929265
-            },
-            {
-                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
-                "name": "O Diab\u00f3lico",
-                "latitude": 39.729536,
-                "longitude": -8.812971
             }
         ]
     },
