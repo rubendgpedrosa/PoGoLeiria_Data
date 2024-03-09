@@ -210,6 +210,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "20d010499ea44bb8a7f38881b2d47338.16",
+                "name": "Mural Bailarina",
+                "latitude": 39.739897,
+                "longitude": -8.804231
+            },
+            {
+                "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
+                "name": "Mural Brisa do Lis",
+                "latitude": 39.743468,
+                "longitude": -8.812448
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Hippopotas",
         "quest_reward_type": "Pokemon",
@@ -272,6 +296,24 @@
                 "name": "Estravag\u00e1rio Graffiti",
                 "latitude": 39.752932,
                 "longitude": -8.933662
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2bee528e05843d0f872201c882e56d1e.16",
+                "name": "Porta - Cidades Imagin\u00e1rias",
+                "latitude": 39.751504,
+                "longitude": -8.806966
             }
         ]
     },
@@ -664,6 +706,12 @@
                 "longitude": -8.807043
             },
             {
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
+            },
+            {
                 "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
                 "name": "Zona De Merendas",
                 "latitude": 39.7347,
@@ -764,6 +812,12 @@
                 "name": "Igreja Man\u00e1",
                 "latitude": 39.741498,
                 "longitude": -8.799315
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
             }
         ]
     },
@@ -792,20 +846,20 @@
         ]
     },
     {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "3 Razz Berry",
+        "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
+        "quest_reward_item_id": 705,
         "pokestops": [
             {
-                "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
-                "name": "Mural Brisa do Lis",
-                "latitude": 39.743468,
-                "longitude": -8.812448
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
             }
         ]
     },
@@ -866,6 +920,24 @@
                 "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
                 "latitude": 39.744597,
                 "longitude": -8.935054
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Fighting-, Psychic- or Fighting-type Pokemon",
+        "quest_reward": "Gothita",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Gothita",
+        "quest_reward_pokemon_id": 574,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
             }
         ]
     }

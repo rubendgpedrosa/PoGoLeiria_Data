@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -98,6 +116,12 @@
                 "name": "Centro de Cultura e Desporto dos Trabalhadores da Seguran\u00e7a Social de Leiria",
                 "latitude": 39.74061,
                 "longitude": -8.814058
+            },
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
             },
             {
                 "pokestop_id": "6adf2e0d4daa3ed6b1feabb5458dafba.16",
@@ -602,6 +626,24 @@
                 "name": "Bairro dos Anjos",
                 "latitude": 39.744958,
                 "longitude": -8.804361
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "830aef5d6696357d8f2ba2d9492ed50f.16",
+                "name": "Campo Polidesportivo",
+                "latitude": 39.732954,
+                "longitude": -8.809802
             }
         ]
     },
