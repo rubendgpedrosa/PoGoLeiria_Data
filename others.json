@@ -52,6 +52,12 @@
                 "longitude": -8.932577
             },
             {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
                 "pokestop_id": "19a9281ab7a83984b81186b81ecf6942.16",
                 "name": "Medronheiro",
                 "latitude": 39.748255,
@@ -106,6 +112,12 @@
                 "longitude": -8.812497
             },
             {
+                "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
+                "name": "Praceta Abraao Zacuto",
+                "latitude": 39.74904,
+                "longitude": -8.802788
+            },
+            {
                 "pokestop_id": "a49d0914f564346c8aadee1e8c0cb7f5.16",
                 "name": "Mural \u201cO mar come\u00e7a aqui\u201d",
                 "latitude": 39.740095,
@@ -122,6 +134,12 @@
                 "name": "Marco de Correios CTT",
                 "latitude": 39.752895,
                 "longitude": -8.805935
+            },
+            {
+                "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
+                "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739793,
+                "longitude": -8.808255
             },
             {
                 "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
@@ -316,6 +334,12 @@
                 "longitude": -8.795362
             },
             {
+                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
+                "name": "Campo Basketball",
+                "latitude": 39.746655,
+                "longitude": -8.802376
+            },
+            {
                 "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
                 "name": "Plataforma de \u00e1gua",
                 "latitude": 39.748981,
@@ -350,6 +374,12 @@
                 "name": "Centro De Encontro Do Parque Da Cerca",
                 "latitude": 39.748632,
                 "longitude": -8.935621
+            },
+            {
+                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
+                "name": "O Nosso Claustro \u00c9 O Mundo",
+                "latitude": 39.742156,
+                "longitude": -8.811256
             },
             {
                 "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
@@ -616,6 +646,18 @@
                 "longitude": -8.803723
             },
             {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            },
+            {
+                "pokestop_id": "36282567f1fe4fa889648eae44b00439.16",
+                "name": "Playcities Santo Agostinho",
+                "latitude": 39.741341,
+                "longitude": -8.801969
+            },
+            {
                 "pokestop_id": "64028475605436c098d172cef7a27671.16",
                 "name": "Arquivo Municipal de Leiria",
                 "latitude": 39.731487,
@@ -710,6 +752,12 @@
                 "name": "Arco 42",
                 "latitude": 39.744873,
                 "longitude": -8.807102
+            },
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
             },
             {
                 "pokestop_id": "269dbaf0499c3b2ab34b41f321f8ccd8.16",
@@ -1178,6 +1226,12 @@
                 "name": "Junta De Freguesia Leiria",
                 "latitude": 39.743562,
                 "longitude": -8.804606
+            },
+            {
+                "pokestop_id": "6fe0da2a1e864d2780bafd92935a8008.16",
+                "name": "Escultura Edifoz",
+                "latitude": 39.746497,
+                "longitude": -8.815913
             },
             {
                 "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
@@ -1758,6 +1812,30 @@
         ]
     },
     {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b1c086d41082469e87705d1cedb0fac3.16",
+                "name": "Fonte Freire",
+                "latitude": 39.743645,
+                "longitude": -8.810948
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Beedrill Mega Energy",
         "quest_reward_type": "Energy",
@@ -1808,24 +1886,6 @@
                 "name": "Cabana do Parque da Cerca",
                 "latitude": 39.74824,
                 "longitude": -8.935596
-            }
-        ]
-    },
-    {
-        "quest_description": "Hatch 2 Eggs",
-        "quest_reward": "Stunfisk",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stunfisk",
-        "quest_reward_pokemon_id": 618,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
-                "name": "Homenagem Bravos Leirienses",
-                "latitude": 39.741354,
-                "longitude": -8.810787
             }
         ]
     }
