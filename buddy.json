@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Earn 3 Candies walking with your buddy",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "032b9f33369a433bb4c8b0bb3dc0f5b3.16",
+                "name": "Globo",
+                "latitude": 39.75366,
+                "longitude": -8.812859
+            },
+            {
+                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
+                "name": "Ponte El-Rei D. Dinis",
+                "latitude": 39.743323,
+                "longitude": -8.804477
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Togedemaru",
         "quest_reward_type": "Pokemon",
@@ -32,24 +56,6 @@
                 "name": "Mesquita de Leiria",
                 "latitude": 39.738707,
                 "longitude": -8.805733
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 3 Candies walking with your buddy",
-        "quest_reward": "Stunfisk",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stunfisk",
-        "quest_reward_pokemon_id": 618,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
-                "name": "Ponte El-Rei D. Dinis",
-                "latitude": 39.743323,
-                "longitude": -8.804477
             }
         ]
     },
