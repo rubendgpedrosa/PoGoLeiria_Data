@@ -192,6 +192,84 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Rattata",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Rattata",
+        "quest_reward_pokemon_id": 19,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "143767309db947358b481a9f9c40ae56.16",
+                "name": "Parque Infantil Almuinha Grande",
+                "latitude": 39.751567,
+                "longitude": -8.81027
+            },
+            {
+                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
+                "name": "Centro de Linguas Chinesas",
+                "latitude": 39.740291,
+                "longitude": -8.811645
+            },
+            {
+                "pokestop_id": "61f76786db87485e8eef8f2e1d2968f1.16",
+                "name": "A Juventude a Ci\u00eancia e o Mar",
+                "latitude": 39.743887,
+                "longitude": -8.805803
+            },
+            {
+                "pokestop_id": "a054259cd2763c80b9de8c2c09096fbe.16",
+                "name": "Poesia Portuguesa de Janela",
+                "latitude": 39.749735,
+                "longitude": -8.930832
+            },
+            {
+                "pokestop_id": "eebf10c32cf83dc483bba74f8b7c9d35.16",
+                "name": "Painel de Informa\u00e7\u00f5es - Uni\u00e3o de Freguesias de Leiria, Pousos, Barreira e Cortes",
+                "latitude": 39.733271,
+                "longitude": -8.796911
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Snover",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snover",
+        "quest_reward_pokemon_id": 459,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "16eb62ffd4774ebfaea1a2c242368a89.16",
+                "name": "Black Cat",
+                "latitude": 39.745372,
+                "longitude": -8.807148
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Grass-type Pok\u00e9mon",
         "quest_reward": "10 Venusaur Mega Energy",
         "quest_reward_type": "Energy",
@@ -488,42 +566,6 @@
                 "name": "Parede de Escalada",
                 "latitude": 39.734361,
                 "longitude": -8.80252
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
-                "name": "Centro de Linguas Chinesas",
-                "latitude": 39.740291,
-                "longitude": -8.811645
-            },
-            {
-                "pokestop_id": "61f76786db87485e8eef8f2e1d2968f1.16",
-                "name": "A Juventude a Ci\u00eancia e o Mar",
-                "latitude": 39.743887,
-                "longitude": -8.805803
-            },
-            {
-                "pokestop_id": "a054259cd2763c80b9de8c2c09096fbe.16",
-                "name": "Poesia Portuguesa de Janela",
-                "latitude": 39.749735,
-                "longitude": -8.930832
-            },
-            {
-                "pokestop_id": "eebf10c32cf83dc483bba74f8b7c9d35.16",
-                "name": "Painel de Informa\u00e7\u00f5es - Uni\u00e3o de Freguesias de Leiria, Pousos, Barreira e Cortes",
-                "latitude": 39.733271,
-                "longitude": -8.796911
             }
         ]
     },
