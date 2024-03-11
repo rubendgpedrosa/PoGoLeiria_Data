@@ -268,6 +268,12 @@
                 "longitude": -8.803283
             },
             {
+                "pokestop_id": "3014a8690b2b49ba8918cad211918966.16",
+                "name": "Mural De Namorados",
+                "latitude": 39.743299,
+                "longitude": -8.803428
+            },
+            {
                 "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
                 "name": "Casa Mortu\u00e1ria",
                 "latitude": 39.744917,
@@ -661,6 +667,30 @@
     },
     {
         "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Tepig",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tepig",
+        "quest_reward_pokemon_id": 498,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f8df9d7634c44a2b38af780e0f882bc.11",
+                "name": "Edif\u00edcio do Dr. Jo\u00e3o Carlos Verde de Oliveira",
+                "latitude": 39.742779,
+                "longitude": -8.804791
+            },
+            {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Pidgeot Mega Energy",
         "quest_reward_type": "Energy",
         "quest_reward_amount": 10,
@@ -992,24 +1022,6 @@
                 "name": "Fonte",
                 "latitude": 39.752573,
                 "longitude": -8.933414
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "Tepig",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Tepig",
-        "quest_reward_pokemon_id": 498,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
-                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
-                "latitude": 39.751963,
-                "longitude": -8.812598
             }
         ]
     },
