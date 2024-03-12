@@ -98,6 +98,18 @@
                 "name": "Sonhos de Papel",
                 "latitude": 39.743096,
                 "longitude": -8.935367
+            },
+            {
+                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
+                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
+                "latitude": 39.751963,
+                "longitude": -8.812598
+            },
+            {
+                "pokestop_id": "4d86c7b25ae23c4e88f5151e4d759839.16",
+                "name": "Galerias Mouzinho de Albuquerque",
+                "latitude": 39.747271,
+                "longitude": -8.805217
             }
         ]
     },
@@ -566,6 +578,12 @@
                 "name": "Circuito Manuten\u00e7\u00e3o - Patins",
                 "latitude": 39.738722,
                 "longitude": -8.821751
+            },
+            {
+                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
+                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
+                "latitude": 39.742537,
+                "longitude": -8.793462
             }
         ]
     },
@@ -1051,6 +1069,36 @@
     },
     {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
+                "name": "Monumento Afonso Lopes Vieira",
+                "latitude": 39.740187,
+                "longitude": -8.812398
+            },
+            {
+                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
+                "name": "Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739852,
+                "longitude": -8.808011
+            },
+            {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
         "quest_reward_amount": 500,
@@ -1064,30 +1112,6 @@
                 "name": "Clube de campismo da Marinha Grande",
                 "latitude": 39.747495,
                 "longitude": -8.935422
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
-                "name": "Galerias S\u00e3o Jos\u00e9",
-                "latitude": 39.739852,
-                "longitude": -8.808011
-            },
-            {
-                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
-                "name": "Edif\u00edcio Da Resinagem",
-                "latitude": 39.749198,
-                "longitude": -8.932709
             }
         ]
     },
@@ -1220,6 +1244,24 @@
                 "name": "Engenho Na Escola",
                 "latitude": 39.74247,
                 "longitude": -8.933721
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Fighting-, Psychic- or Fighting-type Pokemon",
+        "quest_reward": "Gothita",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Gothita",
+        "quest_reward_pokemon_id": 574,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
             }
         ]
     },
