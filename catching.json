@@ -228,6 +228,36 @@
         ]
     },
     {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Stufful",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stufful",
+        "quest_reward_pokemon_id": 759,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edd4128468938129017b04e6e9459c2.16",
+                "name": "Monumento do parque verde de Leiria",
+                "latitude": 39.740157,
+                "longitude": -8.821688
+            },
+            {
+                "pokestop_id": "21cf9fda632946cb88d62d3d0b8d852a.16",
+                "name": "Bras\u00e3o Jardim Lu\u00eds De Cam\u00f5es at Marinha Grande",
+                "latitude": 39.750854,
+                "longitude": -8.929265
+            },
+            {
+                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
+                "name": "Igreja Man\u00e1",
+                "latitude": 39.741498,
+                "longitude": -8.799315
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -308,6 +338,48 @@
                 "name": "Marinha Grande",
                 "latitude": 39.747761,
                 "longitude": -8.936047
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
+                "name": "Arco 42",
+                "latitude": 39.744873,
+                "longitude": -8.807102
+            },
+            {
+                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
+                "name": "Seu Nome Era Mural",
+                "latitude": 39.746244,
+                "longitude": -8.807457
+            },
+            {
+                "pokestop_id": "3014a8690b2b49ba8918cad211918966.16",
+                "name": "Mural De Namorados",
+                "latitude": 39.743299,
+                "longitude": -8.803428
+            },
+            {
+                "pokestop_id": "42070d6980c64ecf88a0dd6a9043ea5e.11",
+                "name": "Est\u00e1tua Burro",
+                "latitude": 39.745224,
+                "longitude": -8.804058
+            },
+            {
+                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
+                "name": "Jardim da Marinha Grande",
+                "latitude": 39.750988,
+                "longitude": -8.929103
             }
         ]
     },
@@ -414,30 +486,6 @@
         ]
     },
     {
-        "quest_description": "Catch 7 Pok\u00e9mon",
-        "quest_reward": "Stufful",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stufful",
-        "quest_reward_pokemon_id": 759,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "21cf9fda632946cb88d62d3d0b8d852a.16",
-                "name": "Bras\u00e3o Jardim Lu\u00eds De Cam\u00f5es at Marinha Grande",
-                "latitude": 39.750854,
-                "longitude": -8.929265
-            },
-            {
-                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
-                "name": "Igreja Man\u00e1",
-                "latitude": 39.741498,
-                "longitude": -8.799315
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -536,6 +584,12 @@
                 "name": "Fonte Quinta da Matinha",
                 "latitude": 39.755402,
                 "longitude": -8.807929
+            },
+            {
+                "pokestop_id": "ac8054dc06544e05b1d10a47ff12b097.16",
+                "name": "Bras\u00e3o da Cidade",
+                "latitude": 39.743168,
+                "longitude": -8.805737
             }
         ]
     },
@@ -554,36 +608,6 @@
                 "name": "Rodovi\u00e1ria Do Lis",
                 "latitude": 39.745095,
                 "longitude": -8.805202
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
-                "name": "Seu Nome Era Mural",
-                "latitude": 39.746244,
-                "longitude": -8.807457
-            },
-            {
-                "pokestop_id": "42070d6980c64ecf88a0dd6a9043ea5e.11",
-                "name": "Est\u00e1tua Burro",
-                "latitude": 39.745224,
-                "longitude": -8.804058
-            },
-            {
-                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
-                "name": "Jardim da Marinha Grande",
-                "latitude": 39.750988,
-                "longitude": -8.929103
             }
         ]
     },
@@ -862,6 +886,12 @@
                 "longitude": -8.932885
             },
             {
+                "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
+                "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
+                "latitude": 39.75142,
+                "longitude": -8.930414
+            },
+            {
                 "pokestop_id": "90dbc24bfa2f4f7697ce38f13bde3fb9.11",
                 "name": "Monumento aos Combatentes do U",
                 "latitude": 39.747479,
@@ -920,6 +950,12 @@
                 "name": "Plataforma de \u00e1gua",
                 "latitude": 39.748981,
                 "longitude": -8.934711
+            },
+            {
+                "pokestop_id": "59a6eb172b334499b7489e32c8ac436c.16",
+                "name": "Convento de Santo Ant\u00f3nio dos Capuchos",
+                "latitude": 39.743939,
+                "longitude": -8.813784
             },
             {
                 "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
@@ -1184,6 +1220,24 @@
                 "name": "Engenho Na Escola",
                 "latitude": 39.74247,
                 "longitude": -8.933721
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Vanillite",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Vanillite",
+        "quest_reward_pokemon_id": 582,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "bbc92efd9d1241c8b25bcfdfd74be4e8.11",
+                "name": "Est\u00e1tua Lu\u00eds de Cam\u00f5es",
+                "latitude": 39.744778,
+                "longitude": -8.80632
             }
         ]
     },
