@@ -142,6 +142,12 @@
                 "longitude": -8.805737
             },
             {
+                "pokestop_id": "bf2de07050654d08866ca2a88040610d.16",
+                "name": "Kid's Web",
+                "latitude": 39.732741,
+                "longitude": -8.79703
+            },
+            {
                 "pokestop_id": "f83c11f351894574ba1fa3fdd07e1d6b.16",
                 "name": "Parque da Encarna\u00e7\u00e3o",
                 "latitude": 39.738905,
@@ -256,6 +262,12 @@
                 "longitude": -8.931029
             },
             {
+                "pokestop_id": "a07bbdcea6594eeb89872edc6a61cdfd.16",
+                "name": "Comunidade Pastoral De S\u00e3o Rom\u00e3o",
+                "latitude": 39.731023,
+                "longitude": -8.794309
+            },
+            {
                 "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
                 "name": "Edif\u00edcio Ferro de Engomar",
                 "latitude": 39.740629,
@@ -298,6 +310,12 @@
                 "longitude": -8.807929
             },
             {
+                "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
+                "name": "Catalpa",
+                "latitude": 39.745748,
+                "longitude": -8.804397
+            },
+            {
                 "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
                 "name": "Moagem Leiriense",
                 "latitude": 39.74865,
@@ -308,6 +326,12 @@
                 "name": "Igreja Evang\u00e9lica de Jesus Minist\u00e9rio Pentecostal",
                 "latitude": 39.753193,
                 "longitude": -8.933195
+            },
+            {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
             },
             {
                 "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
@@ -434,6 +458,12 @@
                 "name": "Congrega\u00e7\u00e3o Crist\u00e3 em Portugal.",
                 "latitude": 39.746828,
                 "longitude": -8.814662
+            },
+            {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
             },
             {
                 "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
@@ -590,6 +620,12 @@
                 "name": "Fonte De \u00c1gua Quente",
                 "latitude": 39.747102,
                 "longitude": -8.801658
+            },
+            {
+                "pokestop_id": "eebf10c32cf83dc483bba74f8b7c9d35.16",
+                "name": "Painel de Informa\u00e7\u00f5es - Uni\u00e3o de Freguesias de Leiria, Pousos, Barreira e Cortes",
+                "latitude": 39.733271,
+                "longitude": -8.796911
             }
         ]
     },
@@ -662,6 +698,42 @@
                 "name": "Sport Oper\u00e1rio Marinhense",
                 "latitude": 39.749997,
                 "longitude": -8.926437
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Slowpoke",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Slowpoke",
+        "quest_reward_pokemon_id": 79,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            },
+            {
+                "pokestop_id": "832a7aa8d7b5306595ed9b512f663c44.16",
+                "name": "\u00c1rvore do Ambar",
+                "latitude": 39.732049,
+                "longitude": -8.796385
+            },
+            {
+                "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
+                "name": "Miradouro Leiria",
+                "latitude": 39.743941,
+                "longitude": -8.802609
+            },
+            {
+                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
+                "name": "Zona de lazer",
+                "latitude": 39.737598,
+                "longitude": -8.928606
             }
         ]
     },
@@ -906,6 +978,30 @@
         ]
     },
     {
+        "quest_description": "Evolve a Pok\u00e9mon",
+        "quest_reward": "Eevee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Eevee",
+        "quest_reward_pokemon_id": 133,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Pidgeot Mega Energy",
         "quest_reward_type": "Energy",
@@ -998,36 +1094,6 @@
                 "name": "Artes Manuais",
                 "latitude": 39.742853,
                 "longitude": -8.933931
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Slowpoke",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Slowpoke",
-        "quest_reward_pokemon_id": 79,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "832a7aa8d7b5306595ed9b512f663c44.16",
-                "name": "\u00c1rvore do Ambar",
-                "latitude": 39.732049,
-                "longitude": -8.796385
-            },
-            {
-                "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
-                "name": "Miradouro Leiria",
-                "latitude": 39.743941,
-                "longitude": -8.802609
-            },
-            {
-                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
-                "name": "Zona de lazer",
-                "latitude": 39.737598,
-                "longitude": -8.928606
             }
         ]
     },
@@ -1154,24 +1220,6 @@
                 "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
                 "latitude": 39.745123,
                 "longitude": -8.797432
-            }
-        ]
-    },
-    {
-        "quest_description": "Evolve a Pok\u00e9mon",
-        "quest_reward": "Eevee",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Eevee",
-        "quest_reward_pokemon_id": 133,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
-                "name": "Assembleia de Deus",
-                "latitude": 39.745074,
-                "longitude": -8.936455
             }
         ]
     },

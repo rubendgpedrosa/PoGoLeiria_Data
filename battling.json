@@ -120,24 +120,6 @@
         ]
     },
     {
-        "quest_description": "Win 5 raids",
-        "quest_reward": "Exeggutor",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Exeggutor",
-        "quest_reward_pokemon_id": 103,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
-                "name": "Leiria Shopping",
-                "latitude": 39.732373,
-                "longitude": -8.824896
-            }
-        ]
-    },
-    {
         "quest_description": "Win 2 raids",
         "quest_reward": "Snorlax",
         "quest_reward_type": "Pokemon",
@@ -147,6 +129,12 @@
         "quest_reward_pokemon_id": 143,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "64028475605436c098d172cef7a27671.16",
+                "name": "Arquivo Municipal de Leiria",
+                "latitude": 39.731487,
+                "longitude": -8.794807
+            },
             {
                 "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
                 "name": "Ponte El-Rei D. Dinis",
@@ -164,6 +152,24 @@
                 "name": "Playcity 006",
                 "latitude": 39.746676,
                 "longitude": -8.802645
+            }
+        ]
+    },
+    {
+        "quest_description": "Win 5 raids",
+        "quest_reward": "Exeggutor",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Exeggutor",
+        "quest_reward_pokemon_id": 103,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
+                "name": "Leiria Shopping",
+                "latitude": 39.732373,
+                "longitude": -8.824896
             }
         ]
     },
