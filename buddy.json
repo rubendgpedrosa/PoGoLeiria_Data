@@ -10,6 +10,12 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "06030e41449c4302874baae88549b655.16",
+                "name": "Correios Her\u00f3is De Angola",
+                "latitude": 39.747609,
+                "longitude": -8.804195
+            },
+            {
                 "pokestop_id": "17b2cd0ad9d434b8a10e960f0b4171ba.16",
                 "name": "Parque desportivo de S.Rom\u00e3o",
                 "latitude": 39.735758,
@@ -91,6 +97,30 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Bunnelby",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bunnelby",
+        "quest_reward_pokemon_id": 659,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "588713542e704955bb8c6b5c4532247d.16",
+                "name": "laurus nobilis",
+                "latitude": 39.736728,
+                "longitude": -8.795776
+            },
+            {
+                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
+                "name": "Estravag\u00e1rio Graffiti",
+                "latitude": 39.752932,
+                "longitude": -8.933662
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Litleo",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -110,24 +140,6 @@
                 "name": "Parque Infantil",
                 "latitude": 39.731526,
                 "longitude": -8.803604
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Bunnelby",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bunnelby",
-        "quest_reward_pokemon_id": 659,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
-                "name": "Estravag\u00e1rio Graffiti",
-                "latitude": 39.752932,
-                "longitude": -8.933662
             }
         ]
     },
