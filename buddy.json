@@ -73,6 +73,36 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Litleo",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "49f915dee3254434924c648a382a932d.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.750712,
+                "longitude": -8.816448
+            },
+            {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
+                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
+                "name": "Celtis Australis",
+                "latitude": 39.741299,
+                "longitude": -8.801055
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Buneary",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -122,30 +152,6 @@
                 "name": "Edif\u00edcio Da Resinagem",
                 "latitude": 39.749198,
                 "longitude": -8.932709
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Litleo",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Litleo",
-        "quest_reward_pokemon_id": 667,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
-                "name": "Pai Natal Lar\u00e1pio",
-                "latitude": 39.73156,
-                "longitude": -8.823204
-            },
-            {
-                "pokestop_id": "d575be960cf64342a31c91480fd9c8ec.16",
-                "name": "Celtis Australis",
-                "latitude": 39.741299,
-                "longitude": -8.801055
             }
         ]
     },
