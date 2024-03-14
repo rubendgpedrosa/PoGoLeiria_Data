@@ -388,6 +388,12 @@
                 "longitude": -8.93453
             },
             {
+                "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
+                "name": "Dan'el E'me",
+                "latitude": 39.740549,
+                "longitude": -8.802441
+            },
+            {
                 "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
                 "name": "ASURPI",
                 "latitude": 39.75141,
@@ -1270,6 +1276,12 @@
                 "longitude": -8.801731
             },
             {
+                "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
+                "name": "Bullied Graffiti",
+                "latitude": 39.742343,
+                "longitude": -8.801731
+            },
+            {
                 "pokestop_id": "a7fc0fb68b653fa89f3aaa0670f00d29.16",
                 "name": "Os vizinhos associa\u00e7\u00e3o cultural",
                 "latitude": 39.741479,
@@ -1840,6 +1852,12 @@
                 "longitude": -8.80966
             },
             {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
+            },
+            {
                 "pokestop_id": "2638a4ed2ed9384483aaa4c8db4e6711.16",
                 "name": "Sede Bloco de Esquerda - Leiria",
                 "latitude": 39.743977,
@@ -2334,6 +2352,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
+                "name": "Lago Santo Agostinho",
+                "latitude": 39.74149,
+                "longitude": -8.801741
+            },
+            {
+                "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
+                "name": "Sede de Imprensa Marinha Grande",
+                "latitude": 39.753915,
+                "longitude": -8.932095
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Wingull",
         "quest_reward_type": "Pokemon",
@@ -2612,24 +2654,6 @@
                 "name": "Museu BVMG",
                 "latitude": 39.748136,
                 "longitude": -8.933859
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
-                "name": "Sede de Imprensa Marinha Grande",
-                "latitude": 39.753915,
-                "longitude": -8.932095
             }
         ]
     },
