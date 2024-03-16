@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Defeat 3 Team GO Rocket Grunts",
+        "quest_reward": "Sableye",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sableye",
+        "quest_reward_pokemon_id": 302,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2220c88e700f4716a79a5a0fcd4b9e48.16",
+                "name": "Piscina Municipal Da Marinha Grande",
+                "latitude": 39.749552,
+                "longitude": -8.924803
+            }
+        ]
+    },
+    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Spinarak",
         "quest_reward_type": "Pokemon",
@@ -18,6 +36,30 @@
         ]
     },
     {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Ledyba",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Ledyba",
+        "quest_reward_pokemon_id": 165,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
+                "name": "B Your Own Hero",
+                "latitude": 39.750139,
+                "longitude": -8.803923
+            },
+            {
+                "pokestop_id": "88201671521f45388828ef0e2d2d3f8a.16",
+                "name": "Clube dos ca\u00e7adores",
+                "latitude": 39.751363,
+                "longitude": -8.937626
+            }
+        ]
+    },
+    {
         "quest_description": "Explore 3 km",
         "quest_reward": "Growlithe",
         "quest_reward_type": "Pokemon",
@@ -32,6 +74,12 @@
                 "name": "Centro De Turismo",
                 "latitude": 39.743896,
                 "longitude": -8.806459
+            },
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
             },
             {
                 "pokestop_id": "d38f41a6dd1245bba807050ac15d128e.16",
@@ -56,6 +104,18 @@
                 "name": "Parque Do Museu Do Vidro",
                 "latitude": 39.74908,
                 "longitude": -8.933678
+            },
+            {
+                "pokestop_id": "7d69d15f3015358e87eb5cf0ba93c005.16",
+                "name": "Parque Infantil Cristal Atrium",
+                "latitude": 39.746939,
+                "longitude": -8.936985
+            },
+            {
+                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731526,
+                "longitude": -8.803604
             }
         ]
     },
@@ -98,24 +158,6 @@
                 "name": "Malta do Aerosol",
                 "latitude": 39.750045,
                 "longitude": -8.935074
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Ledyba",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Ledyba",
-        "quest_reward_pokemon_id": 165,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "88201671521f45388828ef0e2d2d3f8a.16",
-                "name": "Clube dos ca\u00e7adores",
-                "latitude": 39.751363,
-                "longitude": -8.937626
             }
         ]
     },
