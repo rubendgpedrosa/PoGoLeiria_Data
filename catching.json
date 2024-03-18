@@ -378,6 +378,36 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Zigzagoon",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Zigzagoon",
+        "quest_reward_pokemon_id": 263,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929
+            },
+            {
+                "pokestop_id": "a054259cd2763c80b9de8c2c09096fbe.16",
+                "name": "Poesia Portuguesa de Janela",
+                "latitude": 39.749735,
+                "longitude": -8.930832
+            },
+            {
+                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
+                "name": "Fontario Com Escultura",
+                "latitude": 39.739551,
+                "longitude": -8.809911
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "10 Pidgeot Mega Energy",
         "quest_reward_type": "Energy",
@@ -786,6 +816,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "10 Blastoise Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "e45e96f79eee4dd5b32db03fd04c4191.16",
+                "name": "Centro Comercial D.Dinis",
+                "latitude": 39.742971,
+                "longitude": -8.809768
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1116,24 +1170,6 @@
         ]
     },
     {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Zigzagoon",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Zigzagoon",
-        "quest_reward_pokemon_id": 263,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "a054259cd2763c80b9de8c2c09096fbe.16",
-                "name": "Poesia Portuguesa de Janela",
-                "latitude": 39.749735,
-                "longitude": -8.930832
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "10 Swampert Mega Energy",
         "quest_reward_type": "Energy",
@@ -1172,6 +1208,24 @@
                 "name": "Painel Moinho de Papel",
                 "latitude": 39.740201,
                 "longitude": -8.800153
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Psychic- or Fighting-type Pok\u00e9mon",
+        "quest_reward": "Solosis",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Solosis",
+        "quest_reward_pokemon_id": 577,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "af0a778fc22f41779408da7569e386aa.16",
+                "name": "Mural Bombeiro",
+                "latitude": 39.740828,
+                "longitude": -8.800367
             }
         ]
     },
@@ -1238,24 +1292,6 @@
                 "name": "Radioactive Man",
                 "latitude": 39.749887,
                 "longitude": -8.803576
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "10 Blastoise Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Blastoise",
-        "quest_reward_pokemon_id": 9,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "e45e96f79eee4dd5b32db03fd04c4191.16",
-                "name": "Centro Comercial D.Dinis",
-                "latitude": 39.742971,
-                "longitude": -8.809768
             }
         ]
     }

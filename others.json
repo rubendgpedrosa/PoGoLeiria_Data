@@ -136,6 +136,12 @@
                 "longitude": -8.804625
             },
             {
+                "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
+                "name": "Play Land - Parque Infantil",
+                "latitude": 39.739605,
+                "longitude": -8.818371
+            },
+            {
                 "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
                 "name": "O Pastor Peregrino",
                 "latitude": 39.744326,
@@ -176,6 +182,12 @@
                 "name": "Sede do Partido Social Democrata da Marinha Grande",
                 "latitude": 39.746712,
                 "longitude": -8.928824
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
             }
         ]
     },
@@ -218,6 +230,42 @@
                 "name": "Estradas Portugal",
                 "latitude": 39.751555,
                 "longitude": -8.808172
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "0bc2c65541d54e619cd907342180b784.16",
+                "name": "Igreja Universal Do Reino De Deus",
+                "latitude": 39.747902,
+                "longitude": -8.805366
+            },
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
+                "name": "Correios Post Office",
+                "latitude": 39.747622,
+                "longitude": -8.930452
+            },
+            {
+                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
+                "name": "Ponte El-Rei D. Dinis",
+                "latitude": 39.743323,
+                "longitude": -8.804477
             }
         ]
     },
@@ -422,6 +470,24 @@
                 "name": "Ponte pedonal do Parque das Bernardas",
                 "latitude": 39.737792,
                 "longitude": -8.928996
+            }
+        ]
+    },
+    {
+        "quest_description": "Trade a Pok\u00e9mon",
+        "quest_reward": "Swirlix",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Swirlix",
+        "quest_reward_pokemon_id": 684,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "22af41a0de094b3b9a328d93dc104eff.16",
+                "name": "Lis Shopping",
+                "latitude": 39.739681,
+                "longitude": -8.817837
             }
         ]
     },
@@ -640,6 +706,12 @@
                 "longitude": -8.809201
             },
             {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            },
+            {
                 "pokestop_id": "782815cfe6ea4d30b6f63bb601c6360c.16",
                 "name": "Tribunal Da Marinha Grande",
                 "latitude": 39.753741,
@@ -656,6 +728,12 @@
                 "name": "Zona Desportiva",
                 "latitude": 39.747903,
                 "longitude": -8.936311
+            },
+            {
+                "pokestop_id": "c5e96e69dbd13b3eab5f62d3ff424bec.16",
+                "name": "Gin\u00e1sio Fit On Move",
+                "latitude": 39.745658,
+                "longitude": -8.803177
             },
             {
                 "pokestop_id": "f20cf939cb55424184465327db0ec8e8.16",
@@ -901,36 +979,6 @@
     },
     {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "6 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 6,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
-        "pokestops": [
-            {
-                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
-                "name": "McDonald\u2019s-Leiria",
-                "latitude": 39.73516,
-                "longitude": -8.799637
-            },
-            {
-                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
-                "name": "Correios Post Office",
-                "latitude": 39.747622,
-                "longitude": -8.930452
-            },
-            {
-                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
-                "name": "Ponte El-Rei D. Dinis",
-                "latitude": 39.743323,
-                "longitude": -8.804477
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 2,
@@ -1160,6 +1208,24 @@
                 "name": "Jardim Am\u00e9lia Pinto Pais",
                 "latitude": 39.742343,
                 "longitude": -8.803473
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Aron",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aron",
+        "quest_reward_pokemon_id": 304,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "be810cdde01b3a9baa5454b7fba7511c.16",
+                "name": "Tribunal do Trabalho de Leiria",
+                "latitude": 39.739929,
+                "longitude": -8.808784
             }
         ]
     }
