@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Tirtouga",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tirtouga",
+        "quest_reward_pokemon_id": 564,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
+                "name": "CENFIM",
+                "latitude": 39.749026,
+                "longitude": -8.928307
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Lickitung",
         "quest_reward_type": "Pokemon",
@@ -10,64 +28,10 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "0df8fea10368498f97ff03c53648024c.16",
-                "name": "Museu S C P",
-                "latitude": 39.746818,
-                "longitude": -8.812759
-            },
-            {
-                "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
-                "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
-                "latitude": 39.751963,
-                "longitude": -8.812598
-            },
-            {
-                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
-                "name": "Casa Da Cultura",
-                "latitude": 39.749033,
-                "longitude": -8.933087
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Grubbin",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Grubbin",
-        "quest_reward_pokemon_id": 736,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "1846373feb73459994ce56162712ff83.16",
-                "name": "Correios Marrazes",
-                "latitude": 39.753807,
-                "longitude": -8.81209
-            },
-            {
-                "pokestop_id": "75a3dd9324834f55888123994e3d676a.16",
-                "name": "Torre Da Se",
-                "latitude": 39.746558,
-                "longitude": -8.807836
-            }
-        ]
-    },
-    {
-        "quest_description": "Win 2 raids",
-        "quest_reward": "Snorlax",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snorlax",
-        "quest_reward_pokemon_id": 143,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "a1d7da08d79c492098f4f57a27931039.16",
-                "name": "Marco CTT - Rua Professor N. Costa",
-                "latitude": 39.742221,
-                "longitude": -8.813073
+                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
+                "name": "Campo Basketball",
+                "latitude": 39.746655,
+                "longitude": -8.802376
             }
         ]
     }
