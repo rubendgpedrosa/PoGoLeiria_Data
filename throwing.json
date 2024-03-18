@@ -312,6 +312,42 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
+            },
+            {
+                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
+                "name": "Ringue De Futebol",
+                "latitude": 39.745324,
+                "longitude": -8.933841
+            },
+            {
+                "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
+                "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739793,
+                "longitude": -8.808255
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "200 Stardust",
         "quest_reward_type": "Stardust",
@@ -356,6 +392,12 @@
                 "name": "O intelectual.",
                 "latitude": 39.747676,
                 "longitude": -8.813754
+            },
+            {
+                "pokestop_id": "d4f83005fb733d4286dc584464d6232a.16",
+                "name": "Campo de Basquetebol",
+                "latitude": 39.729503,
+                "longitude": -8.806066
             }
         ]
     },
@@ -374,36 +416,6 @@
                 "name": "AMM - Associa\u00e7\u00e3o Marinha em Movimento",
                 "latitude": 39.750545,
                 "longitude": -8.925972
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
-                "name": "Fonte do Alambique",
-                "latitude": 39.751211,
-                "longitude": -8.803585
-            },
-            {
-                "pokestop_id": "74478716c0344453a85c204337d872a3.16",
-                "name": "Ringue De Futebol",
-                "latitude": 39.745324,
-                "longitude": -8.933841
-            },
-            {
-                "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
-                "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
-                "latitude": 39.739793,
-                "longitude": -8.808255
             }
         ]
     },
