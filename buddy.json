@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2220c88e700f4716a79a5a0fcd4b9e48.16",
+                "name": "Piscina Municipal Da Marinha Grande",
+                "latitude": 39.749552,
+                "longitude": -8.924803
+            },
+            {
+                "pokestop_id": "486d78e58bea4436b785c5a44da1e0db.16",
+                "name": "Associa\u00e7\u00e3o Social, Cultural e Desportiva de Casal Galego.",
+                "latitude": 39.74153,
+                "longitude": -8.931072
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 3 Candies walking with your buddy",
         "quest_reward": "Stunfisk",
         "quest_reward_type": "Pokemon",
@@ -62,24 +86,6 @@
                 "name": "Campo de Futebol",
                 "latitude": 39.754255,
                 "longitude": -8.808874
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Dedenne",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Dedenne",
-        "quest_reward_pokemon_id": 702,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "486d78e58bea4436b785c5a44da1e0db.16",
-                "name": "Associa\u00e7\u00e3o Social, Cultural e Desportiva de Casal Galego.",
-                "latitude": 39.74153,
-                "longitude": -8.931072
             }
         ]
     },
