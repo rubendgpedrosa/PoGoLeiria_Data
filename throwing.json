@@ -28,6 +28,18 @@
                 "longitude": -8.929618
             },
             {
+                "pokestop_id": "64028475605436c098d172cef7a27671.16",
+                "name": "Arquivo Municipal de Leiria",
+                "latitude": 39.731487,
+                "longitude": -8.794807
+            },
+            {
+                "pokestop_id": "68bac665c7f84b688f97a44e19c40dbf.16",
+                "name": "Corvos Do Lis",
+                "latitude": 39.747121,
+                "longitude": -8.803942
+            },
+            {
                 "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
                 "name": "Caritas Diocesana de Leiria",
                 "latitude": 39.73688,
@@ -38,6 +50,12 @@
                 "name": "Ponte Verde da Encosta do Castelo",
                 "latitude": 39.748256,
                 "longitude": -8.809223
+            },
+            {
+                "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
+                "name": "Placa de Homenagem Wenceslau de Morais",
+                "latitude": 39.747264,
+                "longitude": -8.803776
             },
             {
                 "pokestop_id": "b550cebedef249f68d8b165327be8b13.16",
@@ -62,6 +80,12 @@
                 "name": "Futuro",
                 "latitude": 39.752573,
                 "longitude": -8.81389
+            },
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
             },
             {
                 "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
@@ -352,6 +376,12 @@
                 "longitude": -8.807663
             },
             {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
+            {
                 "pokestop_id": "490174996655472e998bccb559694a1b.16",
                 "name": "Bordalo II",
                 "latitude": 39.742515,
@@ -568,6 +598,12 @@
                 "longitude": -8.801658
             },
             {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
+            },
+            {
                 "pokestop_id": "6641122bc0ea406f917adfe1cfbd22e6.11",
                 "name": "Mercado Municipal",
                 "latitude": 39.749213,
@@ -596,6 +632,12 @@
                 "name": "O Gladiador",
                 "latitude": 39.746592,
                 "longitude": -8.803601
+            },
+            {
+                "pokestop_id": "e92b33c341c3485d9b402af105b2484d.16",
+                "name": "Anno Christi MDCXLVI",
+                "latitude": 39.742708,
+                "longitude": -8.810826
             }
         ]
     },
@@ -880,6 +922,12 @@
                 "longitude": -8.804058
             },
             {
+                "pokestop_id": "4d86c7b25ae23c4e88f5151e4d759839.16",
+                "name": "Galerias Mouzinho de Albuquerque",
+                "latitude": 39.747271,
+                "longitude": -8.805217
+            },
+            {
                 "pokestop_id": "6adf2e0d4daa3ed6b1feabb5458dafba.16",
                 "name": "Projeto Community - Escola de Dan\u00e7as Urbanas",
                 "latitude": 39.746889,
@@ -902,6 +950,24 @@
                 "name": "CrossFit Leiria",
                 "latitude": 39.729649,
                 "longitude": -8.804977
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "Clamperl",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Clamperl",
+        "quest_reward_pokemon_id": 366,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "43f4521fe3a34043b9d177918f45e01d.16",
+                "name": "Fonte do Alambique",
+                "latitude": 39.751211,
+                "longitude": -8.803585
             }
         ]
     },
@@ -1182,6 +1248,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "63f82eedfebe4f3ba61cad72f2d0644f.16",
+                "name": "Junta De Freguesia Leiria",
+                "latitude": 39.743562,
+                "longitude": -8.804606
+            },
+            {
+                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
+                "name": "Parque da Cerca",
+                "latitude": 39.748598,
+                "longitude": -8.934927
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "3 Pinap Berry",
         "quest_reward_type": "Item",
@@ -1352,24 +1442,6 @@
                 "name": "Antigo Bebedouro",
                 "latitude": 39.750713,
                 "longitude": -8.926943
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
-                "name": "Parque da Cerca",
-                "latitude": 39.748598,
-                "longitude": -8.934927
             }
         ]
     },
