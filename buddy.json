@@ -64,6 +64,12 @@
                 "longitude": -8.931793
             },
             {
+                "pokestop_id": "59a6eb172b334499b7489e32c8ac436c.16",
+                "name": "Convento de Santo Ant\u00f3nio dos Capuchos",
+                "latitude": 39.743939,
+                "longitude": -8.813784
+            },
+            {
                 "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
                 "name": "Estravag\u00e1rio Graffiti",
                 "latitude": 39.752932,
@@ -103,19 +109,25 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Jigglypuff",
+        "quest_reward": "Litleo",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Jigglypuff",
-        "quest_reward_pokemon_id": 39,
+        "quest_reward_pokemon_name": "Litleo",
+        "quest_reward_pokemon_id": 667,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
-                "name": "Live Gym Marinha Grande",
-                "latitude": 39.74109,
-                "longitude": -8.929395
+                "pokestop_id": "40edfe553012431cbd444d3c3efcd87e.16",
+                "name": "Dan'el E'me",
+                "latitude": 39.740549,
+                "longitude": -8.802441
+            },
+            {
+                "pokestop_id": "484d1bcbc0a443cb933cf338d4aa6e43.16",
+                "name": "Engenharia Autom\u00f3vel",
+                "latitude": 39.733074,
+                "longitude": -8.821522
             }
         ]
     },
@@ -130,6 +142,12 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
+                "name": "Ponte Pedonal Rio Liz",
+                "latitude": 39.750058,
+                "longitude": -8.804897
+            },
+            {
                 "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
                 "name": "Liceu Rodrigues Lobo",
                 "latitude": 39.742257,
@@ -140,6 +158,24 @@
                 "name": "Lenda do Lis e do Lena",
                 "latitude": 39.743468,
                 "longitude": -8.8068
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Jigglypuff",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Jigglypuff",
+        "quest_reward_pokemon_id": 39,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "aa3fdf801774322b9dfd5f15a271fb8e.16",
+                "name": "Live Gym Marinha Grande",
+                "latitude": 39.74109,
+                "longitude": -8.929395
             }
         ]
     }
