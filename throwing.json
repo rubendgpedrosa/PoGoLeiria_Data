@@ -208,6 +208,12 @@
                 "longitude": -8.805844
             },
             {
+                "pokestop_id": "1004b264540f414fb24fed598f65a463.16",
+                "name": "Complexo Municipal De T\u00eanis",
+                "latitude": 39.735363,
+                "longitude": -8.795582
+            },
+            {
                 "pokestop_id": "1f8df9d7634c44a2b38af780e0f882bc.11",
                 "name": "Edif\u00edcio do Dr. Jo\u00e3o Carlos Verde de Oliveira",
                 "latitude": 39.742779,
@@ -218,6 +224,12 @@
                 "name": "Audit\u00f3rio",
                 "latitude": 39.749766,
                 "longitude": -8.926395
+            },
+            {
+                "pokestop_id": "6e16a724c20f4752b9b6cee03cfe329a.16",
+                "name": "Nossa Senhora Imaculada Concei\u00e7\u00e3o",
+                "latitude": 39.730732,
+                "longitude": -8.808285
             },
             {
                 "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
@@ -272,6 +284,12 @@
                 "name": "COOPPOVO",
                 "latitude": 39.750118,
                 "longitude": -8.926915
+            },
+            {
+                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
+                "name": "Jogo De Som",
+                "latitude": 39.734864,
+                "longitude": -8.797733
             },
             {
                 "pokestop_id": "b3356645cffd432abf254b1c58a5c593.16",
@@ -436,6 +454,12 @@
                 "longitude": -8.798869
             },
             {
+                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
+                "name": "Centro de Linguas Chinesas",
+                "latitude": 39.740291,
+                "longitude": -8.811645
+            },
+            {
                 "pokestop_id": "8d0d519111594c7d9d556e143b4c9f08.16",
                 "name": "Rotary Club",
                 "latitude": 39.750458,
@@ -572,6 +596,12 @@
                 "name": "Parque Infantil Beira Rio",
                 "latitude": 39.739953,
                 "longitude": -8.80073
+            },
+            {
+                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
+                "name": "CAL",
+                "latitude": 39.741024,
+                "longitude": -8.806283
             }
         ]
     },
@@ -722,6 +752,12 @@
                 "name": "Igreja Man\u00e1",
                 "latitude": 39.741498,
                 "longitude": -8.799315
+            },
+            {
+                "pokestop_id": "f3a20103705430bc9e7a1e1d054c1b6a.16",
+                "name": "Polit\u00e9cnico de Leiria - ESECS",
+                "latitude": 39.739751,
+                "longitude": -8.811364
             }
         ]
     },
@@ -1042,6 +1078,12 @@
                 "longitude": -8.809802
             },
             {
+                "pokestop_id": "cb9ce7b1f8b0364c8530e36d7d43402f.16",
+                "name": "Caixa Postal CTT - Guimarota",
+                "latitude": 39.732839,
+                "longitude": -8.795816
+            },
+            {
                 "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
                 "name": "Campus 1 - ESECS",
                 "latitude": 39.739983,
@@ -1070,6 +1112,12 @@
                 "name": "Torre Agua Leiria",
                 "latitude": 39.743319,
                 "longitude": -8.799232
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
             },
             {
                 "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
@@ -1218,6 +1266,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Excellent Throws in a row",
         "quest_reward": "Gible",
         "quest_reward_type": "Pokemon",
@@ -1292,24 +1364,6 @@
                 "name": "Celtis Australis",
                 "latitude": 39.741299,
                 "longitude": -8.801055
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Curveball Throws in a row",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
-                "name": "Estradas Portugal",
-                "latitude": 39.751555,
-                "longitude": -8.808172
             }
         ]
     },
