@@ -94,6 +94,12 @@
                 "longitude": -8.804519
             },
             {
+                "pokestop_id": "88049685411c47328f6a0e24fda5894d.16",
+                "name": "Anfiteatro",
+                "latitude": 39.751453,
+                "longitude": -8.809059
+            },
+            {
                 "pokestop_id": "a3cdce83780d4bbeac3bbe40e75e36a1.16",
                 "name": "Ponte pedonal norte do Parque das Bernardas",
                 "latitude": 39.738465,
@@ -236,6 +242,12 @@
                 "name": "O Pastor Peregrino",
                 "latitude": 39.744326,
                 "longitude": -8.807043
+            },
+            {
+                "pokestop_id": "7de0d62dd2884b5f987bb82c2f091548.16",
+                "name": "D.Isabel",
+                "latitude": 39.749043,
+                "longitude": -8.80843
             },
             {
                 "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
@@ -564,6 +576,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "1f641ecb295932fbbe208b6f082139d8.16",
+                "name": "Igreja bola de neve",
+                "latitude": 39.733928,
+                "longitude": -8.807519
+            },
+            {
+                "pokestop_id": "3bbc897a1d6a4a6194f3326b30204c44.16",
+                "name": "O Gladiador",
+                "latitude": 39.746592,
+                "longitude": -8.803601
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "9 Razz Berry",
         "quest_reward_type": "Item",
@@ -578,6 +614,42 @@
                 "name": "Mural Bailarina",
                 "latitude": 39.739897,
                 "longitude": -8.804231
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "22af41a0de094b3b9a328d93dc104eff.16",
+                "name": "Lis Shopping",
+                "latitude": 39.739681,
+                "longitude": -8.817837
+            },
+            {
+                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
+                "name": "Mural Brave",
+                "latitude": 39.743151,
+                "longitude": -8.812097
+            },
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
+            },
+            {
+                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
+                "name": "Xilofone M\u00e1rmore",
+                "latitude": 39.741581,
+                "longitude": -8.802014
             }
         ]
     },
@@ -792,24 +864,6 @@
         ]
     },
     {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "3bbc897a1d6a4a6194f3326b30204c44.16",
-                "name": "O Gladiador",
-                "latitude": 39.746592,
-                "longitude": -8.803601
-            }
-        ]
-    },
-    {
         "quest_description": "Make 5 Curveball Throws in a row",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -938,36 +992,6 @@
                 "name": "Camara Municipal de Leiria",
                 "latitude": 39.741093,
                 "longitude": -8.810354
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
-                "name": "Mural Brave",
-                "latitude": 39.743151,
-                "longitude": -8.812097
-            },
-            {
-                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
-                "name": "Parque Infantil Oeste",
-                "latitude": 39.735409,
-                "longitude": -8.801379
-            },
-            {
-                "pokestop_id": "f76e3a371c1b4f86b88835f2f6596f94.16",
-                "name": "Xilofone M\u00e1rmore",
-                "latitude": 39.741581,
-                "longitude": -8.802014
             }
         ]
     },

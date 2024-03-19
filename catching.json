@@ -108,6 +108,66 @@
         ]
     },
     {
+        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
+        "quest_reward": "Snorunt",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snorunt",
+        "quest_reward_pokemon_id": 361,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
+                "name": "Correios Office Post Leiria",
+                "latitude": 39.740543,
+                "longitude": -8.80818
+            },
+            {
+                "pokestop_id": "3fb0e2f8f4a7358192dd283577972942.16",
+                "name": "Medalh\u00e3o - Primeiro Mealheiro P\u00fablico",
+                "latitude": 39.744064,
+                "longitude": -8.807857
+            },
+            {
+                "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
+                "name": "Play Land - Parque Infantil",
+                "latitude": 39.739605,
+                "longitude": -8.818371
+            },
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
+            },
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455
+            },
+            {
+                "pokestop_id": "d4f83005fb733d4286dc584464d6232a.16",
+                "name": "Campo de Basquetebol",
+                "latitude": 39.729503,
+                "longitude": -8.806066
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Water-type Pok\u00e9mon",
         "quest_reward": "6 Razz Berry",
         "quest_reward_type": "Item",
@@ -444,60 +504,6 @@
         ]
     },
     {
-        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
-        "quest_reward": "Snorunt",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snorunt",
-        "quest_reward_pokemon_id": 361,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
-                "name": "Correios Office Post Leiria",
-                "latitude": 39.740543,
-                "longitude": -8.80818
-            },
-            {
-                "pokestop_id": "3fb0e2f8f4a7358192dd283577972942.16",
-                "name": "Medalh\u00e3o - Primeiro Mealheiro P\u00fablico",
-                "latitude": 39.744064,
-                "longitude": -8.807857
-            },
-            {
-                "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
-                "name": "Play Land - Parque Infantil",
-                "latitude": 39.739605,
-                "longitude": -8.818371
-            },
-            {
-                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
-                "name": "Ponte Euro 2004",
-                "latitude": 39.752764,
-                "longitude": -8.814174
-            },
-            {
-                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
-                "name": "Edif\u00edcio Da Resinagem",
-                "latitude": 39.749198,
-                "longitude": -8.932709
-            },
-            {
-                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
-                "name": "Assembleia de Deus",
-                "latitude": 39.745074,
-                "longitude": -8.936455
-            },
-            {
-                "pokestop_id": "d4f83005fb733d4286dc584464d6232a.16",
-                "name": "Campo de Basquetebol",
-                "latitude": 39.729503,
-                "longitude": -8.806066
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -793,6 +799,24 @@
     },
     {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 2,
@@ -902,6 +926,12 @@
                 "name": "Ponte Hintze Ribeiro",
                 "latitude": 39.742734,
                 "longitude": -8.803525
+            },
+            {
+                "pokestop_id": "b2d13ad1afca4e86ba139284c054a9a5.16",
+                "name": "Fontario Com Escultura",
+                "latitude": 39.739551,
+                "longitude": -8.809911
             }
         ]
     },
@@ -1236,6 +1266,30 @@
         ]
     },
     {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Wimpod",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Wimpod",
+        "quest_reward_pokemon_id": 767,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
+                "name": "Mural Final Four - Leiria",
+                "latitude": 39.736271,
+                "longitude": -8.822064
+            },
+            {
+                "pokestop_id": "d47848cf08e945c691b195b0df815135.16",
+                "name": "Artes Manuais",
+                "latitude": 39.742853,
+                "longitude": -8.933931
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -1280,24 +1334,6 @@
                 "name": "Campus 2 - ESTG",
                 "latitude": 39.734095,
                 "longitude": -8.823089
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 7 Pok\u00e9mon",
-        "quest_reward": "Wimpod",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Wimpod",
-        "quest_reward_pokemon_id": 767,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d47848cf08e945c691b195b0df815135.16",
-                "name": "Artes Manuais",
-                "latitude": 39.742853,
-                "longitude": -8.933931
             }
         ]
     }
