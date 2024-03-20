@@ -40,6 +40,12 @@
                 "longitude": -8.811439
             },
             {
+                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
+                "name": "Parque de S\u00e3o Rom\u00e3o",
+                "latitude": 39.733442,
+                "longitude": -8.797748
+            },
+            {
                 "pokestop_id": "59e2f6466c39394db919bde10c6df0c6.16",
                 "name": "O Prisioneiro",
                 "latitude": 39.744766,
@@ -188,6 +194,12 @@
                 "name": "Jogo da Macaca",
                 "latitude": 39.738327,
                 "longitude": -8.81087
+            },
+            {
+                "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
+                "name": "Miradouro Leiria",
+                "latitude": 39.743941,
+                "longitude": -8.802609
             },
             {
                 "pokestop_id": "e92b33c341c3485d9b402af105b2484d.16",
@@ -496,10 +508,22 @@
                 "longitude": -8.93684
             },
             {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
+            },
+            {
                 "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
                 "name": "Janelas do Jardim da Almuinha",
                 "latitude": 39.751734,
                 "longitude": -8.80984
+            },
+            {
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
             }
         ]
     },
@@ -601,6 +625,42 @@
     },
     {
         "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Venusaur Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Venusaur",
+        "quest_reward_pokemon_id": 3,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
+            },
+            {
+                "pokestop_id": "401aa5fe5e2a4ac2b7ed091070a5dc86.16",
+                "name": "Skate Parque Do Parque da Cerca",
+                "latitude": 39.74986,
+                "longitude": -8.935551
+            },
+            {
+                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
+                "name": "Monumento aos Combatentes da Grande Guerra",
+                "latitude": 39.740806,
+                "longitude": -8.802768
+            },
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Manectric Mega Energy",
         "quest_reward_type": "Energy",
         "quest_reward_amount": 10,
@@ -686,36 +746,6 @@
                 "name": "Torre Agua Leiria",
                 "latitude": 39.743319,
                 "longitude": -8.799232
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Venusaur Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Venusaur",
-        "quest_reward_pokemon_id": 3,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "401aa5fe5e2a4ac2b7ed091070a5dc86.16",
-                "name": "Skate Parque Do Parque da Cerca",
-                "latitude": 39.74986,
-                "longitude": -8.935551
-            },
-            {
-                "pokestop_id": "828ad56cb59146cf9dbea7896b2dd6ce.16",
-                "name": "Monumento aos Combatentes da Grande Guerra",
-                "latitude": 39.740806,
-                "longitude": -8.802768
-            },
-            {
-                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
-                "name": "Play City",
-                "latitude": 39.747179,
-                "longitude": -8.802109
             }
         ]
     },
