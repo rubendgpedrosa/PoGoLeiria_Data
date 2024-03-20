@@ -61,6 +61,36 @@
     },
     {
         "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
+            },
+            {
+                "pokestop_id": "8d0d519111594c7d9d556e143b4c9f08.16",
+                "name": "Rotary Club",
+                "latitude": 39.750458,
+                "longitude": -8.925748
+            },
+            {
+                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
+                "name": "Parque da Cerca",
+                "latitude": 39.748598,
+                "longitude": -8.934927
+            }
+        ]
+    },
+    {
+        "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Jigglypuff",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -170,30 +200,6 @@
                 "name": "Ponte Ondulada",
                 "latitude": 39.746196,
                 "longitude": -8.80374
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Dedenne",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Dedenne",
-        "quest_reward_pokemon_id": 702,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8d0d519111594c7d9d556e143b4c9f08.16",
-                "name": "Rotary Club",
-                "latitude": 39.750458,
-                "longitude": -8.925748
-            },
-            {
-                "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
-                "name": "Parque da Cerca",
-                "latitude": 39.748598,
-                "longitude": -8.934927
             }
         ]
     }
