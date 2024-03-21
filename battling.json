@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Win a raid",
+        "quest_reward": "Lickitung",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Lickitung",
+        "quest_reward_pokemon_id": 108,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
+            },
+            {
+                "pokestop_id": "25a0330c10104e74a733559e8c6d11a2.16",
+                "name": "Centro Desportivo Juve Lis",
+                "latitude": 39.731097,
+                "longitude": -8.794939
+            },
+            {
+                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
+                "name": "Ponte El-Rei D. Dinis",
+                "latitude": 39.743323,
+                "longitude": -8.804477
+            },
+            {
+                "pokestop_id": "dad5fb5c7cc44d998d10c13d93d0c281.16",
+                "name": "Chamin\u00e9 Sthepens",
+                "latitude": 39.751303,
+                "longitude": -8.934332
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Exeggutor",
         "quest_reward_type": "Pokemon",
@@ -50,6 +86,12 @@
                 "name": "Sede N\u00facleo Sporting",
                 "latitude": 39.750953,
                 "longitude": -8.932885
+            },
+            {
+                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
+                "name": "Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739852,
+                "longitude": -8.808011
             }
         ]
     },
