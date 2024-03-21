@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Power up Pok\u00e9mon 7 times",
+        "quest_reward": "Litten",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Litten",
+        "quest_reward_pokemon_id": 725,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "06030e41449c4302874baae88549b655.16",
+                "name": "Correios Her\u00f3is De Angola",
+                "latitude": 39.747609,
+                "longitude": -8.804195
+            },
+            {
+                "pokestop_id": "097466c5212c4a0a81c4123a78445154.16",
+                "name": "Mural \"Liberdade\"",
+                "latitude": 39.745754,
+                "longitude": -8.805297
+            },
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
+            },
+            {
+                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.740902,
+                "longitude": -8.933727
+            }
+        ]
+    },
+    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Sableye",
         "quest_reward_type": "Pokemon",
@@ -38,6 +74,12 @@
                 "name": "Parque de Merendas",
                 "latitude": 39.733817,
                 "longitude": -8.809361
+            },
+            {
+                "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
+                "name": "Pal\u00e1cio dos Ata\u00eddes",
+                "latitude": 39.744296,
+                "longitude": -8.810014
             },
             {
                 "pokestop_id": "6e862c9323dc40dd9f2f668902c794c4.16",
@@ -90,36 +132,6 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 7 times",
-        "quest_reward": "Litten",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Litten",
-        "quest_reward_pokemon_id": 725,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "097466c5212c4a0a81c4123a78445154.16",
-                "name": "Mural \"Liberdade\"",
-                "latitude": 39.745754,
-                "longitude": -8.805297
-            },
-            {
-                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
-                "name": "Parque Infantil Oeste",
-                "latitude": 39.735409,
-                "longitude": -8.801379
-            },
-            {
-                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
-                "name": "Campo De T\u00e9nis",
-                "latitude": 39.740902,
-                "longitude": -8.933727
-            }
-        ]
-    },
-    {
         "quest_description": "Hatch an Egg",
         "quest_reward": "Sudowoodo",
         "quest_reward_type": "Pokemon",
@@ -146,6 +158,36 @@
                 "name": "Jardim Am\u00e9lia Pinto Pais",
                 "latitude": 39.742343,
                 "longitude": -8.803473
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0bc2c65541d54e619cd907342180b784.16",
+                "name": "Igreja Universal Do Reino De Deus",
+                "latitude": 39.747902,
+                "longitude": -8.805366
+            },
+            {
+                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
+                "name": "Seu Nome Era Mural",
+                "latitude": 39.746244,
+                "longitude": -8.807457
+            },
+            {
+                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
+                "name": "O pensativo.",
+                "latitude": 39.747078,
+                "longitude": -8.8151
             }
         ]
     },
@@ -354,90 +396,6 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "Snivy",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snivy",
-        "quest_reward_pokemon_id": 495,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
-                "name": "Arco 42",
-                "latitude": 39.744873,
-                "longitude": -8.807102
-            },
-            {
-                "pokestop_id": "9c3dbe6fc8ce440bad72fd7a64b4e153.11",
-                "name": "Afonso Lopes Vieira",
-                "latitude": 39.743902,
-                "longitude": -8.808525
-            }
-        ]
-    },
-    {
-        "quest_description": "Hatch 2 Eggs",
-        "quest_reward": "Stunfisk",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stunfisk",
-        "quest_reward_pokemon_id": 618,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
-                "name": "Art",
-                "latitude": 39.750309,
-                "longitude": -8.932088
-            },
-            {
-                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
-                "name": "Jornal de Leiria",
-                "latitude": 39.743267,
-                "longitude": -8.809349
-            },
-            {
-                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
-                "name": "Igreja Paroquial da Marinha Grande",
-                "latitude": 39.750842,
-                "longitude": -8.931292
-            },
-            {
-                "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
-                "name": "Sede de Imprensa Marinha Grande",
-                "latitude": 39.753915,
-                "longitude": -8.932095
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 3 times",
-        "quest_reward": "Bulbasaur",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bulbasaur",
-        "quest_reward_pokemon_id": 1,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "1f0a9819d0db41ae902717902a8452a2.16",
-                "name": "Centro De Interpreta\u00e7\u00e3o Ambiental De Leiria",
-                "latitude": 39.740739,
-                "longitude": -8.80134
-            },
-            {
-                "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
-                "name": "Rainha Santa Isabel",
-                "latitude": 39.745508,
-                "longitude": -8.811107
-            }
-        ]
-    },
-    {
         "quest_description": "Explore 3 km",
         "quest_reward": "Growlithe",
         "quest_reward_type": "Pokemon",
@@ -447,6 +405,12 @@
         "quest_reward_pokemon_id": 58,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "143767309db947358b481a9f9c40ae56.16",
+                "name": "Parque Infantil Almuinha Grande",
+                "latitude": 39.751567,
+                "longitude": -8.81027
+            },
             {
                 "pokestop_id": "1f8703ec0451364f90420f66f3220978.16",
                 "name": "Centro de Cultura e Desporto dos Trabalhadores da Seguran\u00e7a Social de Leiria",
@@ -486,72 +450,6 @@
         ]
     },
     {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Bellsprout",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bellsprout",
-        "quest_reward_pokemon_id": 69,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "20d010499ea44bb8a7f38881b2d47338.16",
-                "name": "Mural Bailarina",
-                "latitude": 39.739897,
-                "longitude": -8.804231
-            },
-            {
-                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
-                "name": "Galerias Horizonte",
-                "latitude": 39.745662,
-                "longitude": -8.930959
-            },
-            {
-                "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
-                "name": "B Your Own Hero",
-                "latitude": 39.750139,
-                "longitude": -8.803923
-            },
-            {
-                "pokestop_id": "60d0640e32b531d1a57e5a3aa77d92a0.16",
-                "name": "Pistas de ateletismo do campo de treino do est\u00e1dio municipal",
-                "latitude": 39.737201,
-                "longitude": -8.929543
-            },
-            {
-                "pokestop_id": "725520b0ca3837daba0f82b4f415b1c0.16",
-                "name": "Gin\u00e1sio High Performace Leiria",
-                "latitude": 39.740017,
-                "longitude": -8.803766
-            },
-            {
-                "pokestop_id": "7d69d15f3015358e87eb5cf0ba93c005.16",
-                "name": "Parque Infantil Cristal Atrium",
-                "latitude": 39.746939,
-                "longitude": -8.936985
-            },
-            {
-                "pokestop_id": "9fe8b4e707df3af48bc49f3811f5553f.16",
-                "name": "Arte urbana a l\u00e2mpada",
-                "latitude": 39.749948,
-                "longitude": -8.930341
-            },
-            {
-                "pokestop_id": "a9aecff3187e48e6bc006f1a2fd4ee5a.16",
-                "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
-                "latitude": 39.739299,
-                "longitude": -8.801276
-            },
-            {
-                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
-                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
-                "latitude": 39.742537,
-                "longitude": -8.793462
-            }
-        ]
-    },
-    {
         "quest_description": "Purify 3 Pokemon",
         "quest_reward": "Skarmory",
         "quest_reward_type": "Pokemon",
@@ -561,6 +459,12 @@
         "quest_reward_pokemon_id": 227,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "14b538a97a1d3a7dba09342ef08ace54.16",
+                "name": "Villa Hort\u00eansia",
+                "latitude": 39.748585,
+                "longitude": -8.805955
+            },
             {
                 "pokestop_id": "23076c7b2d5e3d209916143b5207e5b3.16",
                 "name": "Soneto da Casa",
@@ -650,6 +554,162 @@
                 "name": "Parque Infantil",
                 "latitude": 39.731552,
                 "longitude": -8.809623
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Snivy",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snivy",
+        "quest_reward_pokemon_id": 495,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
+                "name": "Arco 42",
+                "latitude": 39.744873,
+                "longitude": -8.807102
+            },
+            {
+                "pokestop_id": "9c3dbe6fc8ce440bad72fd7a64b4e153.11",
+                "name": "Afonso Lopes Vieira",
+                "latitude": 39.743902,
+                "longitude": -8.808525
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
+                "name": "Art",
+                "latitude": 39.750309,
+                "longitude": -8.932088
+            },
+            {
+                "pokestop_id": "6c66b7b7cc56374aa55f5673c9382085.16",
+                "name": "Jornal de Leiria",
+                "latitude": 39.743267,
+                "longitude": -8.809349
+            },
+            {
+                "pokestop_id": "6deebe48f2ca4af79a8d0237fd2bd793.16",
+                "name": "Igreja Paroquial da Marinha Grande",
+                "latitude": 39.750842,
+                "longitude": -8.931292
+            },
+            {
+                "pokestop_id": "dd49753770a13bbc853fec6b29c52e72.16",
+                "name": "Sede de Imprensa Marinha Grande",
+                "latitude": 39.753915,
+                "longitude": -8.932095
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Bulbasaur",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bulbasaur",
+        "quest_reward_pokemon_id": 1,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "1f0a9819d0db41ae902717902a8452a2.16",
+                "name": "Centro De Interpreta\u00e7\u00e3o Ambiental De Leiria",
+                "latitude": 39.740739,
+                "longitude": -8.80134
+            },
+            {
+                "pokestop_id": "ade6c1093aab4856a5f7c7b444eb8858.16",
+                "name": "Rainha Santa Isabel",
+                "latitude": 39.745508,
+                "longitude": -8.811107
+            }
+        ]
+    },
+    {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Bellsprout",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bellsprout",
+        "quest_reward_pokemon_id": 69,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "20d010499ea44bb8a7f38881b2d47338.16",
+                "name": "Mural Bailarina",
+                "latitude": 39.739897,
+                "longitude": -8.804231
+            },
+            {
+                "pokestop_id": "27351605c31444ab9fbc3d753c189b12.16",
+                "name": "Galerias Horizonte",
+                "latitude": 39.745662,
+                "longitude": -8.930959
+            },
+            {
+                "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
+                "name": "B Your Own Hero",
+                "latitude": 39.750139,
+                "longitude": -8.803923
+            },
+            {
+                "pokestop_id": "59e2f6466c39394db919bde10c6df0c6.16",
+                "name": "O Prisioneiro",
+                "latitude": 39.744766,
+                "longitude": -8.81039
+            },
+            {
+                "pokestop_id": "60d0640e32b531d1a57e5a3aa77d92a0.16",
+                "name": "Pistas de ateletismo do campo de treino do est\u00e1dio municipal",
+                "latitude": 39.737201,
+                "longitude": -8.929543
+            },
+            {
+                "pokestop_id": "725520b0ca3837daba0f82b4f415b1c0.16",
+                "name": "Gin\u00e1sio High Performace Leiria",
+                "latitude": 39.740017,
+                "longitude": -8.803766
+            },
+            {
+                "pokestop_id": "7d69d15f3015358e87eb5cf0ba93c005.16",
+                "name": "Parque Infantil Cristal Atrium",
+                "latitude": 39.746939,
+                "longitude": -8.936985
+            },
+            {
+                "pokestop_id": "9fe8b4e707df3af48bc49f3811f5553f.16",
+                "name": "Arte urbana a l\u00e2mpada",
+                "latitude": 39.749948,
+                "longitude": -8.930341
+            },
+            {
+                "pokestop_id": "a9aecff3187e48e6bc006f1a2fd4ee5a.16",
+                "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
+                "latitude": 39.739299,
+                "longitude": -8.801276
+            },
+            {
+                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
+                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
+                "latitude": 39.742537,
+                "longitude": -8.793462
             }
         ]
     },
@@ -751,30 +811,6 @@
     },
     {
         "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
-                "name": "Seu Nome Era Mural",
-                "latitude": 39.746244,
-                "longitude": -8.807457
-            },
-            {
-                "pokestop_id": "85d25ce526204c40875282666bc010ee.16",
-                "name": "O pensativo.",
-                "latitude": 39.747078,
-                "longitude": -8.8151
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
         "quest_reward": "Doduo",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -850,10 +886,22 @@
                 "longitude": -8.803601
             },
             {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
+            },
+            {
                 "pokestop_id": "b1c086d41082469e87705d1cedb0fac3.16",
                 "name": "Fonte Freire",
                 "latitude": 39.743645,
                 "longitude": -8.810948
+            },
+            {
+                "pokestop_id": "de7d0cc92e0e4b62b195f7a846d06f79.16",
+                "name": "Urban Fitness",
+                "latitude": 39.748953,
+                "longitude": -8.802133
             }
         ]
     },
@@ -878,6 +926,12 @@
                 "name": "CEMFIR - Culturismo",
                 "latitude": 39.752054,
                 "longitude": -8.92786
+            },
+            {
+                "pokestop_id": "dd77a59686d64c538ef83fc8c6375162.16",
+                "name": "Janelas do Jardim da Almuinha",
+                "latitude": 39.751734,
+                "longitude": -8.80984
             }
         ]
     },
@@ -1038,6 +1092,54 @@
         ]
     },
     {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Spinarak",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spinarak",
+        "quest_reward_pokemon_id": 167,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "51e7e5d887e83b68b9dc8bc0a5b2f4d5.16",
+                "name": "Ponte Pedonal Jardim da Almuinha",
+                "latitude": 39.751736,
+                "longitude": -8.810436
+            },
+            {
+                "pokestop_id": "6d59dc9c55f743179a8cb5f6fb59a86f.16",
+                "name": "Placa Informativa - Antes do Castelo",
+                "latitude": 39.747749,
+                "longitude": -8.808107
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Ralts",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Ralts",
+        "quest_reward_pokemon_id": 280,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
+            },
+            {
+                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
+                "name": "Arcos - Leiria",
+                "latitude": 39.746016,
+                "longitude": -8.80598
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "Tepig",
         "quest_reward_type": "Pokemon",
@@ -1104,38 +1206,20 @@
         ]
     },
     {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Spinarak",
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Oshawott",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
         "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Spinarak",
-        "quest_reward_pokemon_id": 167,
+        "quest_reward_pokemon_name": "Oshawott",
+        "quest_reward_pokemon_id": 501,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "6d59dc9c55f743179a8cb5f6fb59a86f.16",
-                "name": "Placa Informativa - Antes do Castelo",
-                "latitude": 39.747749,
-                "longitude": -8.808107
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Ralts",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Ralts",
-        "quest_reward_pokemon_id": 280,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "93434f5276894623b0bb4771db5f135a.11",
-                "name": "Arcos - Leiria",
-                "latitude": 39.746016,
-                "longitude": -8.80598
+                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
+                "name": "Marco de Correio CTT",
+                "latitude": 39.746326,
+                "longitude": -8.804666
             }
         ]
     },
@@ -1178,6 +1262,12 @@
                 "name": "Celtis Australis",
                 "latitude": 39.741299,
                 "longitude": -8.801055
+            },
+            {
+                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
+                "name": "Sapo",
+                "latitude": 39.74516,
+                "longitude": -8.804145
             }
         ]
     },
