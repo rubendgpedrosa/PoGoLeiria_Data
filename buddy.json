@@ -24,6 +24,36 @@
         ]
     },
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Dedenne",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Dedenne",
+        "quest_reward_pokemon_id": 702,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2eef5abe51ad487f95a1ebd034c9bdef.16",
+                "name": "Choupo Negro",
+                "latitude": 39.750236,
+                "longitude": -8.804137
+            },
+            {
+                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
+                "name": "Mural Brave",
+                "latitude": 39.743151,
+                "longitude": -8.812097
+            },
+            {
+                "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
+                "name": "Caixa Postal CTT - Cristal Atrium",
+                "latitude": 39.747021,
+                "longitude": -8.936766
+            }
+        ]
+    },
+    {
         "quest_description": "Send 3 Gifts to friends",
         "quest_reward": "1000 Stardust",
         "quest_reward_type": "Stardust",
@@ -38,30 +68,6 @@
                 "name": "Embaixadores da Comunidade Localiza\u00e7\u00e3o",
                 "latitude": 39.743543,
                 "longitude": -8.806178
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Dedenne",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Dedenne",
-        "quest_reward_pokemon_id": 702,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "4cacbf67abed4c2dbd4578ad4076c225.16",
-                "name": "Mural Brave",
-                "latitude": 39.743151,
-                "longitude": -8.812097
-            },
-            {
-                "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
-                "name": "Caixa Postal CTT - Cristal Atrium",
-                "latitude": 39.747021,
-                "longitude": -8.936766
             }
         ]
     },
@@ -104,6 +110,12 @@
                 "name": "Cabine de Leitura - Trokakioske",
                 "latitude": 39.744527,
                 "longitude": -8.807312
+            },
+            {
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
             },
             {
                 "pokestop_id": "e8ec622a2f3239eaa38356a5d19046ce.16",
