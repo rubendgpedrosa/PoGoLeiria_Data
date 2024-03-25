@@ -130,6 +130,12 @@
                 "longitude": -8.80407
             },
             {
+                "pokestop_id": "ce1e9a64fd4e473290950246fac35c13.11",
+                "name": "Est\u00e1dio Municipal de Leiria",
+                "latitude": 39.749735,
+                "longitude": -8.812954
+            },
+            {
                 "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
                 "name": "Barcos da Costa",
                 "latitude": 39.73964,
@@ -630,6 +636,54 @@
         ]
     },
     {
+        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
+        "quest_reward": "Trapinch",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Trapinch",
+        "quest_reward_pokemon_id": 328,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2ac9299d7ffd319aa934d0d4337e8b8f.16",
+                "name": "Leiria: Cidade Europeia do Desporto 2022",
+                "latitude": 39.736999,
+                "longitude": -8.82141
+            },
+            {
+                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
+                "name": "Anfiteatro Do Parque Da Cerca",
+                "latitude": 39.749604,
+                "longitude": -8.934917
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Aggron Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Aggron",
+        "quest_reward_pokemon_id": 306,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2bee528e05843d0f872201c882e56d1e.16",
+                "name": "Porta - Cidades Imagin\u00e1rias",
+                "latitude": 39.751504,
+                "longitude": -8.806966
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 3 times",
         "quest_reward": "Bulbasaur",
         "quest_reward_type": "Pokemon",
@@ -1122,24 +1176,6 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "10 Aggron Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Aggron",
-        "quest_reward_pokemon_id": 306,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
-                "name": "Tribunal Administrativo e Fiscal De Leiria",
-                "latitude": 39.738257,
-                "longitude": -8.802019
-            }
-        ]
-    },
-    {
         "quest_description": "Hatch an Egg",
         "quest_reward": "Nincada",
         "quest_reward_type": "Pokemon",
@@ -1160,24 +1196,6 @@
                 "name": "Capela Sao Francisco",
                 "latitude": 39.748187,
                 "longitude": -8.803393
-            }
-        ]
-    },
-    {
-        "quest_description": "Take a snapshot of a wild Pok\u00e9mon",
-        "quest_reward": "Trapinch",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Trapinch",
-        "quest_reward_pokemon_id": 328,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d49e48fe7c1348eb92be61f7dede0161.16",
-                "name": "Anfiteatro Do Parque Da Cerca",
-                "latitude": 39.749604,
-                "longitude": -8.934917
             }
         ]
     },
