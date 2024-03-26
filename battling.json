@@ -42,6 +42,30 @@
         ]
     },
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Chinchou",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Chinchou",
+        "quest_reward_pokemon_id": 170,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "57da555c66ca4169b393e3b97389a780.16",
+                "name": "Parque Infantil Jardim do Liz",
+                "latitude": 39.750826,
+                "longitude": -8.806392
+            },
+            {
+                "pokestop_id": "897ec754d2833022ae683fdeb8474d10.16",
+                "name": "Pinheiro Manso",
+                "latitude": 39.735547,
+                "longitude": -8.796467
+            }
+        ]
+    },
+    {
         "quest_description": "Win 5 raids",
         "quest_reward": "Exeggutor",
         "quest_reward_type": "Pokemon",
@@ -62,24 +86,6 @@
                 "name": "Poesia Portuguesa de Janela",
                 "latitude": 39.749735,
                 "longitude": -8.930832
-            }
-        ]
-    },
-    {
-        "quest_description": "Complete a PVP Battle",
-        "quest_reward": "Chinchou",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Chinchou",
-        "quest_reward_pokemon_id": 170,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "897ec754d2833022ae683fdeb8474d10.16",
-                "name": "Pinheiro Manso",
-                "latitude": 39.735547,
-                "longitude": -8.796467
             }
         ]
     },
