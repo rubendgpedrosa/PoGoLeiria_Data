@@ -150,6 +150,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "1f8df9d7634c44a2b38af780e0f882bc.11",
+                "name": "Edif\u00edcio do Dr. Jo\u00e3o Carlos Verde de Oliveira",
+                "latitude": 39.742779,
+                "longitude": -8.804791
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 7 Pok\u00e9mon",
         "quest_reward": "Magikarp",
         "quest_reward_type": "Pokemon",
@@ -231,6 +249,12 @@
         "quest_reward_pokemon_id": 257,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
+            },
             {
                 "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
                 "name": "Burning Heart",
@@ -442,6 +466,12 @@
                 "longitude": -8.805217
             },
             {
+                "pokestop_id": "4d86c7b25ae23c4e88f5151e4d759839.16",
+                "name": "Galerias Mouzinho de Albuquerque",
+                "latitude": 39.747271,
+                "longitude": -8.805217
+            },
+            {
                 "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
                 "name": "Caixa Postal CTT - Cristal Atrium",
                 "latitude": 39.747021,
@@ -476,6 +506,12 @@
                 "name": "Fonte Do Halton",
                 "latitude": 39.747031,
                 "longitude": -8.816442
+            },
+            {
+                "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
+                "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
+                "latitude": 39.745123,
+                "longitude": -8.797432
             },
             {
                 "pokestop_id": "c7e8bf75d42241c18158406287c71bae.16",
@@ -733,6 +769,42 @@
     },
     {
         "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "bddaa61df7864fd898a226e033864d45.16",
+                "name": "Ponte Parque Infantil",
+                "latitude": 39.750377,
+                "longitude": -8.806284
+            },
+            {
+                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
+                "name": "Museu BVMG",
+                "latitude": 39.748136,
+                "longitude": -8.933859
+            },
+            {
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
+            },
+            {
+                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
+                "name": "Parque de Merendas Sta Clara",
+                "latitude": 39.738467,
+                "longitude": -8.822362
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
         "quest_reward_amount": 5,
@@ -752,36 +824,6 @@
                 "name": "Urban Fitness",
                 "latitude": 39.748953,
                 "longitude": -8.802133
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Pok\u00e9mon",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "d380fd731e964282ad855cf59a377029.16",
-                "name": "Museu BVMG",
-                "latitude": 39.748136,
-                "longitude": -8.933859
-            },
-            {
-                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
-                "name": "Parque de Merendas Sta Clara",
-                "latitude": 39.738467,
-                "longitude": -8.822362
-            },
-            {
-                "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
-                "name": "Parque de Merendas Sta Clara",
-                "latitude": 39.738467,
-                "longitude": -8.822362
             }
         ]
     },
