@@ -72,6 +72,24 @@
         ]
     },
     {
+        "quest_description": "Make 10 Nice Throws",
+        "quest_reward": "Nidoran\u2640",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Nidoran\u2640",
+        "quest_reward_pokemon_id": 29,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "143767309db947358b481a9f9c40ae56.16",
+                "name": "Parque Infantil Almuinha Grande",
+                "latitude": 39.751567,
+                "longitude": -8.81027
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -130,10 +148,40 @@
                 "longitude": -8.80134
             },
             {
+                "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
+                "name": "Pra\u00e7a do Emigrante",
+                "latitude": 39.748896,
+                "longitude": -8.80445
+            },
+            {
                 "pokestop_id": "c2c83406cf944131ab085d07c2a2644e.16",
                 "name": "Junta de Freguesia",
                 "latitude": 39.751118,
                 "longitude": -8.928216
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "262ba1506aef49f6a42a5bcac223111c.16",
+                "name": "Parque Infantil",
+                "latitude": 39.73417,
+                "longitude": -8.803283
+            },
+            {
+                "pokestop_id": "dce7b40c4a4838b9b3fbf663537f23b3.16",
+                "name": "Posto de Correios CTT",
+                "latitude": 39.748012,
+                "longitude": -8.927626
             }
         ]
     },
@@ -200,6 +248,48 @@
                 "name": "Marco de Correio",
                 "latitude": 39.734008,
                 "longitude": -8.808168
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
+                "name": "Correios Office Post Leiria",
+                "latitude": 39.740543,
+                "longitude": -8.80818
+            },
+            {
+                "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
+                "name": "Espa\u00e7o O Nariz",
+                "latitude": 39.740953,
+                "longitude": -8.803248
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Curveball Throws",
+        "quest_reward": "Shieldon",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Shieldon",
+        "quest_reward_pokemon_id": 410,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
+                "name": "S. Francisco",
+                "latitude": 39.74836,
+                "longitude": -8.803617
             }
         ]
     },
@@ -322,28 +412,16 @@
                 "longitude": -8.801741
             },
             {
+                "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
+                "name": "Pal\u00e1cio dos Ata\u00eddes",
+                "latitude": 39.744296,
+                "longitude": -8.810014
+            },
+            {
                 "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
                 "name": "Calv\u00e1rio",
                 "latitude": 39.746362,
                 "longitude": -8.807238
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "632d024f66b54199b727aa04bf898b86.16",
-                "name": "Espa\u00e7o O Nariz",
-                "latitude": 39.740953,
-                "longitude": -8.803248
             }
         ]
     },
@@ -540,20 +618,20 @@
         ]
     },
     {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "3 Razz Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Razz Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 701,
+        "quest_description": "Make 3 Excellent Throws in a row",
+        "quest_reward": "Beldum",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Beldum",
+        "quest_reward_pokemon_id": 374,
+        "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "dce7b40c4a4838b9b3fbf663537f23b3.16",
-                "name": "Posto de Correios CTT",
-                "latitude": 39.748012,
-                "longitude": -8.927626
+                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
+                "name": "S.L.Anti",
+                "latitude": 39.743737,
+                "longitude": -8.805579
             }
         ]
     },
