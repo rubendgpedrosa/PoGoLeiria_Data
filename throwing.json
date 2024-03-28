@@ -48,6 +48,24 @@
         ]
     },
     {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "1000 Stardust",
         "quest_reward_type": "Stardust",
@@ -86,6 +104,12 @@
                 "name": "Igreja bola de neve",
                 "latitude": 39.733928,
                 "longitude": -8.807519
+            },
+            {
+                "pokestop_id": "245ac00e7b663a53a8d4073edfab124b.16",
+                "name": "Circuito Manuten\u00e7\u00e3o - Patins",
+                "latitude": 39.738722,
+                "longitude": -8.821751
             },
             {
                 "pokestop_id": "4d86c7b25ae23c4e88f5151e4d759839.16",
@@ -440,6 +464,36 @@
                 "name": "Caixa Postal Leiria - Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739793,
                 "longitude": -8.808255
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
+                "name": "Patria No Ultramar",
+                "latitude": 39.74471,
+                "longitude": -8.805589
+            },
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
             }
         ]
     },
@@ -560,24 +614,6 @@
                 "name": "Est\u00e1tua \"A Caminho da Feira\"",
                 "latitude": 39.744847,
                 "longitude": -8.804645
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
-                "name": "Centro De Encontro Do Parque Da Cerca",
-                "latitude": 39.748632,
-                "longitude": -8.935621
             }
         ]
     },
