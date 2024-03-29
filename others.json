@@ -124,6 +124,12 @@
                 "longitude": -8.932786
             },
             {
+                "pokestop_id": "4dbc1059dc043532829dda66e5d5ab5b.16",
+                "name": "Caixa Postal CTT",
+                "latitude": 39.742178,
+                "longitude": -8.798332
+            },
+            {
                 "pokestop_id": "4dd2441d1fe54087a6b85d3e1035fe3c.16",
                 "name": "Sede Santa Casa Da Miseric\u00f3rdia",
                 "latitude": 39.744101,
@@ -226,6 +232,12 @@
                 "longitude": -8.803749
             },
             {
+                "pokestop_id": "8f7b6c291e7d40b7bdd98801018beff9.16",
+                "name": "Farol",
+                "latitude": 39.750152,
+                "longitude": -8.931811
+            },
+            {
                 "pokestop_id": "8fe19e91c28a382eaf2c0939bfc8d67b.16",
                 "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
                 "latitude": 39.75142,
@@ -268,6 +280,12 @@
                 "longitude": -8.804666
             },
             {
+                "pokestop_id": "ac8054dc06544e05b1d10a47ff12b097.16",
+                "name": "Bras\u00e3o da Cidade",
+                "latitude": 39.743168,
+                "longitude": -8.805737
+            },
+            {
                 "pokestop_id": "b7f4af193cce3b1eb334bf63c6b5d875.16",
                 "name": "Mural Final Four - Leiria",
                 "latitude": 39.736271,
@@ -290,6 +308,18 @@
                 "name": "Rotary Club De Leiria",
                 "latitude": 39.735202,
                 "longitude": -8.798938
+            },
+            {
+                "pokestop_id": "cf5128f668ae4319ad40b95b5048b22e.16",
+                "name": "As Cisternas do Castelo",
+                "latitude": 39.747505,
+                "longitude": -8.809466
+            },
+            {
+                "pokestop_id": "d1624a91509e4723bdf14dc0d0cfaefa.16",
+                "name": "Campus 1 - ESECS",
+                "latitude": 39.739983,
+                "longitude": -8.812123
             },
             {
                 "pokestop_id": "d3f07e8994b342fe9106a13916e2a301.16",
@@ -760,6 +790,12 @@
                 "longitude": -8.800766
             },
             {
+                "pokestop_id": "a7894b04684c402baea2ab2ec344b50f.16",
+                "name": "Jogo da Macaca",
+                "latitude": 39.738327,
+                "longitude": -8.81087
+            },
+            {
                 "pokestop_id": "b3356645cffd432abf254b1c58a5c593.16",
                 "name": "Mural ESTG",
                 "latitude": 39.734569,
@@ -800,6 +836,12 @@
                 "name": "Parque Infantil",
                 "latitude": 39.731526,
                 "longitude": -8.803604
+            },
+            {
+                "pokestop_id": "f253df31ccb53395831c337eae84c9f9.16",
+                "name": "Antiga Sede Jornal de Leiria",
+                "latitude": 39.744151,
+                "longitude": -8.811916
             }
         ]
     },
@@ -860,6 +902,18 @@
                 "name": "Ponte da Fonte Quente",
                 "latitude": 39.747216,
                 "longitude": -8.802534
+            },
+            {
+                "pokestop_id": "4e443bf8cf3a4dbe81ebdbc8415101bd.16",
+                "name": "Centro de Linguas Chinesas",
+                "latitude": 39.740291,
+                "longitude": -8.811645
+            },
+            {
+                "pokestop_id": "50e60de8eb1634a3b7e13c791c4ff8ab.16",
+                "name": "Play Land - Parque Infantil",
+                "latitude": 39.739605,
+                "longitude": -8.818371
             },
             {
                 "pokestop_id": "6adf2e0d4daa3ed6b1feabb5458dafba.16",
@@ -1068,6 +1122,42 @@
         ]
     },
     {
+        "quest_description": "Defeat a Team GO Rocket Leader",
+        "quest_reward": "Pawniard",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Pawniard",
+        "quest_reward_pokemon_id": 624,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "22af41a0de094b3b9a328d93dc104eff.16",
+                "name": "Lis Shopping",
+                "latitude": 39.739681,
+                "longitude": -8.817837
+            },
+            {
+                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
+                "name": "Correios Office Post Leiria",
+                "latitude": 39.740543,
+                "longitude": -8.80818
+            },
+            {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
+            },
+            {
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
+            }
+        ]
+    },
+    {
         "quest_description": "Evolve a Pok\u00e9mon",
         "quest_reward": "Eevee",
         "quest_reward_type": "Pokemon",
@@ -1088,36 +1178,6 @@
                 "name": "Ru\u00ednas Capela Santo Ant\u00f3nio Carrascal",
                 "latitude": 39.745123,
                 "longitude": -8.797432
-            }
-        ]
-    },
-    {
-        "quest_description": "Defeat a Team GO Rocket Leader",
-        "quest_reward": "Pawniard",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Pawniard",
-        "quest_reward_pokemon_id": 624,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
-                "name": "Correios Office Post Leiria",
-                "latitude": 39.740543,
-                "longitude": -8.80818
-            },
-            {
-                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
-                "name": "Jardins do Lis Galerias",
-                "latitude": 39.750761,
-                "longitude": -8.805877
-            },
-            {
-                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
-                "name": "Marco de Correios CTT",
-                "latitude": 39.752895,
-                "longitude": -8.805935
             }
         ]
     },
@@ -1160,6 +1220,12 @@
                 "name": "Lago Santo Agostinho",
                 "latitude": 39.74149,
                 "longitude": -8.801741
+            },
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
             },
             {
                 "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
@@ -1208,6 +1274,24 @@
                 "name": "Ponte Pedonal Suspensa",
                 "latitude": 39.750997,
                 "longitude": -8.809201
+            },
+            {
+                "pokestop_id": "a80ebbee2a5e4f5dad3ae686f3b9b741.16",
+                "name": "Mural Brisa do Lis",
+                "latitude": 39.743468,
+                "longitude": -8.812448
+            },
+            {
+                "pokestop_id": "b45d709e2d704d54aa402db61ddd284c.16",
+                "name": "Live gym Almuinha Grande",
+                "latitude": 39.75227,
+                "longitude": -8.813364
+            },
+            {
+                "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
+                "name": "Igreja",
+                "latitude": 39.741631,
+                "longitude": -8.802822
             }
         ]
     },
@@ -1316,6 +1400,24 @@
                 "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
                 "latitude": 39.73966,
                 "longitude": -8.808042
+            }
+        ]
+    },
+    {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Diglett",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Diglett",
+        "quest_reward_pokemon_id": 50,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "49f915dee3254434924c648a382a932d.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.750712,
+                "longitude": -8.816448
             }
         ]
     },
@@ -1526,6 +1628,24 @@
                 "name": "Centro De Encontro Do Parque Da Cerca",
                 "latitude": 39.748632,
                 "longitude": -8.935621
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "aeddf75f1f5d3a0d876e36bd96346d3f.16",
+                "name": "Sede Bloco de Esquerda",
+                "latitude": 39.750634,
+                "longitude": -8.932602
             }
         ]
     },
