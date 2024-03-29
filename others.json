@@ -454,6 +454,12 @@
                 "longitude": -8.81209
             },
             {
+                "pokestop_id": "24937f44e0604da38b2c6367ab2b6c7a.16",
+                "name": "Fonte Quinta da Matinha",
+                "latitude": 39.755402,
+                "longitude": -8.807929
+            },
+            {
                 "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
                 "name": "Moagem Leiriense",
                 "latitude": 39.74865,
@@ -512,6 +518,12 @@
                 "name": "Abra\u00e7o ao universo",
                 "latitude": 39.751515,
                 "longitude": -8.814163
+            },
+            {
+                "pokestop_id": "bfac37b121cc45a3aed072e3f5b60b50.11",
+                "name": "Liceu Rodrigues Lobo",
+                "latitude": 39.742257,
+                "longitude": -8.803918
             },
             {
                 "pokestop_id": "cc4126081db6350b858d7ea581abefdf.16",
@@ -656,6 +668,12 @@
                 "name": "Marco de Correio",
                 "latitude": 39.734008,
                 "longitude": -8.808168
+            },
+            {
+                "pokestop_id": "3640877250d347daaccf3db8d40e163c.16",
+                "name": "Ponte pedonal",
+                "latitude": 39.751672,
+                "longitude": -8.816499
             },
             {
                 "pokestop_id": "398c2c25475746d29b1c07ce54d455ce.16",
@@ -1046,6 +1064,12 @@
                 "name": "Local de conv\u00edvio e descan\u00e7o",
                 "latitude": 39.748322,
                 "longitude": -8.931966
+            },
+            {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
             },
             {
                 "pokestop_id": "78fe7d9b4b7e3e5c8e7fd8086110becb.16",
@@ -1644,6 +1668,30 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Aron",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Aron",
+        "quest_reward_pokemon_id": 304,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
+                "name": "Igreja Man\u00e1",
+                "latitude": 39.741498,
+                "longitude": -8.799315
+            },
+            {
+                "pokestop_id": "b9d4215916a5403d8010bfe7dd3896d3.16",
+                "name": "Teatro Miguel Franco",
+                "latitude": 39.742692,
+                "longitude": -8.80773
+            }
+        ]
+    },
+    {
         "quest_description": "Trade a Pok\u00e9mon",
         "quest_reward": "Spritzee",
         "quest_reward_type": "Pokemon",
@@ -1718,24 +1766,6 @@
                 "name": "Parque da Encarna\u00e7\u00e3o",
                 "latitude": 39.738905,
                 "longitude": -8.798901
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Aron",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Aron",
-        "quest_reward_pokemon_id": 304,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b9d4215916a5403d8010bfe7dd3896d3.16",
-                "name": "Teatro Miguel Franco",
-                "latitude": 39.742692,
-                "longitude": -8.80773
             }
         ]
     },
