@@ -64,6 +64,12 @@
                 "longitude": -8.932817
             },
             {
+                "pokestop_id": "5a0f2cf633b33b938b2d229342562464.16",
+                "name": "Moral: Polit\u00e9cnico de Leiria X Liga Portugal",
+                "latitude": 39.736015,
+                "longitude": -8.822146
+            },
+            {
                 "pokestop_id": "78b6871979994648b86c2b8e50ba0eb5.16",
                 "name": "Janelas Santo Agostinho",
                 "latitude": 39.740857,
@@ -190,10 +196,22 @@
                 "longitude": -8.804058
             },
             {
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
+            },
+            {
                 "pokestop_id": "6f488a3619b54eee94b6141b734aa768.16",
                 "name": "Monumento Afonso Lopes Vieira",
                 "latitude": 39.740187,
                 "longitude": -8.812398
+            },
+            {
+                "pokestop_id": "b864b45f668840c3b43e2e2fb3dddc11.16",
+                "name": "Edif\u00edcio Da Resinagem",
+                "latitude": 39.749198,
+                "longitude": -8.932709
             },
             {
                 "pokestop_id": "c83403b7d4f64d23b4d6182b67082c80.11",
@@ -534,6 +552,24 @@
         ]
     },
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "c3c8a7b519bd349b96df337260957971.16",
+                "name": "Sociedade Columb\u00f3fila Marinhense",
+                "latitude": 39.748494,
+                "longitude": -8.932563
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Great Curveball Throws",
         "quest_reward": "Shieldon",
         "quest_reward_type": "Pokemon",
@@ -592,10 +628,34 @@
         "quest_reward_item_id": 705,
         "pokestops": [
             {
+                "pokestop_id": "e011da7e4afa4206b4dec0dbbde05b13.16",
+                "name": "Torre de Miragem",
+                "latitude": 39.746911,
+                "longitude": -8.809565
+            },
+            {
                 "pokestop_id": "fda93ddfc8864df7b3777e02d359484d.16",
                 "name": "\u00c1rea De Recreio",
                 "latitude": 39.745761,
                 "longitude": -8.934351
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "3 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "ef40698afdf14bf2807803376584a143.16",
+                "name": "Pa\u00e7o D.Jo\u00e3o I",
+                "latitude": 39.746508,
+                "longitude": -8.809111
             }
         ]
     }
