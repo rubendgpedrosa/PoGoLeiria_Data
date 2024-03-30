@@ -54,6 +54,30 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Snover",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snover",
+        "quest_reward_pokemon_id": 459,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d90360ff49f45a6b1431eb6a62bbe9f.16",
+                "name": "Campo de Futebol - IPL",
+                "latitude": 39.736738,
+                "longitude": -8.811698
+            },
+            {
+                "pokestop_id": "103be0c9e368368ca1cf5cd08c617b70.16",
+                "name": "Local de conv\u00edvio e descan\u00e7o",
+                "latitude": 39.748322,
+                "longitude": -8.931966
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -133,24 +157,6 @@
     },
     {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
-        "quest_reward": "Snover",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snover",
-        "quest_reward_pokemon_id": 459,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "103be0c9e368368ca1cf5cd08c617b70.16",
-                "name": "Local de conv\u00edvio e descan\u00e7o",
-                "latitude": 39.748322,
-                "longitude": -8.931966
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 1,
@@ -194,6 +200,24 @@
                 "name": "Galerias Horizonte",
                 "latitude": 39.745662,
                 "longitude": -8.930959
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "2a748d92bea94cb4bbf65a10e593651c.16",
+                "name": "Pra\u00e7a do Emigrante",
+                "latitude": 39.748896,
+                "longitude": -8.80445
             }
         ]
     },
