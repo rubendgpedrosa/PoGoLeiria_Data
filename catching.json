@@ -122,6 +122,12 @@
                 "name": "Farol",
                 "latitude": 39.750152,
                 "longitude": -8.931811
+            },
+            {
+                "pokestop_id": "e159dd5cbec63fe5b8cc0e0907312451.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731526,
+                "longitude": -8.803604
             }
         ]
     },
@@ -140,6 +146,12 @@
                 "name": "Associa\u00e7\u00e3o Portuguesa de Deficientes - Sede Desportiva",
                 "latitude": 39.753845,
                 "longitude": -8.931698
+            },
+            {
+                "pokestop_id": "b236dcad4c5a46ff80222a3a684f598e.16",
+                "name": "O Nosso Claustro \u00c9 O Mundo",
+                "latitude": 39.742156,
+                "longitude": -8.811256
             },
             {
                 "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
@@ -188,6 +200,12 @@
                 "name": "Pistas de ateletismo do campo de treino do est\u00e1dio municipal",
                 "latitude": 39.737201,
                 "longitude": -8.929543
+            },
+            {
+                "pokestop_id": "8cbd770c2c204e229947f1fad6509bd4.16",
+                "name": "O intelectual.",
+                "latitude": 39.747676,
+                "longitude": -8.813754
             }
         ]
     },
@@ -260,6 +278,36 @@
                 "name": "Ringue de futebol da Marinha Grande",
                 "latitude": 39.740808,
                 "longitude": -8.929041
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Zigzagoon",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Zigzagoon",
+        "quest_reward_pokemon_id": 263,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "49f915dee3254434924c648a382a932d.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.750712,
+                "longitude": -8.816448
+            },
+            {
+                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
+                "name": "Tribunal Administrativo e Fiscal De Leiria",
+                "latitude": 39.738257,
+                "longitude": -8.802019
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
             }
         ]
     },
@@ -446,6 +494,12 @@
                 "name": "Instituto da Conserva\u00e7\u00e3o da Natureza e das Florestas",
                 "latitude": 39.75142,
                 "longitude": -8.930414
+            },
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
             }
         ]
     },
@@ -624,30 +678,6 @@
         ]
     },
     {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Zigzagoon",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Zigzagoon",
-        "quest_reward_pokemon_id": 263,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "bff38df85033461a8d442c0795d571f8.16",
-                "name": "Tribunal Administrativo e Fiscal De Leiria",
-                "latitude": 39.738257,
-                "longitude": -8.802019
-            },
-            {
-                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
-                "name": "Lady in Red",
-                "latitude": 39.741869,
-                "longitude": -8.805353
-            }
-        ]
-    },
-    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
@@ -740,6 +770,24 @@
                 "name": "Mercado de Sant'ana",
                 "latitude": 39.74304,
                 "longitude": -8.807411
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "Roggenrola",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Roggenrola",
+        "quest_reward_pokemon_id": 524,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "fda0746659324bc7b8b64d246f238d3c.16",
+                "name": "Ponte Pique-nique",
+                "latitude": 39.739692,
+                "longitude": -8.798933
             }
         ]
     }
