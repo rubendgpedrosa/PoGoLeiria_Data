@@ -66,6 +66,24 @@
         ]
     },
     {
+        "quest_description": "Complete a PVP Battle",
+        "quest_reward": "Chinchou",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Chinchou",
+        "quest_reward_pokemon_id": 170,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "9ca6a62285044856b76ecea9607f63bb.16",
+                "name": "Campo De Futebol A.C. Marinhense",
+                "latitude": 39.749818,
+                "longitude": -8.936966
+            }
+        ]
+    },
+    {
         "quest_description": "Win 2 raids",
         "quest_reward": "Snorlax",
         "quest_reward_type": "Pokemon",
@@ -75,6 +93,12 @@
         "quest_reward_pokemon_id": 143,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "bcbfad6530f0490da67ef62cf83851eb.16",
+                "name": "Miradouro Leiria",
+                "latitude": 39.743941,
+                "longitude": -8.802609
+            },
             {
                 "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
                 "name": "Antigo Bebedouro",
