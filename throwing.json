@@ -204,6 +204,36 @@
         ]
     },
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4c3af61439244ddaa07d80d53f01f8cd.16",
+                "name": "Ponte da Fonte Quente",
+                "latitude": 39.747216,
+                "longitude": -8.802534
+            },
+            {
+                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
+                "name": "Jardim da Marinha Grande",
+                "latitude": 39.750988,
+                "longitude": -8.929103
+            },
+            {
+                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
+                "name": "Parque Infantil",
+                "latitude": 39.731552,
+                "longitude": -8.809623
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "Lileep",
         "quest_reward_type": "Pokemon",
@@ -218,6 +248,84 @@
                 "name": "C\u00e2mara Municipal da Marinha Grande",
                 "latitude": 39.75001,
                 "longitude": -8.933133
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Curveball Throws",
+        "quest_reward": "Shieldon",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Shieldon",
+        "quest_reward_pokemon_id": 410,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "63f82eedfebe4f3ba61cad72f2d0644f.16",
+                "name": "Junta De Freguesia Leiria",
+                "latitude": 39.743562,
+                "longitude": -8.804606
+            },
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
+            },
+            {
+                "pokestop_id": "94c85bca573c49d1b801c77c04693736.16",
+                "name": "Ponte El-Rei D. Dinis",
+                "latitude": 39.743323,
+                "longitude": -8.804477
+            },
+            {
+                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
+                "name": "CAL",
+                "latitude": 39.741024,
+                "longitude": -8.806283
+            },
+            {
+                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
+                "name": "Edif\u00edcio Ferro de Engomar",
+                "latitude": 39.740629,
+                "longitude": -8.802995
+            },
+            {
+                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
+                "name": "Zona de lazer",
+                "latitude": 39.737598,
+                "longitude": -8.928606
+            },
+            {
+                "pokestop_id": "ffa50f037c35420faa2db4536ac3bc3e.11",
+                "name": "Est\u00e1tua Vacas",
+                "latitude": 39.745118,
+                "longitude": -8.804209
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
+                "name": "Ponte Ondulada",
+                "latitude": 39.746196,
+                "longitude": -8.80374
+            },
+            {
+                "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
+                "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
+                "latitude": 39.747526,
+                "longitude": -8.93077
             }
         ]
     },
@@ -242,42 +350,6 @@
                 "name": "Campo de Basquetebol",
                 "latitude": 39.729503,
                 "longitude": -8.806066
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Great Curveball Throws",
-        "quest_reward": "Shieldon",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Shieldon",
-        "quest_reward_pokemon_id": 410,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
-                "name": "Parque Infantil Oeste",
-                "latitude": 39.735409,
-                "longitude": -8.801379
-            },
-            {
-                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
-                "name": "CAL",
-                "latitude": 39.741024,
-                "longitude": -8.806283
-            },
-            {
-                "pokestop_id": "be66319f728f4260a674aac7952bb89f.16",
-                "name": "Edif\u00edcio Ferro de Engomar",
-                "latitude": 39.740629,
-                "longitude": -8.802995
-            },
-            {
-                "pokestop_id": "e516df4fe5f24dbe9bdc13861a72792b.16",
-                "name": "Zona de lazer",
-                "latitude": 39.737598,
-                "longitude": -8.928606
             }
         ]
     },
@@ -324,30 +396,6 @@
         ]
     },
     {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "9a15864d89994d2e93a2e6e65f30d4b8.16",
-                "name": "Jardim da Marinha Grande",
-                "latitude": 39.750988,
-                "longitude": -8.929103
-            },
-            {
-                "pokestop_id": "f99206298061310da2599051b487f4ef.16",
-                "name": "Parque Infantil",
-                "latitude": 39.731552,
-                "longitude": -8.809623
-            }
-        ]
-    },
-    {
         "quest_description": "Make 3 Great Throws in a row",
         "quest_reward": "1000 Stardust",
         "quest_reward_type": "Stardust",
@@ -380,24 +428,6 @@
                 "name": "Parque Infantil Este",
                 "latitude": 39.735664,
                 "longitude": -8.800658
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "c95f467fe45c4415a32945f759495a42.16",
-                "name": "Terminal Rodovi\u00e1rio da Marinha Grande",
-                "latitude": 39.747526,
-                "longitude": -8.93077
             }
         ]
     },
@@ -452,6 +482,24 @@
                 "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
                 "latitude": 39.741652,
                 "longitude": -8.929112
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Machop",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Machop",
+        "quest_reward_pokemon_id": 66,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "e4897ddbe10d40768c3eb0293e36e6a5.11",
+                "name": "Americo Cortez Pinto",
+                "latitude": 39.746966,
+                "longitude": -8.803221
             }
         ]
     }
