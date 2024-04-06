@@ -418,6 +418,12 @@
                 "longitude": -8.802482
             },
             {
+                "pokestop_id": "b06834f38b554333b43a1f0335c4eaa5.16",
+                "name": "Parque de merendas 2",
+                "latitude": 39.733159,
+                "longitude": -8.82037
+            },
+            {
                 "pokestop_id": "b3356645cffd432abf254b1c58a5c593.16",
                 "name": "Mural ESTG",
                 "latitude": 39.734569,
@@ -830,6 +836,12 @@
                 "name": "O Nosso Claustro \u00c9 O Mundo",
                 "latitude": 39.742156,
                 "longitude": -8.811256
+            },
+            {
+                "pokestop_id": "b24ea2a380af4589ae3f613b3dfe1e7c.16",
+                "name": "Edif\u00edcio \"O Pa\u00e7o\"",
+                "latitude": 39.745253,
+                "longitude": -8.80654
             },
             {
                 "pokestop_id": "b64fd16751ac44d7a62ab96a2e39cccc.16",
@@ -1264,6 +1276,12 @@
                 "longitude": -8.931811
             },
             {
+                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
+                "name": "Marco de Correio CTT",
+                "latitude": 39.746326,
+                "longitude": -8.804666
+            },
+            {
                 "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
                 "name": "Carvalho Cerquinho",
                 "latitude": 39.731849,
@@ -1434,6 +1452,42 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Rattata",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Rattata",
+        "quest_reward_pokemon_id": 19,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            },
+            {
+                "pokestop_id": "49771867bab1340ea0b86755f4f23b3d.16",
+                "name": "Parede de Escalada",
+                "latitude": 39.734361,
+                "longitude": -8.80252
+            },
+            {
+                "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
+                "name": "Caritas Diocesana de Leiria",
+                "latitude": 39.73688,
+                "longitude": -8.806748
+            },
+            {
+                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
+                "name": "Clube de campismo da Marinha Grande",
+                "latitude": 39.747495,
+                "longitude": -8.935422
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "500 Stardust",
         "quest_reward_type": "Stardust",
@@ -1562,36 +1616,6 @@
                 "name": "Pool Club MT",
                 "latitude": 39.737059,
                 "longitude": -8.798414
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 5 Pok\u00e9mon",
-        "quest_reward": "Rattata",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Rattata",
-        "quest_reward_pokemon_id": 19,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "49771867bab1340ea0b86755f4f23b3d.16",
-                "name": "Parede de Escalada",
-                "latitude": 39.734361,
-                "longitude": -8.80252
-            },
-            {
-                "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
-                "name": "Caritas Diocesana de Leiria",
-                "latitude": 39.73688,
-                "longitude": -8.806748
-            },
-            {
-                "pokestop_id": "7ac66d6fb1de3927bc98dd0ca08e6e3f.16",
-                "name": "Clube de campismo da Marinha Grande",
-                "latitude": 39.747495,
-                "longitude": -8.935422
             }
         ]
     },
@@ -1904,6 +1928,24 @@
                 "name": "Pa\u00e7o D.Jo\u00e3o I",
                 "latitude": 39.746508,
                 "longitude": -8.809111
+            }
+        ]
+    },
+    {
+        "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
             }
         ]
     },
