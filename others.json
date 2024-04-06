@@ -48,6 +48,24 @@
         ]
     },
     {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Scyther",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Scyther",
+        "quest_reward_pokemon_id": 123,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "25a0330c10104e74a733559e8c6d11a2.16",
+                "name": "Centro Desportivo Juve Lis",
+                "latitude": 39.731097,
+                "longitude": -8.794939
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 10 times",
         "quest_reward": "25 Ampharos Mega Energy",
         "quest_reward_type": "Energy",
@@ -164,6 +182,12 @@
                 "name": "Antigo Marco de Correios",
                 "latitude": 39.739681,
                 "longitude": -8.805175
+            },
+            {
+                "pokestop_id": "76c6ee0026504ba5ab4d3e9517be5382.16",
+                "name": "Zona De Merendas",
+                "latitude": 39.7347,
+                "longitude": -8.796927
             }
         ]
     },
@@ -178,10 +202,22 @@
         "quest_reward_item_id": 0,
         "pokestops": [
             {
+                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
+                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
+                "latitude": 39.745489,
+                "longitude": -8.933253
+            },
+            {
                 "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
                 "name": "Estravag\u00e1rio Graffiti",
                 "latitude": 39.752932,
                 "longitude": -8.933662
+            },
+            {
+                "pokestop_id": "aade5658abc83b7aab7281a1e08c35a7.16",
+                "name": "Gazebo Projeto MAIOR",
+                "latitude": 39.74253,
+                "longitude": -8.794736
             }
         ]
     },
@@ -254,6 +290,12 @@
                 "name": "Museu BVMG",
                 "latitude": 39.748136,
                 "longitude": -8.933859
+            },
+            {
+                "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
+                "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
+                "latitude": 39.742537,
+                "longitude": -8.793462
             }
         ]
     },
