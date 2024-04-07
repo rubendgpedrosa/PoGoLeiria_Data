@@ -1,5 +1,35 @@
 [
     {
+        "quest_description": "Make 2 Excellent Throws",
+        "quest_reward": "Bagon",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bagon",
+        "quest_reward_pokemon_id": 371,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "06030e41449c4302874baae88549b655.16",
+                "name": "Correios Her\u00f3is De Angola",
+                "latitude": 39.747609,
+                "longitude": -8.804195
+            },
+            {
+                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
+                "name": "Mural pintura no vidro",
+                "latitude": 39.740536,
+                "longitude": -8.929225
+            },
+            {
+                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
+                "name": "Marco de Correios CTT",
+                "latitude": 39.752895,
+                "longitude": -8.805935
+            }
+        ]
+    },
+    {
         "quest_description": "Make 5 Nice Throws",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -230,6 +260,12 @@
                 "name": "Clube M.M.G",
                 "latitude": 39.749647,
                 "longitude": -8.932786
+            },
+            {
+                "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
+                "name": "The Faces",
+                "latitude": 39.748058,
+                "longitude": -8.804519
             }
         ]
     },
@@ -290,30 +326,6 @@
                 "name": "Parque Infantil Cristal Atrium",
                 "latitude": 39.746939,
                 "longitude": -8.936985
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 2 Excellent Throws",
-        "quest_reward": "Bagon",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bagon",
-        "quest_reward_pokemon_id": 371,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "470c84a10a4d305c82b665ba343e8581.16",
-                "name": "Mural pintura no vidro",
-                "latitude": 39.740536,
-                "longitude": -8.929225
-            },
-            {
-                "pokestop_id": "b4fc631c4b4133bb859a6dcbfb06a469.16",
-                "name": "Marco de Correios CTT",
-                "latitude": 39.752895,
-                "longitude": -8.805935
             }
         ]
     },
@@ -614,6 +626,12 @@
                 "name": "Cabine de Leitura - Trokakioske",
                 "latitude": 39.744527,
                 "longitude": -8.807312
+            },
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
             }
         ]
     },
