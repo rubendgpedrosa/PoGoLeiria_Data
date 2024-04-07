@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Glameow",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Glameow",
+        "quest_reward_pokemon_id": 431,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "09574b8a80a94a0d9c6f868d9f1ef02e.16",
+                "name": "Sede UDL",
+                "latitude": 39.748744,
+                "longitude": -8.811496
+            },
+            {
+                "pokestop_id": "d38f41a6dd1245bba807050ac15d128e.16",
+                "name": "Museu do Vidro da Marinha Grande",
+                "latitude": 39.749484,
+                "longitude": -8.93346
+            }
+        ]
+    },
+    {
         "quest_description": "Send 3 Gifts to friends",
         "quest_reward": "1000 Stardust",
         "quest_reward_type": "Stardust",
@@ -92,24 +116,6 @@
                 "name": "Zona Desportiva",
                 "latitude": 39.747903,
                 "longitude": -8.936311
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Glameow",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Glameow",
-        "quest_reward_pokemon_id": 431,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "d38f41a6dd1245bba807050ac15d128e.16",
-                "name": "Museu do Vidro da Marinha Grande",
-                "latitude": 39.749484,
-                "longitude": -8.93346
             }
         ]
     }
