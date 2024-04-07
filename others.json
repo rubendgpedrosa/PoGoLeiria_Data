@@ -18,6 +18,108 @@
         ]
     },
     {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "097466c5212c4a0a81c4123a78445154.16",
+                "name": "Mural \"Liberdade\"",
+                "latitude": 39.745754,
+                "longitude": -8.805297
+            },
+            {
+                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
+                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
+                "latitude": 39.750529,
+                "longitude": -8.803749
+            },
+            {
+                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
+                "name": "Escuteiros",
+                "latitude": 39.741841,
+                "longitude": -8.933249
+            }
+        ]
+    },
+    {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Oddish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Oddish",
+        "quest_reward_pokemon_id": 43,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "098af78ab679495aadb944e4da01fd49.11",
+                "name": "Ultramar",
+                "latitude": 39.745448,
+                "longitude": -8.805844
+            },
+            {
+                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
+                "name": "ASURPI",
+                "latitude": 39.75141,
+                "longitude": -8.933588
+            },
+            {
+                "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
+                "name": "Bullied Graffiti",
+                "latitude": 39.742343,
+                "longitude": -8.801731
+            },
+            {
+                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
+                "name": "Liz ao Quadro - Art Galery",
+                "latitude": 39.748424,
+                "longitude": -8.802439
+            },
+            {
+                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
+                "name": "Ponte pedonal do Parque das Bernardas",
+                "latitude": 39.737792,
+                "longitude": -8.928996
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
+        "quest_reward": "Slowpoke",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Slowpoke",
+        "quest_reward_pokemon_id": 79,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b47f45c695c45d18f4fd061a8ab3144.16",
+                "name": "Edif\u00edcio Z\u00faquete",
+                "latitude": 39.744416,
+                "longitude": -8.807663
+            },
+            {
+                "pokestop_id": "0fc4a355d86b4946a577edf6dfc771d6.16",
+                "name": "Bairro do Povo",
+                "latitude": 39.741382,
+                "longitude": -8.931793
+            },
+            {
+                "pokestop_id": "300f8d0be9d2491ab4c578c377120e03.16",
+                "name": "Marco de Correio",
+                "latitude": 39.734008,
+                "longitude": -8.808168
+            }
+        ]
+    },
+    {
         "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
         "quest_reward": "Growlithe",
         "quest_reward_type": "Pokemon",
@@ -104,6 +206,12 @@
                 "name": "Shopping 2000",
                 "latitude": 39.749243,
                 "longitude": -8.803685
+            },
+            {
+                "pokestop_id": "bfce8259fb5e4fadbe6634266717f7d7.16",
+                "name": "Rodilha",
+                "latitude": 39.742979,
+                "longitude": -8.806888
             }
         ]
     },
@@ -216,24 +324,6 @@
         ]
     },
     {
-        "quest_description": "Spin 5 Pok\u00e9Stops or Gyms",
-        "quest_reward": "Slowpoke",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Slowpoke",
-        "quest_reward_pokemon_id": 79,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "300f8d0be9d2491ab4c578c377120e03.16",
-                "name": "Marco de Correio",
-                "latitude": 39.734008,
-                "longitude": -8.808168
-            }
-        ]
-    },
-    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Sableye",
         "quest_reward_type": "Pokemon",
@@ -278,6 +368,12 @@
                 "name": "Mural Bombeiro",
                 "latitude": 39.740828,
                 "longitude": -8.800367
+            },
+            {
+                "pokestop_id": "ef1f387aad714f0cb17579a174be3371.16",
+                "name": "S.L.Anti",
+                "latitude": 39.743737,
+                "longitude": -8.805579
             }
         ]
     },
@@ -296,6 +392,12 @@
                 "name": "S. Francisco",
                 "latitude": 39.74836,
                 "longitude": -8.803617
+            },
+            {
+                "pokestop_id": "8cbd770c2c204e229947f1fad6509bd4.16",
+                "name": "O intelectual.",
+                "latitude": 39.747676,
+                "longitude": -8.813754
             }
         ]
     },
@@ -320,42 +422,6 @@
                 "name": "Est\u00e1tua Jos\u00e9 L\u00facio da Silva",
                 "latitude": 39.746897,
                 "longitude": -8.804124
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Oddish",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Oddish",
-        "quest_reward_pokemon_id": 43,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "470b9895a3164d748534c38a9100b985.16",
-                "name": "ASURPI",
-                "latitude": 39.75141,
-                "longitude": -8.933588
-            },
-            {
-                "pokestop_id": "7f2554fa93e34fcaa7d423c4bc36c455.16",
-                "name": "Bullied Graffiti",
-                "latitude": 39.742343,
-                "longitude": -8.801731
-            },
-            {
-                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
-                "name": "Liz ao Quadro - Art Galery",
-                "latitude": 39.748424,
-                "longitude": -8.802439
-            },
-            {
-                "pokestop_id": "f002bf72002b49d9a60cfbd1b838ec21.16",
-                "name": "Ponte pedonal do Parque das Bernardas",
-                "latitude": 39.737792,
-                "longitude": -8.928996
             }
         ]
     },
@@ -474,6 +540,24 @@
         ]
     },
     {
+        "quest_description": "Trade a Pok\u00e9mon",
+        "quest_reward": "Spritzee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Spritzee",
+        "quest_reward_pokemon_id": 682,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
+                "name": "O Pastor Peregrino",
+                "latitude": 39.744326,
+                "longitude": -8.807043
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 3 times",
         "quest_reward": "Squirtle",
         "quest_reward_type": "Pokemon",
@@ -516,30 +600,6 @@
         ]
     },
     {
-        "quest_description": "Hatch an Egg",
-        "quest_reward": "Stunfisk",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stunfisk",
-        "quest_reward_pokemon_id": 618,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
-                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
-                "latitude": 39.750529,
-                "longitude": -8.803749
-            },
-            {
-                "pokestop_id": "d2f741538c2b48f6b9e4b085509bde26.16",
-                "name": "Escuteiros",
-                "latitude": 39.741841,
-                "longitude": -8.933249
-            }
-        ]
-    },
-    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Beedrill Mega Energy",
         "quest_reward_type": "Energy",
@@ -572,6 +632,24 @@
                 "name": "Rainha Santa Isabel",
                 "latitude": 39.745508,
                 "longitude": -8.811107
+            }
+        ]
+    },
+    {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "be27a58579f64cae8b898b838163757b.16",
+                "name": "VDesign",
+                "latitude": 39.745756,
+                "longitude": -8.807801
             }
         ]
     },
@@ -614,6 +692,24 @@
                 "name": "Centro Comercial D.Dinis",
                 "latitude": 39.742971,
                 "longitude": -8.809768
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Sneasel",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Sneasel",
+        "quest_reward_pokemon_id": 215,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "e2a49a5cef4c39b48693dc78de5d0163.16",
+                "name": "Caixa Postal CTT - Rua J\u00falio Braga Barros",
+                "latitude": 39.741652,
+                "longitude": -8.929112
             }
         ]
     },
