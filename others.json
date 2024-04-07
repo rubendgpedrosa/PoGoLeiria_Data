@@ -204,6 +204,42 @@
         ]
     },
     {
+        "quest_description": "Explore 3 km",
+        "quest_reward": "Growlithe",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Growlithe",
+        "quest_reward_pokemon_id": 58,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2bb365fb0c844f4fb27f8ff3e15e9e60.11",
+                "name": "Seu Nome Era Mural",
+                "latitude": 39.746244,
+                "longitude": -8.807457
+            },
+            {
+                "pokestop_id": "47f7787d4c494d34803f1c290f5688b0.16",
+                "name": "Fonte",
+                "latitude": 39.752573,
+                "longitude": -8.933414
+            },
+            {
+                "pokestop_id": "4b6a4096159545bba679aa8bb853f1fd.16",
+                "name": "Cemit\u00e9rio Da Marinha",
+                "latitude": 39.746706,
+                "longitude": -8.932228
+            },
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
+            }
+        ]
+    },
+    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Oddish",
         "quest_reward_type": "Pokemon",
@@ -302,36 +338,6 @@
                 "name": "Jungle Gym",
                 "latitude": 39.749395,
                 "longitude": -8.802482
-            }
-        ]
-    },
-    {
-        "quest_description": "Explore 3 km",
-        "quest_reward": "Growlithe",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Growlithe",
-        "quest_reward_pokemon_id": 58,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "47f7787d4c494d34803f1c290f5688b0.16",
-                "name": "Fonte",
-                "latitude": 39.752573,
-                "longitude": -8.933414
-            },
-            {
-                "pokestop_id": "4b6a4096159545bba679aa8bb853f1fd.16",
-                "name": "Cemit\u00e9rio Da Marinha",
-                "latitude": 39.746706,
-                "longitude": -8.932228
-            },
-            {
-                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
-                "name": "CrossFit Leiria",
-                "latitude": 39.729649,
-                "longitude": -8.804977
             }
         ]
     },
