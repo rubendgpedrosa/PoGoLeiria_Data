@@ -472,10 +472,22 @@
                 "longitude": -8.80073
             },
             {
+                "pokestop_id": "2aa54838a48b45daacb94b17f7f32b81.16",
+                "name": "Moagem Leiriense",
+                "latitude": 39.74865,
+                "longitude": -8.803723
+            },
+            {
                 "pokestop_id": "2c3e851cc9694b21b30f43ccd0eb8b62.16",
                 "name": "Campo De Treino",
                 "latitude": 39.73825,
                 "longitude": -8.929618
+            },
+            {
+                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
+                "name": "S. Francisco",
+                "latitude": 39.74836,
+                "longitude": -8.803617
             },
             {
                 "pokestop_id": "3c2ca9d24c0b311f972d65bd10e1f453.16",
@@ -934,6 +946,12 @@
                 "longitude": -8.93253
             },
             {
+                "pokestop_id": "ef40698afdf14bf2807803376584a143.16",
+                "name": "Pa\u00e7o D.Jo\u00e3o I",
+                "latitude": 39.746508,
+                "longitude": -8.809111
+            },
+            {
                 "pokestop_id": "f20cf939cb55424184465327db0ec8e8.16",
                 "name": "Playcity 006",
                 "latitude": 39.746676,
@@ -1118,6 +1136,12 @@
                 "name": "Villa Hort\u00eansia",
                 "latitude": 39.748585,
                 "longitude": -8.805955
+            },
+            {
+                "pokestop_id": "db4297efc87f426fb048a83fbd6ddfc6.16",
+                "name": "Capela Sao Francisco",
+                "latitude": 39.748187,
+                "longitude": -8.803393
             }
         ]
     },
@@ -1172,6 +1196,12 @@
                 "name": "Arco da Nossa Senhora Da Encarna\u00e7\u00e3o",
                 "latitude": 39.739299,
                 "longitude": -8.801276
+            },
+            {
+                "pokestop_id": "b081ac76889c34449df7d48ebb87c1e4.16",
+                "name": "Glove x 400mI",
+                "latitude": 39.74775,
+                "longitude": -8.807233
             },
             {
                 "pokestop_id": "c0b71dcb032c35768adff51494b564f6.16",
@@ -1458,6 +1488,36 @@
         ]
     },
     {
+        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
+        "quest_reward": "Snorunt",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Snorunt",
+        "quest_reward_pokemon_id": 361,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "4d86c7b25ae23c4e88f5151e4d759839.16",
+                "name": "Galerias Mouzinho de Albuquerque",
+                "latitude": 39.747271,
+                "longitude": -8.805217
+            },
+            {
+                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
+                "name": "Patria No Ultramar",
+                "latitude": 39.74471,
+                "longitude": -8.805589
+            },
+            {
+                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
+                "name": "Assembleia de Deus",
+                "latitude": 39.745074,
+                "longitude": -8.936455
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
@@ -1724,30 +1784,6 @@
                 "name": "Tribunal do Trabalho de Leiria",
                 "latitude": 39.739929,
                 "longitude": -8.808784
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
-        "quest_reward": "Snorunt",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Snorunt",
-        "quest_reward_pokemon_id": 361,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "76ee7f1cf3b34122ab67510a105af952.16",
-                "name": "Patria No Ultramar",
-                "latitude": 39.74471,
-                "longitude": -8.805589
-            },
-            {
-                "pokestop_id": "cfdf82394f2d4d97a5ce70abf1a890ca.16",
-                "name": "Assembleia de Deus",
-                "latitude": 39.745074,
-                "longitude": -8.936455
             }
         ]
     },
