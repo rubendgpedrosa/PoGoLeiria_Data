@@ -70,6 +70,12 @@
                 "longitude": -8.931966
             },
             {
+                "pokestop_id": "2ee5e9aa78c2326ca47a6d1fcb42d8dc.16",
+                "name": "O pastor",
+                "latitude": 39.748327,
+                "longitude": -8.807442
+            },
+            {
                 "pokestop_id": "48b7a038bcb145e7b704c1b59ec4769b.16",
                 "name": "The Dog",
                 "latitude": 39.745474,
@@ -450,6 +456,24 @@
         ]
     },
     {
+        "quest_description": "Make 3 Great Curveball Throws in a row",
+        "quest_reward": "3 Rare Candy",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Rare Candy",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1301,
+        "pokestops": [
+            {
+                "pokestop_id": "631a559276e84223b87182eaab6afda0.12",
+                "name": "Castelo de Leiria",
+                "latitude": 39.747664,
+                "longitude": -8.808828
+            }
+        ]
+    },
+    {
         "quest_description": "Make an Excellent Throw",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -686,6 +710,24 @@
                 "name": "Est\u00e1tua Vacas",
                 "latitude": 39.745118,
                 "longitude": -8.804209
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "dcd6e2e0c82d308d9c33f719869d3f54.16",
+                "name": "Igreja Deus Prover\u00e1",
+                "latitude": 39.748424,
+                "longitude": -8.80807
             }
         ]
     },

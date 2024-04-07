@@ -286,6 +286,12 @@
                 "longitude": -8.822064
             },
             {
+                "pokestop_id": "bddaa61df7864fd898a226e033864d45.16",
+                "name": "Ponte Parque Infantil",
+                "latitude": 39.750377,
+                "longitude": -8.806284
+            },
+            {
                 "pokestop_id": "bf4c22166e804391a1d5d4c25e81aeaa.16",
                 "name": "Parque da Cerca",
                 "latitude": 39.748598,
@@ -578,6 +584,12 @@
                 "name": "Centro de Linguas Chinesas",
                 "latitude": 39.740291,
                 "longitude": -8.811645
+            },
+            {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
             },
             {
                 "pokestop_id": "61f76786db87485e8eef8f2e1d2968f1.16",
@@ -914,6 +926,12 @@
                 "name": "Playcity 003",
                 "latitude": 39.740875,
                 "longitude": -8.801093
+            },
+            {
+                "pokestop_id": "6d59dc9c55f743179a8cb5f6fb59a86f.16",
+                "name": "Placa Informativa - Antes do Castelo",
+                "latitude": 39.747749,
+                "longitude": -8.808107
             },
             {
                 "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
@@ -1338,6 +1356,48 @@
         ]
     },
     {
+        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
+        "quest_reward": "Swinub",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Swinub",
+        "quest_reward_pokemon_id": 220,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "35a7b988a82d34d88f937b142e51c01c.16",
+                "name": "Assembleia de Deus.",
+                "latitude": 39.753204,
+                "longitude": -8.806617
+            },
+            {
+                "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
+                "name": "The Faces",
+                "latitude": 39.748058,
+                "longitude": -8.804519
+            },
+            {
+                "pokestop_id": "90dbc24bfa2f4f7697ce38f13bde3fb9.11",
+                "name": "Monumento aos Combatentes do U",
+                "latitude": 39.747479,
+                "longitude": -8.812497
+            },
+            {
+                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
+                "name": "Wellness life",
+                "latitude": 39.751779,
+                "longitude": -8.929718
+            },
+            {
+                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
+                "name": "Barcos da Costa",
+                "latitude": 39.73964,
+                "longitude": -8.805776
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
         "quest_reward": "10 Blaziken Mega Energy",
         "quest_reward_type": "Energy",
@@ -1394,6 +1454,24 @@
                 "name": "Antigo Forno",
                 "latitude": 39.748463,
                 "longitude": -8.92676
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 7 Pok\u00e9mon",
+        "quest_reward": "Magikarp",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Magikarp",
+        "quest_reward_pokemon_id": 129,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "57da555c66ca4169b393e3b97389a780.16",
+                "name": "Parque Infantil Jardim do Liz",
+                "latitude": 39.750826,
+                "longitude": -8.806392
             }
         ]
     },
@@ -1514,42 +1592,6 @@
                 "name": "Igreja Batista da Lagoinha",
                 "latitude": 39.740459,
                 "longitude": -8.80699
-            }
-        ]
-    },
-    {
-        "quest_description": "Use 5 Razz Berries to help catch Pok\u00e9mon",
-        "quest_reward": "Swinub",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Swinub",
-        "quest_reward_pokemon_id": 220,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "76cc4be1c0c04f228573f86602d98bda.16",
-                "name": "The Faces",
-                "latitude": 39.748058,
-                "longitude": -8.804519
-            },
-            {
-                "pokestop_id": "90dbc24bfa2f4f7697ce38f13bde3fb9.11",
-                "name": "Monumento aos Combatentes do U",
-                "latitude": 39.747479,
-                "longitude": -8.812497
-            },
-            {
-                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
-                "name": "Wellness life",
-                "latitude": 39.751779,
-                "longitude": -8.929718
-            },
-            {
-                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
-                "name": "Barcos da Costa",
-                "latitude": 39.73964,
-                "longitude": -8.805776
             }
         ]
     },
