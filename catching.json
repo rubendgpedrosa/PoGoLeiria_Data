@@ -94,6 +94,12 @@
                 "longitude": -8.807245
             },
             {
+                "pokestop_id": "262ba1506aef49f6a42a5bcac223111c.16",
+                "name": "Parque Infantil",
+                "latitude": 39.73417,
+                "longitude": -8.803283
+            },
+            {
                 "pokestop_id": "29861b24bf8b3ee49c80d19319c2c0ad.16",
                 "name": "Catalpa",
                 "latitude": 39.745748,
@@ -594,6 +600,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Pok\u00e9mon",
+        "quest_reward": "Rattata",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Rattata",
+        "quest_reward_pokemon_id": 19,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
+                "name": "Arco 42",
+                "latitude": 39.744873,
+                "longitude": -8.807102
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -938,6 +962,24 @@
                 "name": "Jardim de Leiria",
                 "latitude": 39.744338,
                 "longitude": -8.806031
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "10 Blaziken Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blaziken",
+        "quest_reward_pokemon_id": 257,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "dcd6e2e0c82d308d9c33f719869d3f54.16",
+                "name": "Igreja Deus Prover\u00e1",
+                "latitude": 39.748424,
+                "longitude": -8.80807
             }
         ]
     },
