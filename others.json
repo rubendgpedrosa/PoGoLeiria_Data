@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "25 Venusaur Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Venusaur",
+        "quest_reward_pokemon_id": 3,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
+                "name": "Pai Natal Lar\u00e1pio",
+                "latitude": 39.73156,
+                "longitude": -8.823204
+            }
+        ]
+    },
+    {
+        "quest_description": "Explore 1 km",
+        "quest_reward": "0  Experience",
+        "quest_reward_type": "Experience",
+        "quest_reward_amount": 0,
+        "quest_reward_item_name": "Experience",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
+                "name": "Leiria Shopping",
+                "latitude": 39.732373,
+                "longitude": -8.824896
+            },
+            {
+                "pokestop_id": "cfa99aca982c4d5594e91f019f507180.16",
+                "name": "LeiriaMini - \u00c1rea Interativa",
+                "latitude": 39.732346,
+                "longitude": -8.824545
+            }
+        ]
+    }
+]
