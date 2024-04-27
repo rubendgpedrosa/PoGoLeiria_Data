@@ -1,5 +1,101 @@
 [
     {
+        "quest_description": "Explore 1 km",
+        "quest_reward": "0  Experience",
+        "quest_reward_type": "Experience",
+        "quest_reward_amount": 0,
+        "quest_reward_item_name": "Experience",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "08594eeae13b42bd90f5775f129bf252.16",
+                "name": "Skate Park",
+                "latitude": 39.735189,
+                "longitude": -8.797673
+            },
+            {
+                "pokestop_id": "300f8d0be9d2491ab4c578c377120e03.16",
+                "name": "Marco de Correio",
+                "latitude": 39.734008,
+                "longitude": -8.808168
+            },
+            {
+                "pokestop_id": "46cb0801d3613d68bfe9c1e5c4273b52.16",
+                "name": "Parque de Merendas",
+                "latitude": 39.733817,
+                "longitude": -8.809361
+            },
+            {
+                "pokestop_id": "56d846322ad63e4b8c981ce4114d8720.16",
+                "name": "McDonald\u2019s-Leiria",
+                "latitude": 39.73516,
+                "longitude": -8.799637
+            },
+            {
+                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
+                "name": "Leiria Shopping",
+                "latitude": 39.732373,
+                "longitude": -8.824896
+            },
+            {
+                "pokestop_id": "cfa99aca982c4d5594e91f019f507180.16",
+                "name": "LeiriaMini - \u00c1rea Interativa",
+                "latitude": 39.732346,
+                "longitude": -8.824545
+            }
+        ]
+    },
+    {
+        "quest_description": "Hatch an Egg",
+        "quest_reward": "750 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 750,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0d52626eba5b481f9791dd3c6a81d649.16",
+                "name": "Campos CCMI",
+                "latitude": 39.729594,
+                "longitude": -8.808204
+            },
+            {
+                "pokestop_id": "23076c7b2d5e3d209916143b5207e5b3.16",
+                "name": "Soneto da Casa",
+                "latitude": 39.733913,
+                "longitude": -8.80966
+            },
+            {
+                "pokestop_id": "63b13db5ccdc469187f2f589afef94fe.16",
+                "name": "Parque Infantil Da Seixa",
+                "latitude": 39.732435,
+                "longitude": -8.801047
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 3 times",
+        "quest_reward": "Charmander",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Charmander",
+        "quest_reward_pokemon_id": 4,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "29449a7785e732ce9e8046d7c5ac0612.16",
+                "name": "O Diab\u00f3lico",
+                "latitude": 39.729536,
+                "longitude": -8.812971
+            }
+        ]
+    },
+    {
         "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "25 Venusaur Mega Energy",
         "quest_reward_type": "Energy",
@@ -19,25 +115,49 @@
     },
     {
         "quest_description": "Explore 1 km",
-        "quest_reward": "0  Experience",
-        "quest_reward_type": "Experience",
-        "quest_reward_amount": 0,
-        "quest_reward_item_name": "Experience",
+        "quest_reward": "250 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 250,
+        "quest_reward_item_name": "Stardust",
         "quest_reward_pokemon_name": "",
         "quest_reward_pokemon_id": "000",
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "642c0f5b7ba6396b8c97fbd5bc5b4131.16",
-                "name": "Leiria Shopping",
-                "latitude": 39.732373,
-                "longitude": -8.824896
+                "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
+                "name": "Caritas Diocesana de Leiria",
+                "latitude": 39.73688,
+                "longitude": -8.806748
             },
             {
-                "pokestop_id": "cfa99aca982c4d5594e91f019f507180.16",
-                "name": "LeiriaMini - \u00c1rea Interativa",
-                "latitude": 39.732346,
-                "longitude": -8.824545
+                "pokestop_id": "d224abae8949373a91cda0a9128462cd.16",
+                "name": "Barcos da Costa",
+                "latitude": 39.73964,
+                "longitude": -8.805776
+            },
+            {
+                "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
+                "name": "CrossFit Leiria",
+                "latitude": 39.729649,
+                "longitude": -8.804977
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "25 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "72de83ea053e4cf89880c9cdfd2cc8fc.16",
+                "name": "Jogo De Som",
+                "latitude": 39.734864,
+                "longitude": -8.797733
             }
         ]
     }
