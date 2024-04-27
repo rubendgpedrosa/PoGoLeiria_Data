@@ -1,5 +1,65 @@
 [
     {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "1000 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 1000,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b5569737a8438f0abfdf718370b73eb.16",
+                "name": "Amieiro",
+                "latitude": 39.733619,
+                "longitude": -8.797415
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Curveball Throws",
+        "quest_reward": "3 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 3,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "25758897bfe84c768a3b145ab1660216.16",
+                "name": "Burning Heart",
+                "latitude": 39.748962,
+                "longitude": -8.807073
+            },
+            {
+                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
+                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
+                "latitude": 39.750529,
+                "longitude": -8.803749
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Great Throws",
+        "quest_reward": "Machop",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Machop",
+        "quest_reward_pokemon_id": 66,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "25a0330c10104e74a733559e8c6d11a2.16",
+                "name": "Centro Desportivo Juve Lis",
+                "latitude": 39.731097,
+                "longitude": -8.794939
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "Clamperl",
         "quest_reward_type": "Pokemon",
@@ -68,24 +128,6 @@
                 "name": "Associa\u00e7\u00e3o de Dan\u00e7a de Leiria",
                 "latitude": 39.749055,
                 "longitude": -8.811604
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Curveball Throws",
-        "quest_reward": "3 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 3,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "8d9c226f1c954eb9ba79a5672405dbb5.16",
-                "name": "Homenagem \u00c0 Ind\u00fastria dos Pl\u00e1sticos",
-                "latitude": 39.750529,
-                "longitude": -8.803749
             }
         ]
     },
