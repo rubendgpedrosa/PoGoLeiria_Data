@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Make 2 Nice Curveball Throws in a row",
+        "quest_reward": "1 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "097b8d30832a4101bafeea7d922a379e.16",
+                "name": "M\u00e3os vidreiras que s\u00f3 fazem obras de arte.",
+                "latitude": 39.741278,
+                "longitude": -8.929531
+            },
+            {
+                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
+                "name": "EL REI D. AFONSO I",
+                "latitude": 39.748442,
+                "longitude": -8.810054
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Curveball Throws",
         "quest_reward": "1000 Stardust",
         "quest_reward_type": "Stardust",
@@ -278,24 +302,6 @@
                 "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
                 "latitude": 39.745489,
                 "longitude": -8.933253
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 2 Nice Curveball Throws in a row",
-        "quest_reward": "1 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "70bf688d53dc45eea0f26ef798b79e1d.16",
-                "name": "EL REI D. AFONSO I",
-                "latitude": 39.748442,
-                "longitude": -8.810054
             }
         ]
     },
