@@ -22,6 +22,12 @@
                 "longitude": -8.799535
             },
             {
+                "pokestop_id": "1004b264540f414fb24fed598f65a463.16",
+                "name": "Complexo Municipal De T\u00eanis",
+                "latitude": 39.735363,
+                "longitude": -8.795582
+            },
+            {
                 "pokestop_id": "1a918733f8c5472b8d0596fe4af76ec0.16",
                 "name": "Art",
                 "latitude": 39.750309,
@@ -166,6 +172,12 @@
                 "longitude": -8.925972
             },
             {
+                "pokestop_id": "417b2e2f49203592975a5ba1bad9e8f7.16",
+                "name": "\u00c1rea de Recreio Canino",
+                "latitude": 39.750484,
+                "longitude": -8.936343
+            },
+            {
                 "pokestop_id": "4b6a4096159545bba679aa8bb853f1fd.16",
                 "name": "Cemit\u00e9rio Da Marinha",
                 "latitude": 39.746706,
@@ -206,6 +218,12 @@
                 "name": "Pal\u00e1cio dos Ata\u00eddes",
                 "latitude": 39.744296,
                 "longitude": -8.810014
+            },
+            {
+                "pokestop_id": "6a537d8e7416308ea02f5f08be8e3cb4.16",
+                "name": "Parque Infantil Oeste",
+                "latitude": 39.735409,
+                "longitude": -8.801379
             },
             {
                 "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
@@ -362,6 +380,12 @@
                 "name": "Antigo Fontan\u00e1rio",
                 "latitude": 39.752154,
                 "longitude": -8.929224
+            },
+            {
+                "pokestop_id": "58c2e26bd5e34983b8b96b7d6334f54f.16",
+                "name": "Jardins do Lis Galerias",
+                "latitude": 39.750761,
+                "longitude": -8.805877
             },
             {
                 "pokestop_id": "725520b0ca3837daba0f82b4f415b1c0.16",
@@ -636,6 +660,48 @@
         ]
     },
     {
+        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
+        "quest_reward": "5 Great Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Great Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 2,
+        "pokestops": [
+            {
+                "pokestop_id": "0bc494effd014e5dbc2284958658b195.11",
+                "name": "Praca Rodrigues Lobo",
+                "latitude": 39.744413,
+                "longitude": -8.808075
+            },
+            {
+                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
+                "name": "Arco 42",
+                "latitude": 39.744873,
+                "longitude": -8.807102
+            },
+            {
+                "pokestop_id": "42070d6980c64ecf88a0dd6a9043ea5e.11",
+                "name": "Est\u00e1tua Burro",
+                "latitude": 39.745224,
+                "longitude": -8.804058
+            },
+            {
+                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
+                "name": "Ponte Euro 2004",
+                "latitude": 39.752764,
+                "longitude": -8.814174
+            },
+            {
+                "pokestop_id": "a4ba037453094a9e849892dfd30e4cda.16",
+                "name": "Placa de Homenagem Wenceslau de Morais",
+                "latitude": 39.747264,
+                "longitude": -8.803776
+            }
+        ]
+    },
+    {
         "quest_description": "Trade a Pok\u00e9mon",
         "quest_reward": "Spritzee",
         "quest_reward_type": "Pokemon",
@@ -694,6 +760,12 @@
                 "longitude": -8.81087
             },
             {
+                "pokestop_id": "be48e1d9d5b540c4a3df0c47a8ba37a9.16",
+                "name": "Carvalho Cerquinho",
+                "latitude": 39.731849,
+                "longitude": -8.795909
+            },
+            {
                 "pokestop_id": "e28edc9773e13b62a5a8e443b8f19be1.16",
                 "name": "Parque de Merendas Sta Clara",
                 "latitude": 39.738467,
@@ -704,36 +776,6 @@
                 "name": "Ponte Pique-nique",
                 "latitude": 39.739692,
                 "longitude": -8.798933
-            }
-        ]
-    },
-    {
-        "quest_description": "Spin 3 Pok\u00e9Stops or Gyms",
-        "quest_reward": "5 Great Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Great Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 2,
-        "pokestops": [
-            {
-                "pokestop_id": "15c1fc49d1fa49b283073afa63ad394f.16",
-                "name": "Arco 42",
-                "latitude": 39.744873,
-                "longitude": -8.807102
-            },
-            {
-                "pokestop_id": "42070d6980c64ecf88a0dd6a9043ea5e.11",
-                "name": "Est\u00e1tua Burro",
-                "latitude": 39.745224,
-                "longitude": -8.804058
-            },
-            {
-                "pokestop_id": "91b8d3f18fb64e31a31996aec26f6ac8.16",
-                "name": "Ponte Euro 2004",
-                "latitude": 39.752764,
-                "longitude": -8.814174
             }
         ]
     },
@@ -944,6 +986,12 @@
                 "name": "Edif\u00edcio \"O Pa\u00e7o\"",
                 "latitude": 39.745253,
                 "longitude": -8.80654
+            },
+            {
+                "pokestop_id": "b4a0e26853b64c279d1aa91bd67ec78b.16",
+                "name": "Zona Desportiva",
+                "latitude": 39.747903,
+                "longitude": -8.936311
             },
             {
                 "pokestop_id": "bddaa61df7864fd898a226e033864d45.16",
@@ -1160,6 +1208,12 @@
                 "name": "F\u00e9nix Muralhartes",
                 "latitude": 39.747251,
                 "longitude": -8.808742
+            },
+            {
+                "pokestop_id": "a8a85aa87e0d4c1d94472ab459e8fd0a.16",
+                "name": "Centro De Encontro Do Parque Da Cerca",
+                "latitude": 39.748632,
+                "longitude": -8.935621
             }
         ]
     },
