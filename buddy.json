@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Buneary",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Buneary",
+        "quest_reward_pokemon_id": 427,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "20d010499ea44bb8a7f38881b2d47338.16",
+                "name": "Mural Bailarina",
+                "latitude": 39.739897,
+                "longitude": -8.804231
+            },
+            {
+                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
+                "name": "Play City",
+                "latitude": 39.747179,
+                "longitude": -8.802109
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Togedemaru",
         "quest_reward_type": "Pokemon",
@@ -110,24 +134,6 @@
                 "name": "Arte urbana a l\u00e2mpada",
                 "latitude": 39.749948,
                 "longitude": -8.930341
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Buneary",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Buneary",
-        "quest_reward_pokemon_id": 427,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f57b1e25fc4a4591a929e7ffc54eb19e.16",
-                "name": "Play City",
-                "latitude": 39.747179,
-                "longitude": -8.802109
             }
         ]
     }
