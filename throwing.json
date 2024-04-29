@@ -54,6 +54,30 @@
         ]
     },
     {
+        "quest_description": "Make 5 Nice Throws",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "269dbaf0499c3b2ab34b41f321f8ccd8.16",
+                "name": "Mural comboio de lata",
+                "latitude": 39.748094,
+                "longitude": -8.933068
+            },
+            {
+                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
+                "name": "Correios Post Office",
+                "latitude": 39.747622,
+                "longitude": -8.930452
+            }
+        ]
+    },
+    {
         "quest_description": "Make 3 Great Throws",
         "quest_reward": "1 Pinap Berry",
         "quest_reward_type": "Item",
@@ -142,6 +166,12 @@
                 "longitude": -8.92676
             },
             {
+                "pokestop_id": "7065b593394b4d08b1b8c86d197794e5.16",
+                "name": "Ponte pedestre do Parque dos m\u00e1rtires do colonialismo.",
+                "latitude": 39.745489,
+                "longitude": -8.933253
+            },
+            {
                 "pokestop_id": "8139220c2677423f81f5be907a3e94c4.16",
                 "name": "Sede N\u00facleo Sporting",
                 "latitude": 39.750953,
@@ -190,28 +220,16 @@
                 "longitude": -8.930829
             },
             {
+                "pokestop_id": "c3c8a7b519bd349b96df337260957971.16",
+                "name": "Sociedade Columb\u00f3fila Marinhense",
+                "latitude": 39.748494,
+                "longitude": -8.932563
+            },
+            {
                 "pokestop_id": "eb09f8325d3b4095b70b9b37cd92fb6e.16",
                 "name": "Cabana do Parque da Cerca",
                 "latitude": 39.74824,
                 "longitude": -8.935596
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 5 Nice Throws",
-        "quest_reward": "5 Pok\u00e9 Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 5,
-        "quest_reward_item_name": "Pok\u00e9 Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 1,
-        "pokestops": [
-            {
-                "pokestop_id": "8f07a453a6b34931a8249ef9785616eb.16",
-                "name": "Correios Post Office",
-                "latitude": 39.747622,
-                "longitude": -8.930452
             }
         ]
     },
@@ -230,6 +248,24 @@
                 "name": "Ponte pedonal sul do Parque das Bernardas",
                 "latitude": 39.737116,
                 "longitude": -8.928597
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 5 Curveball Throws in a row",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "a318b6ec4f4e3e979ad7e2d3454ff284.16",
+                "name": "Caixa Postal CTT - Ordem",
+                "latitude": 39.741068,
+                "longitude": -8.936685
             }
         ]
     },
