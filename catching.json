@@ -126,6 +126,30 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "500 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 500,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "091456d950da38849bd7ae900f166679.16",
+                "name": "Sonhos de Papel",
+                "latitude": 39.743096,
+                "longitude": -8.935367
+            },
+            {
+                "pokestop_id": "397894b8406948d39293b559e2a32455.16",
+                "name": "Instituto Portugu\u00eas da Juventude",
+                "latitude": 39.747497,
+                "longitude": -8.81418
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "5 Great Ball",
         "quest_reward_type": "Item",
@@ -812,6 +836,12 @@
                 "name": "VDesign",
                 "latitude": 39.745756,
                 "longitude": -8.807801
+            },
+            {
+                "pokestop_id": "f66b8b8076b24f59ae9d2734639c5a59.16",
+                "name": "Campo De Apoio",
+                "latitude": 39.738138,
+                "longitude": -8.933062
             }
         ]
     },
@@ -848,24 +878,6 @@
                 "name": "O Principezinho",
                 "latitude": 39.745269,
                 "longitude": -8.808602
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "500 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 500,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "397894b8406948d39293b559e2a32455.16",
-                "name": "Instituto Portugu\u00eas da Juventude",
-                "latitude": 39.747497,
-                "longitude": -8.81418
             }
         ]
     },
