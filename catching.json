@@ -16,10 +16,22 @@
                 "longitude": -8.808075
             },
             {
+                "pokestop_id": "245e040840254bcebe902eeba5f251b5.16",
+                "name": "Pr\u00e9dio Marqu\u00eas da Cruz",
+                "latitude": 39.748039,
+                "longitude": -8.805136
+            },
+            {
                 "pokestop_id": "3a831ae2cff24109950a47a9e67ea30a.16",
                 "name": "AMM - Associa\u00e7\u00e3o Marinha em Movimento",
                 "latitude": 39.750545,
                 "longitude": -8.925972
+            },
+            {
+                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
+                "name": "S. Francisco",
+                "latitude": 39.74836,
+                "longitude": -8.803617
             },
             {
                 "pokestop_id": "404ac14a7e5040cd83239f0ae35428ea.16",
@@ -38,6 +50,12 @@
                 "name": "Antigo Forno",
                 "latitude": 39.748463,
                 "longitude": -8.92676
+            },
+            {
+                "pokestop_id": "56f17b26d7b14978b39a0bacbf49c134.16",
+                "name": "Plataforma de \u00e1gua",
+                "latitude": 39.748981,
+                "longitude": -8.934711
             },
             {
                 "pokestop_id": "5d26a723ff7a4e7aa901e7f1b9179b5d.16",
@@ -64,6 +82,18 @@
                 "longitude": -8.796467
             },
             {
+                "pokestop_id": "8cc259abcf583a669d1f0e738440f0ad.16",
+                "name": "Ponte Pedonal Rio Liz",
+                "latitude": 39.750058,
+                "longitude": -8.804897
+            },
+            {
+                "pokestop_id": "932ac322709c458b88b97091ce4dfc84.16",
+                "name": "Casa Da Cultura",
+                "latitude": 39.749033,
+                "longitude": -8.933087
+            },
+            {
                 "pokestop_id": "936d8d5c75364f02a1370a28c33b993f.16",
                 "name": "Estravag\u00e1rio Graffiti",
                 "latitude": 39.752932,
@@ -88,6 +118,12 @@
                 "longitude": -8.933733
             },
             {
+                "pokestop_id": "b35fb8f7aafd41ab8baecee4cba1cea0.16",
+                "name": "Campo De T\u00e9nis",
+                "latitude": 39.740902,
+                "longitude": -8.933727
+            },
+            {
                 "pokestop_id": "b90bc99759c643c1b07a37a91179a8fd.16",
                 "name": "Mural Rei das Runas",
                 "latitude": 39.747825,
@@ -104,6 +140,12 @@
                 "name": "LM Fitness",
                 "latitude": 39.747089,
                 "longitude": -8.935386
+            },
+            {
+                "pokestop_id": "fafc1dc9332130dd9955fd98eeae7954.16",
+                "name": "Pra\u00e7a de conv\u00edvio de L\u00eddio Carvalho",
+                "latitude": 39.749364,
+                "longitude": -8.930986
             }
         ]
     },
@@ -354,6 +396,24 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Pok\u00e9mon",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "9d901285bdb742708b45e1136b4b1021.16",
+                "name": "Praceta Abraao Zacuto",
+                "latitude": 39.74904,
+                "longitude": -8.802788
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon",
         "quest_reward": "Zigzagoon",
         "quest_reward_type": "Pokemon",
@@ -408,6 +468,42 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "b572ea0faae6348092bcf609be3e4bad.16",
+                "name": "Caixa Postal CTT - Cristal Atrium",
+                "latitude": 39.747021,
+                "longitude": -8.936766
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "10 Blastoise Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
+            }
+        ]
+    },
+    {
         "quest_description": "Use 5 Berries to help catch Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
@@ -458,6 +554,24 @@
                 "name": "Artes Manuais",
                 "latitude": 39.742853,
                 "longitude": -8.933931
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
+        "quest_reward": "5 Pok\u00e9 Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 5,
+        "quest_reward_item_name": "Pok\u00e9 Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 1,
+        "pokestops": [
+            {
+                "pokestop_id": "db4297efc87f426fb048a83fbd6ddfc6.16",
+                "name": "Capela Sao Francisco",
+                "latitude": 39.748187,
+                "longitude": -8.803393
             }
         ]
     },
