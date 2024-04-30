@@ -1,5 +1,23 @@
 [
     {
+        "quest_description": "Win a three-star raid or higher",
+        "quest_reward": "Archen",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Archen",
+        "quest_reward_pokemon_id": 566,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "15d0bdf2c3a64195981d4eab2368a386.16",
+                "name": "Painel de Azulejos D. Nuno \u00c1lvares Pereira",
+                "latitude": 39.750326,
+                "longitude": -8.930843
+            }
+        ]
+    },
+    {
         "quest_description": "Win a raid",
         "quest_reward": "Lickitung",
         "quest_reward_type": "Pokemon",
@@ -9,6 +27,12 @@
         "quest_reward_pokemon_id": 108,
         "quest_reward_item_id": 0,
         "pokestops": [
+            {
+                "pokestop_id": "a583f2cf3dac34df81058eeb9d690b18.16",
+                "name": "Gin\u00e1sio Blue Fitness Club",
+                "latitude": 39.730321,
+                "longitude": -8.810623
+            },
             {
                 "pokestop_id": "d46030acdd5f4450ace032b2703045a3.16",
                 "name": "Antigo Bebedouro",
