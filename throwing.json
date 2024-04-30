@@ -72,6 +72,30 @@
         ]
     },
     {
+        "quest_description": "Make 3 Nice Throws in a row",
+        "quest_reward": "2 Ultra Ball",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Ultra Ball",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 3,
+        "pokestops": [
+            {
+                "pokestop_id": "09211576d80e30c3b6007b0d72d8cf96.16",
+                "name": "Azulejo Bairro dos Anjos",
+                "latitude": 39.744443,
+                "longitude": -8.804282
+            },
+            {
+                "pokestop_id": "8bc82266c02148c0974687ddf80f96f7.16",
+                "name": "LeiriaMini - Parque Infantil",
+                "latitude": 39.733184,
+                "longitude": -8.824761
+            }
+        ]
+    },
+    {
         "quest_description": "Make 2 Nice Curveball Throws in a row",
         "quest_reward": "5 Pok\u00e9 Ball",
         "quest_reward_type": "Item",
@@ -92,6 +116,12 @@
                 "name": "Painel Informativo Junta de Freguesia Marinha Grande",
                 "latitude": 39.741149,
                 "longitude": -8.932965
+            },
+            {
+                "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
+                "name": "Galerias S\u00e3o Jos\u00e9",
+                "latitude": 39.739852,
+                "longitude": -8.808011
             },
             {
                 "pokestop_id": "ef559ae41f9634f097fc67f3e0f4c0bd.16",
@@ -968,24 +998,6 @@
                 "name": "Parque Infantil",
                 "latitude": 39.745231,
                 "longitude": -8.93432
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Nice Throws in a row",
-        "quest_reward": "2 Ultra Ball",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Ultra Ball",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 3,
-        "pokestops": [
-            {
-                "pokestop_id": "8bc82266c02148c0974687ddf80f96f7.16",
-                "name": "LeiriaMini - Parque Infantil",
-                "latitude": 39.733184,
-                "longitude": -8.824761
             }
         ]
     },
