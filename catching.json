@@ -264,6 +264,48 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
+        "quest_reward": "10 Blastoise Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2c3e851cc9694b21b30f43ccd0eb8b62.16",
+                "name": "Campo De Treino",
+                "latitude": 39.73825,
+                "longitude": -8.929618
+            },
+            {
+                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
+                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
+                "latitude": 39.744597,
+                "longitude": -8.935054
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "10 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3e0e09c5f37d47b29d85b0209445098d.16",
+                "name": "Painel Informativo Junta de Freguesia Marinha Grande",
+                "latitude": 39.741149,
+                "longitude": -8.932965
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon with Weather Boost",
         "quest_reward": "Poliwag",
         "quest_reward_type": "Pokemon",
@@ -476,6 +518,12 @@
                 "name": "Os vizinhos associa\u00e7\u00e3o cultural",
                 "latitude": 39.741479,
                 "longitude": -8.936194
+            },
+            {
+                "pokestop_id": "cf5a54084bcc39c99cefad7105598d2c.16",
+                "name": "Ringue de futebol da Marinha Grande",
+                "latitude": 39.740808,
+                "longitude": -8.929041
             }
         ]
     },
@@ -499,6 +547,24 @@
     },
     {
         "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "6 Razz Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 6,
+        "quest_reward_item_name": "Razz Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 701,
+        "pokestops": [
+            {
+                "pokestop_id": "b534cfa9e5183961a766bbbdf03c8c28.16",
+                "name": "BicLis - Esta\u00e7\u00e3o Nossa Senhora de F\u00e1tima",
+                "latitude": 39.738891,
+                "longitude": -8.802169
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
         "quest_reward": "2 Pinap Berry",
         "quest_reward_type": "Item",
         "quest_reward_amount": 2,
@@ -512,24 +578,6 @@
                 "name": "Caixa Postal CTT - Cristal Atrium",
                 "latitude": 39.747021,
                 "longitude": -8.936766
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Water-type Pok\u00e9mon",
-        "quest_reward": "10 Blastoise Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Blastoise",
-        "quest_reward_pokemon_id": 9,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "beb76bbf3ebc35f59e81838a77368c76.16",
-                "name": "Ponto CTT - Avenida Jos\u00e9 Henriques Vareda",
-                "latitude": 39.744597,
-                "longitude": -8.935054
             }
         ]
     },
