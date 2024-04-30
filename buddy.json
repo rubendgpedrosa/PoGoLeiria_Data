@@ -1,5 +1,29 @@
 [
     {
+        "quest_description": "Earn 2 Candies walking with your buddy",
+        "quest_reward": "Bunnelby",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bunnelby",
+        "quest_reward_pokemon_id": 659,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0b5569737a8438f0abfdf718370b73eb.16",
+                "name": "Amieiro",
+                "latitude": 39.733619,
+                "longitude": -8.797415
+            },
+            {
+                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
+                "name": "Sapo",
+                "latitude": 39.74516,
+                "longitude": -8.804145
+            }
+        ]
+    },
+    {
         "quest_description": "Send 5 Gifts and add a sticker to each",
         "quest_reward": "Togedemaru",
         "quest_reward_type": "Pokemon",
@@ -116,24 +140,6 @@
                 "name": "Pa\u00e7o D.Jo\u00e3o I",
                 "latitude": 39.746508,
                 "longitude": -8.809111
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 2 Candies walking with your buddy",
-        "quest_reward": "Bunnelby",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bunnelby",
-        "quest_reward_pokemon_id": 659,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "ef40ca25112247d6b2bf79cc99ee64ec.16",
-                "name": "Sapo",
-                "latitude": 39.74516,
-                "longitude": -8.804145
             }
         ]
     }
