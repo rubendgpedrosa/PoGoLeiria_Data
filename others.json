@@ -24,6 +24,36 @@
         ]
     },
     {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "25 Charizard Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Charizard",
+        "quest_reward_pokemon_id": 6,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "10cb27f4bbbf382db016185defb870e6.16",
+                "name": "Placa informativa do Canto do Jardim",
+                "latitude": 39.750584,
+                "longitude": -8.930171
+            },
+            {
+                "pokestop_id": "444dbacd73144e6985f077d48c38acde.16",
+                "name": "Clube M.M.G",
+                "latitude": 39.749647,
+                "longitude": -8.932786
+            },
+            {
+                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
+                "name": "P\u00e9rgula Marinhense",
+                "latitude": 39.751051,
+                "longitude": -8.928765
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch 2 Eggs",
         "quest_reward": "Stunfisk",
         "quest_reward_type": "Pokemon",
@@ -76,6 +106,12 @@
                 "longitude": -8.936311
             },
             {
+                "pokestop_id": "b4d3ed3c70633b00a060f057fac0061e.16",
+                "name": "Wellness life",
+                "latitude": 39.751779,
+                "longitude": -8.929718
+            },
+            {
                 "pokestop_id": "f2038f2a47d04e7c848d67c1bc5ec3e0.16",
                 "name": "Biblioteca Municipal",
                 "latitude": 39.749895,
@@ -85,25 +121,31 @@
     },
     {
         "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "25 Charizard Mega Energy",
+        "quest_reward": "25 Blastoise Mega Energy",
         "quest_reward_type": "Energy",
         "quest_reward_amount": 25,
         "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Charizard",
-        "quest_reward_pokemon_id": 6,
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "444dbacd73144e6985f077d48c38acde.16",
-                "name": "Clube M.M.G",
-                "latitude": 39.749647,
-                "longitude": -8.932786
+                "pokestop_id": "476cd168efed4d6e89a22886cad6debf.16",
+                "name": "Gin\u00e1sio ao Ar Livre",
+                "latitude": 39.750817,
+                "longitude": -8.929649
             },
             {
-                "pokestop_id": "688d31ba8a8b409d9f432238d945195f.16",
-                "name": "P\u00e9rgula Marinhense",
-                "latitude": 39.751051,
-                "longitude": -8.928765
+                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
+                "name": "O Pastor Peregrino",
+                "latitude": 39.744326,
+                "longitude": -8.807043
+            },
+            {
+                "pokestop_id": "9940cb7614d0496c8ccb12329656ceff.16",
+                "name": "O Principezinho",
+                "latitude": 39.745269,
+                "longitude": -8.808602
             }
         ]
     },
@@ -128,30 +170,6 @@
                 "name": "Sport Oper\u00e1rio Marinhense",
                 "latitude": 39.749997,
                 "longitude": -8.926437
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "25 Blastoise Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 25,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Blastoise",
-        "quest_reward_pokemon_id": 9,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6f03b3c1e4c4456c99e7d66011417b9c.11",
-                "name": "O Pastor Peregrino",
-                "latitude": 39.744326,
-                "longitude": -8.807043
-            },
-            {
-                "pokestop_id": "9940cb7614d0496c8ccb12329656ceff.16",
-                "name": "O Principezinho",
-                "latitude": 39.745269,
-                "longitude": -8.808602
             }
         ]
     },
