@@ -88,10 +88,22 @@
                 "longitude": -8.812967
             },
             {
+                "pokestop_id": "1846373feb73459994ce56162712ff83.16",
+                "name": "Correios Marrazes",
+                "latitude": 39.753807,
+                "longitude": -8.81209
+            },
+            {
                 "pokestop_id": "1f66a9f49d7748d18ffc91357ce8ff1b.16",
                 "name": "Campo de Futebol",
                 "latitude": 39.736816,
                 "longitude": -8.804067
+            },
+            {
+                "pokestop_id": "2760382fa38c3d0991689be70d3bd48f.16",
+                "name": "Staccato - Escola de Dan\u00e7a",
+                "latitude": 39.750686,
+                "longitude": -8.802128
             }
         ]
     },
@@ -250,10 +262,22 @@
                 "longitude": -8.810421
             },
             {
+                "pokestop_id": "35a759fa41924fe78d84d66bb707c589.16",
+                "name": "Correios Office Post Leiria",
+                "latitude": 39.740543,
+                "longitude": -8.80818
+            },
+            {
                 "pokestop_id": "42070d6980c64ecf88a0dd6a9043ea5e.11",
                 "name": "Est\u00e1tua Burro",
                 "latitude": 39.745224,
                 "longitude": -8.804058
+            },
+            {
+                "pokestop_id": "484d1bcbc0a443cb933cf338d4aa6e43.16",
+                "name": "Engenharia Autom\u00f3vel",
+                "latitude": 39.733074,
+                "longitude": -8.821522
             },
             {
                 "pokestop_id": "4d10e14a2db243309483794fd9fbeba2.16",
@@ -290,6 +314,12 @@
                 "name": "Corvos Do Lis",
                 "latitude": 39.747121,
                 "longitude": -8.803942
+            },
+            {
+                "pokestop_id": "6950eda59ea847d6ab52f4903fa27b29.16",
+                "name": "Caritas Diocesana de Leiria",
+                "latitude": 39.73688,
+                "longitude": -8.806748
             },
             {
                 "pokestop_id": "6b6fe78d650e3f8aa7d4417339b8919f.16",
@@ -338,6 +368,24 @@
                 "name": "A\u00e7ude Da Fonte Quente",
                 "latitude": 39.747803,
                 "longitude": -8.802251
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "10 Manectric Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Manectric",
+        "quest_reward_pokemon_id": 310,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "17bd4c9f924b46578bbb4bbf28e7b6e9.16",
+                "name": "Fonte De \u00c1gua Quente",
+                "latitude": 39.747102,
+                "longitude": -8.801658
             }
         ]
     },
@@ -468,6 +516,42 @@
         ]
     },
     {
+        "quest_description": "Hatch 2 Eggs",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "531b919d53b0427c88c55723aba7fa45.16",
+                "name": "Campo Basketball",
+                "latitude": 39.746655,
+                "longitude": -8.802376
+            },
+            {
+                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
+                "name": "Antigo Marco de Correios",
+                "latitude": 39.739681,
+                "longitude": -8.805175
+            },
+            {
+                "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
+                "name": "Calv\u00e1rio",
+                "latitude": 39.746362,
+                "longitude": -8.807238
+            },
+            {
+                "pokestop_id": "dd9fe35b387b3476aa3225d4a117613e.16",
+                "name": "BicLis - Esta\u00e7\u00e3o Leiria Shopping",
+                "latitude": 39.733886,
+                "longitude": -8.823833
+            }
+        ]
+    },
+    {
         "quest_description": "Take 3 snapshots of wild pokemon",
         "quest_reward": "Spinarak",
         "quest_reward_type": "Pokemon",
@@ -488,36 +572,6 @@
                 "name": "Nossa Senhora Imaculada Concei\u00e7\u00e3o",
                 "latitude": 39.730732,
                 "longitude": -8.808285
-            }
-        ]
-    },
-    {
-        "quest_description": "Hatch 2 Eggs",
-        "quest_reward": "Stunfisk",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stunfisk",
-        "quest_reward_pokemon_id": 618,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6a2a765de64e487888e7fa496b2618d1.16",
-                "name": "Antigo Marco de Correios",
-                "latitude": 39.739681,
-                "longitude": -8.805175
-            },
-            {
-                "pokestop_id": "a938afb01eb44bc78e73cd1b180f44d6.16",
-                "name": "Calv\u00e1rio",
-                "latitude": 39.746362,
-                "longitude": -8.807238
-            },
-            {
-                "pokestop_id": "dd9fe35b387b3476aa3225d4a117613e.16",
-                "name": "BicLis - Esta\u00e7\u00e3o Leiria Shopping",
-                "latitude": 39.733886,
-                "longitude": -8.823833
             }
         ]
     },
