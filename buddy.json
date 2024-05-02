@@ -1,5 +1,41 @@
 [
     {
+        "quest_description": "Earn 3 Candies walking with your buddy",
+        "quest_reward": "Stunfisk",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Stunfisk",
+        "quest_reward_pokemon_id": 618,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0bc2c65541d54e619cd907342180b784.16",
+                "name": "Igreja Universal Do Reino De Deus",
+                "latitude": 39.747902,
+                "longitude": -8.805366
+            },
+            {
+                "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
+                "name": "Ponte Ondulada",
+                "latitude": 39.746196,
+                "longitude": -8.80374
+            },
+            {
+                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
+                "name": "Marco de Correio CTT",
+                "latitude": 39.746326,
+                "longitude": -8.804666
+            },
+            {
+                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
+                "name": "Lady in Red",
+                "latitude": 39.741869,
+                "longitude": -8.805353
+            }
+        ]
+    },
+    {
         "quest_description": "Earn 2 Candies walking with your buddy",
         "quest_reward": "Glameow",
         "quest_reward_type": "Pokemon",
@@ -38,36 +74,6 @@
                 "name": "Marco de Correios CTT",
                 "latitude": 39.752895,
                 "longitude": -8.805935
-            }
-        ]
-    },
-    {
-        "quest_description": "Earn 3 Candies walking with your buddy",
-        "quest_reward": "Stunfisk",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Stunfisk",
-        "quest_reward_pokemon_id": 618,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6525c04bedb4423eb3e22bf25116f3a2.16",
-                "name": "Ponte Ondulada",
-                "latitude": 39.746196,
-                "longitude": -8.80374
-            },
-            {
-                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
-                "name": "Marco de Correio CTT",
-                "latitude": 39.746326,
-                "longitude": -8.804666
-            },
-            {
-                "pokestop_id": "ffc6670f458840839c3aacf54cd69017.16",
-                "name": "Lady in Red",
-                "latitude": 39.741869,
-                "longitude": -8.805353
             }
         ]
     },

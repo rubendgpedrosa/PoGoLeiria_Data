@@ -1,5 +1,47 @@
 [
     {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Bellsprout",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Bellsprout",
+        "quest_reward_pokemon_id": 69,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "02c9cb5695e53fb6a08f784e57655d77.16",
+                "name": "Gym Mais Corpo",
+                "latitude": 39.752754,
+                "longitude": -8.805218
+            },
+            {
+                "pokestop_id": "1205b13b203e454985597e7c7f3a96de.16",
+                "name": "Igreja De Jesus Cristo Dos Santos Dos \u00daltimos Dias",
+                "latitude": 39.740096,
+                "longitude": -8.804572
+            },
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
+            },
+            {
+                "pokestop_id": "8c20f9c9b65b384ea6311422e708bcd1.16",
+                "name": "Parque Verde de Leiria",
+                "latitude": 39.741617,
+                "longitude": -8.819755
+            },
+            {
+                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
+                "name": "CAL",
+                "latitude": 39.741024,
+                "longitude": -8.806283
+            }
+        ]
+    },
+    {
         "quest_description": "Defeat 3 Team GO Rocket Grunts",
         "quest_reward": "Sableye",
         "quest_reward_type": "Pokemon",
@@ -466,6 +508,12 @@
                 "longitude": -8.80984
             },
             {
+                "pokestop_id": "e011da7e4afa4206b4dec0dbbde05b13.16",
+                "name": "Torre de Miragem",
+                "latitude": 39.746911,
+                "longitude": -8.809565
+            },
+            {
                 "pokestop_id": "ea199016849d4e208ed79af7d199722d.16",
                 "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
                 "latitude": 39.742537,
@@ -572,42 +620,6 @@
                 "name": "Parque Infantil Dr. Vitorino Silva Ara\u00fajo",
                 "latitude": 39.734507,
                 "longitude": -8.807759
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Bellsprout",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Bellsprout",
-        "quest_reward_pokemon_id": 69,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "1205b13b203e454985597e7c7f3a96de.16",
-                "name": "Igreja De Jesus Cristo Dos Santos Dos \u00daltimos Dias",
-                "latitude": 39.740096,
-                "longitude": -8.804572
-            },
-            {
-                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
-                "name": "Shaman Urbano",
-                "latitude": 39.744681,
-                "longitude": -8.809882
-            },
-            {
-                "pokestop_id": "8c20f9c9b65b384ea6311422e708bcd1.16",
-                "name": "Parque Verde de Leiria",
-                "latitude": 39.741617,
-                "longitude": -8.819755
-            },
-            {
-                "pokestop_id": "99648d7b7047482f9ff6c4a1c3db847c.16",
-                "name": "CAL",
-                "latitude": 39.741024,
-                "longitude": -8.806283
             }
         ]
     },
