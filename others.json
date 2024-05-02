@@ -160,6 +160,12 @@
                 "longitude": -8.807857
             },
             {
+                "pokestop_id": "46cb0801d3613d68bfe9c1e5c4273b52.16",
+                "name": "Parque de Merendas",
+                "latitude": 39.733817,
+                "longitude": -8.809361
+            },
+            {
                 "pokestop_id": "4d38c08b7ff544ddbc8ceaa08314a4ec.16",
                 "name": "Galeria de Exposi\u00e7\u00e3o de Artes",
                 "latitude": 39.751963,
@@ -338,6 +344,12 @@
                 "name": "Bairro dos Anjos",
                 "latitude": 39.744958,
                 "longitude": -8.804361
+            },
+            {
+                "pokestop_id": "6641122bc0ea406f917adfe1cfbd22e6.11",
+                "name": "Mercado Municipal",
+                "latitude": 39.749213,
+                "longitude": -8.8064
             },
             {
                 "pokestop_id": "66b6a703041233e38612f9a8218cd9c0.16",
@@ -1116,6 +1128,30 @@
         ]
     },
     {
+        "quest_description": "Take 3 snapshots of wild pokemon",
+        "quest_reward": "Oddish",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Oddish",
+        "quest_reward_pokemon_id": 43,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "ec01d07c415f3adaadbc4500a9eb4383.16",
+                "name": "Homenagem Bravos Leirienses",
+                "latitude": 39.741354,
+                "longitude": -8.810787
+            },
+            {
+                "pokestop_id": "f253df31ccb53395831c337eae84c9f9.16",
+                "name": "Antiga Sede Jornal de Leiria",
+                "latitude": 39.744151,
+                "longitude": -8.811916
+            }
+        ]
+    },
+    {
         "quest_description": "Hatch an Egg",
         "quest_reward": "Nincada",
         "quest_reward_type": "Pokemon",
@@ -1130,24 +1166,6 @@
                 "name": "Sapo",
                 "latitude": 39.74516,
                 "longitude": -8.804145
-            }
-        ]
-    },
-    {
-        "quest_description": "Take 3 snapshots of wild pokemon",
-        "quest_reward": "Oddish",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Oddish",
-        "quest_reward_pokemon_id": 43,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "f253df31ccb53395831c337eae84c9f9.16",
-                "name": "Antiga Sede Jornal de Leiria",
-                "latitude": 39.744151,
-                "longitude": -8.811916
             }
         ]
     },
