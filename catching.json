@@ -58,6 +58,12 @@
                 "longitude": -8.795582
             },
             {
+                "pokestop_id": "20d010499ea44bb8a7f38881b2d47338.16",
+                "name": "Mural Bailarina",
+                "latitude": 39.739897,
+                "longitude": -8.804231
+            },
+            {
                 "pokestop_id": "22af41a0de094b3b9a328d93dc104eff.16",
                 "name": "Lis Shopping",
                 "latitude": 39.739681,
@@ -142,6 +148,12 @@
                 "longitude": -8.805217
             },
             {
+                "pokestop_id": "4dbc1059dc043532829dda66e5d5ab5b.16",
+                "name": "Caixa Postal CTT",
+                "latitude": 39.742178,
+                "longitude": -8.798332
+            },
+            {
                 "pokestop_id": "512692451ac538eabcb2ee4acd0779b9.16",
                 "name": "Conta-me Hist\u00f3rias",
                 "latitude": 39.749379,
@@ -224,6 +236,12 @@
                 "name": "Marco CTT - Rua Professor N. Costa",
                 "latitude": 39.742221,
                 "longitude": -8.813073
+            },
+            {
+                "pokestop_id": "a6d7eca545914ec3b5fc2ae294b69656.11",
+                "name": "Est\u00e1tua \"A Caminho da Feira\"",
+                "latitude": 39.744847,
+                "longitude": -8.804645
             },
             {
                 "pokestop_id": "aade5658abc83b7aab7281a1e08c35a7.16",
@@ -516,6 +534,24 @@
         ]
     },
     {
+        "quest_description": "Catch 5 Psychic- or Fighting-type Pok\u00e9mon",
+        "quest_reward": "Gothita",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Gothita",
+        "quest_reward_pokemon_id": 574,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "0edf4ba48780424f93739710d9c25b7c.16",
+                "name": "Parque Dos Cani\u00e7os",
+                "latitude": 39.740299,
+                "longitude": -8.799535
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 5 Pok\u00e9mon",
         "quest_reward": "Rattata",
         "quest_reward_type": "Pokemon",
@@ -754,6 +790,12 @@
                 "longitude": -8.803601
             },
             {
+                "pokestop_id": "576f4061b2764fc1b3d0c4321299f83b.16",
+                "name": "Playcity 003",
+                "latitude": 39.740875,
+                "longitude": -8.801093
+            },
+            {
                 "pokestop_id": "89c6d7e56a043bb286e68785a6de9473.16",
                 "name": "Galerias S\u00e3o Jos\u00e9",
                 "latitude": 39.739852,
@@ -926,6 +968,36 @@
                 "name": "Mercado Municipal",
                 "latitude": 39.749213,
                 "longitude": -8.8064
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "2 Pinap Berry",
+        "quest_reward_type": "Item",
+        "quest_reward_amount": 2,
+        "quest_reward_item_name": "Pinap Berry",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 705,
+        "pokestops": [
+            {
+                "pokestop_id": "725520b0ca3837daba0f82b4f415b1c0.16",
+                "name": "Gin\u00e1sio High Performace Leiria",
+                "latitude": 39.740017,
+                "longitude": -8.803766
+            },
+            {
+                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
+                "name": "Estradas Portugal",
+                "latitude": 39.751555,
+                "longitude": -8.808172
+            },
+            {
+                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
+                "name": "Liz ao Quadro - Art Galery",
+                "latitude": 39.748424,
+                "longitude": -8.802439
             }
         ]
     },
@@ -1130,30 +1202,6 @@
                 "name": "Casa Oliveira Dias",
                 "latitude": 39.74247,
                 "longitude": -8.80407
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
-        "quest_reward": "2 Pinap Berry",
-        "quest_reward_type": "Item",
-        "quest_reward_amount": 2,
-        "quest_reward_item_name": "Pinap Berry",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 705,
-        "pokestops": [
-            {
-                "pokestop_id": "dd617ca865854182861385380ec5f87f.11",
-                "name": "Estradas Portugal",
-                "latitude": 39.751555,
-                "longitude": -8.808172
-            },
-            {
-                "pokestop_id": "eb236851e5b8353aa9a7a7601c550fd6.16",
-                "name": "Liz ao Quadro - Art Galery",
-                "latitude": 39.748424,
-                "longitude": -8.802439
             }
         ]
     },
