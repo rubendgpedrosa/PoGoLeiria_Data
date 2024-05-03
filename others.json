@@ -943,6 +943,30 @@
     },
     {
         "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "Tepig",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Tepig",
+        "quest_reward_pokemon_id": 498,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "48b7a038bcb145e7b704c1b59ec4769b.16",
+                "name": "The Dog",
+                "latitude": 39.745474,
+                "longitude": -8.808424
+            },
+            {
+                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
+                "name": "Mural \"Na Dist\u00e2ncia\"",
+                "latitude": 39.736711,
+                "longitude": -8.793678
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
         "quest_reward": "10 Manectric Mega Energy",
         "quest_reward_type": "Energy",
         "quest_reward_amount": 10,
@@ -1064,24 +1088,6 @@
                 "name": "Associa\u00e7\u00e3o de Futebol de Leiria",
                 "latitude": 39.739999,
                 "longitude": -8.815938
-            }
-        ]
-    },
-    {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "Tepig",
-        "quest_reward_type": "Pokemon",
-        "quest_reward_amount": 1,
-        "quest_reward_item_name": "Pokemon",
-        "quest_reward_pokemon_name": "Tepig",
-        "quest_reward_pokemon_id": 498,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "8ca13adcfb603c7f9cf74e600801aa07.16",
-                "name": "Mural \"Na Dist\u00e2ncia\"",
-                "latitude": 39.736711,
-                "longitude": -8.793678
             }
         ]
     },
