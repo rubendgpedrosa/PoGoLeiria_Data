@@ -64,6 +64,12 @@
                 "longitude": -8.806823
             },
             {
+                "pokestop_id": "4d10e14a2db243309483794fd9fbeba2.16",
+                "name": "Solar do Bar\u00e3o de Salgueiro",
+                "latitude": 39.74411,
+                "longitude": -8.810157
+            },
+            {
                 "pokestop_id": "509f97f5573e4abb8dd49a1242a5593f.16",
                 "name": "B Your Own Hero",
                 "latitude": 39.750139,
@@ -94,6 +100,12 @@
                 "longitude": -8.804606
             },
             {
+                "pokestop_id": "687d1463ede942f5a1524f534eb80d03.11",
+                "name": "Pal\u00e1cio dos Ata\u00eddes",
+                "latitude": 39.744296,
+                "longitude": -8.810014
+            },
+            {
                 "pokestop_id": "6adf2e0d4daa3ed6b1feabb5458dafba.16",
                 "name": "Projeto Community - Escola de Dan\u00e7as Urbanas",
                 "latitude": 39.746889,
@@ -110,6 +122,18 @@
                 "name": "O Principezinho",
                 "latitude": 39.745269,
                 "longitude": -8.808602
+            },
+            {
+                "pokestop_id": "a39ef1c4dd4c49309d4ab89fbe7e8b93.16",
+                "name": "Painel Moinho de Papel",
+                "latitude": 39.740201,
+                "longitude": -8.800153
+            },
+            {
+                "pokestop_id": "a49e378787484fcbb18b5e98c10bc755.16",
+                "name": "Igreja Man\u00e1",
+                "latitude": 39.741498,
+                "longitude": -8.799315
             },
             {
                 "pokestop_id": "b3356645cffd432abf254b1c58a5c593.16",
@@ -284,6 +308,12 @@
                 "name": "Antigo Fontan\u00e1rio e Lavadouro das Olhalvas",
                 "latitude": 39.742537,
                 "longitude": -8.793462
+            },
+            {
+                "pokestop_id": "f8dd0db785414ee5b6ae8d40988b7ec2.16",
+                "name": "Pra\u00e7a Nova",
+                "latitude": 39.752742,
+                "longitude": -8.811752
             }
         ]
     },
@@ -352,6 +382,12 @@
                 "longitude": -8.806459
             },
             {
+                "pokestop_id": "5b411c74614a41499b344fed78efd2ec.16",
+                "name": "Fonte Do Halton",
+                "latitude": 39.747031,
+                "longitude": -8.816442
+            },
+            {
                 "pokestop_id": "ce998aebdaae3750bedfc6e568df7f5e.16",
                 "name": "Projeto U-Bike: ESTG - Bloco D",
                 "latitude": 39.734271,
@@ -398,6 +434,54 @@
                 "name": "Urban Fitness",
                 "latitude": 39.748953,
                 "longitude": -8.802133
+            }
+        ]
+    },
+    {
+        "quest_description": "Power up Pok\u00e9mon 5 times",
+        "quest_reward": "25 Blastoise Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 25,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blastoise",
+        "quest_reward_pokemon_id": 9,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2598dc6b9e723f25acdd2765335fda7c.16",
+                "name": "Shaman Urbano",
+                "latitude": 39.744681,
+                "longitude": -8.809882
+            },
+            {
+                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
+                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
+                "latitude": 39.73966,
+                "longitude": -8.808042
+            },
+            {
+                "pokestop_id": "484d1bcbc0a443cb933cf338d4aa6e43.16",
+                "name": "Engenharia Autom\u00f3vel",
+                "latitude": 39.733074,
+                "longitude": -8.821522
+            },
+            {
+                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
+                "name": "Parque de S\u00e3o Rom\u00e3o",
+                "latitude": 39.733442,
+                "longitude": -8.797748
+            },
+            {
+                "pokestop_id": "61f76786db87485e8eef8f2e1d2968f1.16",
+                "name": "A Juventude a Ci\u00eancia e o Mar",
+                "latitude": 39.743887,
+                "longitude": -8.805803
+            },
+            {
+                "pokestop_id": "d507cf11ba724b0e99127ed0e11b6597.16",
+                "name": "Lenda do Lis e do Lena",
+                "latitude": 39.743468,
+                "longitude": -8.8068
             }
         ]
     },
@@ -450,44 +534,20 @@
         ]
     },
     {
-        "quest_description": "Power up Pok\u00e9mon 5 times",
-        "quest_reward": "25 Blastoise Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 25,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Blastoise",
-        "quest_reward_pokemon_id": 9,
+        "quest_description": "Evolve a Pok\u00e9mon",
+        "quest_reward": "Eevee",
+        "quest_reward_type": "Pokemon",
+        "quest_reward_amount": 1,
+        "quest_reward_item_name": "Pokemon",
+        "quest_reward_pokemon_name": "Eevee",
+        "quest_reward_pokemon_id": 133,
         "quest_reward_item_id": 0,
         "pokestops": [
             {
-                "pokestop_id": "463ee377f4ff4460968e3d55a4e82141.16",
-                "name": "Marco de Correios CTT Avenida Marqu\u00eas de Pombal",
-                "latitude": 39.73966,
-                "longitude": -8.808042
-            },
-            {
-                "pokestop_id": "484d1bcbc0a443cb933cf338d4aa6e43.16",
-                "name": "Engenharia Autom\u00f3vel",
-                "latitude": 39.733074,
-                "longitude": -8.821522
-            },
-            {
-                "pokestop_id": "599f0d4bcba048769e01531d5ba3328f.16",
-                "name": "Parque de S\u00e3o Rom\u00e3o",
-                "latitude": 39.733442,
-                "longitude": -8.797748
-            },
-            {
-                "pokestop_id": "61f76786db87485e8eef8f2e1d2968f1.16",
-                "name": "A Juventude a Ci\u00eancia e o Mar",
-                "latitude": 39.743887,
-                "longitude": -8.805803
-            },
-            {
-                "pokestop_id": "d507cf11ba724b0e99127ed0e11b6597.16",
-                "name": "Lenda do Lis e do Lena",
-                "latitude": 39.743468,
-                "longitude": -8.8068
+                "pokestop_id": "475f3b383bfc30939d994b3a26749c18.16",
+                "name": "Edif\u00edcio Comendador",
+                "latitude": 39.742053,
+                "longitude": -8.809737
             }
         ]
     },
