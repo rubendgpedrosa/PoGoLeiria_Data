@@ -118,6 +118,12 @@
                 "longitude": -8.795362
             },
             {
+                "pokestop_id": "59a6eb172b334499b7489e32c8ac436c.16",
+                "name": "Convento de Santo Ant\u00f3nio dos Capuchos",
+                "latitude": 39.743939,
+                "longitude": -8.813784
+            },
+            {
                 "pokestop_id": "5f459ededcb34ad49531ba905abc2880.16",
                 "name": "Pai Natal Lar\u00e1pio",
                 "latitude": 39.73156,
@@ -134,6 +140,12 @@
                 "name": "O pensativo.",
                 "latitude": 39.747078,
                 "longitude": -8.8151
+            },
+            {
+                "pokestop_id": "98838e9817ad30fd9c32a5ea8351e968.16",
+                "name": "Aut\u00eantico - Est\u00fadio de Pilates",
+                "latitude": 39.751783,
+                "longitude": -8.807687
             },
             {
                 "pokestop_id": "a175686711784037833ee274d88813d8.16",
@@ -158,6 +170,12 @@
                 "name": "Gazebo Projeto MAIOR",
                 "latitude": 39.74253,
                 "longitude": -8.794736
+            },
+            {
+                "pokestop_id": "ab0454d19de443359e1f15308081f90b.16",
+                "name": "Marco de Correio CTT",
+                "latitude": 39.746326,
+                "longitude": -8.804666
             },
             {
                 "pokestop_id": "b6ad46808bf64f2d9d44ae8950e6c7b4.16",
@@ -194,6 +212,12 @@
                 "name": "As Cisternas do Castelo",
                 "latitude": 39.747505,
                 "longitude": -8.809466
+            },
+            {
+                "pokestop_id": "db4297efc87f426fb048a83fbd6ddfc6.16",
+                "name": "Capela Sao Francisco",
+                "latitude": 39.748187,
+                "longitude": -8.803393
             },
             {
                 "pokestop_id": "dd9fe35b387b3476aa3225d4a117613e.16",
@@ -498,6 +522,48 @@
         ]
     },
     {
+        "quest_description": "Catch 10 Normal-type Pok\u00e9mon",
+        "quest_reward": "10 Pidgeot Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Pidgeot",
+        "quest_reward_pokemon_id": 18,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "2e8aba9fe8f833f2ba30f302691404e3.16",
+                "name": "Ponte pedonal do parque verde ao Centro",
+                "latitude": 39.739952,
+                "longitude": -8.820343
+            }
+        ]
+    },
+    {
+        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
+        "quest_reward": "10 Blaziken Mega Energy",
+        "quest_reward_type": "Energy",
+        "quest_reward_amount": 10,
+        "quest_reward_item_name": "Mega Energy",
+        "quest_reward_pokemon_name": "Blaziken",
+        "quest_reward_pokemon_id": 257,
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "3b623f8a6023430495a539324a5e025c.16",
+                "name": "S. Francisco",
+                "latitude": 39.74836,
+                "longitude": -8.803617
+            },
+            {
+                "pokestop_id": "b534cfa9e5183961a766bbbdf03c8c28.16",
+                "name": "BicLis - Esta\u00e7\u00e3o Nossa Senhora de F\u00e1tima",
+                "latitude": 39.738891,
+                "longitude": -8.802169
+            }
+        ]
+    },
+    {
         "quest_description": "Catch 10 Pok\u00e9mon",
         "quest_reward": "3 Razz Berry",
         "quest_reward_type": "Item",
@@ -746,24 +812,6 @@
                 "name": "Live gym Almuinha Grande",
                 "latitude": 39.75227,
                 "longitude": -8.813364
-            }
-        ]
-    },
-    {
-        "quest_description": "Catch 10 Fire-type Pok\u00e9mon",
-        "quest_reward": "10 Blaziken Mega Energy",
-        "quest_reward_type": "Energy",
-        "quest_reward_amount": 10,
-        "quest_reward_item_name": "Mega Energy",
-        "quest_reward_pokemon_name": "Blaziken",
-        "quest_reward_pokemon_id": 257,
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "b534cfa9e5183961a766bbbdf03c8c28.16",
-                "name": "BicLis - Esta\u00e7\u00e3o Nossa Senhora de F\u00e1tima",
-                "latitude": 39.738891,
-                "longitude": -8.802169
             }
         ]
     },
