@@ -20,6 +20,12 @@
                 "name": "Fonte Luminosa",
                 "latitude": 39.743649,
                 "longitude": -8.806831
+            },
+            {
+                "pokestop_id": "5263e61be36c3280bd75595af2be40d4.16",
+                "name": "ISLA - Escola Profissional de Leiria",
+                "latitude": 39.73238,
+                "longitude": -8.795362
             }
         ]
     },
@@ -487,6 +493,30 @@
     },
     {
         "quest_description": "Make 3 Great Throws",
+        "quest_reward": "200 Stardust",
+        "quest_reward_type": "Stardust",
+        "quest_reward_amount": 200,
+        "quest_reward_item_name": "Stardust",
+        "quest_reward_pokemon_name": "",
+        "quest_reward_pokemon_id": "000",
+        "quest_reward_item_id": 0,
+        "pokestops": [
+            {
+                "pokestop_id": "36c7520cc1f64b8f9391d06341ef3082.16",
+                "name": "Casa Mortu\u00e1ria",
+                "latitude": 39.744917,
+                "longitude": -8.798869
+            },
+            {
+                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
+                "name": "Centro Comercial Olhalvas Park",
+                "latitude": 39.741431,
+                "longitude": -8.79645
+            }
+        ]
+    },
+    {
+        "quest_description": "Make 3 Great Throws",
         "quest_reward": "Elgyem",
         "quest_reward_type": "Pokemon",
         "quest_reward_amount": 1,
@@ -692,24 +722,6 @@
                 "name": "Antigo Marco de Correios",
                 "latitude": 39.739681,
                 "longitude": -8.805175
-            }
-        ]
-    },
-    {
-        "quest_description": "Make 3 Great Throws",
-        "quest_reward": "200 Stardust",
-        "quest_reward_type": "Stardust",
-        "quest_reward_amount": 200,
-        "quest_reward_item_name": "Stardust",
-        "quest_reward_pokemon_name": "",
-        "quest_reward_pokemon_id": "000",
-        "quest_reward_item_id": 0,
-        "pokestops": [
-            {
-                "pokestop_id": "6edbcc878c3c30fcb3e18084be80272a.16",
-                "name": "Centro Comercial Olhalvas Park",
-                "latitude": 39.741431,
-                "longitude": -8.79645
             }
         ]
     },
